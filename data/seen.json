@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Fragrance Cloud Plots: A New Way to Experience Perfume",
+      "link": "https://www.fragrantica.com/news/Fragrance-Cloud-Plots-A-New-Way-to-Experience-Perfume-25633.html",
+      "description": "Presented by Nodus Perfume House, Fragrance Cloud Plots offer a new way of explaining how a perfume evolves over time.",
+      "category": "Fragrance News",
+      "author": "Giulietta Ptoyan",
+      "published": 1784405223
+    },
+    {
+      "title": "New From Swiss Brand BODÉ STUDIOS: Zabianca.",
+      "link": "https://www.fragrantica.com/news/New-From-Swiss-Brand-BODE-STUDIOS-Zabianca-25632.html",
+      "description": "The scent of early spring on the Amalfi Coast.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1784393463
+    },
+    {
       "title": "The Adventures of a Perfume Bottle. Part One: The Price of Luxury",
       "link": "https://www.fragrantica.com/news/The-Adventures-of-a-Perfume-Bottle-Part-One-The-Price-of-Luxury-25607.html",
       "description": "The most fascinating, complex, and expensive process was the manufacture of bottles with ground-glass stoppers — and that is what we will discuss today.",
@@ -266,6 +282,86 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "Maison Nomad Noé — Habibi Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Maison-Nomad-Noe/Habibi-Vanilla-137926.html",
+      "description": "New perfume listing: Habibi Vanilla by Maison Nomad Noé.",
+      "category": "New Perfumes",
+      "author": "Maison Nomad Noé",
+      "published": 1784408921
+    },
+    {
+      "title": "Bath & Body Works — Caramel Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Caramel-Vanilla-137925.html",
+      "description": "New perfume listing: Caramel Vanilla by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1784408921
+    },
+    {
+      "title": "Bath & Body Works — Almond Croissant",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Almond-Croissant-137924.html",
+      "description": "New perfume listing: Almond Croissant by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1784408921
+    },
+    {
+      "title": "Bath & Body Works — Pink Matcha Latte",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Pink-Matcha-Latte-137923.html",
+      "description": "New perfume listing: Pink Matcha Latte by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1784408921
+    },
+    {
+      "title": "Wadi Al Khaleej — Khumar Revision",
+      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Revision-137922.html",
+      "description": "New perfume listing: Khumar Revision by Wadi Al Khaleej.",
+      "category": "New Perfumes",
+      "author": "Wadi Al Khaleej",
+      "published": 1784408921
+    },
+    {
+      "title": "Carpenter — Habaq",
+      "link": "https://www.fragrantica.com/perfume/Carpenter/Habaq-137921.html",
+      "description": "New perfume listing: Habaq by Carpenter.",
+      "category": "New Perfumes",
+      "author": "Carpenter",
+      "published": 1784408921
+    },
+    {
+      "title": "Bode Studios — Zabianca",
+      "link": "https://www.fragrantica.com/perfume/Bode-Studios/Zabianca-137919.html",
+      "description": "New perfume listing: Zabianca by Bode Studios.",
+      "category": "New Perfumes",
+      "author": "Bode Studios",
+      "published": 1784408921
+    },
+    {
+      "title": "Rabdan — Unbound Sin",
+      "link": "https://www.fragrantica.com/perfume/Rabdan/Unbound-Sin-137918.html",
+      "description": "New perfume listing: Unbound Sin by Rabdan.",
+      "category": "New Perfumes",
+      "author": "Rabdan",
+      "published": 1784408921
+    },
+    {
+      "title": "Rabdan — Open Mind",
+      "link": "https://www.fragrantica.com/perfume/Rabdan/Open-Mind-137917.html",
+      "description": "New perfume listing: Open Mind by Rabdan.",
+      "category": "New Perfumes",
+      "author": "Rabdan",
+      "published": 1784408921
+    },
+    {
+      "title": "Surrati Perfumes — Royal Musk Sweet Powdery",
+      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Sweet-Powdery-137920.html",
+      "description": "New perfume listing: Royal Musk Sweet Powdery by Surrati Perfumes.",
+      "category": "New Perfumes",
+      "author": "Surrati Perfumes",
+      "published": 1784408921
+    },
     {
       "title": "Rabdan — X-Zenor",
       "link": "https://www.fragrantica.com/perfume/Rabdan/X-Zenor-137916.html",
