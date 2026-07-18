@@ -15,8 +15,8 @@ GitHub Actions runs `generate_feeds.py` every six hours and commits any changes.
 
 After the initial workflow has run, subscribe using:
 
-- `https://raw.githubusercontent.com/mrs-baotus/fragrantica-rss/main/docs/news.xml`
-- `https://raw.githubusercontent.com/mrs-baotus/fragrantica-rss/main/docs/new-perfumes.xml`
+- `https://mrs-baotus.github.io/fragrantica-rss/news.xml`
+- `https://mrs-baotus.github.io/fragrantica-rss/new-perfumes.xml`
 
 ## Maintenance
 
