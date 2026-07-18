@@ -95,10 +95,16 @@ def load_state() -> dict[str, list[dict]]:
 
 def merge(current: list[dict], old: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {item["link"]: item for item in old}
-    for item in current:
-        merged[item["link"]] = item
     now = int(datetime.now(UTC).timestamp())
-    return sorted(merged.values(), key=lambda x: x["published"] or now, reverse=True)[:MAX_ITEMS]
+    for item in current:
+        previous = merged.get(item["link"])
+        # New-perfume cards do not expose a publication timestamp. Record the
+        # first time we saw one, then retain that value on later checks so XML
+        # remains unchanged when there is no genuinely new item.
+        if item["published"] is None:
+            item["published"] = previous.get("published") if previous and previous.get("published") else now
+        merged[item["link"]] = item
+    return sorted(merged.values(), key=lambda x: x["published"] or 0, reverse=True)[:MAX_ITEMS]
 
 
 def pub_date(item: dict) -> str:
@@ -113,7 +119,8 @@ def write_rss(filename: str, title: str, description: str, items: list[dict]) ->
     ET.SubElement(channel, "link").text = SOURCE_URL
     ET.SubElement(channel, "description").text = description
     ET.SubElement(channel, "language").text = "en"
-    ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(UTC), usegmt=True)
+    build_timestamp = max((item.get("published") or 0 for item in items), default=int(datetime.now(UTC).timestamp()))
+    ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.fromtimestamp(build_timestamp, UTC), usegmt=True)
     for entry in items:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = entry["title"]
