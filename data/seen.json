@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Review of Christopher Nolan's \"The Odyssey\" (Spoiler alert!)",
+      "link": "https://www.fragrantica.com/news/Review-of-Christopher-Nolan-s-The-Odyssey-Spoiler-alert-25637.html",
+      "description": "Spoiler alert: if you haven't seen the film yet, you probably shouldn't read this.",
+      "category": "Columns",
+      "author": "Elena Knezevic",
+      "published": 1784447164
+    },
+    {
+      "title": "Maison Nomad Noé Launched Habibi Vanilla",
+      "link": "https://www.fragrantica.com/news/Maison-Nomad-Noe-Launched-Habibi-Vanilla-25636.html",
+      "description": "\"The emotional intimacy of being so close that connection feels wordless.\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1784435223
+    },
+    {
+      "title": "The Face of Chanel Coco Mademoiselle Crush Absolu",
+      "link": "https://www.fragrantica.com/news/The-Face-of-Chanel-Coco-Mademoiselle-Crush-Absolu-25635.html",
+      "description": "Gracie Abrams, new face of Coco Mademoiselle",
+      "category": "Video",
+      "author": "New Fragrances",
+      "published": 1784424363
+    },
+    {
+      "title": "The Journey of the Turkish Rose in Perfumery",
+      "link": "https://www.fragrantica.com/news/The-Journey-of-the-Turkish-Rose-in-Perfumery-25634.html",
+      "description": "The concept of the Turkish Rose in perfumery, the history of the Isparta Rose, its harvest process, and its place in perfumes.",
+      "category": "Raw Materials",
+      "author": "Sena Toprak",
+      "published": 1784411217
+    },
+    {
       "title": "Fragrance Cloud Plots: A New Way to Experience Perfume",
       "link": "https://www.fragrantica.com/news/Fragrance-Cloud-Plots-A-New-Way-to-Experience-Perfume-25633.html",
       "description": "Presented by Nodus Perfume House, Fragrance Cloud Plots offer a new way of explaining how a perfume evolves over time.",
@@ -282,6 +314,70 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "Avon — Far Away Rio",
+      "link": "https://www.fragrantica.com/perfume/Avon/Far-Away-Rio-137932.html",
+      "description": "New perfume listing: Far Away Rio by Avon.",
+      "category": "New Perfumes",
+      "author": "Avon",
+      "published": 1784447820
+    },
+    {
+      "title": "Avon — Amore Flirt",
+      "link": "https://www.fragrantica.com/perfume/Avon/Amore-Flirt-137931.html",
+      "description": "New perfume listing: Amore Flirt by Avon.",
+      "category": "New Perfumes",
+      "author": "Avon",
+      "published": 1784447820
+    },
+    {
+      "title": "Avon — Chameleon Relax Mode",
+      "link": "https://www.fragrantica.com/perfume/Avon/Chameleon-Relax-Mode-137930.html",
+      "description": "New perfume listing: Chameleon Relax Mode by Avon.",
+      "category": "New Perfumes",
+      "author": "Avon",
+      "published": 1784447820
+    },
+    {
+      "title": "The Scentype — PEAR NEGRONI",
+      "link": "https://www.fragrantica.com/perfume/The-Scentype/PEAR-NEGRONI-137929.html",
+      "description": "New perfume listing: PEAR NEGRONI by The Scentype.",
+      "category": "New Perfumes",
+      "author": "The Scentype",
+      "published": 1784447820
+    },
+    {
+      "title": "Panthenol EXTRA — Figment Aura",
+      "link": "https://www.fragrantica.com/perfume/Panthenol-EXTRA/Figment-Aura-137928.html",
+      "description": "New perfume listing: Figment Aura by Panthenol EXTRA.",
+      "category": "New Perfumes",
+      "author": "Panthenol EXTRA",
+      "published": 1784447820
+    },
+    {
+      "title": "The Scentype — ICE WINE RÉSERVE",
+      "link": "https://www.fragrantica.com/perfume/The-Scentype/ICE-WINE-RESERVE-137927.html",
+      "description": "New perfume listing: ICE WINE RÉSERVE by The Scentype.",
+      "category": "New Perfumes",
+      "author": "The Scentype",
+      "published": 1784447820
+    },
+    {
+      "title": "Surrati Perfumes — Royal Musk Caramel Toffee",
+      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Caramel-Toffee-137934.html",
+      "description": "New perfume listing: Royal Musk Caramel Toffee by Surrati Perfumes.",
+      "category": "New Perfumes",
+      "author": "Surrati Perfumes",
+      "published": 1784447820
+    },
+    {
+      "title": "Surrati Perfumes — Royal Musk Pomegranate Raspberry",
+      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Pomegranate-Raspberry-137933.html",
+      "description": "New perfume listing: Royal Musk Pomegranate Raspberry by Surrati Perfumes.",
+      "category": "New Perfumes",
+      "author": "Surrati Perfumes",
+      "published": 1784447820
+    },
     {
       "title": "Maison Nomad Noé — Habibi Vanilla",
       "link": "https://www.fragrantica.com/perfume/Maison-Nomad-Noe/Habibi-Vanilla-137926.html",
@@ -1016,14 +1112,6 @@
       "description": "New perfume listing: My Dream Passion by Louis Varel.",
       "category": "New Perfumes",
       "author": "Louis Varel",
-      "published": 1784369797
-    },
-    {
-      "title": "Marhaba Arabic Essence — Insane",
-      "link": "https://www.fragrantica.com/perfume/Marhaba-Arabic-Essence/Insane-137852.html",
-      "description": "New perfume listing: Insane by Marhaba Arabic Essence.",
-      "category": "New Perfumes",
-      "author": "Marhaba Arabic Essence",
       "published": 1784369797
     }
   ]
