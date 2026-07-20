@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Versace Man Eau Fraîche Extreme",
+      "link": "https://www.fragrantica.com/news/Versace-Man-Eau-Fraiche-Extreme-25649.html",
+      "description": "Dark, boring, vanillic seas",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1784566023
+    },
+    {
+      "title": "Aplomb: A New Perfume Brand From Finland",
+      "link": "https://www.fragrantica.com/news/Aplomb-A-New-Perfume-Brand-From-Finland-25648.html",
+      "description": "The brand launches with three scents",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1784554023
+    },
+    {
       "title": "Matière Première Metal Lavender: The Romance of Provence and Heavy Metal",
       "link": "https://www.fragrantica.com/news/Matiere-Premiere-Metal-Lavender-The-Romance-of-Provence-and-Heavy-Metal-25647.html",
       "description": "A modern lavender. Effortless. Oversized. Comfortable. Easy to wear. A luminous and enveloping trail. Lavender in a new incarnation.",
@@ -394,6 +410,70 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "O Boticário — Malbec Eau de Parfum",
+      "link": "https://www.fragrantica.com/perfume/O-Boticario/Malbec-Eau-de-Parfum-138022.html",
+      "description": "New perfume listing: Malbec Eau de Parfum by O Boticário.",
+      "category": "New Perfumes",
+      "author": "O Boticário",
+      "published": 1784567477
+    },
+    {
+      "title": "Veritas Fragrance Co — Dulce",
+      "link": "https://www.fragrantica.com/perfume/Veritas-Fragrance-Co/Dulce-138020.html",
+      "description": "New perfume listing: Dulce by Veritas Fragrance Co.",
+      "category": "New Perfumes",
+      "author": "Veritas Fragrance Co",
+      "published": 1784567477
+    },
+    {
+      "title": "Louzan — Luz Awan",
+      "link": "https://www.fragrantica.com/perfume/Louzan/Luz-Awan-138019.html",
+      "description": "New perfume listing: Luz Awan by Louzan.",
+      "category": "New Perfumes",
+      "author": "Louzan",
+      "published": 1784567477
+    },
+    {
+      "title": "Rasasi — Hayaz Azure",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hayaz-Azure-138018.html",
+      "description": "New perfume listing: Hayaz Azure by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1784567477
+    },
+    {
+      "title": "Rasasi — Hayaz Pearl",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hayaz-Pearl-138017.html",
+      "description": "New perfume listing: Hayaz Pearl by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1784567477
+    },
+    {
+      "title": "Rasasi — Hayaz Oud",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hayaz-Oud-138016.html",
+      "description": "New perfume listing: Hayaz Oud by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1784567477
+    },
+    {
+      "title": "Jo Milano Paris — Game of Spades Black Sapphire",
+      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Black-Sapphire-138021.html",
+      "description": "New perfume listing: Game of Spades Black Sapphire by Jo Milano Paris.",
+      "category": "New Perfumes",
+      "author": "Jo Milano Paris",
+      "published": 1784567477
+    },
+    {
+      "title": "Surrati Perfumes — Royal Musk Sweet Powdery",
+      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Sweet-Powdery-137920.html",
+      "description": "New perfume listing: Royal Musk Sweet Powdery by Surrati Perfumes.",
+      "category": "New Perfumes",
+      "author": "Surrati Perfumes",
+      "published": 1784567477
+    },
     {
       "title": "Rasasi — Hayaz Pistachio",
       "link": "https://www.fragrantica.com/perfume/Rasasi/Hayaz-Pistachio-138015.html",
@@ -1129,70 +1209,6 @@
       "category": "New Perfumes",
       "author": "Panthenol EXTRA",
       "published": 1784447820
-    },
-    {
-      "title": "The Scentype — ICE WINE RÉSERVE",
-      "link": "https://www.fragrantica.com/perfume/The-Scentype/ICE-WINE-RESERVE-137927.html",
-      "description": "New perfume listing: ICE WINE RÉSERVE by The Scentype.",
-      "category": "New Perfumes",
-      "author": "The Scentype",
-      "published": 1784447820
-    },
-    {
-      "title": "Surrati Perfumes — Royal Musk Caramel Toffee",
-      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Caramel-Toffee-137934.html",
-      "description": "New perfume listing: Royal Musk Caramel Toffee by Surrati Perfumes.",
-      "category": "New Perfumes",
-      "author": "Surrati Perfumes",
-      "published": 1784447820
-    },
-    {
-      "title": "Surrati Perfumes — Royal Musk Pomegranate Raspberry",
-      "link": "https://www.fragrantica.com/perfume/Surrati-Perfumes/Royal-Musk-Pomegranate-Raspberry-137933.html",
-      "description": "New perfume listing: Royal Musk Pomegranate Raspberry by Surrati Perfumes.",
-      "category": "New Perfumes",
-      "author": "Surrati Perfumes",
-      "published": 1784447820
-    },
-    {
-      "title": "Maison Nomad Noé — Habibi Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Maison-Nomad-Noe/Habibi-Vanilla-137926.html",
-      "description": "New perfume listing: Habibi Vanilla by Maison Nomad Noé.",
-      "category": "New Perfumes",
-      "author": "Maison Nomad Noé",
-      "published": 1784408921
-    },
-    {
-      "title": "Bath & Body Works — Caramel Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Caramel-Vanilla-137925.html",
-      "description": "New perfume listing: Caramel Vanilla by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1784408921
-    },
-    {
-      "title": "Bath & Body Works — Almond Croissant",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Almond-Croissant-137924.html",
-      "description": "New perfume listing: Almond Croissant by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1784408921
-    },
-    {
-      "title": "Bath & Body Works — Pink Matcha Latte",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Pink-Matcha-Latte-137923.html",
-      "description": "New perfume listing: Pink Matcha Latte by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1784408921
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Revision",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Revision-137922.html",
-      "description": "New perfume listing: Khumar Revision by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784408921
     }
   ]
 }
