@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Cap Camarat by Memo: In the Morning Light",
+      "link": "https://www.fragrantica.com/news/Cap-Camarat-by-Memo-In-the-Morning-Light-25667.html",
+      "description": "Soft, buttery, diffused",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1784752204
+    },
+    {
+      "title": "Sun by Jil Sander: Can We Ever Have Too Many Suns?",
+      "link": "https://www.fragrantica.com/news/Sun-by-Jil-Sander-Can-We-Ever-Have-Too-Many-Suns-25666.html",
+      "description": "Is there such a thing as too much sunshine?",
+      "category": "Fragrance Reviews",
+      "author": "Sandra Raičević Petrović",
+      "published": 1784741403
+    },
+    {
       "title": "Yeti from Maksim Perfume: Animalic Black Pepper Magic Potion",
       "link": "https://www.fragrantica.com/news/Yeti-from-Maksim-Perfume-Animalic-Black-Pepper-Magic-Potion-25665.html",
       "description": "Forest, fern, flint, and kernel",
@@ -538,6 +554,54 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "Maison IV Saisons — Le Jardin de Lilas",
+      "link": "https://www.fragrantica.com/perfume/Maison-IV-Saisons/Le-Jardin-de-Lilas-138230.html",
+      "description": "New perfume listing: Le Jardin de Lilas by Maison IV Saisons.",
+      "category": "New Perfumes",
+      "author": "Maison IV Saisons",
+      "published": 1784757310
+    },
+    {
+      "title": "Statik Olfactive — La Serenissima",
+      "link": "https://www.fragrantica.com/perfume/Statik-Olfactive/La-Serenissima-138229.html",
+      "description": "New perfume listing: La Serenissima by Statik Olfactive.",
+      "category": "New Perfumes",
+      "author": "Statik Olfactive",
+      "published": 1784757310
+    },
+    {
+      "title": "Memoirs Of A Perfume Collector — Chapter | Pina Colada",
+      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Chapter-Pina-Colada-138228.html",
+      "description": "New perfume listing: Chapter | Pina Colada by Memoirs Of A Perfume Collector.",
+      "category": "New Perfumes",
+      "author": "Memoirs Of A Perfume Collector",
+      "published": 1784757310
+    },
+    {
+      "title": "Memoirs Of A Perfume Collector — Chapter | Miel",
+      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Chapter-Miel-138227.html",
+      "description": "New perfume listing: Chapter | Miel by Memoirs Of A Perfume Collector.",
+      "category": "New Perfumes",
+      "author": "Memoirs Of A Perfume Collector",
+      "published": 1784757310
+    },
+    {
+      "title": "Memoirs Of A Perfume Collector — Cherry Lane",
+      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Cherry-Lane-138226.html",
+      "description": "New perfume listing: Cherry Lane by Memoirs Of A Perfume Collector.",
+      "category": "New Perfumes",
+      "author": "Memoirs Of A Perfume Collector",
+      "published": 1784757310
+    },
+    {
+      "title": "Memoirs Of A Perfume Collector — Midnight Rio",
+      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Midnight-Rio-138225.html",
+      "description": "New perfume listing: Midnight Rio by Memoirs Of A Perfume Collector.",
+      "category": "New Perfumes",
+      "author": "Memoirs Of A Perfume Collector",
+      "published": 1784757310
+    },
     {
       "title": "New Yorker — Mystic Flame",
       "link": "https://www.fragrantica.com/perfume/New-Yorker/Mystic-Flame-138210.html",
@@ -1286,54 +1350,6 @@
       "title": "Al Fares — Arabesque Amethyst",
       "link": "https://www.fragrantica.com/perfume/Al-Fares/Arabesque-Amethyst-138104.html",
       "description": "New perfume listing: Arabesque Amethyst by Al Fares.",
-      "category": "New Perfumes",
-      "author": "Al Fares",
-      "published": 1784670412
-    },
-    {
-      "title": "Scalpers — The Speed Club",
-      "link": "https://www.fragrantica.com/perfume/Scalpers/The-Speed-Club-138103.html",
-      "description": "New perfume listing: The Speed Club by Scalpers.",
-      "category": "New Perfumes",
-      "author": "Scalpers",
-      "published": 1784670412
-    },
-    {
-      "title": "Al Fares — Heritage Al Emarat",
-      "link": "https://www.fragrantica.com/perfume/Al-Fares/Heritage-Al-Emarat-138102.html",
-      "description": "New perfume listing: Heritage Al Emarat by Al Fares.",
-      "category": "New Perfumes",
-      "author": "Al Fares",
-      "published": 1784670412
-    },
-    {
-      "title": "Al Fares — Areej Al Musk",
-      "link": "https://www.fragrantica.com/perfume/Al-Fares/Areej-Al-Musk-138101.html",
-      "description": "New perfume listing: Areej Al Musk by Al Fares.",
-      "category": "New Perfumes",
-      "author": "Al Fares",
-      "published": 1784670412
-    },
-    {
-      "title": "HeavenDuft — Ṣalṣāl — صَلْصَال",
-      "link": "https://www.fragrantica.com/perfume/HeavenDuft/al-al-al-al-138097.html",
-      "description": "New perfume listing: Ṣalṣāl — صَلْصَال by HeavenDuft.",
-      "category": "New Perfumes",
-      "author": "HeavenDuft",
-      "published": 1784670412
-    },
-    {
-      "title": "Bershka — Venice L.A.",
-      "link": "https://www.fragrantica.com/perfume/Bershka/Venice-L-A-138094.html",
-      "description": "New perfume listing: Venice L.A. by Bershka.",
-      "category": "New Perfumes",
-      "author": "Bershka",
-      "published": 1784670412
-    },
-    {
-      "title": "Al Fares — Oud Al Shahamah",
-      "link": "https://www.fragrantica.com/perfume/Al-Fares/Oud-Al-Shahamah-138141.html",
-      "description": "New perfume listing: Oud Al Shahamah by Al Fares.",
       "category": "New Perfumes",
       "author": "Al Fares",
       "published": 1784670412
