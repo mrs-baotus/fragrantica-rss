@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "How These Perfumes Got Their Names",
+      "link": "https://www.fragrantica.com/news/How-These-Perfumes-Got-Their-Names-25673.html",
+      "description": "What's in a perfume name? Lots of effort, actually.",
+      "category": "Columns",
+      "author": "Adam Forziati",
+      "published": 1784819043
+    },
+    {
+      "title": "The Whales of Planet Earth",
+      "link": "https://www.fragrantica.com/news/The-Whales-of-Planet-Earth-25672.html",
+      "description": "July 23 marks World Whale and Dolphin Day.",
+      "category": "Columns",
+      "author": "Galina Anni",
+      "published": 1784809143
+    },
+    {
       "title": "Yes, Nos Temos Banana!: Granado's Banana Reveals Itself as Complex and Refined",
       "link": "https://www.fragrantica.com/news/Yes-Nos-Temos-Banana-Granado-s-Banana-Reveals-Itself-as-Complex-and-Refined-25671.html",
       "description": "A look back at Granado's latest launch, presented in Paris at the end of June: Yes, Nos Temos Banana!",
@@ -586,6 +602,190 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "Max Philip — Iolite",
+      "link": "https://www.fragrantica.com/perfume/Max-Philip/Iolite-138320.html",
+      "description": "New perfume listing: Iolite by Max Philip.",
+      "category": "New Perfumes",
+      "author": "Max Philip",
+      "published": 1784826334
+    },
+    {
+      "title": "The House of Oud — Ciao",
+      "link": "https://www.fragrantica.com/perfume/The-House-of-Oud/Ciao-138319.html",
+      "description": "New perfume listing: Ciao by The House of Oud.",
+      "category": "New Perfumes",
+      "author": "The House of Oud",
+      "published": 1784826334
+    },
+    {
+      "title": "Miu Miu — Miutine Intense",
+      "link": "https://www.fragrantica.com/perfume/Miu-Miu/Miutine-Intense-138318.html",
+      "description": "New perfume listing: Miutine Intense by Miu Miu.",
+      "category": "New Perfumes",
+      "author": "Miu Miu",
+      "published": 1784826334
+    },
+    {
+      "title": "Kylie Cosmetics — Blush Wood",
+      "link": "https://www.fragrantica.com/perfume/Kylie-Cosmetics/Blush-Wood-138317.html",
+      "description": "New perfume listing: Blush Wood by Kylie Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Kylie Cosmetics",
+      "published": 1784826334
+    },
+    {
+      "title": "Kylie Cosmetics — Cashmere Muse",
+      "link": "https://www.fragrantica.com/perfume/Kylie-Cosmetics/Cashmere-Muse-138316.html",
+      "description": "New perfume listing: Cashmere Muse by Kylie Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Kylie Cosmetics",
+      "published": 1784826334
+    },
+    {
+      "title": "Kylie Cosmetics — Velvet Brew",
+      "link": "https://www.fragrantica.com/perfume/Kylie-Cosmetics/Velvet-Brew-138315.html",
+      "description": "New perfume listing: Velvet Brew by Kylie Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Kylie Cosmetics",
+      "published": 1784826334
+    },
+    {
+      "title": "Ice Spice — In Ha Mood",
+      "link": "https://www.fragrantica.com/perfume/Ice-Spice/In-Ha-Mood-138314.html",
+      "description": "New perfume listing: In Ha Mood by Ice Spice.",
+      "category": "New Perfumes",
+      "author": "Ice Spice",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Excalibur Steel",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Steel-138313.html",
+      "description": "New perfume listing: Excalibur Steel by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Excalibur Honor",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Honor-138312.html",
+      "description": "New perfume listing: Excalibur Honor by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Excalibur Glory",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Glory-138311.html",
+      "description": "New perfume listing: Excalibur Glory by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Excalibur Destiny",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Destiny-138310.html",
+      "description": "New perfume listing: Excalibur Destiny by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Excalibur Courage",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Courage-138309.html",
+      "description": "New perfume listing: Excalibur Courage by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Bomber Heavy",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bomber-Heavy-138308.html",
+      "description": "New perfume listing: Bomber Heavy by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Bering Sport",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Sport-138307.html",
+      "description": "New perfume listing: Bering Sport by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Bering Ocean",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Ocean-138306.html",
+      "description": "New perfume listing: Bering Ocean by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Bering Everest",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Everest-138305.html",
+      "description": "New perfume listing: Bering Everest by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Bering Arctic",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Arctic-138304.html",
+      "description": "New perfume listing: Bering Arctic by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart Chrono Sport",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Sport-138303.html",
+      "description": "New perfume listing: Azart Chrono Sport by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart Chrono Platinum",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Platinum-138302.html",
+      "description": "New perfume listing: Azart Chrono Platinum by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart Chrono Gold",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Gold-138301.html",
+      "description": "New perfume listing: Azart Chrono Gold by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart Chrono Black",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Black-138300.html",
+      "description": "New perfume listing: Azart Chrono Black by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart Chrono",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-138299.html",
+      "description": "New perfume listing: Azart Chrono by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
+    {
+      "title": "Alain Aregon — Azart",
+      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-138298.html",
+      "description": "New perfume listing: Azart by Alain Aregon.",
+      "category": "New Perfumes",
+      "author": "Alain Aregon",
+      "published": 1784826334
+    },
     {
       "title": "Zara — Dark Desert Nightfall Intense",
       "link": "https://www.fragrantica.com/perfume/Zara/Dark-Desert-Nightfall-Intense-138297.html",
@@ -1201,190 +1401,6 @@
       "category": "New Perfumes",
       "author": "Abaq",
       "published": 1784739717
-    },
-    {
-      "title": "Sand + Fog — Amber & Pear",
-      "link": "https://www.fragrantica.com/perfume/Sand-Fog/Amber-Pear-138221.html",
-      "description": "New perfume listing: Amber & Pear by Sand + Fog.",
-      "category": "New Perfumes",
-      "author": "Sand + Fog",
-      "published": 1784739717
-    },
-    {
-      "title": "LAB 8 — Al Zahabi",
-      "link": "https://www.fragrantica.com/perfume/LAB-8/Al-Zahabi-138220.html",
-      "description": "New perfume listing: Al Zahabi by LAB 8.",
-      "category": "New Perfumes",
-      "author": "LAB 8",
-      "published": 1784739717
-    },
-    {
-      "title": "Bath & Body Works — Very Violet",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Very-Violet-138219.html",
-      "description": "New perfume listing: Very Violet by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1784739717
-    },
-    {
-      "title": "Ahmed Al Maghribi — Citrine",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Citrine-138218.html",
-      "description": "New perfume listing: Citrine by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1784739717
-    },
-    {
-      "title": "Naseem — Carmine",
-      "link": "https://www.fragrantica.com/perfume/Naseem/Carmine-138217.html",
-      "description": "New perfume listing: Carmine by Naseem.",
-      "category": "New Perfumes",
-      "author": "Naseem",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Zahra",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Zahra-138216.html",
-      "description": "New perfume listing: Khumar Zahra by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Zanzibar",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Zanzibar-138215.html",
-      "description": "New perfume listing: Khumar Zanzibar by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Born and Roma",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Born-and-Roma-138214.html",
-      "description": "New perfume listing: Khumar Born and Roma by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "New Yorker — Golden Illusion",
-      "link": "https://www.fragrantica.com/perfume/New-Yorker/Golden-Illusion-138213.html",
-      "description": "New perfume listing: Golden Illusion by New Yorker.",
-      "category": "New Perfumes",
-      "author": "New Yorker",
-      "published": 1784739717
-    },
-    {
-      "title": "New Yorker — Dream Voyage",
-      "link": "https://www.fragrantica.com/perfume/New-Yorker/Dream-Voyage-138212.html",
-      "description": "New perfume listing: Dream Voyage by New Yorker.",
-      "category": "New Perfumes",
-      "author": "New Yorker",
-      "published": 1784739717
-    },
-    {
-      "title": "New Yorker — Blue Eclipse",
-      "link": "https://www.fragrantica.com/perfume/New-Yorker/Blue-Eclipse-138211.html",
-      "description": "New perfume listing: Blue Eclipse by New Yorker.",
-      "category": "New Perfumes",
-      "author": "New Yorker",
-      "published": 1784739717
-    },
-    {
-      "title": "New Yorker — Boho Breeze",
-      "link": "https://www.fragrantica.com/perfume/New-Yorker/Boho-Breeze-138208.html",
-      "description": "New perfume listing: Boho Breeze by New Yorker.",
-      "category": "New Perfumes",
-      "author": "New Yorker",
-      "published": 1784739717
-    },
-    {
-      "title": "Abbott New York City — Papaya Isla",
-      "link": "https://www.fragrantica.com/perfume/Abbott-New-York-City/Papaya-Isla-138207.html",
-      "description": "New perfume listing: Papaya Isla by Abbott New York City.",
-      "category": "New Perfumes",
-      "author": "Abbott New York City",
-      "published": 1784739717
-    },
-    {
-      "title": "Kuoca — Rose Cake",
-      "link": "https://www.fragrantica.com/perfume/Kuoca/Rose-Cake-138206.html",
-      "description": "New perfume listing: Rose Cake by Kuoca.",
-      "category": "New Perfumes",
-      "author": "Kuoca",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Pistache",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Pistache-138204.html",
-      "description": "New perfume listing: Khumar Pistache by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Parfum",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Parfum-138203.html",
-      "description": "New perfume listing: Khumar Parfum by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Hermes",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Hermes-138202.html",
-      "description": "New perfume listing: Khumar Hermes by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Wadi Al Khaleej — Khumar Gio Elixir",
-      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Gio-Elixir-138201.html",
-      "description": "New perfume listing: Khumar Gio Elixir by Wadi Al Khaleej.",
-      "category": "New Perfumes",
-      "author": "Wadi Al Khaleej",
-      "published": 1784739717
-    },
-    {
-      "title": "Tru Fragrances — Bergamot Infusion",
-      "link": "https://www.fragrantica.com/perfume/Tru-Fragrances/Bergamot-Infusion-138199.html",
-      "description": "New perfume listing: Bergamot Infusion by Tru Fragrances.",
-      "category": "New Perfumes",
-      "author": "Tru Fragrances",
-      "published": 1784739717
-    },
-    {
-      "title": "Tru Fragrances — Original",
-      "link": "https://www.fragrantica.com/perfume/Tru-Fragrances/Original-138198.html",
-      "description": "New perfume listing: Original by Tru Fragrances.",
-      "category": "New Perfumes",
-      "author": "Tru Fragrances",
-      "published": 1784739717
-    },
-    {
-      "title": "Terra Mater — Memoria en Flor Gardenia",
-      "link": "https://www.fragrantica.com/perfume/Terra-Mater/Memoria-en-Flor-Gardenia-138191.html",
-      "description": "New perfume listing: Memoria en Flor Gardenia by Terra Mater.",
-      "category": "New Perfumes",
-      "author": "Terra Mater",
-      "published": 1784713063
-    },
-    {
-      "title": "Terra Mater — Iris Rouge",
-      "link": "https://www.fragrantica.com/perfume/Terra-Mater/Iris-Rouge-138190.html",
-      "description": "New perfume listing: Iris Rouge by Terra Mater.",
-      "category": "New Perfumes",
-      "author": "Terra Mater",
-      "published": 1784713063
-    },
-    {
-      "title": "By Kilian — Vodka on the Rocks (2026)",
-      "link": "https://www.fragrantica.com/perfume/By-Kilian/Vodka-on-the-Rocks-2026-138189.html",
-      "description": "New perfume listing: Vodka on the Rocks (2026) by By Kilian.",
-      "category": "New Perfumes",
-      "author": "By Kilian",
-      "published": 1784713063
     }
   ]
 }
