@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Fragrances to Dive Into: Olfattology Pizzuta and Federico Cantelli Delicious Rice Milk",
+      "link": "https://www.fragrantica.com/news/Fragrances-to-Dive-Into-Olfattology-Pizzuta-and-Federico-Cantelli-Delicious-Rice-Milk-25682.html",
+      "description": "Milk in new ways...",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1784914143
+    },
+    {
+      "title": "Aire Sutileza Elixir by Loewe: Fruit Tea With Herbs & Honey",
+      "link": "https://www.fragrantica.com/news/Aire-Sutileza-Elixir-by-Loewe-Fruit-Tea-With-Herbs-Honey-25681.html",
+      "description": "Mineralic fruity floral",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1784902743
+    },
+    {
+      "title": "Été 1901: A New Fragrance by Godet Parfums",
+      "link": "https://www.fragrantica.com/news/Ete-1901-A-New-Fragrance-by-Godet-Parfums-25680.html",
+      "description": "A fragrance created to celebrate the 125th anniversary of the founding of the Godet perfume house.",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1784889303
+    },
+    {
       "title": "How the Perfume I Was Wearing Today Awakened Scent Memories Within a Family",
       "link": "https://www.fragrantica.com/news/How-the-Perfume-I-Was-Wearing-Today-Awakened-Scent-Memories-Within-a-Family-25679.html",
       "description": "This is one of perfume's great powers - trigger memories and start conversations.",
@@ -650,6 +674,110 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "Haute Fragrance Company HFC — Flamingo Spritz",
+      "link": "https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Flamingo-Spritz-138407.html",
+      "description": "New perfume listing: Flamingo Spritz by Haute Fragrance Company HFC.",
+      "category": "New Perfumes",
+      "author": "Haute Fragrance Company HFC",
+      "published": 1784915881
+    },
+    {
+      "title": "Haute Fragrance Company HFC — Brandy on Ice",
+      "link": "https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Brandy-on-Ice-138405.html",
+      "description": "New perfume listing: Brandy on Ice by Haute Fragrance Company HFC.",
+      "category": "New Perfumes",
+      "author": "Haute Fragrance Company HFC",
+      "published": 1784915881
+    },
+    {
+      "title": "Floral Street — Sunflower Pop Perfume Mist",
+      "link": "https://www.fragrantica.com/perfume/Floral-Street/Sunflower-Pop-Perfume-Mist-138402.html",
+      "description": "New perfume listing: Sunflower Pop Perfume Mist by Floral Street.",
+      "category": "New Perfumes",
+      "author": "Floral Street",
+      "published": 1784915881
+    },
+    {
+      "title": "Floral Street — Enchanted Masquerade Perfume Mist",
+      "link": "https://www.fragrantica.com/perfume/Floral-Street/Enchanted-Masquerade-Perfume-Mist-138401.html",
+      "description": "New perfume listing: Enchanted Masquerade Perfume Mist by Floral Street.",
+      "category": "New Perfumes",
+      "author": "Floral Street",
+      "published": 1784915881
+    },
+    {
+      "title": "Mystery De Parfum — Machu Picchu",
+      "link": "https://www.fragrantica.com/perfume/Mystery-De-Parfum/Machu-Picchu-138400.html",
+      "description": "New perfume listing: Machu Picchu by Mystery De Parfum.",
+      "category": "New Perfumes",
+      "author": "Mystery De Parfum",
+      "published": 1784915881
+    },
+    {
+      "title": "Lattafa Perfumes — Ajwad Pink to Pink Creamy Elixir",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ajwad-Pink-to-Pink-Creamy-Elixir-138399.html",
+      "description": "New perfume listing: Ajwad Pink to Pink Creamy Elixir by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1784915881
+    },
+    {
+      "title": "Lattafa Perfumes — Bade'e Al Oud Black Exposed",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Black-Exposed-138398.html",
+      "description": "New perfume listing: Bade'e Al Oud Black Exposed by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1784915881
+    },
+    {
+      "title": "Bespoke London — Oud & Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Bespoke-London/Oud-Vanilla-138397.html",
+      "description": "New perfume listing: Oud & Vanilla by Bespoke London.",
+      "category": "New Perfumes",
+      "author": "Bespoke London",
+      "published": 1784915881
+    },
+    {
+      "title": "Wadi Al Khaleej — Khumar Search",
+      "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Search-138395.html",
+      "description": "New perfume listing: Khumar Search by Wadi Al Khaleej.",
+      "category": "New Perfumes",
+      "author": "Wadi Al Khaleej",
+      "published": 1784915881
+    },
+    {
+      "title": "Haute Fragrance Company HFC — Watermelon Fizz",
+      "link": "https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Watermelon-Fizz-138406.html",
+      "description": "New perfume listing: Watermelon Fizz by Haute Fragrance Company HFC.",
+      "category": "New Perfumes",
+      "author": "Haute Fragrance Company HFC",
+      "published": 1784915881
+    },
+    {
+      "title": "Margie doesn’t make Perfumes — Mama Earth",
+      "link": "https://www.fragrantica.com/perfume/Margie-doesn-t-make-Perfumes/Mama-Earth-138404.html",
+      "description": "New perfume listing: Mama Earth by Margie doesn’t make Perfumes.",
+      "category": "New Perfumes",
+      "author": "Margie doesn’t make Perfumes",
+      "published": 1784915881
+    },
+    {
+      "title": "Margie doesn’t make Perfumes — To the Roots",
+      "link": "https://www.fragrantica.com/perfume/Margie-doesn-t-make-Perfumes/To-the-Roots-138403.html",
+      "description": "New perfume listing: To the Roots by Margie doesn’t make Perfumes.",
+      "category": "New Perfumes",
+      "author": "Margie doesn’t make Perfumes",
+      "published": 1784915881
+    },
+    {
+      "title": "Beauty Pie — Brazilian Lime, Fig Leaves and Tea",
+      "link": "https://www.fragrantica.com/perfume/Beauty-Pie/Brazilian-Lime-Fig-Leaves-and-Tea-138396.html",
+      "description": "New perfume listing: Brazilian Lime, Fig Leaves and Tea by Beauty Pie.",
+      "category": "New Perfumes",
+      "author": "Beauty Pie",
+      "published": 1784915881
+    },
     {
       "title": "Wadi Al Khaleej — Khumar Parcival",
       "link": "https://www.fragrantica.com/perfume/Wadi-Al-Khaleej/Khumar-Parcival-138394.html",
@@ -1345,110 +1473,6 @@
       "category": "New Perfumes",
       "author": "Alain Aregon",
       "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Bering Everest",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Everest-138305.html",
-      "description": "New perfume listing: Bering Everest by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Bering Arctic",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Bering-Arctic-138304.html",
-      "description": "New perfume listing: Bering Arctic by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart Chrono Sport",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Sport-138303.html",
-      "description": "New perfume listing: Azart Chrono Sport by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart Chrono Platinum",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Platinum-138302.html",
-      "description": "New perfume listing: Azart Chrono Platinum by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart Chrono Gold",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Gold-138301.html",
-      "description": "New perfume listing: Azart Chrono Gold by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart Chrono Black",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-Black-138300.html",
-      "description": "New perfume listing: Azart Chrono Black by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart Chrono",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-Chrono-138299.html",
-      "description": "New perfume listing: Azart Chrono by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Azart",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Azart-138298.html",
-      "description": "New perfume listing: Azart by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Zara — Dark Desert Nightfall Intense",
-      "link": "https://www.fragrantica.com/perfume/Zara/Dark-Desert-Nightfall-Intense-138297.html",
-      "description": "New perfume listing: Dark Desert Nightfall Intense by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1784799111
-    },
-    {
-      "title": "Zara — Moonrise on the Horizon Intense",
-      "link": "https://www.fragrantica.com/perfume/Zara/Moonrise-on-the-Horizon-Intense-138296.html",
-      "description": "New perfume listing: Moonrise on the Horizon Intense by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1784799111
-    },
-    {
-      "title": "Zara — Burnt Vanilla 01",
-      "link": "https://www.fragrantica.com/perfume/Zara/Burnt-Vanilla-01-138295.html",
-      "description": "New perfume listing: Burnt Vanilla 01 by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1784799111
-    },
-    {
-      "title": "Pheromenia — VI Réaction Immédiate",
-      "link": "https://www.fragrantica.com/perfume/Pheromenia/VI-Reaction-Immediate-138294.html",
-      "description": "New perfume listing: VI Réaction Immédiate by Pheromenia.",
-      "category": "New Perfumes",
-      "author": "Pheromenia",
-      "published": 1784799111
-    },
-    {
-      "title": "Pheromenia — V Rendre Fou",
-      "link": "https://www.fragrantica.com/perfume/Pheromenia/V-Rendre-Fou-138293.html",
-      "description": "New perfume listing: V Rendre Fou by Pheromenia.",
-      "category": "New Perfumes",
-      "author": "Pheromenia",
-      "published": 1784799111
     }
   ]
 }
