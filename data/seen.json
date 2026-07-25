@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "HFC Paris Celebrates Saint-Tropez With a Collection of 3 Exclusive Fragrances",
+      "link": "https://www.fragrantica.com/news/HFC-Paris-Celebrates-Saint-Tropez-With-a-Collection-of-3-Exclusive-Fragrances-25686.html",
+      "description": "HFC dedicates an exclusive collection, with a summery breath, to its Saint-Tropez boutique.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1784959205
+    },
+    {
+      "title": "Givaudan Invests in a Startup Specializing in Microencapsulation",
+      "link": "https://www.fragrantica.com/news/Givaudan-Invests-in-a-Startup-Specializing-in-Microencapsulation-25685.html",
+      "description": "\"The collaboration offers Givaudan access to a technology that experiments with a new method of fragrance release on the skin.\"",
+      "category": "Raw Materials",
+      "author": "Giulietta Ptoyan",
+      "published": 1784949424
+    },
+    {
+      "title": "Floral Street Added Two New Perfume Mists",
+      "link": "https://www.fragrantica.com/news/Floral-Street-Added-Two-New-Perfume-Mists-25684.html",
+      "description": "The limited edition Enchanted Masquerade and the just-launched Sunflower Pop edition: skin-loving and mood-boosting mists.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1784937724
+    },
+    {
       "title": "Pheromenia: Pheromones Are Back Again!",
       "link": "https://www.fragrantica.com/news/Pheromenia-Pheromones-Are-Back-Again-25683.html",
       "description": "New Italian brand, old tricks",
@@ -682,6 +706,38 @@
     }
   ],
   "perfumes": [
+    {
+      "title": "WIDIAN — London Black Edition",
+      "link": "https://www.fragrantica.com/perfume/WIDIAN/London-Black-Edition-138417.html",
+      "description": "New perfume listing: London Black Edition by WIDIAN.",
+      "category": "New Perfumes",
+      "author": "WIDIAN",
+      "published": 1784964954
+    },
+    {
+      "title": "Kinana — Koh Maliki",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Koh-Maliki-138416.html",
+      "description": "New perfume listing: Koh Maliki by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1784964954
+    },
+    {
+      "title": "Kinana — Prachin Buri",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Prachin-Buri-138415.html",
+      "description": "New perfume listing: Prachin Buri by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1784964954
+    },
+    {
+      "title": "Byredo — Future Memories",
+      "link": "https://www.fragrantica.com/perfume/Byredo/Future-Memories-138414.html",
+      "description": "New perfume listing: Future Memories by Byredo.",
+      "category": "New Perfumes",
+      "author": "Byredo",
+      "published": 1784964954
+    },
     {
       "title": "Maksim Perfume — Rock Salt",
       "link": "https://www.fragrantica.com/perfume/Maksim-Perfume/Rock-Salt-138413.html",
@@ -1448,38 +1504,6 @@
       "description": "New perfume listing: Cashmere Muse by Kylie Cosmetics.",
       "category": "New Perfumes",
       "author": "Kylie Cosmetics",
-      "published": 1784826334
-    },
-    {
-      "title": "Kylie Cosmetics — Velvet Brew",
-      "link": "https://www.fragrantica.com/perfume/Kylie-Cosmetics/Velvet-Brew-138315.html",
-      "description": "New perfume listing: Velvet Brew by Kylie Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Kylie Cosmetics",
-      "published": 1784826334
-    },
-    {
-      "title": "Ice Spice — In Ha Mood",
-      "link": "https://www.fragrantica.com/perfume/Ice-Spice/In-Ha-Mood-138314.html",
-      "description": "New perfume listing: In Ha Mood by Ice Spice.",
-      "category": "New Perfumes",
-      "author": "Ice Spice",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Excalibur Steel",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Steel-138313.html",
-      "description": "New perfume listing: Excalibur Steel by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
-      "published": 1784826334
-    },
-    {
-      "title": "Alain Aregon — Excalibur Honor",
-      "link": "https://www.fragrantica.com/perfume/Alain-Aregon/Excalibur-Honor-138312.html",
-      "description": "New perfume listing: Excalibur Honor by Alain Aregon.",
-      "category": "New Perfumes",
-      "author": "Alain Aregon",
       "published": 1784826334
     }
   ]
