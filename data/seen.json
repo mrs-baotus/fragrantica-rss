@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "L'Entropiste White Blood Review",
+      "link": "https://www.fragrantica.com/news/L-Entropiste-White-Blood-Review-25703.html",
+      "description": "An everyday summer fragrance...",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1785189202
+    },
+    {
+      "title": "A Signature Perfume Getaway in Italy",
+      "link": "https://www.fragrantica.com/news/A-Signature-Perfume-Getaway-in-Italy-25702.html",
+      "description": "\"An immersive perfume vacation for the modern perfume enthusiast\"",
+      "category": "Video",
+      "author": "Art Books Events",
+      "published": 1785180605
+    },
+    {
+      "title": "Atkinsons: Once Upon a Time, a Hundred Years Ago",
+      "link": "https://www.fragrantica.com/news/Atkinsons-Once-Upon-a-Time-a-Hundred-Years-Ago-25701.html",
+      "description": "Leafing through a forgotten catalogue from the art deco era.",
+      "category": "Vintages",
+      "author": "Galina Anni",
+      "published": 1785172102
+    },
+    {
+      "title": "On the Emptiness of Cashmere Clash by Aphorismes by Dominique Ropion",
+      "link": "https://www.fragrantica.com/news/On-the-Emptiness-of-Cashmere-Clash-by-Aphorismes-by-Dominique-Ropion-25700.html",
+      "description": "What matters most in a fragrance — what is there, or what is not?",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1785166744
+    },
+    {
       "title": "Dior Cuir Saddle: Sweet Pepper Jam Leather",
       "link": "https://www.fragrantica.com/news/Dior-Cuir-Saddle-Sweet-Pepper-Jam-Leather-25699.html",
       "description": "Fruity, smoked, saucy",
@@ -51,7 +83,7 @@
     {
       "title": "Perfumed Horoscope: July 27 - August 3",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-July-27-August-3-25693.html",
-      "description": "The preparation for this week should include accessing and opening your heart to maximum generosity (Leo brings together Sun and Jupiter).",
+      "description": "The preparation for this week should include accessing and opening your heart to maximum generosity (Leo brings...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1785071404
@@ -767,41 +799,89 @@
       "category": "Fragrance Reviews",
       "author": "Yi Shang (怡 商)",
       "published": 1784155682
-    },
-    {
-      "title": "Polaris Olfactive Week AW26 In Stockholm",
-      "link": "https://www.fragrantica.com/news/Polaris-Olfactive-Week-AW26-In-Stockholm-25612.html",
-      "description": "Running this November 27th to 29th",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1784151003
-    },
-    {
-      "title": "This is (Not) Teint De Neige by Lorenzo Villoresi",
-      "link": "https://www.fragrantica.com/news/This-is-Not-Teint-De-Neige-by-Lorenzo-Villoresi-25611.html",
-      "description": "A comparison of the legendary powdery fragrance and its numerous variations.",
-      "category": "Columns",
-      "author": "Daria Bogdanova",
-      "published": 1784140203
-    },
-    {
-      "title": "Pitti Fragranze 2026: Brands",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Brands-25610.html",
-      "description": "The initial list of exhibitors. Stay tuned for more!",
-      "category": "Art Books Events",
-      "author": "Giulietta Ptoyan",
-      "published": 1784133002
-    },
-    {
-      "title": "Bottega Veneta Reveals Its Alta collection",
-      "link": "https://www.fragrantica.com/news/Bottega-Veneta-Reveals-Its-Alta-collection-25609.html",
-      "description": "In June, Bottega Veneta unveiled Alta, a lovely collection of ten perfumes, including Ricordami, one of my next winter signature scents.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1784122511
     }
   ],
   "perfumes": [
+    {
+      "title": "Osmassino — Gossips",
+      "link": "https://www.fragrantica.com/perfume/Osmassino/Gossips-138561.html",
+      "description": "New perfume listing: Gossips by Osmassino.",
+      "category": "New Perfumes",
+      "author": "Osmassino",
+      "published": 1785189288
+    },
+    {
+      "title": "Aurora Borealis — Ночное Солнце — Night Sun",
+      "link": "https://www.fragrantica.com/perfume/Aurora-Borealis/Nocnoe-Solnce-Night-Sun-138560.html",
+      "description": "New perfume listing: Ночное Солнце — Night Sun by Aurora Borealis.",
+      "category": "New Perfumes",
+      "author": "Aurora Borealis",
+      "published": 1785189288
+    },
+    {
+      "title": "Pure Sense — Over the Moon",
+      "link": "https://www.fragrantica.com/perfume/Pure-Sense/Over-the-Moon-138559.html",
+      "description": "New perfume listing: Over the Moon by Pure Sense.",
+      "category": "New Perfumes",
+      "author": "Pure Sense",
+      "published": 1785189288
+    },
+    {
+      "title": "Pure Sense — Sophistication",
+      "link": "https://www.fragrantica.com/perfume/Pure-Sense/Sophistication-138558.html",
+      "description": "New perfume listing: Sophistication by Pure Sense.",
+      "category": "New Perfumes",
+      "author": "Pure Sense",
+      "published": 1785189288
+    },
+    {
+      "title": "Pure Sense — Curiosity",
+      "link": "https://www.fragrantica.com/perfume/Pure-Sense/Curiosity-138557.html",
+      "description": "New perfume listing: Curiosity by Pure Sense.",
+      "category": "New Perfumes",
+      "author": "Pure Sense",
+      "published": 1785189288
+    },
+    {
+      "title": "Zielinski & Rozen — Amberwood, Vanilla, Davana",
+      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Amberwood-Vanilla-Davana-138566.html",
+      "description": "New perfume listing: Amberwood, Vanilla, Davana by Zielinski & Rozen.",
+      "category": "New Perfumes",
+      "author": "Zielinski & Rozen",
+      "published": 1785189288
+    },
+    {
+      "title": "Zielinski & Rozen — Leather, Sandalwood, Amber",
+      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Leather-Sandalwood-Amber-138565.html",
+      "description": "New perfume listing: Leather, Sandalwood, Amber by Zielinski & Rozen.",
+      "category": "New Perfumes",
+      "author": "Zielinski & Rozen",
+      "published": 1785189288
+    },
+    {
+      "title": "Zielinski & Rozen — Lavender, Vanilla, Amber, Musk",
+      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Lavender-Vanilla-Amber-Musk-138564.html",
+      "description": "New perfume listing: Lavender, Vanilla, Amber, Musk by Zielinski & Rozen.",
+      "category": "New Perfumes",
+      "author": "Zielinski & Rozen",
+      "published": 1785189288
+    },
+    {
+      "title": "Zielinski & Rozen — Apple, Lotus",
+      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Apple-Lotus-138563.html",
+      "description": "New perfume listing: Apple, Lotus by Zielinski & Rozen.",
+      "category": "New Perfumes",
+      "author": "Zielinski & Rozen",
+      "published": 1785189288
+    },
+    {
+      "title": "Orlane — Bouquet d'Orlane Pivoine",
+      "link": "https://www.fragrantica.com/perfume/Orlane/Bouquet-d-Orlane-Pivoine-138562.html",
+      "description": "New perfume listing: Bouquet d'Orlane Pivoine by Orlane.",
+      "category": "New Perfumes",
+      "author": "Orlane",
+      "published": 1785189288
+    },
     {
       "title": "Elganaur — Fougire Mercurielle",
       "link": "https://www.fragrantica.com/perfume/Elganaur/Fougire-Mercurielle-138551.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Champagne Toast Eau de Parfum by Bath & Body Works.",
       "category": "New Perfumes",
       "author": "Bath & Body Works",
-      "published": 1785056530
-    },
-    {
-      "title": "Bath & Body Works — Butterfly Eau de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Butterfly-Eau-de-Parfum-138464.html",
-      "description": "New perfume listing: Butterfly Eau de Parfum by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1785056530
-    },
-    {
-      "title": "Bath & Body Works — In The Stars Eau de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/In-The-Stars-Eau-de-Parfum-138463.html",
-      "description": "New perfume listing: In The Stars Eau de Parfum by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Aura Pink Pepper",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Aura-Pink-Pepper-138462.html",
-      "description": "New perfume listing: Aura Pink Pepper by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
-      "published": 1785056530
-    },
-    {
-      "title": "Calvin Klein — Eternity For Women Suede Essence",
-      "link": "https://www.fragrantica.com/perfume/Calvin-Klein/Eternity-For-Women-Suede-Essence-138461.html",
-      "description": "New perfume listing: Eternity For Women Suede Essence by Calvin Klein.",
-      "category": "New Perfumes",
-      "author": "Calvin Klein",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Trigger Desires",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Trigger-Desires-138460.html",
-      "description": "New perfume listing: Trigger Desires by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Feel Me",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Feel-Me-138459.html",
-      "description": "New perfume listing: Feel Me by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
-      "published": 1785056530
-    },
-    {
-      "title": "Calvin Klein — Eternity for Men Suede Essence",
-      "link": "https://www.fragrantica.com/perfume/Calvin-Klein/Eternity-for-Men-Suede-Essence-138458.html",
-      "description": "New perfume listing: Eternity for Men Suede Essence by Calvin Klein.",
-      "category": "New Perfumes",
-      "author": "Calvin Klein",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Trigger Touch",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Trigger-Touch-138457.html",
-      "description": "New perfume listing: Trigger Touch by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Mister Great",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Mister-Great-138456.html",
-      "description": "New perfume listing: Mister Great by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
-      "published": 1785056530
-    },
-    {
-      "title": "Christine Lavoisier Parfums — Dream Tea",
-      "link": "https://www.fragrantica.com/perfume/Christine-Lavoisier-Parfums/Dream-Tea-138455.html",
-      "description": "New perfume listing: Dream Tea by Christine Lavoisier Parfums.",
-      "category": "New Perfumes",
-      "author": "Christine Lavoisier Parfums",
       "published": 1785056530
     }
   ]
