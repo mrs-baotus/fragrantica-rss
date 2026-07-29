@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Three New Perfumes for Scents of Man: Bluebell Ritual, Lillie Langtry, and Yuzu Doré",
+      "link": "https://www.fragrantica.com/news/Three-New-Perfumes-for-Scents-of-Man-Bluebell-Ritual-Lillie-Langtry-and-Yuzu-Dore-25721.html",
+      "description": "...plus all new skincare formulations!",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1785355974
+    },
+    {
+      "title": "August Michel – A Legend of Soviet Perfumery, Part 6. The Last Trace",
+      "link": "https://www.fragrantica.com/news/August-Michel-A-Legend-of-Soviet-Perfumery-Part-6-The-Last-Trace-25720.html",
+      "description": "What happened to the perfumer, the supposedly famous creator of Red Moscow?",
+      "category": "Video",
+      "author": "1001 Past Tales",
+      "published": 1785348242
+    },
+    {
       "title": "We Need to Talk About Météore by Louis Vuitton",
       "link": "https://www.fragrantica.com/news/We-Need-to-Talk-About-Meteore-by-Louis-Vuitton-25719.html",
       "description": "It seems that comparisons between Météore and CK One or Azzaro Chrome are far from universally welcomed. All the more reason to examine why they keep coming up again and again.",
@@ -783,25 +799,33 @@
       "category": "Niche Perfumery",
       "author": "Eddie Bulliqi",
       "published": 1784366763
-    },
-    {
-      "title": "Ellis Brooklyn's Summer Escape Isla Sirena",
-      "link": "https://www.fragrantica.com/news/Ellis-Brooklyn-s-Summer-Escape-Isla-Sirena-25630.html",
-      "description": "Fresh notes of coconut water and lime balanced with creamy notes of Blue Java banana, papaya, and vanilla...",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1784338263
-    },
-    {
-      "title": "Ateliê 55 Candles 24h Collection: A Review",
-      "link": "https://www.fragrantica.com/news/Atelie-55-Candles-24h-Collection-A-Review-25629.html",
-      "description": "With every burn, a different, pleasurable revelation.",
-      "category": "Home Fragrances",
-      "author": "Jernê Knowles",
-      "published": 1784320407
     }
   ],
   "perfumes": [
+    {
+      "title": "NANHA — Orange Vetiver",
+      "link": "https://www.fragrantica.com/perfume/NANHA/Orange-Vetiver-138674.html",
+      "description": "New perfume listing: Orange Vetiver by NANHA.",
+      "category": "New Perfumes",
+      "author": "NANHA",
+      "published": 1785360695
+    },
+    {
+      "title": "NANHA — Musky Maracujá",
+      "link": "https://www.fragrantica.com/perfume/NANHA/Musky-Maracuja-138673.html",
+      "description": "New perfume listing: Musky Maracujá by NANHA.",
+      "category": "New Perfumes",
+      "author": "NANHA",
+      "published": 1785360695
+    },
+    {
+      "title": "Zara — Pétale D'Ambre",
+      "link": "https://www.fragrantica.com/perfume/Zara/Petale-D-Ambre-138591.html",
+      "description": "New perfume listing: Pétale D'Ambre by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1785360695
+    },
     {
       "title": "Scents of Man — Lillie Langtry",
       "link": "https://www.fragrantica.com/perfume/Scents-of-Man/Lillie-Langtry-138672.html",
@@ -1574,30 +1598,6 @@
       "title": "The Perfume Connection — Cream Blush Extrait de Parfum",
       "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Cream-Blush-Extrait-de-Parfum-138616.html",
       "description": "New perfume listing: Cream Blush Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Candy Haze Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Candy-Haze-Extrait-de-Parfum-138615.html",
-      "description": "New perfume listing: Candy Haze Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Carnelian Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Carnelian-Extrait-de-Parfum-138614.html",
-      "description": "New perfume listing: Carnelian Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Sable Nu Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Sable-Nu-Extrait-de-Parfum-138613.html",
-      "description": "New perfume listing: Sable Nu Extrait de Parfum by The Perfume Connection.",
       "category": "New Perfumes",
       "author": "The Perfume Connection",
       "published": 1785260847
