@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Perfume and the NEP: The Commercial Renaissance of the 1920s",
+      "link": "https://www.fragrantica.com/news/Perfume-and-the-NEP-The-Commercial-Renaissance-of-the-1920s-25731.html",
+      "description": "Galina Anni once again immerses us in the history of perfumery.",
+      "category": "Columns",
+      "author": "Galina Anni",
+      "published": 1785448984
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Iulia Halatz & John Biebel",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Iulia-Halatz-John-Biebel-25730.html",
+      "description": "Good fragrances for the summer and every day!",
+      "category": "Fragrantica",
+      "author": "Iulia Halatz,John Biebel",
+      "published": 1785444603
+    },
+    {
+      "title": "FROST: New From Day Three Fragrances",
+      "link": "https://www.fragrantica.com/news/FROST-New-From-Day-Three-Fragrances-25729.html",
+      "description": "Most fragrances ask you to choose. Frost invites you to combine.",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1785440736
+    },
+    {
+      "title": "PHLUR Vanilla Canyon",
+      "link": "https://www.fragrantica.com/news/PHLUR-Vanilla-Canyon-25728.html",
+      "description": "PHLUR introduces Vanilla Canyon Eau de Parfum, a warm gourmand created by perfumer Jérôme Epinette.",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1785433412
+    },
+    {
       "title": "Etat Libre D’Orange Uruk Chronicles: Strawberry Shampoo & Baklava",
       "link": "https://www.fragrantica.com/news/Etat-Libre-D-Orange-Uruk-Chronicles-Strawberry-Shampoo-Baklava-25727.html",
       "description": "Good, bad, and ugly",
@@ -767,41 +799,73 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1784393463
-    },
-    {
-      "title": "The Adventures of a Perfume Bottle. Part One: The Price of Luxury",
-      "link": "https://www.fragrantica.com/news/The-Adventures-of-a-Perfume-Bottle-Part-One-The-Price-of-Luxury-25607.html",
-      "description": "The most fascinating, complex, and expensive process was the manufacture of bottles with ground-glass stoppers — and that is what we will discuss today.",
-      "category": "Columns",
-      "author": "Galina Anni",
-      "published": 1784369797
-    },
-    {
-      "title": "How Far Does Our Obsession in Perfumery Go?",
-      "link": "https://www.fragrantica.com/news/How-Far-Does-Our-Obsession-in-Perfumery-Go-25606.html",
-      "description": "When the trail of a fragrance transforms into obsession and memory.",
-      "category": "Columns",
-      "author": "Jernê Knowles",
-      "published": 1784369797
-    },
-    {
-      "title": "El Morocco Perfumery & Тhe Legendary New York Nightclub",
-      "link": "https://www.fragrantica.com/news/El-Morocco-Perfumery-The-Legendary-New-York-Nightclub-25605.html",
-      "description": "Five fragrances inspired by café society of NYC from the 1930s through the 1950s.",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1784369797
-    },
-    {
-      "title": "AEREO Pigmentarium: A Next-Level Skin Scent",
-      "link": "https://www.fragrantica.com/news/AEREO-Pigmentarium-A-Next-Level-Skin-Scent-25604.html",
-      "description": "Soft, intimate and quietly addictive, it feels like a warm cloud of comfort – ethereal, grounded and beautifully close to the skin.",
-      "category": "Fragrance Reviews",
-      "author": "Markéta Rybínová",
-      "published": 1784369797
     }
   ],
   "perfumes": [
+    {
+      "title": "Kinana — Siam Pasha",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Siam-Pasha-138741.html",
+      "description": "New perfume listing: Siam Pasha by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1785449849
+    },
+    {
+      "title": "H&M — Silk Stone",
+      "link": "https://www.fragrantica.com/perfume/H-M/Silk-Stone-138739.html",
+      "description": "New perfume listing: Silk Stone by H&M.",
+      "category": "New Perfumes",
+      "author": "H&M",
+      "published": 1785449849
+    },
+    {
+      "title": "Rauvéa — Mosto Vivo",
+      "link": "https://www.fragrantica.com/perfume/Rauvea/Mosto-Vivo-138738.html",
+      "description": "New perfume listing: Mosto Vivo by Rauvéa.",
+      "category": "New Perfumes",
+      "author": "Rauvéa",
+      "published": 1785449849
+    },
+    {
+      "title": "Rauvéa — Vigna Aurea",
+      "link": "https://www.fragrantica.com/perfume/Rauvea/Vigna-Aurea-138737.html",
+      "description": "New perfume listing: Vigna Aurea by Rauvéa.",
+      "category": "New Perfumes",
+      "author": "Rauvéa",
+      "published": 1785449849
+    },
+    {
+      "title": "Rauvéa — Vite Lavica",
+      "link": "https://www.fragrantica.com/perfume/Rauvea/Vite-Lavica-138736.html",
+      "description": "New perfume listing: Vite Lavica by Rauvéa.",
+      "category": "New Perfumes",
+      "author": "Rauvéa",
+      "published": 1785449849
+    },
+    {
+      "title": "Les Ecuadors — Turquoise Absolu",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Turquoise-Absolu-138742.html",
+      "description": "New perfume listing: Turquoise Absolu by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785449849
+    },
+    {
+      "title": "Sense Dubai — Edman",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Edman-138740.html",
+      "description": "New perfume listing: Edman by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1785449849
+    },
+    {
+      "title": "Battistoni — Marte Collezione Privata Tabacco & Cannella",
+      "link": "https://www.fragrantica.com/perfume/Battistoni/Marte-Collezione-Privata-Tabacco-Cannella-138735.html",
+      "description": "New perfume listing: Marte Collezione Privata Tabacco & Cannella by Battistoni.",
+      "category": "New Perfumes",
+      "author": "Battistoni",
+      "published": 1785449849
+    },
     {
       "title": "Adopt Parfums — Woman",
       "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Woman-138734.html",
@@ -1537,70 +1601,6 @@
       "category": "New Perfumes",
       "author": "Zielinski & Rozen",
       "published": 1785344099
-    },
-    {
-      "title": "Zielinski & Rozen — Leather, Sandalwood, Amber",
-      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Leather-Sandalwood-Amber-138565.html",
-      "description": "New perfume listing: Leather, Sandalwood, Amber by Zielinski & Rozen.",
-      "category": "New Perfumes",
-      "author": "Zielinski & Rozen",
-      "published": 1785344099
-    },
-    {
-      "title": "Zielinski & Rozen — Lavender, Vanilla, Amber, Musk",
-      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Lavender-Vanilla-Amber-Musk-138564.html",
-      "description": "New perfume listing: Lavender, Vanilla, Amber, Musk by Zielinski & Rozen.",
-      "category": "New Perfumes",
-      "author": "Zielinski & Rozen",
-      "published": 1785344099
-    },
-    {
-      "title": "Zielinski & Rozen — Apple, Lotus",
-      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Apple-Lotus-138563.html",
-      "description": "New perfume listing: Apple, Lotus by Zielinski & Rozen.",
-      "category": "New Perfumes",
-      "author": "Zielinski & Rozen",
-      "published": 1785344099
-    },
-    {
-      "title": "Orlane — Bouquet d'Orlane Pivoine",
-      "link": "https://www.fragrantica.com/perfume/Orlane/Bouquet-d-Orlane-Pivoine-138562.html",
-      "description": "New perfume listing: Bouquet d'Orlane Pivoine by Orlane.",
-      "category": "New Perfumes",
-      "author": "Orlane",
-      "published": 1785344099
-    },
-    {
-      "title": "LeGer — Signature Velvet",
-      "link": "https://www.fragrantica.com/perfume/LeGer/Signature-Velvet-138651.html",
-      "description": "New perfume listing: Signature Velvet by LeGer.",
-      "category": "New Perfumes",
-      "author": "LeGer",
-      "published": 1785320192
-    },
-    {
-      "title": "LeGer — Signature Wildflower",
-      "link": "https://www.fragrantica.com/perfume/LeGer/Signature-Wildflower-138650.html",
-      "description": "New perfume listing: Signature Wildflower by LeGer.",
-      "category": "New Perfumes",
-      "author": "LeGer",
-      "published": 1785320192
-    },
-    {
-      "title": "Michael Kors — Pour Femme Pink Horizon",
-      "link": "https://www.fragrantica.com/perfume/Michael-Kors/Pour-Femme-Pink-Horizon-138648.html",
-      "description": "New perfume listing: Pour Femme Pink Horizon by Michael Kors.",
-      "category": "New Perfumes",
-      "author": "Michael Kors",
-      "published": 1785320192
-    },
-    {
-      "title": "Michael Kors — Pour Homme Green Infinity",
-      "link": "https://www.fragrantica.com/perfume/Michael-Kors/Pour-Homme-Green-Infinity-138647.html",
-      "description": "New perfume listing: Pour Homme Green Infinity by Michael Kors.",
-      "category": "New Perfumes",
-      "author": "Michael Kors",
-      "published": 1785320192
     }
   ]
 }
