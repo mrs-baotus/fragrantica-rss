@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "BYREDO Unveils Future Memories by Quentin Bisch",
+      "link": "https://www.fragrantica.com/news/BYREDO-Unveils-Future-Memories-by-Quentin-Bisch-25725.html",
+      "description": "\"What You Choose Today Will Shape The Memories You Carry Tomorrow\".",
+      "category": "New Fragrances",
+      "author": "Elena Knezevic",
+      "published": 1785398404
+    },
+    {
+      "title": "What's Happening at Avon: A Study in Spaghetti (and Barbells)",
+      "link": "https://www.fragrantica.com/news/What-s-Happening-at-Avon-A-Study-in-Spaghetti-and-Barbells-25724.html",
+      "description": "They're going to see what sticks, one way or another.",
+      "category": "Columns",
+      "author": "Adam Forziati",
+      "published": 1785390603
+    },
+    {
+      "title": "Veritas: Fragrances From the Land of Tulips and Still Lifes",
+      "link": "https://www.fragrantica.com/news/Veritas-Fragrances-From-the-Land-of-Tulips-and-Still-Lifes-25723.html",
+      "description": "Sergey got acquainted with five fragrances from this new brand.",
+      "category": "Fragrance News",
+      "author": "Sergey Borisov",
+      "published": 1785378064
+    },
+    {
+      "title": "Perfume Demographics: A Complicated Mix",
+      "link": "https://www.fragrantica.com/news/Perfume-Demographics-A-Complicated-Mix-25722.html",
+      "description": "Some companies are shooting themselves in the foot, entering a vicious circle. The consumer of the bubbly new stuff is as easily attracted by \"newness\" from yet another brand or company.",
+      "category": "Columns",
+      "author": "Elena Vosnaki",
+      "published": 1785364324
+    },
+    {
       "title": "Three New Perfumes for Scents of Man: Bluebell Ritual, Lillie Langtry, and Yuzu Doré",
       "link": "https://www.fragrantica.com/news/Three-New-Perfumes-for-Scents-of-Man-Bluebell-Ritual-Lillie-Langtry-and-Yuzu-Dore-25721.html",
       "description": "...plus all new skincare formulations!",
@@ -767,41 +799,273 @@
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1784369797
-    },
-    {
-      "title": "New Book 𝙏𝙝𝙚 𝘾𝙪𝙡𝙩𝙪𝙧𝙚𝙨 𝙤𝙛 𝙋𝙚𝙧𝙛𝙪𝙢𝙚: 𝙎𝙘𝙚𝙣𝙩𝙨 𝙏𝙝𝙖𝙩 𝙎𝙝𝙖𝙥𝙚𝙙 𝙃𝙞𝙨𝙩𝙤𝙧𝙮 by Saskia Wilson-Brown",
-      "link": "https://www.fragrantica.com/news/New-Book-by-Saskia-Wilson-Brown-25601.html",
-      "description": "A people’s history of perfume – what the art of olfaction can teach us about ourselves and our common humanity. Now available for pre-order.",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1784369797
-    },
-    {
-      "title": "Oriflame Launches Two New Creations in the Top Scent Collection: La La Lime and Tropic Thunder",
-      "link": "https://www.fragrantica.com/news/Oriflame-Launches-Two-New-Creations-in-the-Top-Scent-Collection-La-La-Lime-and-Tropic-Thunder-25600.html",
-      "description": "Summer is here!",
-      "category": "New Fragrances",
-      "author": "Iulia Halatz",
-      "published": 1784369797
-    },
-    {
-      "title": "Giallo Riviera by Arte Profumi: Coolness Takes the Leading Role",
-      "link": "https://www.fragrantica.com/news/Giallo-Riviera-by-Arte-Profumi-Coolness-Takes-the-Leading-Role-25599.html",
-      "description": "Not particularly sunny — and not quite as citrusy as you might expect...",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1784369797
-    },
-    {
-      "title": "Carnal Cacao by Maison Tahité: Special Smoky Chilli Chocolate",
-      "link": "https://www.fragrantica.com/news/Carnal-Cacao-by-Maison-Tahite-Special-Smoky-Chilli-Chocolate-25631.html",
-      "description": "With banana, bell pepper, and jungle greens",
-      "category": "Niche Perfumery",
-      "author": "Eddie Bulliqi",
-      "published": 1784366763
     }
   ],
   "perfumes": [
+    {
+      "title": "Dior — Sauvage Extrait",
+      "link": "https://www.fragrantica.com/perfume/Dior/Sauvage-Extrait-138704.html",
+      "description": "New perfume listing: Sauvage Extrait by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1785404624
+    },
+    {
+      "title": "Phlur — Vanilla Canyon",
+      "link": "https://www.fragrantica.com/perfume/Phlur/Vanilla-Canyon-138703.html",
+      "description": "New perfume listing: Vanilla Canyon by Phlur.",
+      "category": "New Perfumes",
+      "author": "Phlur",
+      "published": 1785404624
+    },
+    {
+      "title": "Chloé — Cedrus de Nuit",
+      "link": "https://www.fragrantica.com/perfume/Chloe/Cedrus-de-Nuit-138702.html",
+      "description": "New perfume listing: Cedrus de Nuit by Chloé.",
+      "category": "New Perfumes",
+      "author": "Chloé",
+      "published": 1785404624
+    },
+    {
+      "title": "Alan Bray — Pink Pepper",
+      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Pink-Pepper-138690.html",
+      "description": "New perfume listing: Pink Pepper by Alan Bray.",
+      "category": "New Perfumes",
+      "author": "Alan Bray",
+      "published": 1785404624
+    },
+    {
+      "title": "Devertere — Babydoll Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Devertere/Babydoll-Vanilla-138688.html",
+      "description": "New perfume listing: Babydoll Vanilla by Devertere.",
+      "category": "New Perfumes",
+      "author": "Devertere",
+      "published": 1785404624
+    },
+    {
+      "title": "Louzan — Beyond",
+      "link": "https://www.fragrantica.com/perfume/Louzan/Beyond-138687.html",
+      "description": "New perfume listing: Beyond by Louzan.",
+      "category": "New Perfumes",
+      "author": "Louzan",
+      "published": 1785404624
+    },
+    {
+      "title": "Alan Bray — Woodland",
+      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Woodland-138686.html",
+      "description": "New perfume listing: Woodland by Alan Bray.",
+      "category": "New Perfumes",
+      "author": "Alan Bray",
+      "published": 1785404624
+    },
+    {
+      "title": "Alan Bray — Deep Waters",
+      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Deep-Waters-138685.html",
+      "description": "New perfume listing: Deep Waters by Alan Bray.",
+      "category": "New Perfumes",
+      "author": "Alan Bray",
+      "published": 1785404624
+    },
+    {
+      "title": "Kinana — Rangoon",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Rangoon-138680.html",
+      "description": "New perfume listing: Rangoon by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1785404624
+    },
+    {
+      "title": "Monkoku — Oudtoman",
+      "link": "https://www.fragrantica.com/perfume/Monkoku/Oudtoman-138679.html",
+      "description": "New perfume listing: Oudtoman by Monkoku.",
+      "category": "New Perfumes",
+      "author": "Monkoku",
+      "published": 1785404624
+    },
+    {
+      "title": "Monkoku — Love Me Louder",
+      "link": "https://www.fragrantica.com/perfume/Monkoku/Love-Me-Louder-138678.html",
+      "description": "New perfume listing: Love Me Louder by Monkoku.",
+      "category": "New Perfumes",
+      "author": "Monkoku",
+      "published": 1785404624
+    },
+    {
+      "title": "LeGer by Lena Gercke — Signature Wildflower",
+      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Wildflower-138677.html",
+      "description": "New perfume listing: Signature Wildflower by LeGer by Lena Gercke.",
+      "category": "New Perfumes",
+      "author": "LeGer by Lena Gercke",
+      "published": 1785404624
+    },
+    {
+      "title": "LeGer by Lena Gercke — Signature Velvet",
+      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Velvet-138651.html",
+      "description": "New perfume listing: Signature Velvet by LeGer by Lena Gercke.",
+      "category": "New Perfumes",
+      "author": "LeGer by Lena Gercke",
+      "published": 1785404624
+    },
+    {
+      "title": "LeGer by Lena Gercke — Signature Wildflower",
+      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-Wildflower-138650.html",
+      "description": "New perfume listing: Signature Wildflower by LeGer by Lena Gercke.",
+      "category": "New Perfumes",
+      "author": "LeGer by Lena Gercke",
+      "published": 1785404624
+    },
+    {
+      "title": "Phuong Dang — Vigor",
+      "link": "https://www.fragrantica.com/perfume/Phuong-Dang/Vigor-138701.html",
+      "description": "New perfume listing: Vigor by Phuong Dang.",
+      "category": "New Perfumes",
+      "author": "Phuong Dang",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Last Emotion",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Last-Emotion-138700.html",
+      "description": "New perfume listing: Last Emotion by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — First Memory",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/First-Memory-138699.html",
+      "description": "New perfume listing: First Memory by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Burning It All",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Burning-It-All-138698.html",
+      "description": "New perfume listing: Burning It All by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Almost Naked",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Almost-Naked-138697.html",
+      "description": "New perfume listing: Almost Naked by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Take Me Home",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Take-Me-Home-138696.html",
+      "description": "New perfume listing: Take Me Home by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Tokyo Cloud",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Tokyo-Cloud-138695.html",
+      "description": "New perfume listing: Tokyo Cloud by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Hinoki Leather",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Hinoki-Leather-138694.html",
+      "description": "New perfume listing: Hinoki Leather by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Morning Soil",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Morning-Soil-138693.html",
+      "description": "New perfume listing: Morning Soil by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Rose Wood",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Rose-Wood-138692.html",
+      "description": "New perfume listing: Rose Wood by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Pleuvoir — Floral Musk",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Floral-Musk-138691.html",
+      "description": "New perfume listing: Floral Musk by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1785404624
+    },
+    {
+      "title": "Les Ecuadors — Figue de Toi",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Figue-de-Toi-138689.html",
+      "description": "New perfume listing: Figue de Toi by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785404624
+    },
+    {
+      "title": "ProNiche — Cherry, Sandalwood, Smoke, Leather",
+      "link": "https://www.fragrantica.com/perfume/ProNiche/Cherry-Sandalwood-Smoke-Leather-138684.html",
+      "description": "New perfume listing: Cherry, Sandalwood, Smoke, Leather by ProNiche.",
+      "category": "New Perfumes",
+      "author": "ProNiche",
+      "published": 1785404624
+    },
+    {
+      "title": "ProNiche — Mango, Vanilla, Neroli",
+      "link": "https://www.fragrantica.com/perfume/ProNiche/Mango-Vanilla-Neroli-138683.html",
+      "description": "New perfume listing: Mango, Vanilla, Neroli by ProNiche.",
+      "category": "New Perfumes",
+      "author": "ProNiche",
+      "published": 1785404624
+    },
+    {
+      "title": "ProNiche — Peach, Apple, Amber, Musk",
+      "link": "https://www.fragrantica.com/perfume/ProNiche/Peach-Apple-Amber-Musk-138682.html",
+      "description": "New perfume listing: Peach, Apple, Amber, Musk by ProNiche.",
+      "category": "New Perfumes",
+      "author": "ProNiche",
+      "published": 1785404624
+    },
+    {
+      "title": "Les Ecuadors — Rose Oud",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Rose-Oud-138681.html",
+      "description": "New perfume listing: Rose Oud by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785404624
+    },
+    {
+      "title": "LeGer by Lena Gercke — Signature",
+      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138676.html",
+      "description": "New perfume listing: Signature by LeGer by Lena Gercke.",
+      "category": "New Perfumes",
+      "author": "LeGer by Lena Gercke",
+      "published": 1785404624
+    },
+    {
+      "title": "Les Ecuadors — Fleur d'Oranger",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Fleur-d-Oranger-138675.html",
+      "description": "New perfume listing: Fleur d'Oranger by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785404624
+    },
+    {
+      "title": "LeGer by Lena Gercke — Signature",
+      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138649.html",
+      "description": "New perfume listing: Signature by LeGer by Lena Gercke.",
+      "category": "New Perfumes",
+      "author": "LeGer by Lena Gercke",
+      "published": 1785404624
+    },
     {
       "title": "NANHA — Orange Vetiver",
       "link": "https://www.fragrantica.com/perfume/NANHA/Orange-Vetiver-138674.html",
@@ -1337,270 +1601,6 @@
       "category": "New Perfumes",
       "author": "Sylhouette Parfums",
       "published": 1785275472
-    },
-    {
-      "title": "Rogue Perfumery — Fiesole 1908",
-      "link": "https://www.fragrantica.com/perfume/Rogue-Perfumery/Fiesole-1908-138622.html",
-      "description": "New perfume listing: Fiesole 1908 by Rogue Perfumery.",
-      "category": "New Perfumes",
-      "author": "Rogue Perfumery",
-      "published": 1785275472
-    },
-    {
-      "title": "Lost Tribe — Watch King",
-      "link": "https://www.fragrantica.com/perfume/Lost-Tribe/Watch-King-138620.html",
-      "description": "New perfume listing: Watch King by Lost Tribe.",
-      "category": "New Perfumes",
-      "author": "Lost Tribe",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — DXB",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/DXB-138619.html",
-      "description": "New perfume listing: DXB by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Zaffran",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Zaffran-138618.html",
-      "description": "New perfume listing: Zaffran by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Dew Core",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Dew-Core-138617.html",
-      "description": "New perfume listing: Dew Core by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Cream Blush",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Cream-Blush-138616.html",
-      "description": "New perfume listing: Cream Blush by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Candy Haze",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Candy-Haze-138615.html",
-      "description": "New perfume listing: Candy Haze by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Carnelian",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Carnelian-138614.html",
-      "description": "New perfume listing: Carnelian by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Sable Nu",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Sable-Nu-138613.html",
-      "description": "New perfume listing: Sable Nu by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Oud Connection",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Oud-Connection-138612.html",
-      "description": "New perfume listing: Oud Connection by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Badr",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Badr-138611.html",
-      "description": "New perfume listing: Badr by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — You & Eye",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/You-Eye-138610.html",
-      "description": "New perfume listing: You & Eye by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Lip Lock",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Lip-Lock-138609.html",
-      "description": "New perfume listing: Lip Lock by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Cosmo",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Cosmo-138608.html",
-      "description": "New perfume listing: Cosmo by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — Amber Solar",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Amber-Solar-138607.html",
-      "description": "New perfume listing: Amber Solar by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785275472
-    },
-    {
-      "title": "Monyette Paris — Monyette Paris",
-      "link": "https://www.fragrantica.com/perfume/Monyette-Paris/Monyette-Paris-138621.html",
-      "description": "New perfume listing: Monyette Paris by Monyette Paris.",
-      "category": "New Perfumes",
-      "author": "Monyette Paris",
-      "published": 1785275472
-    },
-    {
-      "title": "Aryene — Blushing Rose",
-      "link": "https://www.fragrantica.com/perfume/Aryene/Blushing-Rose-138547.html",
-      "description": "New perfume listing: Blushing Rose by Aryene.",
-      "category": "New Perfumes",
-      "author": "Aryene",
-      "published": 1785275472
-    },
-    {
-      "title": "Koton — Sierra Redwood",
-      "link": "https://www.fragrantica.com/perfume/Koton/Sierra-Redwood-138546.html",
-      "description": "New perfume listing: Sierra Redwood by Koton.",
-      "category": "New Perfumes",
-      "author": "Koton",
-      "published": 1785275472
-    },
-    {
-      "title": "Zara — Ray of Gardenia",
-      "link": "https://www.fragrantica.com/perfume/Zara/Ray-of-Gardenia-138545.html",
-      "description": "New perfume listing: Ray of Gardenia by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1785275472
-    },
-    {
-      "title": "Al Haramain Perfumes — Tanasuk Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Tanasuk-Extrait-de-Parfum-138544.html",
-      "description": "New perfume listing: Tanasuk Extrait de Parfum by Al Haramain Perfumes.",
-      "category": "New Perfumes",
-      "author": "Al Haramain Perfumes",
-      "published": 1785275472
-    },
-    {
-      "title": "Koton — Gentle Wind",
-      "link": "https://www.fragrantica.com/perfume/Koton/Gentle-Wind-138543.html",
-      "description": "New perfume listing: Gentle Wind by Koton.",
-      "category": "New Perfumes",
-      "author": "Koton",
-      "published": 1785275472
-    },
-    {
-      "title": "Koton — Jasmine",
-      "link": "https://www.fragrantica.com/perfume/Koton/Jasmine-138542.html",
-      "description": "New perfume listing: Jasmine by Koton.",
-      "category": "New Perfumes",
-      "author": "Koton",
-      "published": 1785275472
-    },
-    {
-      "title": "Koton — Pink Crystal",
-      "link": "https://www.fragrantica.com/perfume/Koton/Pink-Crystal-138541.html",
-      "description": "New perfume listing: Pink Crystal by Koton.",
-      "category": "New Perfumes",
-      "author": "Koton",
-      "published": 1785275472
-    },
-    {
-      "title": "Reserva — Rebel",
-      "link": "https://www.fragrantica.com/perfume/Reserva/Rebel-138514.html",
-      "description": "New perfume listing: Rebel by Reserva.",
-      "category": "New Perfumes",
-      "author": "Reserva",
-      "published": 1785275472
-    },
-    {
-      "title": "Tubbees — Lychee Lush",
-      "link": "https://www.fragrantica.com/perfume/Tubbees/Lychee-Lush-138512.html",
-      "description": "New perfume listing: Lychee Lush by Tubbees.",
-      "category": "New Perfumes",
-      "author": "Tubbees",
-      "published": 1785275472
-    },
-    {
-      "title": "Tubbees — Tropical Island",
-      "link": "https://www.fragrantica.com/perfume/Tubbees/Tropical-Island-138511.html",
-      "description": "New perfume listing: Tropical Island by Tubbees.",
-      "category": "New Perfumes",
-      "author": "Tubbees",
-      "published": 1785275472
-    },
-    {
-      "title": "Tubbees — Pistachio Kunafa",
-      "link": "https://www.fragrantica.com/perfume/Tubbees/Pistachio-Kunafa-138510.html",
-      "description": "New perfume listing: Pistachio Kunafa by Tubbees.",
-      "category": "New Perfumes",
-      "author": "Tubbees",
-      "published": 1785275472
-    },
-    {
-      "title": "SODA — Love Confession",
-      "link": "https://www.fragrantica.com/perfume/SODA/Love-Confession-138509.html",
-      "description": "New perfume listing: Love Confession by SODA.",
-      "category": "New Perfumes",
-      "author": "SODA",
-      "published": 1785275472
-    },
-    {
-      "title": "Sister's Aroma — Cherry Porn",
-      "link": "https://www.fragrantica.com/perfume/Sister-s-Aroma/Cherry-Porn-138508.html",
-      "description": "New perfume listing: Cherry Porn by Sister's Aroma.",
-      "category": "New Perfumes",
-      "author": "Sister's Aroma",
-      "published": 1785275472
-    },
-    {
-      "title": "The Perfume Connection — DXB Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/DXB-Extrait-de-Parfum-138619.html",
-      "description": "New perfume listing: DXB Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Zaffran Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Zaffran-Extrait-de-Parfum-138618.html",
-      "description": "New perfume listing: Zaffran Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Dew Core Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Dew-Core-Extrait-de-Parfum-138617.html",
-      "description": "New perfume listing: Dew Core Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
-    },
-    {
-      "title": "The Perfume Connection — Cream Blush Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/The-Perfume-Connection/Cream-Blush-Extrait-de-Parfum-138616.html",
-      "description": "New perfume listing: Cream Blush Extrait de Parfum by The Perfume Connection.",
-      "category": "New Perfumes",
-      "author": "The Perfume Connection",
-      "published": 1785260847
     }
   ]
 }
