@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Estée Lauder Aliage Legacy",
+      "link": "https://www.fragrantica.com/news/Estee-Lauder-Aliage-Legacy-25740.html",
+      "description": "Estée Lauder revives Aliage with Frédéric Malle for The Legacy Collection.",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1785525981
+    },
+    {
       "title": "DUSITA Parfums 10th Anniversary GIVEAWAY!",
       "link": "https://www.fragrantica.com/news/DUSITA-Parfums-10th-Anniversary-GIVEAWAY-25739.html",
       "description": "12 prizes for 12 lucky Fragrantica readers!",
@@ -791,17 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Elena Knezevic",
       "published": 1784485353
-    },
-    {
-      "title": "Sarah Baker’s Peach Trilogy: A Tale of Three Peaches",
-      "link": "https://www.fragrantica.com/news/Sarah-Baker-s-Peach-Trilogy-A-Tale-of-Three-Peaches-25640.html",
-      "description": "Which peach speaks to you most — carefree, vengeful, or wicked?",
-      "category": "Fragrance Reviews",
-      "author": "Matvey Yudov",
-      "published": 1784479682
     }
   ],
   "perfumes": [
+    {
+      "title": "Pierre Cardin — Orient Fragrance Mist",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Orient-Fragrance-Mist-138782.html",
+      "description": "New perfume listing: Orient Fragrance Mist by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785534730
+    },
+    {
+      "title": "Pierre Cardin — Romantique Fragrance Mist",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Romantique-Fragrance-Mist-138781.html",
+      "description": "New perfume listing: Romantique Fragrance Mist by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785534730
+    },
+    {
+      "title": "Pierre Cardin — Mystique Fragrance Mist",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Mystique-Fragrance-Mist-138780.html",
+      "description": "New perfume listing: Mystique Fragrance Mist by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785534730
+    },
     {
       "title": "Veritas Fragrance Co — Archon Black",
       "link": "https://www.fragrantica.com/perfume/Veritas-Fragrance-Co/Archon-Black-138773.html",
@@ -1574,30 +1598,6 @@
       "title": "Pleuvoir — Hinoki Leather",
       "link": "https://www.fragrantica.com/perfume/Pleuvoir/Hinoki-Leather-138694.html",
       "description": "New perfume listing: Hinoki Leather by Pleuvoir.",
-      "category": "New Perfumes",
-      "author": "Pleuvoir",
-      "published": 1785404624
-    },
-    {
-      "title": "Pleuvoir — Morning Soil",
-      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Morning-Soil-138693.html",
-      "description": "New perfume listing: Morning Soil by Pleuvoir.",
-      "category": "New Perfumes",
-      "author": "Pleuvoir",
-      "published": 1785404624
-    },
-    {
-      "title": "Pleuvoir — Rose Wood",
-      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Rose-Wood-138692.html",
-      "description": "New perfume listing: Rose Wood by Pleuvoir.",
-      "category": "New Perfumes",
-      "author": "Pleuvoir",
-      "published": 1785404624
-    },
-    {
-      "title": "Pleuvoir — Floral Musk",
-      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Floral-Musk-138691.html",
-      "description": "New perfume listing: Floral Musk by Pleuvoir.",
       "category": "New Perfumes",
       "author": "Pleuvoir",
       "published": 1785404624
