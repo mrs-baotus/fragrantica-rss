@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Sophie Normand & Yi Shang",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Sophie-Normand-Yi-Shang-25735.html",
+      "description": "The best perfumes from France and Asia.",
+      "category": "Fragrantica",
+      "author": "Sophie Normand,Yi Shang (怡 商)",
+      "published": 1785482583
+    },
+    {
+      "title": "Rose Royale Shiseido: Forever Young Rose",
+      "link": "https://www.fragrantica.com/news/Rose-Royale-Shiseido-Forever-Young-Rose-25734.html",
+      "description": "After 20 years, it hasn't changed or aged at all.",
+      "category": "Vintages",
+      "author": "Sergey Borisov",
+      "published": 1785478084
+    },
+    {
+      "title": "Le 12 Victor Hugo: 'Salt of the Earth' Lavender",
+      "link": "https://www.fragrantica.com/news/Le-12-Victor-Hugo-Salt-of-the-Earth-Lavender-25733.html",
+      "description": "The incoming Jacques Fath perfume portrays a clay-like, supple lavender, unlike any other treatment of the note.",
+      "category": "Niche Perfumery",
+      "author": "Adam Forziati",
+      "published": 1785467202
+    },
+    {
+      "title": "Kohl Luminous and Kohl Opulence by Arabiyat Prestige",
+      "link": "https://www.fragrantica.com/news/Kohl-Luminous-and-Kohl-Opulence-by-Arabiyat-Prestige-25732.html",
+      "description": "Two fruity fragrances from the Kohl collection.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1785459417
+    },
+    {
       "title": "Perfume and the NEP: The Commercial Renaissance of the 1920s",
       "link": "https://www.fragrantica.com/news/Perfume-and-the-NEP-The-Commercial-Renaissance-of-the-1920s-25731.html",
       "description": "Galina Anni once again immerses us in the history of perfumery.",
@@ -65,7 +97,7 @@
       "published": 1785390603
     },
     {
-      "title": "Veritas: Fragrances From the Land of Tulips and Still Lifes",
+      "title": "Veritas: Fragrances From the Land of Tulips and Still-Lives",
       "link": "https://www.fragrantica.com/news/Veritas-Fragrances-From-the-Land-of-Tulips-and-Still-Lifes-25723.html",
       "description": "Sergey got acquainted with five fragrances by this new brand.",
       "category": "Fragrance News",
@@ -767,41 +799,193 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1784435223
-    },
-    {
-      "title": "The Face of Chanel Coco Mademoiselle Crush Absolu",
-      "link": "https://www.fragrantica.com/news/The-Face-of-Chanel-Coco-Mademoiselle-Crush-Absolu-25635.html",
-      "description": "Gracie Abrams, new face of Coco Mademoiselle",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1784424363
-    },
-    {
-      "title": "The Journey of the Turkish Rose in Perfumery",
-      "link": "https://www.fragrantica.com/news/The-Journey-of-the-Turkish-Rose-in-Perfumery-25634.html",
-      "description": "The concept of the Turkish Rose in perfumery, the history of the Isparta Rose, its harvest process, and its place in perfumes.",
-      "category": "Raw Materials",
-      "author": "Sena Toprak",
-      "published": 1784411217
-    },
-    {
-      "title": "Fragrance Cloud Plots: A New Way to Experience Perfume",
-      "link": "https://www.fragrantica.com/news/Fragrance-Cloud-Plots-A-New-Way-to-Experience-Perfume-25633.html",
-      "description": "Presented by Nodus Perfume House, Fragrance Cloud Plots offer a new way of explaining how a perfume evolves over time.",
-      "category": "Fragrance News",
-      "author": "Giulietta Ptoyan",
-      "published": 1784405223
-    },
-    {
-      "title": "New From Swiss Brand BODÉ STUDIOS: Zabianca.",
-      "link": "https://www.fragrantica.com/news/New-From-Swiss-Brand-BODE-STUDIOS-Zabianca-25632.html",
-      "description": "The scent of early spring on the Amalfi Coast.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1784393463
     }
   ],
   "perfumes": [
+    {
+      "title": "Estrvs — Tuberotica",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Tuberotica-138765.html",
+      "description": "New perfume listing: Tuberotica by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Tropikana",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Tropikana-138764.html",
+      "description": "New perfume listing: Tropikana by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Rohi",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Rohi-138763.html",
+      "description": "New perfume listing: Rohi by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Third Eye Fragrance Co. — Red Rum Reserve",
+      "link": "https://www.fragrantica.com/perfume/Third-Eye-Fragrance-Co/Red-Rum-Reserve-138762.html",
+      "description": "New perfume listing: Red Rum Reserve by Third Eye Fragrance Co..",
+      "category": "New Perfumes",
+      "author": "Third Eye Fragrance Co.",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Tango a Parigi",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Tango-a-Parigi-138761.html",
+      "description": "New perfume listing: Tango a Parigi by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Estée Lauder — Aliage Legacy",
+      "link": "https://www.fragrantica.com/perfume/Estee-Lauder/Aliage-Legacy-138760.html",
+      "description": "New perfume listing: Aliage Legacy by Estée Lauder.",
+      "category": "New Perfumes",
+      "author": "Estée Lauder",
+      "published": 1785492660
+    },
+    {
+      "title": "Giorgio Armani — I Will",
+      "link": "https://www.fragrantica.com/perfume/Giorgio-Armani/I-Will-138759.html",
+      "description": "New perfume listing: I Will by Giorgio Armani.",
+      "category": "New Perfumes",
+      "author": "Giorgio Armani",
+      "published": 1785492660
+    },
+    {
+      "title": "Assaf — Hook Blue",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Hook-Blue-138758.html",
+      "description": "New perfume listing: Hook Blue by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1785492660
+    },
+    {
+      "title": "Riiffs Perfumes — Virtus",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Virtus-138757.html",
+      "description": "New perfume listing: Virtus by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1785492660
+    },
+    {
+      "title": "Riiffs Perfumes — Virtessa",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Virtessa-138756.html",
+      "description": "New perfume listing: Virtessa by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1785492660
+    },
+    {
+      "title": "Riiffs Perfumes — Hulm",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Hulm-138755.html",
+      "description": "New perfume listing: Hulm by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1785492660
+    },
+    {
+      "title": "UNTAMED — I've Known Giants",
+      "link": "https://www.fragrantica.com/perfume/UNTAMED/I-ve-Known-Giants-138754.html",
+      "description": "New perfume listing: I've Known Giants by UNTAMED.",
+      "category": "New Perfumes",
+      "author": "UNTAMED",
+      "published": 1785492660
+    },
+    {
+      "title": "Jouissance — La Camionera",
+      "link": "https://www.fragrantica.com/perfume/Jouissance/La-Camionera-138753.html",
+      "description": "New perfume listing: La Camionera by Jouissance.",
+      "category": "New Perfumes",
+      "author": "Jouissance",
+      "published": 1785492660
+    },
+    {
+      "title": "Armaf — Odyssey French Kiss",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Odyssey-French-Kiss-138752.html",
+      "description": "New perfume listing: Odyssey French Kiss by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1785492660
+    },
+    {
+      "title": "Armaf — Odyssey Nexus",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Nexus-138751.html",
+      "description": "New perfume listing: Odyssey Nexus by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1785492660
+    },
+    {
+      "title": "iPiccirilli — Vanilla Nocturna",
+      "link": "https://www.fragrantica.com/perfume/iPiccirilli/Vanilla-Nocturna-138747.html",
+      "description": "New perfume listing: Vanilla Nocturna by iPiccirilli.",
+      "category": "New Perfumes",
+      "author": "iPiccirilli",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Oman Sky",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Oman-Sky-138746.html",
+      "description": "New perfume listing: Oman Sky by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Maresia",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Maresia-138745.html",
+      "description": "New perfume listing: Maresia by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Estrvs — Coco Extreme",
+      "link": "https://www.fragrantica.com/perfume/Estrvs/Coco-Extreme-138744.html",
+      "description": "New perfume listing: Coco Extreme by Estrvs.",
+      "category": "New Perfumes",
+      "author": "Estrvs",
+      "published": 1785492660
+    },
+    {
+      "title": "Kinana — Andaman",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Andaman-138743.html",
+      "description": "New perfume listing: Andaman by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1785492660
+    },
+    {
+      "title": "Les Ecuadors — Vanille Rouge",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Vanille-Rouge-138750.html",
+      "description": "New perfume listing: Vanille Rouge by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785492660
+    },
+    {
+      "title": "Les Ecuadors — Fleur de Tiaré",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Fleur-de-Tiare-138749.html",
+      "description": "New perfume listing: Fleur de Tiaré by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785492660
+    },
+    {
+      "title": "Les Ecuadors — Néroli",
+      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Neroli-138748.html",
+      "description": "New perfume listing: Néroli by Les Ecuadors.",
+      "category": "New Perfumes",
+      "author": "Les Ecuadors",
+      "published": 1785492660
+    },
     {
       "title": "Kinana — Siam Pasha",
       "link": "https://www.fragrantica.com/perfume/Kinana/Siam-Pasha-138741.html",
@@ -1416,190 +1600,6 @@
       "description": "New perfume listing: Bluebell Ritual by Scents of Man.",
       "category": "New Perfumes",
       "author": "Scents of Man",
-      "published": 1785344099
-    },
-    {
-      "title": "Riiffs Perfumes — Hoor",
-      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Hoor-138664.html",
-      "description": "New perfume listing: Hoor by Riiffs Perfumes.",
-      "category": "New Perfumes",
-      "author": "Riiffs Perfumes",
-      "published": 1785344099
-    },
-    {
-      "title": "Uttori 五朵里 — Sweet Ripples 荔波",
-      "link": "https://www.fragrantica.com/perfume/Uttori-wu-duo-li/Sweet-Ripples-li-bo-138663.html",
-      "description": "New perfume listing: Sweet Ripples 荔波 by Uttori 五朵里.",
-      "category": "New Perfumes",
-      "author": "Uttori 五朵里",
-      "published": 1785344099
-    },
-    {
-      "title": "Armaf — Courageux",
-      "link": "https://www.fragrantica.com/perfume/Armaf/Courageux-138662.html",
-      "description": "New perfume listing: Courageux by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1785344099
-    },
-    {
-      "title": "Avon — Figgy Matcha",
-      "link": "https://www.fragrantica.com/perfume/Avon/Figgy-Matcha-138661.html",
-      "description": "New perfume listing: Figgy Matcha by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1785344099
-    },
-    {
-      "title": "Avon — Banana Oud",
-      "link": "https://www.fragrantica.com/perfume/Avon/Banana-Oud-138660.html",
-      "description": "New perfume listing: Banana Oud by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1785344099
-    },
-    {
-      "title": "Stradivarius — N°051 A Moment Of Desire",
-      "link": "https://www.fragrantica.com/perfume/Stradivarius/N0051-A-Moment-Of-Desire-138659.html",
-      "description": "New perfume listing: N°051 A Moment Of Desire by Stradivarius.",
-      "category": "New Perfumes",
-      "author": "Stradivarius",
-      "published": 1785344099
-    },
-    {
-      "title": "BaoBath — Chocolate Brownie",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Chocolate-Brownie-138658.html",
-      "description": "New perfume listing: Chocolate Brownie by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785344099
-    },
-    {
-      "title": "Söppö — Mad Gut",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Mad-Gut-138657.html",
-      "description": "New perfume listing: Mad Gut by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1785344099
-    },
-    {
-      "title": "DELMA Perfumes — Crème d'Ivoire",
-      "link": "https://www.fragrantica.com/perfume/DELMA-Perfumes/Creme-d-Ivoire-138656.html",
-      "description": "New perfume listing: Crème d'Ivoire by DELMA Perfumes.",
-      "category": "New Perfumes",
-      "author": "DELMA Perfumes",
-      "published": 1785344099
-    },
-    {
-      "title": "Antique Niche — Viola",
-      "link": "https://www.fragrantica.com/perfume/Antique-Niche/Viola-138655.html",
-      "description": "New perfume listing: Viola by Antique Niche.",
-      "category": "New Perfumes",
-      "author": "Antique Niche",
-      "published": 1785344099
-    },
-    {
-      "title": "Antique Niche — Grace",
-      "link": "https://www.fragrantica.com/perfume/Antique-Niche/Grace-138654.html",
-      "description": "New perfume listing: Grace by Antique Niche.",
-      "category": "New Perfumes",
-      "author": "Antique Niche",
-      "published": 1785344099
-    },
-    {
-      "title": "Antique Niche — Sibyl",
-      "link": "https://www.fragrantica.com/perfume/Antique-Niche/Sibyl-138653.html",
-      "description": "New perfume listing: Sibyl by Antique Niche.",
-      "category": "New Perfumes",
-      "author": "Antique Niche",
-      "published": 1785344099
-    },
-    {
-      "title": "Antique Niche — Eydis",
-      "link": "https://www.fragrantica.com/perfume/Antique-Niche/Eydis-138652.html",
-      "description": "New perfume listing: Eydis by Antique Niche.",
-      "category": "New Perfumes",
-      "author": "Antique Niche",
-      "published": 1785344099
-    },
-    {
-      "title": "The New York Shaving Company — Old St. Patrick's",
-      "link": "https://www.fragrantica.com/perfume/The-New-York-Shaving-Company/Old-St-Patrick-s-138669.html",
-      "description": "New perfume listing: Old St. Patrick's by The New York Shaving Company.",
-      "category": "New Perfumes",
-      "author": "The New York Shaving Company",
-      "published": 1785344099
-    },
-    {
-      "title": "The New York Shaving Company — Tonsorial",
-      "link": "https://www.fragrantica.com/perfume/The-New-York-Shaving-Company/Tonsorial-138668.html",
-      "description": "New perfume listing: Tonsorial by The New York Shaving Company.",
-      "category": "New Perfumes",
-      "author": "The New York Shaving Company",
-      "published": 1785344099
-    },
-    {
-      "title": "The New York Shaving Company — Sandalwood",
-      "link": "https://www.fragrantica.com/perfume/The-New-York-Shaving-Company/Sandalwood-138667.html",
-      "description": "New perfume listing: Sandalwood by The New York Shaving Company.",
-      "category": "New Perfumes",
-      "author": "The New York Shaving Company",
-      "published": 1785344099
-    },
-    {
-      "title": "The New York Shaving Company — Mister Scala",
-      "link": "https://www.fragrantica.com/perfume/The-New-York-Shaving-Company/Mister-Scala-138666.html",
-      "description": "New perfume listing: Mister Scala by The New York Shaving Company.",
-      "category": "New Perfumes",
-      "author": "The New York Shaving Company",
-      "published": 1785344099
-    },
-    {
-      "title": "The New York Shaving Company — Elizabeth Street",
-      "link": "https://www.fragrantica.com/perfume/The-New-York-Shaving-Company/Elizabeth-Street-138665.html",
-      "description": "New perfume listing: Elizabeth Street by The New York Shaving Company.",
-      "category": "New Perfumes",
-      "author": "The New York Shaving Company",
-      "published": 1785344099
-    },
-    {
-      "title": "Palm Beach Beauté — Nectarine & Blushing Freesia",
-      "link": "https://www.fragrantica.com/perfume/Palm-Beach-Beaute/Nectarine-Blushing-Freesia-138581.html",
-      "description": "New perfume listing: Nectarine & Blushing Freesia by Palm Beach Beauté.",
-      "category": "New Perfumes",
-      "author": "Palm Beach Beauté",
-      "published": 1785344099
-    },
-    {
-      "title": "GENTLE HABITS — Grounded",
-      "link": "https://www.fragrantica.com/perfume/GENTLE-HABITS/Grounded-138570.html",
-      "description": "New perfume listing: Grounded by GENTLE HABITS.",
-      "category": "New Perfumes",
-      "author": "GENTLE HABITS",
-      "published": 1785344099
-    },
-    {
-      "title": "GENTLE HABITS — Margaret River",
-      "link": "https://www.fragrantica.com/perfume/GENTLE-HABITS/Margaret-River-138568.html",
-      "description": "New perfume listing: Margaret River by GENTLE HABITS.",
-      "category": "New Perfumes",
-      "author": "GENTLE HABITS",
-      "published": 1785344099
-    },
-    {
-      "title": "GENTLE HABITS — Bondi Beach",
-      "link": "https://www.fragrantica.com/perfume/GENTLE-HABITS/Bondi-Beach-138567.html",
-      "description": "New perfume listing: Bondi Beach by GENTLE HABITS.",
-      "category": "New Perfumes",
-      "author": "GENTLE HABITS",
-      "published": 1785344099
-    },
-    {
-      "title": "Zielinski & Rozen — Amberwood, Vanilla, Davana",
-      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Amberwood-Vanilla-Davana-138566.html",
-      "description": "New perfume listing: Amberwood, Vanilla, Davana by Zielinski & Rozen.",
-      "category": "New Perfumes",
-      "author": "Zielinski & Rozen",
       "published": 1785344099
     }
   ]
