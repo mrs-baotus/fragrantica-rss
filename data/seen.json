@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "DUSITA Parfums 10th Anniversary GIVEAWAY!",
+      "link": "https://www.fragrantica.com/news/DUSITA-Parfums-10th-Anniversary-GIVEAWAY-25739.html",
+      "description": "12 prizes for 12 lucky Fragrantica readers!",
+      "category": "Fragrantica",
+      "author": "Elena Knezevic",
+      "published": 1785516796
+    },
+    {
+      "title": "Moschino’s 2026 Toys: Gummy & Yummy",
+      "link": "https://www.fragrantica.com/news/Moschino-s-2026-Toys-Gummy-Yummy-25738.html",
+      "description": "Gourmand designs with splashy effects",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1785514864
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Beth Butterfield & Giulietta Ptoyan",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Beth-Butterfield-Giulietta-Ptoyan-25737.html",
+      "description": "The best fragrances centered around vanilla, banana, and different roses.",
+      "category": "Fragrantica",
+      "author": "Giulietta Ptoyan,Beth Butterfield",
+      "published": 1785506824
+    },
+    {
+      "title": "Initiation to a Precious Ritual with Chanel's Extraits",
+      "link": "https://www.fragrantica.com/news/Initiation-to-a-Precious-Ritual-with-Chanel-s-Extraits-25736.html",
+      "description": "Chanel renews the art of intimate perfuming with new packaging for its Extraits.",
+      "category": "Columns",
+      "author": "Sophie Normand",
+      "published": 1785492963
+    },
+    {
       "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Sophie Normand & Yi Shang",
       "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Sophie-Normand-Yi-Shang-25735.html",
       "description": "The best perfumes from France and Asia.",
@@ -767,41 +799,121 @@
       "category": "Fragrance Reviews",
       "author": "Matvey Yudov",
       "published": 1784479682
-    },
-    {
-      "title": "Blue Incense by Amado and Imagination",
-      "link": "https://www.fragrantica.com/news/Blue-Incense-by-Amado-and-Imagination-25639.html",
-      "description": "A modern bestseller, Middle Eastern style.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1784472490
-    },
-    {
-      "title": "Gucci Flora Gorgeous Orchid VS Flora Gorgeous Orchid Intense",
-      "link": "https://www.fragrantica.com/news/Gucci-Flora-Gorgeous-Orchid-VS-Flora-Gorgeous-Orchid-Intense-25638.html",
-      "description": "Gelato vs crème brûlée",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1784465162
-    },
-    {
-      "title": "Review of Christopher Nolan's \"The Odyssey\" (Spoiler alert!)",
-      "link": "https://www.fragrantica.com/news/Review-of-Christopher-Nolan-s-The-Odyssey-Spoiler-alert-25637.html",
-      "description": "Spoiler alert: if you haven't seen the film yet, you probably shouldn't read this.",
-      "category": "Columns",
-      "author": "Elena Knezevic",
-      "published": 1784447164
-    },
-    {
-      "title": "Maison Nomad Noé Launched Habibi Vanilla",
-      "link": "https://www.fragrantica.com/news/Maison-Nomad-Noe-Launched-Habibi-Vanilla-25636.html",
-      "description": "\"The emotional intimacy of being so close that connection feels wordless.\"",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1784435223
     }
   ],
   "perfumes": [
+    {
+      "title": "Veritas Fragrance Co — Archon Black",
+      "link": "https://www.fragrantica.com/perfume/Veritas-Fragrance-Co/Archon-Black-138773.html",
+      "description": "New perfume listing: Archon Black by Veritas Fragrance Co.",
+      "category": "New Perfumes",
+      "author": "Veritas Fragrance Co",
+      "published": 1785518007
+    },
+    {
+      "title": "Zara — Berry Nightfall",
+      "link": "https://www.fragrantica.com/perfume/Zara/Berry-Nightfall-138769.html",
+      "description": "New perfume listing: Berry Nightfall by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1785518007
+    },
+    {
+      "title": "Pictura Fragrans — Persephone’s Rose",
+      "link": "https://www.fragrantica.com/perfume/Pictura-Fragrans/Persephone-s-Rose-138768.html",
+      "description": "New perfume listing: Persephone’s Rose by Pictura Fragrans.",
+      "category": "New Perfumes",
+      "author": "Pictura Fragrans",
+      "published": 1785518007
+    },
+    {
+      "title": "Sense Dubai — No. 12",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/No-12-138779.html",
+      "description": "New perfume listing: No. 12 by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1785518007
+    },
+    {
+      "title": "Sense Dubai — Sahar",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Sahar-138778.html",
+      "description": "New perfume listing: Sahar by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1785518007
+    },
+    {
+      "title": "Sense Dubai — Saaddah",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Saaddah-138777.html",
+      "description": "New perfume listing: Saaddah by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1785518007
+    },
+    {
+      "title": "Pierre Cardin — Belle Etoile",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Belle-Etoile-138776.html",
+      "description": "New perfume listing: Belle Etoile by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785518007
+    },
+    {
+      "title": "Pierre Cardin — Amour Infini",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Amour-Infini-138775.html",
+      "description": "New perfume listing: Amour Infini by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785518007
+    },
+    {
+      "title": "Hermetica — Tuberoli",
+      "link": "https://www.fragrantica.com/perfume/Hermetica/Tuberoli-138774.html",
+      "description": "New perfume listing: Tuberoli by Hermetica.",
+      "category": "New Perfumes",
+      "author": "Hermetica",
+      "published": 1785518007
+    },
+    {
+      "title": "Givenchy — Les Mythiques - Ysatis Eau de Toilette",
+      "link": "https://www.fragrantica.com/perfume/Givenchy/Les-Mythiques-Ysatis-Eau-de-Toilette-138772.html",
+      "description": "New perfume listing: Les Mythiques - Ysatis Eau de Toilette by Givenchy.",
+      "category": "New Perfumes",
+      "author": "Givenchy",
+      "published": 1785518007
+    },
+    {
+      "title": "Morris — Occhi Verdi Fleur de Batik",
+      "link": "https://www.fragrantica.com/perfume/Morris/Occhi-Verdi-Fleur-de-Batik-138771.html",
+      "description": "New perfume listing: Occhi Verdi Fleur de Batik by Morris.",
+      "category": "New Perfumes",
+      "author": "Morris",
+      "published": 1785518007
+    },
+    {
+      "title": "Pierre Cardin — Lumiere De La Vie",
+      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Lumiere-De-La-Vie-138770.html",
+      "description": "New perfume listing: Lumiere De La Vie by Pierre Cardin.",
+      "category": "New Perfumes",
+      "author": "Pierre Cardin",
+      "published": 1785518007
+    },
+    {
+      "title": "Yves d'Orgeval — Pipe Dream Oud",
+      "link": "https://www.fragrantica.com/perfume/Yves-d-Orgeval/Pipe-Dream-Oud-138767.html",
+      "description": "New perfume listing: Pipe Dream Oud by Yves d'Orgeval.",
+      "category": "New Perfumes",
+      "author": "Yves d'Orgeval",
+      "published": 1785518007
+    },
+    {
+      "title": "Yves d'Orgeval — Pipe Dream",
+      "link": "https://www.fragrantica.com/perfume/Yves-d-Orgeval/Pipe-Dream-138766.html",
+      "description": "New perfume listing: Pipe Dream by Yves d'Orgeval.",
+      "category": "New Perfumes",
+      "author": "Yves d'Orgeval",
+      "published": 1785518007
+    },
     {
       "title": "Estrvs — Tuberotica",
       "link": "https://www.fragrantica.com/perfume/Estrvs/Tuberotica-138765.html",
@@ -1489,118 +1601,6 @@
       "category": "New Perfumes",
       "author": "Pleuvoir",
       "published": 1785404624
-    },
-    {
-      "title": "Les Ecuadors — Figue de Toi",
-      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Figue-de-Toi-138689.html",
-      "description": "New perfume listing: Figue de Toi by Les Ecuadors.",
-      "category": "New Perfumes",
-      "author": "Les Ecuadors",
-      "published": 1785404624
-    },
-    {
-      "title": "ProNiche — Cherry, Sandalwood, Smoke, Leather",
-      "link": "https://www.fragrantica.com/perfume/ProNiche/Cherry-Sandalwood-Smoke-Leather-138684.html",
-      "description": "New perfume listing: Cherry, Sandalwood, Smoke, Leather by ProNiche.",
-      "category": "New Perfumes",
-      "author": "ProNiche",
-      "published": 1785404624
-    },
-    {
-      "title": "ProNiche — Mango, Vanilla, Neroli",
-      "link": "https://www.fragrantica.com/perfume/ProNiche/Mango-Vanilla-Neroli-138683.html",
-      "description": "New perfume listing: Mango, Vanilla, Neroli by ProNiche.",
-      "category": "New Perfumes",
-      "author": "ProNiche",
-      "published": 1785404624
-    },
-    {
-      "title": "ProNiche — Peach, Apple, Amber, Musk",
-      "link": "https://www.fragrantica.com/perfume/ProNiche/Peach-Apple-Amber-Musk-138682.html",
-      "description": "New perfume listing: Peach, Apple, Amber, Musk by ProNiche.",
-      "category": "New Perfumes",
-      "author": "ProNiche",
-      "published": 1785404624
-    },
-    {
-      "title": "Les Ecuadors — Rose Oud",
-      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Rose-Oud-138681.html",
-      "description": "New perfume listing: Rose Oud by Les Ecuadors.",
-      "category": "New Perfumes",
-      "author": "Les Ecuadors",
-      "published": 1785404624
-    },
-    {
-      "title": "LeGer by Lena Gercke — Signature",
-      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138676.html",
-      "description": "New perfume listing: Signature by LeGer by Lena Gercke.",
-      "category": "New Perfumes",
-      "author": "LeGer by Lena Gercke",
-      "published": 1785404624
-    },
-    {
-      "title": "Les Ecuadors — Fleur d'Oranger",
-      "link": "https://www.fragrantica.com/perfume/Les-Ecuadors/Fleur-d-Oranger-138675.html",
-      "description": "New perfume listing: Fleur d'Oranger by Les Ecuadors.",
-      "category": "New Perfumes",
-      "author": "Les Ecuadors",
-      "published": 1785404624
-    },
-    {
-      "title": "LeGer by Lena Gercke — Signature",
-      "link": "https://www.fragrantica.com/perfume/LeGer-by-Lena-Gercke/Signature-138649.html",
-      "description": "New perfume listing: Signature by LeGer by Lena Gercke.",
-      "category": "New Perfumes",
-      "author": "LeGer by Lena Gercke",
-      "published": 1785404624
-    },
-    {
-      "title": "NANHA — Orange Vetiver",
-      "link": "https://www.fragrantica.com/perfume/NANHA/Orange-Vetiver-138674.html",
-      "description": "New perfume listing: Orange Vetiver by NANHA.",
-      "category": "New Perfumes",
-      "author": "NANHA",
-      "published": 1785360695
-    },
-    {
-      "title": "NANHA — Musky Maracujá",
-      "link": "https://www.fragrantica.com/perfume/NANHA/Musky-Maracuja-138673.html",
-      "description": "New perfume listing: Musky Maracujá by NANHA.",
-      "category": "New Perfumes",
-      "author": "NANHA",
-      "published": 1785360695
-    },
-    {
-      "title": "Zara — Pétale D'Ambre",
-      "link": "https://www.fragrantica.com/perfume/Zara/Petale-D-Ambre-138591.html",
-      "description": "New perfume listing: Pétale D'Ambre by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1785360695
-    },
-    {
-      "title": "Scents of Man — Lillie Langtry",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-Man/Lillie-Langtry-138672.html",
-      "description": "New perfume listing: Lillie Langtry by Scents of Man.",
-      "category": "New Perfumes",
-      "author": "Scents of Man",
-      "published": 1785344099
-    },
-    {
-      "title": "Scents of Man — Yuzu Doré",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-Man/Yuzu-Dore-138671.html",
-      "description": "New perfume listing: Yuzu Doré by Scents of Man.",
-      "category": "New Perfumes",
-      "author": "Scents of Man",
-      "published": 1785344099
-    },
-    {
-      "title": "Scents of Man — Bluebell Ritual",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-Man/Bluebell-Ritual-138670.html",
-      "description": "New perfume listing: Bluebell Ritual by Scents of Man.",
-      "category": "New Perfumes",
-      "author": "Scents of Man",
-      "published": 1785344099
     }
   ]
 }
