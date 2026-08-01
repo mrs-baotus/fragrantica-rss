@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "AERIN Amber Musk Pistache",
+      "link": "https://www.fragrantica.com/news/AERIN-Amber-Musk-Pistache-25747.html",
+      "description": "The Amber Musk story continues with Amber Musk Pistache, a limited-edition gourmand creation.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1785616983
+    },
+    {
+      "title": "New Unique’e Luxury Summer Release - Chicelle",
+      "link": "https://www.fragrantica.com/news/New-Unique-e-Luxury-Summer-Release-Chicelle-25746.html",
+      "description": "Chicelle, pronounced as Chic-Elle, is a strawberry infused floral fragrance that gives you dreamy alluring vibes to enjoy your summer to the fullest.",
+      "category": "New Fragrances",
+      "author": "Svetlana Lozovaya",
+      "published": 1785616081
+    },
+    {
+      "title": "SŪZŪ: A New Awakening in Brazilian Perfumery",
+      "link": "https://www.fragrantica.com/news/SUZU-A-New-Awakening-in-Brazilian-Perfumery-25745.html",
+      "description": "A new concept. A new perspective.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1785602020
+    },
+    {
       "title": "Theodoros Kalotinis Granita Neroli, Mango Colada and Banane de Coco",
       "link": "https://www.fragrantica.com/news/Theodoros-Kalotinis-Granita-Neroli-Mango-Colada-and-Banane-de-Coco-25744.html",
       "description": "Summer joys: cocktails and ice creams!",
@@ -775,33 +799,57 @@
       "category": "Niche Perfumery",
       "author": "Nicola Thomis",
       "published": 1784554023
-    },
-    {
-      "title": "Matière Première Metal Lavender: The Romance of Provence and Heavy Metal",
-      "link": "https://www.fragrantica.com/news/Matiere-Premiere-Metal-Lavender-The-Romance-of-Provence-and-Heavy-Metal-25647.html",
-      "description": "A modern lavender. Effortless. Oversized. Comfortable. Easy to wear. A luminous and enveloping trail. Lavender in a new incarnation.",
-      "category": "Fragrance Reviews",
-      "author": "Matvey Yudov",
-      "published": 1784545143
-    },
-    {
-      "title": "6 Classic Fragrances I Always Revert to in a Heatwave",
-      "link": "https://www.fragrantica.com/news/6-Classic-Fragrances-I-Always-Revert-to-in-a-Heatwave-25646.html",
-      "description": "There are some fragrances that have proven again and again their ability to cut through the canopy of heat and humidity.",
-      "category": "Columns",
-      "author": "Elena Vosnaki",
-      "published": 1784523723
-    },
-    {
-      "title": "Perfumed Horoscope: July 20-26",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-July-20-26-25645.html",
-      "description": "The Mercury retrograde period ends on the 23rd. I’m looking forward to all the corrections and turning my daydream into reality.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1784511726
     }
   ],
   "perfumes": [
+    {
+      "title": "Loris Parfum — Noctura",
+      "link": "https://www.fragrantica.com/perfume/Loris-Parfum/Noctura-138808.html",
+      "description": "New perfume listing: Noctura by Loris Parfum.",
+      "category": "New Perfumes",
+      "author": "Loris Parfum",
+      "published": 1785619011
+    },
+    {
+      "title": "Roja Dove — Semi Bespoke Royale",
+      "link": "https://www.fragrantica.com/perfume/Roja-Dove/Semi-Bespoke-Royale-138806.html",
+      "description": "New perfume listing: Semi Bespoke Royale by Roja Dove.",
+      "category": "New Perfumes",
+      "author": "Roja Dove",
+      "published": 1785619011
+    },
+    {
+      "title": "Body Fantasies — Island Passion Flower",
+      "link": "https://www.fragrantica.com/perfume/Body-Fantasies/Island-Passion-Flower-138804.html",
+      "description": "New perfume listing: Island Passion Flower by Body Fantasies.",
+      "category": "New Perfumes",
+      "author": "Body Fantasies",
+      "published": 1785619011
+    },
+    {
+      "title": "Lattafa Perfumes — Raghad",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Raghad-138803.html",
+      "description": "New perfume listing: Raghad by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1785619011
+    },
+    {
+      "title": "Lush — Frozen",
+      "link": "https://www.fragrantica.com/perfume/Lush/Frozen-138807.html",
+      "description": "New perfume listing: Frozen by Lush.",
+      "category": "New Perfumes",
+      "author": "Lush",
+      "published": 1785619011
+    },
+    {
+      "title": "Maison Alhambra — Your Touch",
+      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Your-Touch-138805.html",
+      "description": "New perfume listing: Your Touch by Maison Alhambra.",
+      "category": "New Perfumes",
+      "author": "Maison Alhambra",
+      "published": 1785619011
+    },
     {
       "title": "Aerin — Amber Musk Pistache",
       "link": "https://www.fragrantica.com/perfume/Aerin/Amber-Musk-Pistache-138800.html",
@@ -1553,54 +1601,6 @@
       "category": "New Perfumes",
       "author": "Maison Jannobi",
       "published": 1785431451
-    },
-    {
-      "title": "MAISON ASRAR — Belgravia",
-      "link": "https://www.fragrantica.com/perfume/MAISON-ASRAR/Belgravia-138705.html",
-      "description": "New perfume listing: Belgravia by MAISON ASRAR.",
-      "category": "New Perfumes",
-      "author": "MAISON ASRAR",
-      "published": 1785431451
-    },
-    {
-      "title": "Ayat Perfumes — Dreaming",
-      "link": "https://www.fragrantica.com/perfume/Ayat-Perfumes/Dreaming-138729.html",
-      "description": "New perfume listing: Dreaming by Ayat Perfumes.",
-      "category": "New Perfumes",
-      "author": "Ayat Perfumes",
-      "published": 1785431451
-    },
-    {
-      "title": "Ayat Perfumes — The Seashore",
-      "link": "https://www.fragrantica.com/perfume/Ayat-Perfumes/The-Seashore-138728.html",
-      "description": "New perfume listing: The Seashore by Ayat Perfumes.",
-      "category": "New Perfumes",
-      "author": "Ayat Perfumes",
-      "published": 1785431451
-    },
-    {
-      "title": "Jimmy Boyd — Neroli Citrine Organic Parfum",
-      "link": "https://www.fragrantica.com/perfume/Jimmy-Boyd/Neroli-Citrine-Organic-Parfum-138727.html",
-      "description": "New perfume listing: Neroli Citrine Organic Parfum by Jimmy Boyd.",
-      "category": "New Perfumes",
-      "author": "Jimmy Boyd",
-      "published": 1785431451
-    },
-    {
-      "title": "Jimmy Boyd — Oak Moss Quartz Organic Parfum",
-      "link": "https://www.fragrantica.com/perfume/Jimmy-Boyd/Oak-Moss-Quartz-Organic-Parfum-138726.html",
-      "description": "New perfume listing: Oak Moss Quartz Organic Parfum by Jimmy Boyd.",
-      "category": "New Perfumes",
-      "author": "Jimmy Boyd",
-      "published": 1785431451
-    },
-    {
-      "title": "Dior — Sauvage Extrait",
-      "link": "https://www.fragrantica.com/perfume/Dior/Sauvage-Extrait-138704.html",
-      "description": "New perfume listing: Sauvage Extrait by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1785404624
     }
   ]
 }
