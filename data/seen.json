@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "ARMAF Club De Nuit Intense Overdose",
+      "link": "https://www.fragrantica.com/news/ARMAF-Club-De-Nuit-Intense-Overdose-25771.html",
+      "description": "New launch from Armaf: Club de Nuit Intense Overdose.",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1785859203
+    },
+    {
+      "title": "A'Mare by Arte Profumi: Incense and the Sea",
+      "link": "https://www.fragrantica.com/news/A-Mare-by-Arte-Profumi-Incense-and-the-Sea-25770.html",
+      "description": "A fragrance well worth trying for anyone who appreciates fresh, clean, naturally expressive incense.",
+      "category": "Fragrance Reviews",
+      "author": "Andrei Lensky",
+      "published": 1785850209
+    },
+    {
+      "title": "Kumquat: Citrus in Reverse",
+      "link": "https://www.fragrantica.com/news/Kumquat-Citrus-in-Reverse-25769.html",
+      "description": "Kumquat in the history of biology, the kitchen, and perfumery",
+      "category": "Raw Materials",
+      "author": "Matvey Yudov",
+      "published": 1785842944
+    },
+    {
       "title": "Aerse: The New Asian Perfumery",
       "link": "https://www.fragrantica.com/news/Aerse-The-New-Asian-Perfumery-25768.html",
       "description": "A (very) young brand, ten fragrances, unconventional design: What will happen of it?",
@@ -11,7 +35,7 @@
     {
       "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Nayeli Cano & Edie Smith",
       "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Nayeli-Cano-Edie-Smith-25767.html",
-      "description": "The best of the sweet fragrances, as well as the странгест names and mysterious scents.",
+      "description": "The best of the sweet fragrances, as well as some strange names and mysterious scents.",
       "category": "Fragrantica",
       "author": "Nayeli Cano,Edie Smith",
       "published": 1785826263
@@ -775,33 +799,145 @@
       "category": "Columns",
       "author": "Galina Anni",
       "published": 1784809143
-    },
-    {
-      "title": "Yes, Nos Temos Banana!: Granado's Banana Reveals Itself as Complex and Refined",
-      "link": "https://www.fragrantica.com/news/Yes-Nos-Temos-Banana-Granado-s-Banana-Reveals-Itself-as-Complex-and-Refined-25671.html",
-      "description": "A look back at Granado's latest launch, presented in Paris at the end of June: Yes, Nos Temos Banana!",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1784791805
-    },
-    {
-      "title": "My Vanilla Diaries - The Deep and the Dark (Continued)",
-      "link": "https://www.fragrantica.com/news/My-Vanilla-Diaries-The-Deep-and-the-Dark-Continued-25670.html",
-      "description": "The very ones that trade frosting for frankincense, sugar for smoky woods and caramel for spices.",
-      "category": "Columns",
-      "author": "Dr Ruqayya Abba Tofa",
-      "published": 1784784604
-    },
-    {
-      "title": "Madagascar Le Baume Vanille by Parfum d'Empire: Wildly Intoxicating Vanilla",
-      "link": "https://www.fragrantica.com/news/Madagascar-Le-Baume-Vanille-by-Parfum-d-Empire-Wildly-Intoxicating-Vanilla-25669.html",
-      "description": "Christmas on a Tropical Island",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1784773804
     }
   ],
   "perfumes": [
+    {
+      "title": "Necalli — Leviatan",
+      "link": "https://www.fragrantica.com/perfume/Necalli/Leviatan-139026.html",
+      "description": "New perfume listing: Leviatan by Necalli.",
+      "category": "New Perfumes",
+      "author": "Necalli",
+      "published": 1785867462
+    },
+    {
+      "title": "Giovani — Red Cashmere",
+      "link": "https://www.fragrantica.com/perfume/Giovani/Red-Cashmere-139025.html",
+      "description": "New perfume listing: Red Cashmere by Giovani.",
+      "category": "New Perfumes",
+      "author": "Giovani",
+      "published": 1785867462
+    },
+    {
+      "title": "Giovani — Exclusive Gold",
+      "link": "https://www.fragrantica.com/perfume/Giovani/Exclusive-Gold-139024.html",
+      "description": "New perfume listing: Exclusive Gold by Giovani.",
+      "category": "New Perfumes",
+      "author": "Giovani",
+      "published": 1785867462
+    },
+    {
+      "title": "Kinana — Koh Samui",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Koh-Samui-139023.html",
+      "description": "New perfume listing: Koh Samui by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1785867462
+    },
+    {
+      "title": "Kinana — Luban Dhofar",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Luban-Dhofar-139022.html",
+      "description": "New perfume listing: Luban Dhofar by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1785867462
+    },
+    {
+      "title": "Logoi Perfumes — Wildness",
+      "link": "https://www.fragrantica.com/perfume/Logoi-Perfumes/Wildness-139021.html",
+      "description": "New perfume listing: Wildness by Logoi Perfumes.",
+      "category": "New Perfumes",
+      "author": "Logoi Perfumes",
+      "published": 1785867462
+    },
+    {
+      "title": "Alverde — Glucksmoment",
+      "link": "https://www.fragrantica.com/perfume/Alverde/Glucksmoment-139020.html",
+      "description": "New perfume listing: Glucksmoment by Alverde.",
+      "category": "New Perfumes",
+      "author": "Alverde",
+      "published": 1785867462
+    },
+    {
+      "title": "Alverde — Abendhimmel",
+      "link": "https://www.fragrantica.com/perfume/Alverde/Abendhimmel-139019.html",
+      "description": "New perfume listing: Abendhimmel by Alverde.",
+      "category": "New Perfumes",
+      "author": "Alverde",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Sandalwood & Warm Caramel",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Sandalwood-Warm-Caramel-139017.html",
+      "description": "New perfume listing: Sandalwood & Warm Caramel by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Magnolia & Wood",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Magnolia-Wood-139016.html",
+      "description": "New perfume listing: Magnolia & Wood by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Spice Vanilla & Cacao",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Spice-Vanilla-Cacao-139015.html",
+      "description": "New perfume listing: Spice Vanilla & Cacao by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Warm Vanilla & Sugar",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Warm-Vanilla-Sugar-139014.html",
+      "description": "New perfume listing: Warm Vanilla & Sugar by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Pumpkin Caramel & Vanilla",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Pumpkin-Caramel-Vanilla-139013.html",
+      "description": "New perfume listing: Pumpkin Caramel & Vanilla by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "BaoBath — Mimosa & Patchouli",
+      "link": "https://www.fragrantica.com/perfume/BaoBath/Mimosa-Patchouli-139012.html",
+      "description": "New perfume listing: Mimosa & Patchouli by BaoBath.",
+      "category": "New Perfumes",
+      "author": "BaoBath",
+      "published": 1785867462
+    },
+    {
+      "title": "Inhale — Keplion",
+      "link": "https://www.fragrantica.com/perfume/Inhale/Keplion-139011.html",
+      "description": "New perfume listing: Keplion by Inhale.",
+      "category": "New Perfumes",
+      "author": "Inhale",
+      "published": 1785867462
+    },
+    {
+      "title": "Inhale — Summer Bomb",
+      "link": "https://www.fragrantica.com/perfume/Inhale/Summer-Bomb-139010.html",
+      "description": "New perfume listing: Summer Bomb by Inhale.",
+      "category": "New Perfumes",
+      "author": "Inhale",
+      "published": 1785867462
+    },
+    {
+      "title": "Sttes Brazilian — #02 - Irresistible Sunshine",
+      "link": "https://www.fragrantica.com/perfume/Sttes-Brazilian/02-Irresistible-Sunshine-139018.html",
+      "description": "New perfume listing: #02 - Irresistible Sunshine by Sttes Brazilian.",
+      "category": "New Perfumes",
+      "author": "Sttes Brazilian",
+      "published": 1785867462
+    },
     {
       "title": "LuNiche — Aziza Forte",
       "link": "https://www.fragrantica.com/perfume/LuNiche/Aziza-Forte-138989.html",
@@ -1465,142 +1601,6 @@
       "category": "New Perfumes",
       "author": "Perfume Who",
       "published": 1785795381
-    },
-    {
-      "title": "WIDIAN — Polite Oud",
-      "link": "https://www.fragrantica.com/perfume/WIDIAN/Polite-Oud-138923.html",
-      "description": "New perfume listing: Polite Oud by WIDIAN.",
-      "category": "New Perfumes",
-      "author": "WIDIAN",
-      "published": 1785760955
-    },
-    {
-      "title": "Welton London — Welton X Chris Collins Talisman",
-      "link": "https://www.fragrantica.com/perfume/Welton-London/Welton-X-Chris-Collins-Talisman-138922.html",
-      "description": "New perfume listing: Welton X Chris Collins Talisman by Welton London.",
-      "category": "New Perfumes",
-      "author": "Welton London",
-      "published": 1785760955
-    },
-    {
-      "title": "Scents of Wood — Rosewood in Mahogany",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-Wood/Rosewood-in-Mahogany-138921.html",
-      "description": "New perfume listing: Rosewood in Mahogany by Scents of Wood.",
-      "category": "New Perfumes",
-      "author": "Scents of Wood",
-      "published": 1785760955
-    },
-    {
-      "title": "Haute Fragrance Company HFC — Grand Prix",
-      "link": "https://www.fragrantica.com/perfume/Haute-Fragrance-Company-HFC/Grand-Prix-138920.html",
-      "description": "New perfume listing: Grand Prix by Haute Fragrance Company HFC.",
-      "category": "New Perfumes",
-      "author": "Haute Fragrance Company HFC",
-      "published": 1785760955
-    },
-    {
-      "title": "Filippo Sorcinelli — Gettone",
-      "link": "https://www.fragrantica.com/perfume/Filippo-Sorcinelli/Gettone-138919.html",
-      "description": "New perfume listing: Gettone by Filippo Sorcinelli.",
-      "category": "New Perfumes",
-      "author": "Filippo Sorcinelli",
-      "published": 1785760955
-    },
-    {
-      "title": "Henry Jacques — Cadence de HJ",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Cadence-de-HJ-138918.html",
-      "description": "New perfume listing: Cadence de HJ by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1785760955
-    },
-    {
-      "title": "Maqueda Perfume — Charcoal Chocolate",
-      "link": "https://www.fragrantica.com/perfume/Maqueda-Perfume/Charcoal-Chocolate-138917.html",
-      "description": "New perfume listing: Charcoal Chocolate by Maqueda Perfume.",
-      "category": "New Perfumes",
-      "author": "Maqueda Perfume",
-      "published": 1785760955
-    },
-    {
-      "title": "Ex Nihilo — Vendomania Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Ex-Nihilo/Vendomania-Extrait-de-Parfum-138916.html",
-      "description": "New perfume listing: Vendomania Extrait de Parfum by Ex Nihilo.",
-      "category": "New Perfumes",
-      "author": "Ex Nihilo",
-      "published": 1785760955
-    },
-    {
-      "title": "Chloé — Chloé Le Nectar",
-      "link": "https://www.fragrantica.com/perfume/Chloe/Chloe-Le-Nectar-138915.html",
-      "description": "New perfume listing: Chloé Le Nectar by Chloé.",
-      "category": "New Perfumes",
-      "author": "Chloé",
-      "published": 1785760955
-    },
-    {
-      "title": "Louis Vuitton — Tea Storm",
-      "link": "https://www.fragrantica.com/perfume/Louis-Vuitton/Tea-Storm-138914.html",
-      "description": "New perfume listing: Tea Storm by Louis Vuitton.",
-      "category": "New Perfumes",
-      "author": "Louis Vuitton",
-      "published": 1785760955
-    },
-    {
-      "title": "Água de Cabo Verde — Azagua",
-      "link": "https://www.fragrantica.com/perfume/Agua-de-Cabo-Verde/Azagua-138913.html",
-      "description": "New perfume listing: Azagua by Água de Cabo Verde.",
-      "category": "New Perfumes",
-      "author": "Água de Cabo Verde",
-      "published": 1785760955
-    },
-    {
-      "title": "Água de Cabo Verde — Burkan",
-      "link": "https://www.fragrantica.com/perfume/Agua-de-Cabo-Verde/Burkan-138912.html",
-      "description": "New perfume listing: Burkan by Água de Cabo Verde.",
-      "category": "New Perfumes",
-      "author": "Água de Cabo Verde",
-      "published": 1785760955
-    },
-    {
-      "title": "Água de Cabo Verde — Kana Preta",
-      "link": "https://www.fragrantica.com/perfume/Agua-de-Cabo-Verde/Kana-Preta-138911.html",
-      "description": "New perfume listing: Kana Preta by Água de Cabo Verde.",
-      "category": "New Perfumes",
-      "author": "Água de Cabo Verde",
-      "published": 1785760955
-    },
-    {
-      "title": "Zara — Hypnotic Vanilla Elixir",
-      "link": "https://www.fragrantica.com/perfume/Zara/Hypnotic-Vanilla-Elixir-138909.html",
-      "description": "New perfume listing: Hypnotic Vanilla Elixir by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1785760955
-    },
-    {
-      "title": "NOT COMPLIANCE — SeaRoam",
-      "link": "https://www.fragrantica.com/perfume/NOT-COMPLIANCE/SeaRoam-138904.html",
-      "description": "New perfume listing: SeaRoam by NOT COMPLIANCE.",
-      "category": "New Perfumes",
-      "author": "NOT COMPLIANCE",
-      "published": 1785760955
-    },
-    {
-      "title": "NOT COMPLIANCE — Shirta",
-      "link": "https://www.fragrantica.com/perfume/NOT-COMPLIANCE/Shirta-138902.html",
-      "description": "New perfume listing: Shirta by NOT COMPLIANCE.",
-      "category": "New Perfumes",
-      "author": "NOT COMPLIANCE",
-      "published": 1785760955
-    },
-    {
-      "title": "Outsider Parfum — Guilty As Charged",
-      "link": "https://www.fragrantica.com/perfume/Outsider-Parfum/Guilty-As-Charged-138901.html",
-      "description": "New perfume listing: Guilty As Charged by Outsider Parfum.",
-      "category": "New Perfumes",
-      "author": "Outsider Parfum",
-      "published": 1785760955
     }
   ]
 }
