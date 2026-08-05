@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Skandinavisk Launch New Fragrance Collection",
+      "link": "https://www.fragrantica.com/news/Skandinavisk-Launch-New-Fragrance-Collection-25775.html",
+      "description": "The brand, perhaps best known for their home fragrances, releases seven scents as personal perfumes",
+      "category": "Fragrance Reviews",
+      "author": "Nicola Thomis",
+      "published": 1785920403
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Eddie Bulliqi & Bella Van Der Weerd",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Eddie-Bulliqi-Bella-Van-Der-Weerd-25774.html",
+      "description": "Exotic flowers and fruits, as well as perfume frost.",
+      "category": "Fragrantica",
+      "author": "Eddie Bulliqi,Bella van der Weerd",
+      "published": 1785892742
+    },
+    {
+      "title": "An Invisible Treasure: Thesaurus by Cale Fragranze d’Autore",
+      "link": "https://www.fragrantica.com/news/An-Invisible-Treasure-Thesaurus-by-Cale-Fragranze-d-Autore-25773.html",
+      "description": "…the rarest treasure is never something we posses, but something we become…",
+      "category": "New Fragrances",
+      "author": "Dariia Fessalonika",
+      "published": 1785880803
+    },
+    {
+      "title": "Chocolate Ganache and Toffee Ganache: Sweets from Arabiyat Sugar",
+      "link": "https://www.fragrantica.com/news/Chocolate-Ganache-and-Toffee-Ganache-Sweets-from-Arabiyat-Sugar-25772.html",
+      "description": "Nuts, cereals, and caramel instead of chocolate",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1785870003
+    },
+    {
       "title": "ARMAF Club De Nuit Intense Overdose",
       "link": "https://www.fragrantica.com/news/ARMAF-Club-De-Nuit-Intense-Overdose-25771.html",
       "description": "New launch from Armaf: Club de Nuit Intense Overdose.",
@@ -767,41 +799,281 @@
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1784844603
-    },
-    {
-      "title": "A Sane Witch’s Little Rose Garden: Love by Chopard — Absolutely Lovely!",
-      "link": "https://www.fragrantica.com/news/A-Sane-Witch-s-Little-Rose-Garden-Love-by-Chopard-Absolutely-Lovely-25675.html",
-      "description": "Joy in a bottle.",
-      "category": "Fragrance Reviews",
-      "author": "Alex (Sane-Witch) Osipov",
-      "published": 1784836984
-    },
-    {
-      "title": "Archétype Hector: From Father To Son",
-      "link": "https://www.fragrantica.com/news/Archetype-Hector-From-Father-To-Son-25674.html",
-      "description": "\"It is currently my strongest candidate for the fragrance I have worn more than any other this summer.\"",
-      "category": "Fragrance Reviews",
-      "author": "Matvey Yudov",
-      "published": 1784827024
-    },
-    {
-      "title": "How These Perfumes Got Their Names",
-      "link": "https://www.fragrantica.com/news/How-These-Perfumes-Got-Their-Names-25673.html",
-      "description": "What's in a perfume name? Lots of effort, actually.",
-      "category": "Columns",
-      "author": "Adam Forziati",
-      "published": 1784819043
-    },
-    {
-      "title": "The Whales of Planet Earth",
-      "link": "https://www.fragrantica.com/news/The-Whales-of-Planet-Earth-25672.html",
-      "description": "July 23 marks World Whale and Dolphin Day.",
-      "category": "Columns",
-      "author": "Galina Anni",
-      "published": 1784809143
     }
   ],
   "perfumes": [
+    {
+      "title": "Jacky — May Light",
+      "link": "https://www.fragrantica.com/perfume/Jacky/May-Light-139060.html",
+      "description": "New perfume listing: May Light by Jacky.",
+      "category": "New Perfumes",
+      "author": "Jacky",
+      "published": 1785924880
+    },
+    {
+      "title": "Jacky — Kill Kit",
+      "link": "https://www.fragrantica.com/perfume/Jacky/Kill-Kit-139059.html",
+      "description": "New perfume listing: Kill Kit by Jacky.",
+      "category": "New Perfumes",
+      "author": "Jacky",
+      "published": 1785924880
+    },
+    {
+      "title": "Jacky — Luna Park",
+      "link": "https://www.fragrantica.com/perfume/Jacky/Luna-Park-139058.html",
+      "description": "New perfume listing: Luna Park by Jacky.",
+      "category": "New Perfumes",
+      "author": "Jacky",
+      "published": 1785924880
+    },
+    {
+      "title": "Initio Parfums Prives — Oud for Grace",
+      "link": "https://www.fragrantica.com/perfume/Initio-Parfums-Prives/Oud-for-Grace-139057.html",
+      "description": "New perfume listing: Oud for Grace by Initio Parfums Prives.",
+      "category": "New Perfumes",
+      "author": "Initio Parfums Prives",
+      "published": 1785924880
+    },
+    {
+      "title": "Calvin Klein — Euphoria Signature Elixir",
+      "link": "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-Signature-Elixir-139056.html",
+      "description": "New perfume listing: Euphoria Signature Elixir by Calvin Klein.",
+      "category": "New Perfumes",
+      "author": "Calvin Klein",
+      "published": 1785924880
+    },
+    {
+      "title": "Sell My Soul — Greed",
+      "link": "https://www.fragrantica.com/perfume/Sell-My-Soul/Greed-139055.html",
+      "description": "New perfume listing: Greed by Sell My Soul.",
+      "category": "New Perfumes",
+      "author": "Sell My Soul",
+      "published": 1785924880
+    },
+    {
+      "title": "Sell My Soul — Lust",
+      "link": "https://www.fragrantica.com/perfume/Sell-My-Soul/Lust-139054.html",
+      "description": "New perfume listing: Lust by Sell My Soul.",
+      "category": "New Perfumes",
+      "author": "Sell My Soul",
+      "published": 1785924880
+    },
+    {
+      "title": "Sell My Soul — Sloth",
+      "link": "https://www.fragrantica.com/perfume/Sell-My-Soul/Sloth-139053.html",
+      "description": "New perfume listing: Sloth by Sell My Soul.",
+      "category": "New Perfumes",
+      "author": "Sell My Soul",
+      "published": 1785924880
+    },
+    {
+      "title": "Sensxsent Parfums — Rose Bourbon Coffee",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Rose-Bourbon-Coffee-139052.html",
+      "description": "New perfume listing: Rose Bourbon Coffee by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1785924880
+    },
+    {
+      "title": "Sensxsent Parfums — Pepper Gine Tonique",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Pepper-Gine-Tonique-139051.html",
+      "description": "New perfume listing: Pepper Gine Tonique by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1785924880
+    },
+    {
+      "title": "Sensxsent Parfums — Oud Passionfruit",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Oud-Passionfruit-139050.html",
+      "description": "New perfume listing: Oud Passionfruit by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1785924880
+    },
+    {
+      "title": "Sensxsent Parfums — Musk À La Poire 11",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Musk-A-La-Poire-11-139049.html",
+      "description": "New perfume listing: Musk À La Poire 11 by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1785924880
+    },
+    {
+      "title": "Sensxsent Parfums — Jasmine White Morfeen",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Jasmine-White-Morfeen-139048.html",
+      "description": "New perfume listing: Jasmine White Morfeen by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1785924880
+    },
+    {
+      "title": "Skylar — Sundae Scoop",
+      "link": "https://www.fragrantica.com/perfume/Skylar/Sundae-Scoop-139047.html",
+      "description": "New perfume listing: Sundae Scoop by Skylar.",
+      "category": "New Perfumes",
+      "author": "Skylar",
+      "published": 1785924880
+    },
+    {
+      "title": "Spoiler — Eternos",
+      "link": "https://www.fragrantica.com/perfume/Spoiler/Eternos-139042.html",
+      "description": "New perfume listing: Eternos by Spoiler.",
+      "category": "New Perfumes",
+      "author": "Spoiler",
+      "published": 1785924880
+    },
+    {
+      "title": "Spoiler — Cheiro de Homem",
+      "link": "https://www.fragrantica.com/perfume/Spoiler/Cheiro-de-Homem-139041.html",
+      "description": "New perfume listing: Cheiro de Homem by Spoiler.",
+      "category": "New Perfumes",
+      "author": "Spoiler",
+      "published": 1785924880
+    },
+    {
+      "title": "We Pink — Perfect Pear & Peach",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Perfect-Pear-Peach-139040.html",
+      "description": "New perfume listing: Perfect Pear & Peach by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1785924880
+    },
+    {
+      "title": "We Pink — King Blue Supreme",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/King-Blue-Supreme-139039.html",
+      "description": "New perfume listing: King Blue Supreme by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1785924880
+    },
+    {
+      "title": "Avatim — Boníssimo Gold",
+      "link": "https://www.fragrantica.com/perfume/Avatim/Bonissimo-Gold-139038.html",
+      "description": "New perfume listing: Boníssimo Gold by Avatim.",
+      "category": "New Perfumes",
+      "author": "Avatim",
+      "published": 1785924880
+    },
+    {
+      "title": "Eudora — Eudora Absolu",
+      "link": "https://www.fragrantica.com/perfume/Eudora/Eudora-Absolu-139037.html",
+      "description": "New perfume listing: Eudora Absolu by Eudora.",
+      "category": "New Perfumes",
+      "author": "Eudora",
+      "published": 1785924880
+    },
+    {
+      "title": "Natura — Tododia Néctar de Mel",
+      "link": "https://www.fragrantica.com/perfume/Natura/Tododia-Nectar-de-Mel-139036.html",
+      "description": "New perfume listing: Tododia Néctar de Mel by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1785924880
+    },
+    {
+      "title": "Bond No 9 — Florida's Favorite",
+      "link": "https://www.fragrantica.com/perfume/Bond-No-9/Florida-s-Favorite-139027.html",
+      "description": "New perfume listing: Florida's Favorite by Bond No 9.",
+      "category": "New Perfumes",
+      "author": "Bond No 9",
+      "published": 1785924880
+    },
+    {
+      "title": "Penti — Cosy",
+      "link": "https://www.fragrantica.com/perfume/Penti/Cosy-139046.html",
+      "description": "New perfume listing: Cosy by Penti.",
+      "category": "New Perfumes",
+      "author": "Penti",
+      "published": 1785924880
+    },
+    {
+      "title": "Penti — Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Penti/Vanilla-139045.html",
+      "description": "New perfume listing: Vanilla by Penti.",
+      "category": "New Perfumes",
+      "author": "Penti",
+      "published": 1785924880
+    },
+    {
+      "title": "Penti — Bliss",
+      "link": "https://www.fragrantica.com/perfume/Penti/Bliss-139044.html",
+      "description": "New perfume listing: Bliss by Penti.",
+      "category": "New Perfumes",
+      "author": "Penti",
+      "published": 1785924880
+    },
+    {
+      "title": "Penti — Desire",
+      "link": "https://www.fragrantica.com/perfume/Penti/Desire-139043.html",
+      "description": "New perfume listing: Desire by Penti.",
+      "category": "New Perfumes",
+      "author": "Penti",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Melancia com Rosa Mosqueta",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Melancia-com-Rosa-Mosqueta-139035.html",
+      "description": "New perfume listing: Melancia com Rosa Mosqueta by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Romã Care",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Roma-Care-139034.html",
+      "description": "New perfume listing: Romã Care by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Pitaya",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Pitaya-139033.html",
+      "description": "New perfume listing: Pitaya by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Árabe",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Arabe-139032.html",
+      "description": "New perfume listing: Árabe by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Ameixa Negra",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Ameixa-Negra-139031.html",
+      "description": "New perfume listing: Ameixa Negra by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Elixir Árabe",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Elixir-Arabe-139030.html",
+      "description": "New perfume listing: Elixir Árabe by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Acqua Essence Rosa Mosqueta",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Acqua-Essence-Rosa-Mosqueta-139029.html",
+      "description": "New perfume listing: Acqua Essence Rosa Mosqueta by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
+    {
+      "title": "Muriel Cosméticos — Acqua Essence Flor da Mata",
+      "link": "https://www.fragrantica.com/perfume/Muriel-Cosmeticos/Acqua-Essence-Flor-da-Mata-139028.html",
+      "description": "New perfume listing: Acqua Essence Flor da Mata by Muriel Cosméticos.",
+      "category": "New Perfumes",
+      "author": "Muriel Cosméticos",
+      "published": 1785924880
+    },
     {
       "title": "Necalli — Leviatan",
       "link": "https://www.fragrantica.com/perfume/Necalli/Leviatan-139026.html",
@@ -1328,278 +1600,6 @@
       "description": "New perfume listing: Almond Sunshine by The Today Project.",
       "category": "New Perfumes",
       "author": "The Today Project",
-      "published": 1785795381
-    },
-    {
-      "title": "The Today Project — Piña Pa' La Niña",
-      "link": "https://www.fragrantica.com/perfume/The-Today-Project/Pina-Pa-La-Nina-138957.html",
-      "description": "New perfume listing: Piña Pa' La Niña by The Today Project.",
-      "category": "New Perfumes",
-      "author": "The Today Project",
-      "published": 1785795381
-    },
-    {
-      "title": "94 Fragrance — High By The Beach",
-      "link": "https://www.fragrantica.com/perfume/94-Fragrance/High-By-The-Beach-138956.html",
-      "description": "New perfume listing: High By The Beach by 94 Fragrance.",
-      "category": "New Perfumes",
-      "author": "94 Fragrance",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Pastiche Court",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Pastiche-Court-138955.html",
-      "description": "New perfume listing: Pastiche Court by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Figwood No. 3",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Figwood-No-3-138954.html",
-      "description": "New perfume listing: Figwood No. 3 by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Orange Monastery",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Orange-Monastery-138953.html",
-      "description": "New perfume listing: Orange Monastery by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Regent Ambar",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Regent-Ambar-138952.html",
-      "description": "New perfume listing: Regent Ambar by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Ferox Spiritus",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Ferox-Spiritus-138951.html",
-      "description": "New perfume listing: Ferox Spiritus by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Czech & Speake — Mayfair Oud",
-      "link": "https://www.fragrantica.com/perfume/Czech-Speake/Mayfair-Oud-138950.html",
-      "description": "New perfume listing: Mayfair Oud by Czech & Speake.",
-      "category": "New Perfumes",
-      "author": "Czech & Speake",
-      "published": 1785795381
-    },
-    {
-      "title": "Montauk Man — North Bar",
-      "link": "https://www.fragrantica.com/perfume/Montauk-Man/North-Bar-138949.html",
-      "description": "New perfume listing: North Bar by Montauk Man.",
-      "category": "New Perfumes",
-      "author": "Montauk Man",
-      "published": 1785795381
-    },
-    {
-      "title": "Montauk Man — Twice Light",
-      "link": "https://www.fragrantica.com/perfume/Montauk-Man/Twice-Light-138948.html",
-      "description": "New perfume listing: Twice Light by Montauk Man.",
-      "category": "New Perfumes",
-      "author": "Montauk Man",
-      "published": 1785795381
-    },
-    {
-      "title": "Montauk Man — Rough Riders",
-      "link": "https://www.fragrantica.com/perfume/Montauk-Man/Rough-Riders-138947.html",
-      "description": "New perfume listing: Rough Riders by Montauk Man.",
-      "category": "New Perfumes",
-      "author": "Montauk Man",
-      "published": 1785795381
-    },
-    {
-      "title": "Montauk Man — Amber Boom",
-      "link": "https://www.fragrantica.com/perfume/Montauk-Man/Amber-Boom-138946.html",
-      "description": "New perfume listing: Amber Boom by Montauk Man.",
-      "category": "New Perfumes",
-      "author": "Montauk Man",
-      "published": 1785795381
-    },
-    {
-      "title": "Elara Paris — Burn For You",
-      "link": "https://www.fragrantica.com/perfume/Elara-Paris/Burn-For-You-138945.html",
-      "description": "New perfume listing: Burn For You by Elara Paris.",
-      "category": "New Perfumes",
-      "author": "Elara Paris",
-      "published": 1785795381
-    },
-    {
-      "title": "Elara Paris — Eden's Heart",
-      "link": "https://www.fragrantica.com/perfume/Elara-Paris/Eden-s-Heart-138944.html",
-      "description": "New perfume listing: Eden's Heart by Elara Paris.",
-      "category": "New Perfumes",
-      "author": "Elara Paris",
-      "published": 1785795381
-    },
-    {
-      "title": "Casaniche — White India",
-      "link": "https://www.fragrantica.com/perfume/Casaniche/White-India-138943.html",
-      "description": "New perfume listing: White India by Casaniche.",
-      "category": "New Perfumes",
-      "author": "Casaniche",
-      "published": 1785795381
-    },
-    {
-      "title": "Karen Timson — Côte Vermeille",
-      "link": "https://www.fragrantica.com/perfume/Karen-Timson/Cote-Vermeille-138942.html",
-      "description": "New perfume listing: Côte Vermeille by Karen Timson.",
-      "category": "New Perfumes",
-      "author": "Karen Timson",
-      "published": 1785795381
-    },
-    {
-      "title": "Vivamor Parfums — Bitter Sweet",
-      "link": "https://www.fragrantica.com/perfume/Vivamor-Parfums/Bitter-Sweet-138941.html",
-      "description": "New perfume listing: Bitter Sweet by Vivamor Parfums.",
-      "category": "New Perfumes",
-      "author": "Vivamor Parfums",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Spring Picnic",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Spring-Picnic-138940.html",
-      "description": "New perfume listing: Spring Picnic by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Angels Fruit Cake",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Angels-Fruit-Cake-138939.html",
-      "description": "New perfume listing: Angels Fruit Cake by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Casaniche — Hindi Kundha",
-      "link": "https://www.fragrantica.com/perfume/Casaniche/Hindi-Kundha-138938.html",
-      "description": "New perfume listing: Hindi Kundha by Casaniche.",
-      "category": "New Perfumes",
-      "author": "Casaniche",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Aphrodite",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Aphrodite-138937.html",
-      "description": "New perfume listing: Aphrodite by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Casaniche — Buaya Laos",
-      "link": "https://www.fragrantica.com/perfume/Casaniche/Buaya-Laos-138936.html",
-      "description": "New perfume listing: Buaya Laos by Casaniche.",
-      "category": "New Perfumes",
-      "author": "Casaniche",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Coffee Cake",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Coffee-Cake-138935.html",
-      "description": "New perfume listing: Coffee Cake by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Casaniche — Buaya Anfar",
-      "link": "https://www.fragrantica.com/perfume/Casaniche/Buaya-Anfar-138934.html",
-      "description": "New perfume listing: Buaya Anfar by Casaniche.",
-      "category": "New Perfumes",
-      "author": "Casaniche",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Iris Daydream",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Iris-Daydream-138933.html",
-      "description": "New perfume listing: Iris Daydream by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Casaniche — Suyufi",
-      "link": "https://www.fragrantica.com/perfume/Casaniche/Suyufi-138932.html",
-      "description": "New perfume listing: Suyufi by Casaniche.",
-      "category": "New Perfumes",
-      "author": "Casaniche",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Lavender Latte",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Lavender-Latte-138931.html",
-      "description": "New perfume listing: Lavender Latte by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Lavender Moon Tea",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Lavender-Moon-Tea-138930.html",
-      "description": "New perfume listing: Lavender Moon Tea by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Meadows Milk",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Meadows-Milk-138929.html",
-      "description": "New perfume listing: Meadows Milk by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — Seaside Breeze",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/Seaside-Breeze-138928.html",
-      "description": "New perfume listing: Seaside Breeze by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Siren Alchemy — The Lost Mallow",
-      "link": "https://www.fragrantica.com/perfume/Siren-Alchemy/The-Lost-Mallow-138927.html",
-      "description": "New perfume listing: The Lost Mallow by Siren Alchemy.",
-      "category": "New Perfumes",
-      "author": "Siren Alchemy",
-      "published": 1785795381
-    },
-    {
-      "title": "Assaf — Onset",
-      "link": "https://www.fragrantica.com/perfume/Assaf/Onset-138964.html",
-      "description": "New perfume listing: Onset by Assaf.",
-      "category": "New Perfumes",
-      "author": "Assaf",
-      "published": 1785795381
-    },
-    {
-      "title": "Assaf — Boom Blue",
-      "link": "https://www.fragrantica.com/perfume/Assaf/Boom-Blue-138963.html",
-      "description": "New perfume listing: Boom Blue by Assaf.",
-      "category": "New Perfumes",
-      "author": "Assaf",
-      "published": 1785795381
-    },
-    {
-      "title": "Perfume Who — Mothlight",
-      "link": "https://www.fragrantica.com/perfume/Perfume-Who/Mothlight-138960.html",
-      "description": "New perfume listing: Mothlight by Perfume Who.",
-      "category": "New Perfumes",
-      "author": "Perfume Who",
       "published": 1785795381
     }
   ]
