@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Dolce Base by Lusso Maasa: Niche at a Mass-Market Price",
+      "link": "https://www.fragrantica.com/news/Dolce-Base-by-Lusso-Maasa-Niche-at-a-Mass-Market-Price-25777.html",
+      "description": "Price is far from being a reliable indicator of a fragrance's quality.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1785947403
+    },
+    {
+      "title": "La Rhapsodie Noire by Parfums Dusita, in the Moonlight",
+      "link": "https://www.fragrantica.com/news/La-Rhapsodie-Noire-by-Parfums-Dusita-in-the-Moonlight-25776.html",
+      "description": "\"What makes it particularly interesting is its nocturnal character, therefore unusual for Pissara Umavijani's output: an exception that proves the rule.\"",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1785937444
+    },
+    {
       "title": "Skandinavisk Launch New Fragrance Collection",
       "link": "https://www.fragrantica.com/news/Skandinavisk-Launch-New-Fragrance-Collection-25775.html",
       "description": "The brand, perhaps best known for their home fragrances, releases seven scents as personal perfumes",
@@ -783,25 +799,505 @@
       "category": "Niche Perfumery",
       "author": "Bella van der Weerd",
       "published": 1784866203
-    },
-    {
-      "title": "Tonka Misfah by Amouage: The Engineering of Hospitality",
-      "link": "https://www.fragrantica.com/news/Tonka-Misfah-by-Amouage-The-Engineering-of-Hospitality-25677.html",
-      "description": "Can an attar be modern and easy to wear?",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1784855224
-    },
-    {
-      "title": "Ice Spice In Ha Mood",
-      "link": "https://www.fragrantica.com/news/Ice-Spice-In-Ha-Mood-25676.html",
-      "description": "Ice Spice debuts her first fragrance, In Ha Mood, with Revlon.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1784844603
     }
   ],
   "perfumes": [
+    {
+      "title": "Nebular Perfumes — Supernova",
+      "link": "https://www.fragrantica.com/perfume/Nebular-Perfumes/Supernova-139122.html",
+      "description": "New perfume listing: Supernova by Nebular Perfumes.",
+      "category": "New Perfumes",
+      "author": "Nebular Perfumes",
+      "published": 1785953266
+    },
+    {
+      "title": "Nebular Perfumes — Halo",
+      "link": "https://www.fragrantica.com/perfume/Nebular-Perfumes/Halo-139121.html",
+      "description": "New perfume listing: Halo by Nebular Perfumes.",
+      "category": "New Perfumes",
+      "author": "Nebular Perfumes",
+      "published": 1785953266
+    },
+    {
+      "title": "Nebular Perfumes — Aurora",
+      "link": "https://www.fragrantica.com/perfume/Nebular-Perfumes/Aurora-139120.html",
+      "description": "New perfume listing: Aurora by Nebular Perfumes.",
+      "category": "New Perfumes",
+      "author": "Nebular Perfumes",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Squeeze Me So Matcha",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Squeeze-Me-So-Matcha-139119.html",
+      "description": "New perfume listing: Squeeze Me So Matcha by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Nebular Perfumes — One Galaxy",
+      "link": "https://www.fragrantica.com/perfume/Nebular-Perfumes/One-Galaxy-139118.html",
+      "description": "New perfume listing: One Galaxy by Nebular Perfumes.",
+      "category": "New Perfumes",
+      "author": "Nebular Perfumes",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Strawberry Bite",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Strawberry-Bite-139117.html",
+      "description": "New perfume listing: Strawberry Bite by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — I Miss You So Matcha",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/I-Miss-You-So-Matcha-139116.html",
+      "description": "New perfume listing: I Miss You So Matcha by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Still Warm",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Still-Warm-139115.html",
+      "description": "New perfume listing: Still Warm by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Evelyn",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Evelyn-139114.html",
+      "description": "New perfume listing: Evelyn by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Tenebrae",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Tenebrae-139113.html",
+      "description": "New perfume listing: Tenebrae by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Poisoned Vow",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Poisoned-Vow-139112.html",
+      "description": "New perfume listing: Poisoned Vow by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Linger Noir",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Linger-Noir-139111.html",
+      "description": "New perfume listing: Linger Noir by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Red Velvet",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Red-Velvet-139110.html",
+      "description": "New perfume listing: Red Velvet by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Kahvila",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Kahvila-139109.html",
+      "description": "New perfume listing: Kahvila by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Argos — Odyssey The Legend Returns",
+      "link": "https://www.fragrantica.com/perfume/Argos/Odyssey-The-Legend-Returns-139108.html",
+      "description": "New perfume listing: Odyssey The Legend Returns by Argos.",
+      "category": "New Perfumes",
+      "author": "Argos",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Where She Rests",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Where-She-Rests-139107.html",
+      "description": "New perfume listing: Where She Rests by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Head Full Of Stars & Lullabies",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Head-Full-Of-Stars-Lullabies-139105.html",
+      "description": "New perfume listing: Head Full Of Stars & Lullabies by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — The Sweetest Kind of Magic",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/The-Sweetest-Kind-of-Magic-139104.html",
+      "description": "New perfume listing: The Sweetest Kind of Magic by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Blueberry Bite",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Blueberry-Bite-139103.html",
+      "description": "New perfume listing: Blueberry Bite by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "Mochiglow — Banana Milk",
+      "link": "https://www.fragrantica.com/perfume/Mochiglow/Banana-Milk-139100.html",
+      "description": "New perfume listing: Banana Milk by Mochiglow.",
+      "category": "New Perfumes",
+      "author": "Mochiglow",
+      "published": 1785953266
+    },
+    {
+      "title": "Mochiglow — Melon Milk",
+      "link": "https://www.fragrantica.com/perfume/Mochiglow/Melon-Milk-139099.html",
+      "description": "New perfume listing: Melon Milk by Mochiglow.",
+      "category": "New Perfumes",
+      "author": "Mochiglow",
+      "published": 1785953266
+    },
+    {
+      "title": "Mochiglow — Pandan Cream",
+      "link": "https://www.fragrantica.com/perfume/Mochiglow/Pandan-Cream-139098.html",
+      "description": "New perfume listing: Pandan Cream by Mochiglow.",
+      "category": "New Perfumes",
+      "author": "Mochiglow",
+      "published": 1785953266
+    },
+    {
+      "title": "Mochiglow — Rice Milk",
+      "link": "https://www.fragrantica.com/perfume/Mochiglow/Rice-Milk-139097.html",
+      "description": "New perfume listing: Rice Milk by Mochiglow.",
+      "category": "New Perfumes",
+      "author": "Mochiglow",
+      "published": 1785953266
+    },
+    {
+      "title": "Mochiglow — Cream Puff",
+      "link": "https://www.fragrantica.com/perfume/Mochiglow/Cream-Puff-139096.html",
+      "description": "New perfume listing: Cream Puff by Mochiglow.",
+      "category": "New Perfumes",
+      "author": "Mochiglow",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Iconic Soul",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Iconic-Soul-139095.html",
+      "description": "New perfume listing: Iconic Soul by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Clouds",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Clouds-139092.html",
+      "description": "New perfume listing: Clouds by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Moonbeam",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Moonbeam-139091.html",
+      "description": "New perfume listing: Moonbeam by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Blu Sky Air",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Blu-Sky-Air-139084.html",
+      "description": "New perfume listing: Blu Sky Air by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Blu Sky Mirage",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Blu-Sky-Mirage-139083.html",
+      "description": "New perfume listing: Blu Sky Mirage by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Iconic Touch",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Iconic-Touch-139082.html",
+      "description": "New perfume listing: Iconic Touch by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Elixir",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Elixir-139074.html",
+      "description": "New perfume listing: Elixir by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Ebony",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Ebony-139072.html",
+      "description": "New perfume listing: Ebony by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Mukhallat Dkhoun",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Mukhallat-Dkhoun-139071.html",
+      "description": "New perfume listing: Mukhallat Dkhoun by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — GHSUK",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/GHSUK-139070.html",
+      "description": "New perfume listing: GHSUK by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "Parfums de Luxe — Orian",
+      "link": "https://www.fragrantica.com/perfume/Parfums-de-Luxe/Orian-139061.html",
+      "description": "New perfume listing: Orian by Parfums de Luxe.",
+      "category": "New Perfumes",
+      "author": "Parfums de Luxe",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — What Answers Back",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/What-Answers-Back-139106.html",
+      "description": "New perfume listing: What Answers Back by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "4160 Tuesdays — Cover Story",
+      "link": "https://www.fragrantica.com/perfume/4160-Tuesdays/Cover-Story-139102.html",
+      "description": "New perfume listing: Cover Story by 4160 Tuesdays.",
+      "category": "New Perfumes",
+      "author": "4160 Tuesdays",
+      "published": 1785953266
+    },
+    {
+      "title": "Keskiyon Hovi — Ashes & Embers",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Ashes-Embers-139101.html",
+      "description": "New perfume listing: Ashes & Embers by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — WHARF",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/WHARF-139094.html",
+      "description": "New perfume listing: WHARF by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Special Musk",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Special-Musk-139093.html",
+      "description": "New perfume listing: Special Musk by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — For Her",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/For-Her-139090.html",
+      "description": "New perfume listing: For Her by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Lady",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Lady-139089.html",
+      "description": "New perfume listing: Lady by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — MISS",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/MISS-139088.html",
+      "description": "New perfume listing: MISS by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Princess",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Princess-139087.html",
+      "description": "New perfume listing: Princess by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — SPOT",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/SPOT-139086.html",
+      "description": "New perfume listing: SPOT by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — White Tea",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/White-Tea-139085.html",
+      "description": "New perfume listing: White Tea by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Switch",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Switch-139081.html",
+      "description": "New perfume listing: Switch by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Infinite",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Infinite-139080.html",
+      "description": "New perfume listing: Infinite by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Maknoun Ocean",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Maknoun-Ocean-139079.html",
+      "description": "New perfume listing: Maknoun Ocean by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Bianca",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Bianca-139078.html",
+      "description": "New perfume listing: Bianca by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Rosso",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Rosso-139077.html",
+      "description": "New perfume listing: Rosso by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Verde",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Verde-139076.html",
+      "description": "New perfume listing: Verde by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — BLU",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/BLU-139075.html",
+      "description": "New perfume listing: BLU by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Blooming",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Blooming-139073.html",
+      "description": "New perfume listing: Blooming by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Immortal Tobacco",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Immortal-Tobacco-139069.html",
+      "description": "New perfume listing: Immortal Tobacco by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Thati",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Thati-139068.html",
+      "description": "New perfume listing: Thati by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — PRIME MAX",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/PRIME-MAX-139067.html",
+      "description": "New perfume listing: PRIME MAX by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "DKHOUN — Emeraude Flower",
+      "link": "https://www.fragrantica.com/perfume/DKHOUN/Emeraude-Flower-139066.html",
+      "description": "New perfume listing: Emeraude Flower by DKHOUN.",
+      "category": "New Perfumes",
+      "author": "DKHOUN",
+      "published": 1785953266
+    },
+    {
+      "title": "Cher — Deli Sugar Melo",
+      "link": "https://www.fragrantica.com/perfume/Cher/Deli-Sugar-Melo-139065.html",
+      "description": "New perfume listing: Deli Sugar Melo by Cher.",
+      "category": "New Perfumes",
+      "author": "Cher",
+      "published": 1785953266
+    },
+    {
+      "title": "MARIA CHER. — Choco Cake",
+      "link": "https://www.fragrantica.com/perfume/MARIA-CHER/Choco-Cake-139064.html",
+      "description": "New perfume listing: Choco Cake by MARIA CHER..",
+      "category": "New Perfumes",
+      "author": "MARIA CHER.",
+      "published": 1785953266
+    },
+    {
+      "title": "MARIA CHER. — Creamy Latte",
+      "link": "https://www.fragrantica.com/perfume/MARIA-CHER/Creamy-Latte-139063.html",
+      "description": "New perfume listing: Creamy Latte by MARIA CHER..",
+      "category": "New Perfumes",
+      "author": "MARIA CHER.",
+      "published": 1785953266
+    },
+    {
+      "title": "Oscar de la Renta — Esprit d'Oscar Amour",
+      "link": "https://www.fragrantica.com/perfume/Oscar-de-la-Renta/Esprit-d-Oscar-Amour-139062.html",
+      "description": "New perfume listing: Esprit d'Oscar Amour by Oscar de la Renta.",
+      "category": "New Perfumes",
+      "author": "Oscar de la Renta",
+      "published": 1785953266
+    },
     {
       "title": "Jacky — May Light",
       "link": "https://www.fragrantica.com/perfume/Jacky/May-Light-139060.html",
@@ -1105,502 +1601,6 @@
       "category": "New Perfumes",
       "author": "Kinana",
       "published": 1785867462
-    },
-    {
-      "title": "Kinana — Luban Dhofar",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Luban-Dhofar-139022.html",
-      "description": "New perfume listing: Luban Dhofar by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785867462
-    },
-    {
-      "title": "Logoi Perfumes — Wildness",
-      "link": "https://www.fragrantica.com/perfume/Logoi-Perfumes/Wildness-139021.html",
-      "description": "New perfume listing: Wildness by Logoi Perfumes.",
-      "category": "New Perfumes",
-      "author": "Logoi Perfumes",
-      "published": 1785867462
-    },
-    {
-      "title": "Alverde — Glucksmoment",
-      "link": "https://www.fragrantica.com/perfume/Alverde/Glucksmoment-139020.html",
-      "description": "New perfume listing: Glucksmoment by Alverde.",
-      "category": "New Perfumes",
-      "author": "Alverde",
-      "published": 1785867462
-    },
-    {
-      "title": "Alverde — Abendhimmel",
-      "link": "https://www.fragrantica.com/perfume/Alverde/Abendhimmel-139019.html",
-      "description": "New perfume listing: Abendhimmel by Alverde.",
-      "category": "New Perfumes",
-      "author": "Alverde",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Sandalwood & Warm Caramel",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Sandalwood-Warm-Caramel-139017.html",
-      "description": "New perfume listing: Sandalwood & Warm Caramel by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Magnolia & Wood",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Magnolia-Wood-139016.html",
-      "description": "New perfume listing: Magnolia & Wood by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Spice Vanilla & Cacao",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Spice-Vanilla-Cacao-139015.html",
-      "description": "New perfume listing: Spice Vanilla & Cacao by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Warm Vanilla & Sugar",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Warm-Vanilla-Sugar-139014.html",
-      "description": "New perfume listing: Warm Vanilla & Sugar by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Pumpkin Caramel & Vanilla",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Pumpkin-Caramel-Vanilla-139013.html",
-      "description": "New perfume listing: Pumpkin Caramel & Vanilla by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "BaoBath — Mimosa & Patchouli",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Mimosa-Patchouli-139012.html",
-      "description": "New perfume listing: Mimosa & Patchouli by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1785867462
-    },
-    {
-      "title": "Inhale — Keplion",
-      "link": "https://www.fragrantica.com/perfume/Inhale/Keplion-139011.html",
-      "description": "New perfume listing: Keplion by Inhale.",
-      "category": "New Perfumes",
-      "author": "Inhale",
-      "published": 1785867462
-    },
-    {
-      "title": "Inhale — Summer Bomb",
-      "link": "https://www.fragrantica.com/perfume/Inhale/Summer-Bomb-139010.html",
-      "description": "New perfume listing: Summer Bomb by Inhale.",
-      "category": "New Perfumes",
-      "author": "Inhale",
-      "published": 1785867462
-    },
-    {
-      "title": "Sttes Brazilian — #02 - Irresistible Sunshine",
-      "link": "https://www.fragrantica.com/perfume/Sttes-Brazilian/02-Irresistible-Sunshine-139018.html",
-      "description": "New perfume listing: #02 - Irresistible Sunshine by Sttes Brazilian.",
-      "category": "New Perfumes",
-      "author": "Sttes Brazilian",
-      "published": 1785867462
-    },
-    {
-      "title": "LuNiche — Aziza Forte",
-      "link": "https://www.fragrantica.com/perfume/LuNiche/Aziza-Forte-138989.html",
-      "description": "New perfume listing: Aziza Forte by LuNiche.",
-      "category": "New Perfumes",
-      "author": "LuNiche",
-      "published": 1785838680
-    },
-    {
-      "title": "Octavia Morgan Los Angeles — Room 33",
-      "link": "https://www.fragrantica.com/perfume/Octavia-Morgan-Los-Angeles/Room-33-138982.html",
-      "description": "New perfume listing: Room 33 by Octavia Morgan Los Angeles.",
-      "category": "New Perfumes",
-      "author": "Octavia Morgan Los Angeles",
-      "published": 1785838680
-    },
-    {
-      "title": "La Palette du Parfumeur — Sugar Kiss",
-      "link": "https://www.fragrantica.com/perfume/La-Palette-du-Parfumeur/Sugar-Kiss-138981.html",
-      "description": "New perfume listing: Sugar Kiss by La Palette du Parfumeur.",
-      "category": "New Perfumes",
-      "author": "La Palette du Parfumeur",
-      "published": 1785838680
-    },
-    {
-      "title": "La Palette du Parfumeur — Pina Colada",
-      "link": "https://www.fragrantica.com/perfume/La-Palette-du-Parfumeur/Pina-Colada-138980.html",
-      "description": "New perfume listing: Pina Colada by La Palette du Parfumeur.",
-      "category": "New Perfumes",
-      "author": "La Palette du Parfumeur",
-      "published": 1785838680
-    },
-    {
-      "title": "La Palette du Parfumeur — Sweet Vanilla",
-      "link": "https://www.fragrantica.com/perfume/La-Palette-du-Parfumeur/Sweet-Vanilla-138979.html",
-      "description": "New perfume listing: Sweet Vanilla by La Palette du Parfumeur.",
-      "category": "New Perfumes",
-      "author": "La Palette du Parfumeur",
-      "published": 1785838680
-    },
-    {
-      "title": "La Palette du Parfumeur — Oud Vibes",
-      "link": "https://www.fragrantica.com/perfume/La-Palette-du-Parfumeur/Oud-Vibes-138978.html",
-      "description": "New perfume listing: Oud Vibes by La Palette du Parfumeur.",
-      "category": "New Perfumes",
-      "author": "La Palette du Parfumeur",
-      "published": 1785838680
-    },
-    {
-      "title": "Nest — Cardamom Latte",
-      "link": "https://www.fragrantica.com/perfume/Nest/Cardamom-Latte-138977.html",
-      "description": "New perfume listing: Cardamom Latte by Nest.",
-      "category": "New Perfumes",
-      "author": "Nest",
-      "published": 1785838680
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions Series 6",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-Series-6-138976.html",
-      "description": "New perfume listing: Queen Limited Editions Series 6 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785838680
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions Series 5",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-Series-5-138975.html",
-      "description": "New perfume listing: Queen Limited Editions Series 5 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785838680
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions Series 4",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-Series-4-138974.html",
-      "description": "New perfume listing: Queen Limited Editions Series 4 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Kali Kodo",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Kali-Kodo-138973.html",
-      "description": "New perfume listing: Kali Kodo by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Borneo Kodo",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Borneo-Kodo-138972.html",
-      "description": "New perfume listing: Borneo Kodo by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Coronation Purple",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Coronation-Purple-138971.html",
-      "description": "New perfume listing: Coronation Purple by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Ghaliya Alhambra",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Ghaliya-Alhambra-138970.html",
-      "description": "New perfume listing: Ghaliya Alhambra by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Bahr Harbour",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Bahr-Harbour-138969.html",
-      "description": "New perfume listing: Bahr Harbour by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Kinana — Koh Rouge",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Koh-Rouge-138968.html",
-      "description": "New perfume listing: Koh Rouge by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1785838680
-    },
-    {
-      "title": "Three — X03 Beyond Words",
-      "link": "https://www.fragrantica.com/perfume/Three/X03-Beyond-Words-138967.html",
-      "description": "New perfume listing: X03 Beyond Words by Three.",
-      "category": "New Perfumes",
-      "author": "Three",
-      "published": 1785838680
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions series 3",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-series-3-138966.html",
-      "description": "New perfume listing: Queen Limited Editions series 3 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785838680
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions Series 2",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-Series-2-138965.html",
-      "description": "New perfume listing: Queen Limited Editions Series 2 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785838680
-    },
-    {
-      "title": "The Dua Brand — Caramel Sugar Elixir",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Caramel-Sugar-Elixir-139009.html",
-      "description": "New perfume listing: Caramel Sugar Elixir by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1785838680
-    },
-    {
-      "title": "The Dua Brand — Cloud of Caramel Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cloud-of-Caramel-Vanilla-139008.html",
-      "description": "New perfume listing: Cloud of Caramel Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1785838680
-    },
-    {
-      "title": "Ahmed Al Maghribi — Opaline Wave",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Opaline-Wave-139007.html",
-      "description": "New perfume listing: Opaline Wave by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1785838680
-    },
-    {
-      "title": "Ajmal — Oud of Dubai",
-      "link": "https://www.fragrantica.com/perfume/Ajmal/Oud-of-Dubai-139006.html",
-      "description": "New perfume listing: Oud of Dubai by Ajmal.",
-      "category": "New Perfumes",
-      "author": "Ajmal",
-      "published": 1785838680
-    },
-    {
-      "title": "Valduren — Boom",
-      "link": "https://www.fragrantica.com/perfume/Valduren/Boom-139005.html",
-      "description": "New perfume listing: Boom by Valduren.",
-      "category": "New Perfumes",
-      "author": "Valduren",
-      "published": 1785838680
-    },
-    {
-      "title": "ALT. Fragrances — A",
-      "link": "https://www.fragrantica.com/perfume/ALT-Fragrances/A-139004.html",
-      "description": "New perfume listing: A by ALT. Fragrances.",
-      "category": "New Perfumes",
-      "author": "ALT. Fragrances",
-      "published": 1785838680
-    },
-    {
-      "title": "Alexandria Fragrances — All Eyes on Me",
-      "link": "https://www.fragrantica.com/perfume/Alexandria-Fragrances/All-Eyes-on-Me-139003.html",
-      "description": "New perfume listing: All Eyes on Me by Alexandria Fragrances.",
-      "category": "New Perfumes",
-      "author": "Alexandria Fragrances",
-      "published": 1785838680
-    },
-    {
-      "title": "Cranford — Jungle Noir",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Jungle-Noir-139002.html",
-      "description": "New perfume listing: Jungle Noir by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1785838680
-    },
-    {
-      "title": "Cranford — Wild Leopard",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Wild-Leopard-139001.html",
-      "description": "New perfume listing: Wild Leopard by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1785838680
-    },
-    {
-      "title": "Cranford — Fairy Tale",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Fairy-Tale-139000.html",
-      "description": "New perfume listing: Fairy Tale by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1785838680
-    },
-    {
-      "title": "JFENZI — Jasmine",
-      "link": "https://www.fragrantica.com/perfume/JFENZI/Jasmine-138999.html",
-      "description": "New perfume listing: Jasmine by JFENZI.",
-      "category": "New Perfumes",
-      "author": "JFENZI",
-      "published": 1785838680
-    },
-    {
-      "title": "Osma Perfumes — Rouge",
-      "link": "https://www.fragrantica.com/perfume/Osma-Perfumes/Rouge-138998.html",
-      "description": "New perfume listing: Rouge by Osma Perfumes.",
-      "category": "New Perfumes",
-      "author": "Osma Perfumes",
-      "published": 1785838680
-    },
-    {
-      "title": "Osma Perfumes — Breeze",
-      "link": "https://www.fragrantica.com/perfume/Osma-Perfumes/Breeze-138997.html",
-      "description": "New perfume listing: Breeze by Osma Perfumes.",
-      "category": "New Perfumes",
-      "author": "Osma Perfumes",
-      "published": 1785838680
-    },
-    {
-      "title": "French Connection UK — Cool Down #2",
-      "link": "https://www.fragrantica.com/perfume/French-Connection-UK/Cool-Down-2-138996.html",
-      "description": "New perfume listing: Cool Down #2 by French Connection UK.",
-      "category": "New Perfumes",
-      "author": "French Connection UK",
-      "published": 1785838680
-    },
-    {
-      "title": "French Connection UK — Cool Down #1",
-      "link": "https://www.fragrantica.com/perfume/French-Connection-UK/Cool-Down-1-138995.html",
-      "description": "New perfume listing: Cool Down #1 by French Connection UK.",
-      "category": "New Perfumes",
-      "author": "French Connection UK",
-      "published": 1785838680
-    },
-    {
-      "title": "Mercadona — Como Tú Gold",
-      "link": "https://www.fragrantica.com/perfume/Mercadona/Como-Tu-Gold-138994.html",
-      "description": "New perfume listing: Como Tú Gold by Mercadona.",
-      "category": "New Perfumes",
-      "author": "Mercadona",
-      "published": 1785838680
-    },
-    {
-      "title": "IDMAN — Yuzu Sake",
-      "link": "https://www.fragrantica.com/perfume/IDMAN/Yuzu-Sake-138993.html",
-      "description": "New perfume listing: Yuzu Sake by IDMAN.",
-      "category": "New Perfumes",
-      "author": "IDMAN",
-      "published": 1785838680
-    },
-    {
-      "title": "IDMAN — Mango Sticky Rice",
-      "link": "https://www.fragrantica.com/perfume/IDMAN/Mango-Sticky-Rice-138992.html",
-      "description": "New perfume listing: Mango Sticky Rice by IDMAN.",
-      "category": "New Perfumes",
-      "author": "IDMAN",
-      "published": 1785838680
-    },
-    {
-      "title": "Outremer — Vanille 80 Degrees",
-      "link": "https://www.fragrantica.com/perfume/Outremer/Vanille-80-Degrees-138991.html",
-      "description": "New perfume listing: Vanille 80 Degrees by Outremer.",
-      "category": "New Perfumes",
-      "author": "Outremer",
-      "published": 1785838680
-    },
-    {
-      "title": "Mansam — Aala Sathi Al Qamar",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Aala-Sathi-Al-Qamar-138990.html",
-      "description": "New perfume listing: Aala Sathi Al Qamar by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1785838680
-    },
-    {
-      "title": "MAISON ASRAR — Last Swim",
-      "link": "https://www.fragrantica.com/perfume/MAISON-ASRAR/Last-Swim-138988.html",
-      "description": "New perfume listing: Last Swim by MAISON ASRAR.",
-      "category": "New Perfumes",
-      "author": "MAISON ASRAR",
-      "published": 1785838680
-    },
-    {
-      "title": "Ibraheem AlQurashi — Elixir De Bronze",
-      "link": "https://www.fragrantica.com/perfume/Ibraheem-AlQurashi/Elixir-De-Bronze-138987.html",
-      "description": "New perfume listing: Elixir De Bronze by Ibraheem AlQurashi.",
-      "category": "New Perfumes",
-      "author": "Ibraheem AlQurashi",
-      "published": 1785838680
-    },
-    {
-      "title": "Ibraheem AlQurashi — D'Or Tresor",
-      "link": "https://www.fragrantica.com/perfume/Ibraheem-AlQurashi/D-Or-Tresor-138986.html",
-      "description": "New perfume listing: D'Or Tresor by Ibraheem AlQurashi.",
-      "category": "New Perfumes",
-      "author": "Ibraheem AlQurashi",
-      "published": 1785838680
-    },
-    {
-      "title": "The Dua Brand — Mystery Of Myrrhe",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mystery-Of-Myrrhe-138985.html",
-      "description": "New perfume listing: Mystery Of Myrrhe by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1785838680
-    },
-    {
-      "title": "The Dua Brand — Royal Chariot Attar",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Royal-Chariot-Attar-138984.html",
-      "description": "New perfume listing: Royal Chariot Attar by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1785838680
-    },
-    {
-      "title": "The Dua Brand — Myrrhnilla Delight",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Myrrhnilla-Delight-138983.html",
-      "description": "New perfume listing: Myrrhnilla Delight by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1785838680
-    },
-    {
-      "title": "Musinsa Standard — Kokomo",
-      "link": "https://www.fragrantica.com/perfume/Musinsa-Standard/Kokomo-138962.html",
-      "description": "New perfume listing: Kokomo by Musinsa Standard.",
-      "category": "New Perfumes",
-      "author": "Musinsa Standard",
-      "published": 1785795381
-    },
-    {
-      "title": "Musinsa Standard — Sheer",
-      "link": "https://www.fragrantica.com/perfume/Musinsa-Standard/Sheer-138961.html",
-      "description": "New perfume listing: Sheer by Musinsa Standard.",
-      "category": "New Perfumes",
-      "author": "Musinsa Standard",
-      "published": 1785795381
-    },
-    {
-      "title": "Fatima 1932 By Famuse — Queen Limited Editions Series 1",
-      "link": "https://www.fragrantica.com/perfume/Fatima-1932-By-Famuse/Queen-Limited-Editions-Series-1-138959.html",
-      "description": "New perfume listing: Queen Limited Editions Series 1 by Fatima 1932 By Famuse.",
-      "category": "New Perfumes",
-      "author": "Fatima 1932 By Famuse",
-      "published": 1785795381
-    },
-    {
-      "title": "The Today Project — Almond Sunshine",
-      "link": "https://www.fragrantica.com/perfume/The-Today-Project/Almond-Sunshine-138958.html",
-      "description": "New perfume listing: Almond Sunshine by The Today Project.",
-      "category": "New Perfumes",
-      "author": "The Today Project",
-      "published": 1785795381
     }
   ]
 }
