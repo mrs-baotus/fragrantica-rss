@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "A New House: Maison Matthieu Meneuvrier",
+      "link": "https://www.fragrantica.com/news/A-New-House-Maison-Matthieu-Meneuvrier-25778.html",
+      "description": "Will the brand be able to carve out a distinct space in an overcrowded market?",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1785958802
+    },
+    {
       "title": "Dolce Base by Lusso Maasa: Niche at a Mass-Market Price",
       "link": "https://www.fragrantica.com/news/Dolce-Base-by-Lusso-Maasa-Niche-at-a-Mass-Market-Price-25777.html",
       "description": "Price is far from being a reliable indicator of a fragrance's quality.",
@@ -791,17 +799,17 @@
       "category": "Columns",
       "author": "Miguel Matos",
       "published": 1784878084
-    },
-    {
-      "title": "A Spotlight on Dutch Brand Luisa Jo",
-      "link": "https://www.fragrantica.com/news/A-Spotlight-on-Dutch-Brand-Luisa-Jo-25678.html",
-      "description": "Perfume oils as skin scent-enhancers that subtly boost your natural allure and attractiveness.",
-      "category": "Niche Perfumery",
-      "author": "Bella van der Weerd",
-      "published": 1784866203
     }
   ],
   "perfumes": [
+    {
+      "title": "Whíff — Linger",
+      "link": "https://www.fragrantica.com/perfume/Whiff/Linger-139123.html",
+      "description": "New perfume listing: Linger by Whíff.",
+      "category": "New Perfumes",
+      "author": "Whíff",
+      "published": 1785968487
+    },
     {
       "title": "Nebular Perfumes — Supernova",
       "link": "https://www.fragrantica.com/perfume/Nebular-Perfumes/Supernova-139122.html",
@@ -1592,14 +1600,6 @@
       "description": "New perfume listing: Exclusive Gold by Giovani.",
       "category": "New Perfumes",
       "author": "Giovani",
-      "published": 1785867462
-    },
-    {
-      "title": "Kinana — Koh Samui",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Koh-Samui-139023.html",
-      "description": "New perfume listing: Koh Samui by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
       "published": 1785867462
     }
   ]
