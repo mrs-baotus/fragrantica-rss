@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "ARMAF Club De Nuit Intense Overdose Ad Campaign Starring John Abraham",
+      "link": "https://www.fragrantica.com/news/ARMAF-Club-De-Nuit-Intense-Overdose-Ad-Campaign-Starring-John-Abraham-25791.html",
+      "description": "Armaf reveals the video campaign for the latest Club De Nuit Intense Overdose",
+      "category": "Video",
+      "author": "Perfume Ads",
+      "published": 1786107002
+    },
+    {
       "title": "Shaman by Anomalia Paris: The Shaman Has Three Hands",
       "link": "https://www.fragrantica.com/news/Shaman-by-Anomalia-Paris-The-Shaman-Has-Three-Hands-25790.html",
       "description": "The shaman has three hands: black pepper, powdery iris, smoky tar.",
@@ -791,17 +799,201 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1785054004
-    },
-    {
-      "title": "Aki by Monogatari: Sweet, Accessible, Cozy",
-      "link": "https://www.fragrantica.com/news/Aki-by-Monogatari-Sweet-Accessible-Cozy-25691.html",
-      "description": "Like a hot punch that was popular in the past.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1785032643
     }
   ],
   "perfumes": [
+    {
+      "title": "Pour Toi — Liquid Light",
+      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Liquid-Light-139256.html",
+      "description": "New perfume listing: Liquid Light by Pour Toi.",
+      "category": "New Perfumes",
+      "author": "Pour Toi",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Sugar Crush",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Sugar-Crush-139255.html",
+      "description": "New perfume listing: Sugar Crush by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — French Madeleine",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/French-Madeleine-139254.html",
+      "description": "New perfume listing: French Madeleine by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Fruity Shot",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Fruity-Shot-139253.html",
+      "description": "New perfume listing: Fruity Shot by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Tatie Tatin",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Tatie-Tatin-139252.html",
+      "description": "New perfume listing: Tatie Tatin by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Golden Kiss",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Golden-Kiss-139251.html",
+      "description": "New perfume listing: Golden Kiss by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Nana Banana",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Nana-Banana-139250.html",
+      "description": "New perfume listing: Nana Banana by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Flirty Litchi",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Flirty-Litchi-139249.html",
+      "description": "New perfume listing: Flirty Litchi by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Gimme Mauve",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Gimme-Mauve-139248.html",
+      "description": "New perfume listing: Gimme Mauve by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Lemon Love",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Lemon-Love-139247.html",
+      "description": "New perfume listing: Lemon Love by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Coco Beach",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Coco-Beach-139246.html",
+      "description": "New perfume listing: Coco Beach by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Pearfect Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Pearfect-Vanilla-139245.html",
+      "description": "New perfume listing: Pearfect Vanilla by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Peachy Beachy",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Peachy-Beachy-139244.html",
+      "description": "New perfume listing: Peachy Beachy by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Blue Lagoon",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Blue-Lagoon-139243.html",
+      "description": "New perfume listing: Blue Lagoon by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Coco Mango",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Coco-Mango-139242.html",
+      "description": "New perfume listing: Coco Mango by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Chérie Cherry",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Cherie-Cherry-139241.html",
+      "description": "New perfume listing: Chérie Cherry by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Adopt Parfums — Monoï des îles",
+      "link": "https://www.fragrantica.com/perfume/Adopt-Parfums/Monoi-des-iles-139240.html",
+      "description": "New perfume listing: Monoï des îles by Adopt Parfums.",
+      "category": "New Perfumes",
+      "author": "Adopt Parfums",
+      "published": 1786115650
+    },
+    {
+      "title": "Marc Jacobs — Just Perfect",
+      "link": "https://www.fragrantica.com/perfume/Marc-Jacobs/Just-Perfect-139239.html",
+      "description": "New perfume listing: Just Perfect by Marc Jacobs.",
+      "category": "New Perfumes",
+      "author": "Marc Jacobs",
+      "published": 1786115650
+    },
+    {
+      "title": "Memo Paris — Darling Point",
+      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Darling-Point-139238.html",
+      "description": "New perfume listing: Darling Point by Memo Paris.",
+      "category": "New Perfumes",
+      "author": "Memo Paris",
+      "published": 1786115650
+    },
+    {
+      "title": "Loewe — Sweet Woodland",
+      "link": "https://www.fragrantica.com/perfume/Loewe/Sweet-Woodland-139237.html",
+      "description": "New perfume listing: Sweet Woodland by Loewe.",
+      "category": "New Perfumes",
+      "author": "Loewe",
+      "published": 1786115650
+    },
+    {
+      "title": "Loewe — Verdant Grove",
+      "link": "https://www.fragrantica.com/perfume/Loewe/Verdant-Grove-139236.html",
+      "description": "New perfume listing: Verdant Grove by Loewe.",
+      "category": "New Perfumes",
+      "author": "Loewe",
+      "published": 1786115650
+    },
+    {
+      "title": "Pour Toi — Katz!",
+      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Katz-139258.html",
+      "description": "New perfume listing: Katz! by Pour Toi.",
+      "category": "New Perfumes",
+      "author": "Pour Toi",
+      "published": 1786115650
+    },
+    {
+      "title": "Pour Toi — Simple Math",
+      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Simple-Math-139257.html",
+      "description": "New perfume listing: Simple Math by Pour Toi.",
+      "category": "New Perfumes",
+      "author": "Pour Toi",
+      "published": 1786115650
+    },
+    {
+      "title": "Whíff — Linger",
+      "link": "https://www.fragrantica.com/perfume/Whiff/Linger-139123.html",
+      "description": "New perfume listing: Linger by Whíff.",
+      "category": "New Perfumes",
+      "author": "Whíff",
+      "published": 1786115650
+    },
     {
       "title": "Loewe — Field Diary",
       "link": "https://www.fragrantica.com/perfume/Loewe/Field-Diary-139235.html",
@@ -1409,198 +1601,6 @@
       "category": "New Perfumes",
       "author": "Stardust & Stems",
       "published": 1786076052
-    },
-    {
-      "title": "BaoBath — Black Cherry & Sandalwood",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Black-Cherry-Sandalwood-139173.html",
-      "description": "New perfume listing: Black Cherry & Sandalwood by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1786076052
-    },
-    {
-      "title": "Memo Paris — Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Patchouli-139160.html",
-      "description": "New perfume listing: Patchouli by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1786011381
-    },
-    {
-      "title": "Dior — Jasmin des Anges Esprit de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Dior/Jasmin-des-Anges-Esprit-de-Parfum-139159.html",
-      "description": "New perfume listing: Jasmin des Anges Esprit de Parfum by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1786011381
-    },
-    {
-      "title": "Prada — Trembled Blossoms",
-      "link": "https://www.fragrantica.com/perfume/Prada/Trembled-Blossoms-139158.html",
-      "description": "New perfume listing: Trembled Blossoms by Prada.",
-      "category": "New Perfumes",
-      "author": "Prada",
-      "published": 1786011381
-    },
-    {
-      "title": "L'Artisan Parfumeur — Abyssae L'Extrait",
-      "link": "https://www.fragrantica.com/perfume/L-Artisan-Parfumeur/Abyssae-L-Extrait-139157.html",
-      "description": "New perfume listing: Abyssae L'Extrait by L'Artisan Parfumeur.",
-      "category": "New Perfumes",
-      "author": "L'Artisan Parfumeur",
-      "published": 1786011381
-    },
-    {
-      "title": "Giorgio Armani — Cuir Doré",
-      "link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Cuir-Dore-139156.html",
-      "description": "New perfume listing: Cuir Doré by Giorgio Armani.",
-      "category": "New Perfumes",
-      "author": "Giorgio Armani",
-      "published": 1786011381
-    },
-    {
-      "title": "Giorgio Armani — Cuir Rubis",
-      "link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Cuir-Rubis-139155.html",
-      "description": "New perfume listing: Cuir Rubis by Giorgio Armani.",
-      "category": "New Perfumes",
-      "author": "Giorgio Armani",
-      "published": 1786011381
-    },
-    {
-      "title": "Victoria's Secret — Tease Strawberry Bisou",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Tease-Strawberry-Bisou-139154.html",
-      "description": "New perfume listing: Tease Strawberry Bisou by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1786011381
-    },
-    {
-      "title": "Imaginary Authors — Yesterday Haze (Second Edition)",
-      "link": "https://www.fragrantica.com/perfume/Imaginary-Authors/Yesterday-Haze-Second-Edition-139153.html",
-      "description": "New perfume listing: Yesterday Haze (Second Edition) by Imaginary Authors.",
-      "category": "New Perfumes",
-      "author": "Imaginary Authors",
-      "published": 1786011381
-    },
-    {
-      "title": "Balenciaga — Pink Oud Extrait",
-      "link": "https://www.fragrantica.com/perfume/Balenciaga/Pink-Oud-Extrait-139152.html",
-      "description": "New perfume listing: Pink Oud Extrait by Balenciaga.",
-      "category": "New Perfumes",
-      "author": "Balenciaga",
-      "published": 1786011381
-    },
-    {
-      "title": "Balenciaga — Amber Crush Extrait",
-      "link": "https://www.fragrantica.com/perfume/Balenciaga/Amber-Crush-Extrait-139151.html",
-      "description": "New perfume listing: Amber Crush Extrait by Balenciaga.",
-      "category": "New Perfumes",
-      "author": "Balenciaga",
-      "published": 1786011381
-    },
-    {
-      "title": "Balenciaga — Vanilla XXL Extrait",
-      "link": "https://www.fragrantica.com/perfume/Balenciaga/Vanilla-XXL-Extrait-139150.html",
-      "description": "New perfume listing: Vanilla XXL Extrait by Balenciaga.",
-      "category": "New Perfumes",
-      "author": "Balenciaga",
-      "published": 1786011381
-    },
-    {
-      "title": "Dior — Miss Dior Eau de Parfum (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Miss-Dior-Eau-de-Parfum-2026-139149.html",
-      "description": "New perfume listing: Miss Dior Eau de Parfum (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1786011381
-    },
-    {
-      "title": "Flagolie — Leather & Rose",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Leather-Rose-139148.html",
-      "description": "New perfume listing: Leather & Rose by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786011381
-    },
-    {
-      "title": "Flagolie — Bergamot & Chocolate",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Bergamot-Chocolate-139147.html",
-      "description": "New perfume listing: Bergamot & Chocolate by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786011381
-    },
-    {
-      "title": "Henry Jacques — Tendre Caprice",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Tendre-Caprice-139146.html",
-      "description": "New perfume listing: Tendre Caprice by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1786011381
-    },
-    {
-      "title": "Henry Jacques — Soupir des Songes",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Soupir-des-Songes-139145.html",
-      "description": "New perfume listing: Soupir des Songes by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1786011381
-    },
-    {
-      "title": "Henry Jacques — Bal des Promesses",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Bal-des-Promesses-139144.html",
-      "description": "New perfume listing: Bal des Promesses by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1786011381
-    },
-    {
-      "title": "Henry Jacques — Altitude de HJ",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Altitude-de-HJ-139143.html",
-      "description": "New perfume listing: Altitude de HJ by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1786011381
-    },
-    {
-      "title": "Dadamilano — Lattementa",
-      "link": "https://www.fragrantica.com/perfume/Dadamilano/Lattementa-139142.html",
-      "description": "New perfume listing: Lattementa by Dadamilano.",
-      "category": "New Perfumes",
-      "author": "Dadamilano",
-      "published": 1786011381
-    },
-    {
-      "title": "Varriale Profumi — Sale Blu",
-      "link": "https://www.fragrantica.com/perfume/Varriale-Profumi/Sale-Blu-139141.html",
-      "description": "New perfume listing: Sale Blu by Varriale Profumi.",
-      "category": "New Perfumes",
-      "author": "Varriale Profumi",
-      "published": 1786011381
-    },
-    {
-      "title": "Giovani — Italiano",
-      "link": "https://www.fragrantica.com/perfume/Giovani/Italiano-139140.html",
-      "description": "New perfume listing: Italiano by Giovani.",
-      "category": "New Perfumes",
-      "author": "Giovani",
-      "published": 1786011381
-    },
-    {
-      "title": "Giovani — Old Brownie",
-      "link": "https://www.fragrantica.com/perfume/Giovani/Old-Brownie-139139.html",
-      "description": "New perfume listing: Old Brownie by Giovani.",
-      "category": "New Perfumes",
-      "author": "Giovani",
-      "published": 1786011381
-    },
-    {
-      "title": "FUMparFUM — Hot Milk",
-      "link": "https://www.fragrantica.com/perfume/FUMparFUM/Hot-Milk-139138.html",
-      "description": "New perfume listing: Hot Milk by FUMparFUM.",
-      "category": "New Perfumes",
-      "author": "FUMparFUM",
-      "published": 1786011381
     }
   ]
 }
