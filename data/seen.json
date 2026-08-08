@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "GAP Launched a Reimagination of Four Iconic 90s Fragrances, Plus a New One",
+      "link": "https://www.fragrantica.com/news/GAP-Launched-a-Reimagination-of-Four-Iconic-90s-Fragrances-Plus-a-New-One-25797.html",
+      "description": "\"Five emotive fragrances. Five distinct personalities. Made to express every version of you.\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1786156863
+    },
+    {
+      "title": "More Hot Air From Jo Malone London",
+      "link": "https://www.fragrantica.com/news/More-Hot-Air-From-Jo-Malone-London-25796.html",
+      "description": "Just a bit soulless.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786144142
+    },
+    {
       "title": "Marc Jacobs Just Perfect",
       "link": "https://www.fragrantica.com/news/Marc-Jacobs-Just-Perfect-25795.html",
       "description": "The new edition in the Perfect line is a fruity-floral-gourmand.",
@@ -783,25 +799,153 @@
       "category": "1001 Past Tales",
       "author": "Elena Vosnaki",
       "published": 1785145803
-    },
-    {
-      "title": "Men's Skincare Brand The Grey Introduced Poivre Gris Extrait de Parfum",
-      "link": "https://www.fragrantica.com/news/Men-s-Skincare-Brand-The-Grey-Introduced-Poivre-Gris-Extrait-de-Parfum-25697.html",
-      "description": "Confident. Understated. Enduring.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1785118504
-    },
-    {
-      "title": "12 Parfumeurs Français: A Selection for Men",
-      "link": "https://www.fragrantica.com/news/12-Parfumeurs-Francais-A-Selection-for-Men-25696.html",
-      "description": "Exploring the extensive legacy of 12 Parfumeurs Français in search of fragrances we can confidently recommend to a male audience.",
-      "category": "Fragrance Reviews",
-      "author": "Matvey Yudov",
-      "published": 1785106143
     }
   ],
   "perfumes": [
+    {
+      "title": "Gap — Om",
+      "link": "https://www.fragrantica.com/perfume/Gap/Om-139276.html",
+      "description": "New perfume listing: Om by Gap.",
+      "category": "New Perfumes",
+      "author": "Gap",
+      "published": 1786163532
+    },
+    {
+      "title": "Gap — Dream",
+      "link": "https://www.fragrantica.com/perfume/Gap/Dream-139275.html",
+      "description": "New perfume listing: Dream by Gap.",
+      "category": "New Perfumes",
+      "author": "Gap",
+      "published": 1786163532
+    },
+    {
+      "title": "Gap — Heaven",
+      "link": "https://www.fragrantica.com/perfume/Gap/Heaven-139274.html",
+      "description": "New perfume listing: Heaven by Gap.",
+      "category": "New Perfumes",
+      "author": "Gap",
+      "published": 1786163532
+    },
+    {
+      "title": "Thomson Carter — Blush Hour",
+      "link": "https://www.fragrantica.com/perfume/Thomson-Carter/Blush-Hour-139273.html",
+      "description": "New perfume listing: Blush Hour by Thomson Carter.",
+      "category": "New Perfumes",
+      "author": "Thomson Carter",
+      "published": 1786163532
+    },
+    {
+      "title": "Gap — Grass",
+      "link": "https://www.fragrantica.com/perfume/Gap/Grass-139272.html",
+      "description": "New perfume listing: Grass by Gap.",
+      "category": "New Perfumes",
+      "author": "Gap",
+      "published": 1786163532
+    },
+    {
+      "title": "Gap — Harmony",
+      "link": "https://www.fragrantica.com/perfume/Gap/Harmony-139271.html",
+      "description": "New perfume listing: Harmony by Gap.",
+      "category": "New Perfumes",
+      "author": "Gap",
+      "published": 1786163532
+    },
+    {
+      "title": "RDZ Parfums — Wooder Ice",
+      "link": "https://www.fragrantica.com/perfume/RDZ-Parfums/Wooder-Ice-139270.html",
+      "description": "New perfume listing: Wooder Ice by RDZ Parfums.",
+      "category": "New Perfumes",
+      "author": "RDZ Parfums",
+      "published": 1786163532
+    },
+    {
+      "title": "Martev — Nonae",
+      "link": "https://www.fragrantica.com/perfume/Martev/Nonae-139186.html",
+      "description": "New perfume listing: Nonae by Martev.",
+      "category": "New Perfumes",
+      "author": "Martev",
+      "published": 1786163532
+    },
+    {
+      "title": "Emper — Sovereign Candy Flora",
+      "link": "https://www.fragrantica.com/perfume/Emper/Sovereign-Candy-Flora-139184.html",
+      "description": "New perfume listing: Sovereign Candy Flora by Emper.",
+      "category": "New Perfumes",
+      "author": "Emper",
+      "published": 1786163532
+    },
+    {
+      "title": "Mykonos — Reflection Elixir",
+      "link": "https://www.fragrantica.com/perfume/Mykonos/Reflection-Elixir-139183.html",
+      "description": "New perfume listing: Reflection Elixir by Mykonos.",
+      "category": "New Perfumes",
+      "author": "Mykonos",
+      "published": 1786163532
+    },
+    {
+      "title": "Mykonos — Conquer",
+      "link": "https://www.fragrantica.com/perfume/Mykonos/Conquer-139182.html",
+      "description": "New perfume listing: Conquer by Mykonos.",
+      "category": "New Perfumes",
+      "author": "Mykonos",
+      "published": 1786163532
+    },
+    {
+      "title": "Armaf — Infusion",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Infusion-139181.html",
+      "description": "New perfume listing: Infusion by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1786163532
+    },
+    {
+      "title": "Ayat Perfumes — Selene",
+      "link": "https://www.fragrantica.com/perfume/Ayat-Perfumes/Selene-139180.html",
+      "description": "New perfume listing: Selene by Ayat Perfumes.",
+      "category": "New Perfumes",
+      "author": "Ayat Perfumes",
+      "published": 1786163532
+    },
+    {
+      "title": "Benneviento — Nocturnal Conjure",
+      "link": "https://www.fragrantica.com/perfume/Benneviento/Nocturnal-Conjure-139179.html",
+      "description": "New perfume listing: Nocturnal Conjure by Benneviento.",
+      "category": "New Perfumes",
+      "author": "Benneviento",
+      "published": 1786163532
+    },
+    {
+      "title": "JFENZI — Lily of the Valley",
+      "link": "https://www.fragrantica.com/perfume/JFENZI/Lily-of-the-Valley-139178.html",
+      "description": "New perfume listing: Lily of the Valley by JFENZI.",
+      "category": "New Perfumes",
+      "author": "JFENZI",
+      "published": 1786163532
+    },
+    {
+      "title": "Daniel Josier — Intrigue",
+      "link": "https://www.fragrantica.com/perfume/Daniel-Josier/Intrigue-139177.html",
+      "description": "New perfume listing: Intrigue by Daniel Josier.",
+      "category": "New Perfumes",
+      "author": "Daniel Josier",
+      "published": 1786163532
+    },
+    {
+      "title": "Notez — Wisdom",
+      "link": "https://www.fragrantica.com/perfume/Notez/Wisdom-139176.html",
+      "description": "New perfume listing: Wisdom by Notez.",
+      "category": "New Perfumes",
+      "author": "Notez",
+      "published": 1786163532
+    },
+    {
+      "title": "Stardust & Stems — Mermaid Summer Spell",
+      "link": "https://www.fragrantica.com/perfume/Stardust-Stems/Mermaid-Summer-Spell-139174.html",
+      "description": "New perfume listing: Mermaid Summer Spell by Stardust & Stems.",
+      "category": "New Perfumes",
+      "author": "Stardust & Stems",
+      "published": 1786163532
+    },
     {
       "title": "Ormonde Jayne — Vanilla Aube",
       "link": "https://www.fragrantica.com/perfume/Ormonde-Jayne/Vanilla-Aube-139265.html",
@@ -1456,150 +1600,6 @@
       "description": "New perfume listing: Juicy Bomb Lychee Livin' Body Mist by essence.",
       "category": "New Perfumes",
       "author": "essence",
-      "published": 1786076052
-    },
-    {
-      "title": "Memo Paris — Sandalwood",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Sandalwood-139167.html",
-      "description": "New perfume listing: Sandalwood by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1786076052
-    },
-    {
-      "title": "Memo Paris — Leather",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Leather-139166.html",
-      "description": "New perfume listing: Leather by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1786076052
-    },
-    {
-      "title": "Memo Paris — Vetiver",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Vetiver-139165.html",
-      "description": "New perfume listing: Vetiver by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1786076052
-    },
-    {
-      "title": "Vyrao — Ever 11",
-      "link": "https://www.fragrantica.com/perfume/Vyrao/Ever-11-139164.html",
-      "description": "New perfume listing: Ever 11 by Vyrao.",
-      "category": "New Perfumes",
-      "author": "Vyrao",
-      "published": 1786076052
-    },
-    {
-      "title": "Memo Paris — Tonka Bean",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Tonka-Bean-139163.html",
-      "description": "New perfume listing: Tonka Bean by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1786076052
-    },
-    {
-      "title": "Commodity — W*****y",
-      "link": "https://www.fragrantica.com/perfume/Commodity/W-y-139219.html",
-      "description": "New perfume listing: W*****y by Commodity.",
-      "category": "New Perfumes",
-      "author": "Commodity",
-      "published": 1786076052
-    },
-    {
-      "title": "Sense Dubai — Baby",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Baby-139214.html",
-      "description": "New perfume listing: Baby by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786076052
-    },
-    {
-      "title": "Sense Dubai — Oud Tobacco",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Oud-Tobacco-139213.html",
-      "description": "New perfume listing: Oud Tobacco by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786076052
-    },
-    {
-      "title": "Sense Dubai — Muhra",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Muhra-139212.html",
-      "description": "New perfume listing: Muhra by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786076052
-    },
-    {
-      "title": "Sense Dubai — Rose",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Rose-139211.html",
-      "description": "New perfume listing: Rose by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Light Light",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Light-Light-139204.html",
-      "description": "New perfume listing: Light Light by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Wood You Like",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Wood-You-Like-139203.html",
-      "description": "New perfume listing: Wood You Like by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Glass Oasis",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Glass-Oasis-139202.html",
-      "description": "New perfume listing: Glass Oasis by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Xoco",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Xoco-139201.html",
-      "description": "New perfume listing: Xoco by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Red Beans",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Red-Beans-139200.html",
-      "description": "New perfume listing: Red Beans by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Financier — Financier",
-      "link": "https://www.fragrantica.com/perfume/Financier/Financier-139189.html",
-      "description": "New perfume listing: Financier by Financier.",
-      "category": "New Perfumes",
-      "author": "Financier",
-      "published": 1786076052
-    },
-    {
-      "title": "Martev — Idus",
-      "link": "https://www.fragrantica.com/perfume/Martev/Idus-139188.html",
-      "description": "New perfume listing: Idus by Martev.",
-      "category": "New Perfumes",
-      "author": "Martev",
-      "published": 1786076052
-    },
-    {
-      "title": "Martev — Kalendae",
-      "link": "https://www.fragrantica.com/perfume/Martev/Kalendae-139187.html",
-      "description": "New perfume listing: Kalendae by Martev.",
-      "category": "New Perfumes",
-      "author": "Martev",
       "published": 1786076052
     }
   ]
