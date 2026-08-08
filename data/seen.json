@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Aghora from Byermia: Burnt Bell Pepper and Paddock Hay",
+      "link": "https://www.fragrantica.com/news/Aghora-from-Byermia-Burnt-Bell-Pepper-and-Paddock-Hay-25798.html",
+      "description": "Smoky, spicy, leathery",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786182782
+    },
+    {
       "title": "GAP Launched a Reimagination of Four Iconic 90s Fragrances, Plus a New One",
       "link": "https://www.fragrantica.com/news/GAP-Launched-a-Reimagination-of-Four-Iconic-90s-Fragrances-Plus-a-New-One-25797.html",
       "description": "\"Five emotive fragrances. Five distinct personalities. Made to express every version of you.\"",
@@ -791,17 +799,105 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1785156003
-    },
-    {
-      "title": "The Myth of the Great Unwashed: Medieval & Renaissance Scent Grooming",
-      "link": "https://www.fragrantica.com/news/The-Myth-of-the-Great-Unwashed-Medieval-Renaissance-Scent-Grooming-25698.html",
-      "description": "Western Europe, one gathers, had by that time completely ceased to partake in the pleasures of perfume and aromatic components for well-being, aesthetic advancement and spiritual therapy. Nothing, however, is further from the truth",
-      "category": "1001 Past Tales",
-      "author": "Elena Vosnaki",
-      "published": 1785145803
     }
   ],
   "perfumes": [
+    {
+      "title": "Mustang — Wild Blossom Nectar for Her",
+      "link": "https://www.fragrantica.com/perfume/Mustang/Wild-Blossom-Nectar-for-Her-139288.html",
+      "description": "New perfume listing: Wild Blossom Nectar for Her by Mustang.",
+      "category": "New Perfumes",
+      "author": "Mustang",
+      "published": 1786198183
+    },
+    {
+      "title": "Mustang — Wild Blossom Velvet for Her",
+      "link": "https://www.fragrantica.com/perfume/Mustang/Wild-Blossom-Velvet-for-Her-139287.html",
+      "description": "New perfume listing: Wild Blossom Velvet for Her by Mustang.",
+      "category": "New Perfumes",
+      "author": "Mustang",
+      "published": 1786198183
+    },
+    {
+      "title": "Abdul Samad Al Qurashi — Body Oud Leather",
+      "link": "https://www.fragrantica.com/perfume/Abdul-Samad-Al-Qurashi/Body-Oud-Leather-139286.html",
+      "description": "New perfume listing: Body Oud Leather by Abdul Samad Al Qurashi.",
+      "category": "New Perfumes",
+      "author": "Abdul Samad Al Qurashi",
+      "published": 1786198183
+    },
+    {
+      "title": "French Avenue — Noble Cedar",
+      "link": "https://www.fragrantica.com/perfume/French-Avenue/Noble-Cedar-139285.html",
+      "description": "New perfume listing: Noble Cedar by French Avenue.",
+      "category": "New Perfumes",
+      "author": "French Avenue",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — WALDMEISTER (2025)",
+      "link": "https://www.fragrantica.com/perfume/27-87/WALDMEISTER-2025-139284.html",
+      "description": "New perfume listing: WALDMEISTER (2025) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — DURIAN (2024)",
+      "link": "https://www.fragrantica.com/perfume/27-87/DURIAN-2024-139283.html",
+      "description": "New perfume listing: DURIAN (2024) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — VETIVER (2023)",
+      "link": "https://www.fragrantica.com/perfume/27-87/VETIVER-2023-139282.html",
+      "description": "New perfume listing: VETIVER (2023) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — GIN MARE (2021)",
+      "link": "https://www.fragrantica.com/perfume/27-87/GIN-MARE-2021-139281.html",
+      "description": "New perfume listing: GIN MARE (2021) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — LAVENDER (2020)",
+      "link": "https://www.fragrantica.com/perfume/27-87/LAVENDER-2020-139280.html",
+      "description": "New perfume listing: LAVENDER (2020) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — GENETIC DRIFT (2018)",
+      "link": "https://www.fragrantica.com/perfume/27-87/GENETIC-DRIFT-2018-139279.html",
+      "description": "New perfume listing: GENETIC DRIFT (2018) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "27 87 — FLOR DE TIARÉ (2017)",
+      "link": "https://www.fragrantica.com/perfume/27-87/FLOR-DE-TIARE-2017-139278.html",
+      "description": "New perfume listing: FLOR DE TIARÉ (2017) by 27 87.",
+      "category": "New Perfumes",
+      "author": "27 87",
+      "published": 1786198183
+    },
+    {
+      "title": "Aaron Terence Hughes — Onyx",
+      "link": "https://www.fragrantica.com/perfume/Aaron-Terence-Hughes/Onyx-139277.html",
+      "description": "New perfume listing: Onyx by Aaron Terence Hughes.",
+      "category": "New Perfumes",
+      "author": "Aaron Terence Hughes",
+      "published": 1786198183
+    },
     {
       "title": "Commodity — W*****y",
       "link": "https://www.fragrantica.com/perfume/Commodity/W-y-139219.html",
@@ -1504,102 +1600,6 @@
       "description": "New perfume listing: Saigon en Fleur by Orca.",
       "category": "New Perfumes",
       "author": "Orca",
-      "published": 1786076052
-    },
-    {
-      "title": "Orca — Dear Vanilla... Sincerely, Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Orca/Dear-Vanilla-Sincerely-Patchouli-139216.html",
-      "description": "New perfume listing: Dear Vanilla... Sincerely, Patchouli by Orca.",
-      "category": "New Perfumes",
-      "author": "Orca",
-      "published": 1786076052
-    },
-    {
-      "title": "Orca — Obscure Patchouli Extract 23",
-      "link": "https://www.fragrantica.com/perfume/Orca/Obscure-Patchouli-Extract-23-139215.html",
-      "description": "New perfume listing: Obscure Patchouli Extract 23 by Orca.",
-      "category": "New Perfumes",
-      "author": "Orca",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — Eirene",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Eirene-139210.html",
-      "description": "New perfume listing: Eirene by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — Sweet Ruin",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Sweet-Ruin-139209.html",
-      "description": "New perfume listing: Sweet Ruin by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — Crown of Ash",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Crown-of-Ash-139208.html",
-      "description": "New perfume listing: Crown of Ash by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — While The Cicadas Sang",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/While-The-Cicadas-Sang-139207.html",
-      "description": "New perfume listing: While The Cicadas Sang by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — Honey Veil",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Honey-Veil-139206.html",
-      "description": "New perfume listing: Honey Veil by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Keskiyon Hovi — Hän On Aurinko",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Haen-On-Aurinko-139205.html",
-      "description": "New perfume listing: Hän On Aurinko by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Steel a Kiss",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Steel-a-Kiss-139199.html",
-      "description": "New perfume listing: Steel a Kiss by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Plastic Flower",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Plastic-Flower-139198.html",
-      "description": "New perfume listing: Plastic Flower by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Osmanthus",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Osmanthus-139197.html",
-      "description": "New perfume listing: Osmanthus by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786076052
-    },
-    {
-      "title": "Raw Contrast — Moon Musc",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Moon-Musc-139196.html",
-      "description": "New perfume listing: Moon Musc by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
       "published": 1786076052
     }
   ]
