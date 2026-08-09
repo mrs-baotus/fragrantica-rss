@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Eau Parfumée Thé Impérial by Bvglari: Refined Work From Cavallier Belletrud",
+      "link": "https://www.fragrantica.com/news/Eau-Parfumee-The-Imperial-by-Bvglari-Refined-Work-From-Cavallier-Belletrud-25805.html",
+      "description": "Clean-cut and shining",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786288982
+    },
+    {
       "title": "Esxence 2026: The Most Delicious Fragrances. Part I — Baked Treats",
       "link": "https://www.fragrantica.com/news/Esxence-2026-The-Most-Delicious-Fragrances-Part-I-Baked-Treats-25804.html",
       "description": "Temptations for lovers of bready notes.",
@@ -791,17 +799,137 @@
       "category": "Fragrance Reviews",
       "author": "Patric Rhys",
       "published": 1785214683
-    },
-    {
-      "title": "Kurma SIAM 1928: Milk, Earth and Greens",
-      "link": "https://www.fragrantica.com/news/Kurma-SIAM-1928-Milk-Earth-and-Greens-25705.html",
-      "description": "A new dedication to an ancient legend",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1785201200
     }
   ],
   "perfumes": [
+    {
+      "title": "By / Rosie Jane — Mixtape",
+      "link": "https://www.fragrantica.com/perfume/By-Rosie-Jane/Mixtape-139348.html",
+      "description": "New perfume listing: Mixtape by By / Rosie Jane.",
+      "category": "New Perfumes",
+      "author": "By / Rosie Jane",
+      "published": 1786305123
+    },
+    {
+      "title": "Sense Dubai — No. 11",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/No-11-139347.html",
+      "description": "New perfume listing: No. 11 by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786305123
+    },
+    {
+      "title": "Sense Dubai — Sara",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Sara-139346.html",
+      "description": "New perfume listing: Sara by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786305123
+    },
+    {
+      "title": "Sense Dubai — Jalad",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Jalad-139345.html",
+      "description": "New perfume listing: Jalad by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786305123
+    },
+    {
+      "title": "Sense Dubai — 808",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/808-139344.html",
+      "description": "New perfume listing: 808 by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786305123
+    },
+    {
+      "title": "Sense Dubai — Layl",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Layl-139343.html",
+      "description": "New perfume listing: Layl by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — London",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/London-139342.html",
+      "description": "New perfume listing: London by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — Dubai",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Dubai-139341.html",
+      "description": "New perfume listing: Dubai by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — NYC",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139340.html",
+      "description": "New perfume listing: NYC by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — Vienna",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Vienna-139339.html",
+      "description": "New perfume listing: Vienna by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — Miami",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Miami-139338.html",
+      "description": "New perfume listing: Miami by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — Paris",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Paris-139337.html",
+      "description": "New perfume listing: Paris by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — L.A.",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/L-A-139336.html",
+      "description": "New perfume listing: L.A. by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Dicora Urban Fit — London",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/London-139335.html",
+      "description": "New perfume listing: London by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786305123
+    },
+    {
+      "title": "Keskiyon Hovi — Sweet Occasion",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Sweet-Occasion-139268.html",
+      "description": "New perfume listing: Sweet Occasion by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1786305123
+    },
+    {
+      "title": "Keskiyon Hovi — Thorns & Honey",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Thorns-Honey-139267.html",
+      "description": "New perfume listing: Thorns & Honey by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1786305123
+    },
     {
       "title": "Dicora Urban Fit — NYC",
       "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139334.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "Mykonos",
       "published": 1786163532
-    },
-    {
-      "title": "Mykonos — Conquer",
-      "link": "https://www.fragrantica.com/perfume/Mykonos/Conquer-139182.html",
-      "description": "New perfume listing: Conquer by Mykonos.",
-      "category": "New Perfumes",
-      "author": "Mykonos",
-      "published": 1786163532
-    },
-    {
-      "title": "Armaf — Infusion",
-      "link": "https://www.fragrantica.com/perfume/Armaf/Infusion-139181.html",
-      "description": "New perfume listing: Infusion by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1786163532
-    },
-    {
-      "title": "Ayat Perfumes — Selene",
-      "link": "https://www.fragrantica.com/perfume/Ayat-Perfumes/Selene-139180.html",
-      "description": "New perfume listing: Selene by Ayat Perfumes.",
-      "category": "New Perfumes",
-      "author": "Ayat Perfumes",
-      "published": 1786163532
-    },
-    {
-      "title": "Benneviento — Nocturnal Conjure",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Nocturnal-Conjure-139179.html",
-      "description": "New perfume listing: Nocturnal Conjure by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1786163532
-    },
-    {
-      "title": "JFENZI — Lily of the Valley",
-      "link": "https://www.fragrantica.com/perfume/JFENZI/Lily-of-the-Valley-139178.html",
-      "description": "New perfume listing: Lily of the Valley by JFENZI.",
-      "category": "New Perfumes",
-      "author": "JFENZI",
-      "published": 1786163532
-    },
-    {
-      "title": "Daniel Josier — Intrigue",
-      "link": "https://www.fragrantica.com/perfume/Daniel-Josier/Intrigue-139177.html",
-      "description": "New perfume listing: Intrigue by Daniel Josier.",
-      "category": "New Perfumes",
-      "author": "Daniel Josier",
-      "published": 1786163532
-    },
-    {
-      "title": "Notez — Wisdom",
-      "link": "https://www.fragrantica.com/perfume/Notez/Wisdom-139176.html",
-      "description": "New perfume listing: Wisdom by Notez.",
-      "category": "New Perfumes",
-      "author": "Notez",
-      "published": 1786163532
-    },
-    {
-      "title": "Stardust & Stems — Mermaid Summer Spell",
-      "link": "https://www.fragrantica.com/perfume/Stardust-Stems/Mermaid-Summer-Spell-139174.html",
-      "description": "New perfume listing: Mermaid Summer Spell by Stardust & Stems.",
-      "category": "New Perfumes",
-      "author": "Stardust & Stems",
-      "published": 1786163532
-    },
-    {
-      "title": "Ormonde Jayne — Vanilla Aube",
-      "link": "https://www.fragrantica.com/perfume/Ormonde-Jayne/Vanilla-Aube-139265.html",
-      "description": "New perfume listing: Vanilla Aube by Ormonde Jayne.",
-      "category": "New Perfumes",
-      "author": "Ormonde Jayne",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Berry Me In Matcha",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Berry-Me-In-Matcha-139264.html",
-      "description": "New perfume listing: Berry Me In Matcha by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Velvet Vice",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Velvet-Vice-139263.html",
-      "description": "New perfume listing: Velvet Vice by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Sunrise Soirée",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Sunrise-Soiree-139262.html",
-      "description": "New perfume listing: Sunrise Soirée by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Wicked Devotion",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Wicked-Devotion-139261.html",
-      "description": "New perfume listing: Wicked Devotion by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Midnight Hour",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Midnight-Hour-139260.html",
-      "description": "New perfume listing: Midnight Hour by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Honeyed Dusk",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Honeyed-Dusk-139259.html",
-      "description": "New perfume listing: Honeyed Dusk by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Lune de Minuit",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Lune-de-Minuit-139269.html",
-      "description": "New perfume listing: Lune de Minuit by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
     }
   ]
 }
