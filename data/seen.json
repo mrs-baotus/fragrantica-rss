@@ -803,6 +803,22 @@
   ],
   "perfumes": [
     {
+      "title": "Pour Toi — Katz!",
+      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Katz-139258.html",
+      "description": "New perfume listing: Katz! by Pour Toi.",
+      "category": "New Perfumes",
+      "author": "Pour Toi",
+      "published": 1786263880
+    },
+    {
+      "title": "Pour Toi — Simple Math",
+      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Simple-Math-139257.html",
+      "description": "New perfume listing: Simple Math by Pour Toi.",
+      "category": "New Perfumes",
+      "author": "Pour Toi",
+      "published": 1786263880
+    },
+    {
       "title": "Galbee — Nous Eclipsons",
       "link": "https://www.fragrantica.com/perfume/Galbee/Nous-Eclipsons-139333.html",
       "description": "New perfume listing: Nous Eclipsons by Galbee.",
@@ -1585,22 +1601,6 @@
       "category": "New Perfumes",
       "author": "Keskiyon Hovi",
       "published": 1786134190
-    },
-    {
-      "title": "Keskiyon Hovi — Dreams In Matcha",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Dreams-In-Matcha-139266.html",
-      "description": "New perfume listing: Dreams In Matcha by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786134190
-    },
-    {
-      "title": "Pour Toi — Liquid Light",
-      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Liquid-Light-139256.html",
-      "description": "New perfume listing: Liquid Light by Pour Toi.",
-      "category": "New Perfumes",
-      "author": "Pour Toi",
-      "published": 1786115650
     }
   ]
 }
