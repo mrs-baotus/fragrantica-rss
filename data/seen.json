@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Giardini di Toscana Expands Its Body Cream Collection",
+      "link": "https://www.fragrantica.com/news/Giardini-di-Toscana-Expands-Its-Body-Cream-Collection-25813.html",
+      "description": "Two new additions scented with honey and Mediterranean tones",
+      "category": "Bath & Body",
+      "author": "Giulietta Ptoyan",
+      "published": 1786390764
+    },
+    {
+      "title": "Need To Know Line: Montauk Man, and The Sexiness of Desolation",
+      "link": "https://www.fragrantica.com/news/Need-To-Know-Line-Montauk-Man-and-The-Sexiness-of-Desolation-25812.html",
+      "description": "A new fragrance line about the loneliness of a famous coastal hamlet after the tourists go home ...",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1786380560
+    },
+    {
       "title": "Fragrant Favorites That Aren't Perfumes",
       "link": "https://www.fragrantica.com/news/Fragrant-Favorites-That-Aren-t-Perfumes-25811.html",
       "description": "Laundry perfumes, perfume magazines, conditioning sprays, massage bars and candles.",
@@ -27,7 +43,7 @@
     {
       "title": "Jazz Club: A Cozy Atmosphere for Days Ahead",
       "link": "https://www.fragrantica.com/news/Jazz-Club-A-Cozy-Atmosphere-for-Days-Ahead-25808.html",
-      "description": "If you just assumed that a stereotypical hangover is produced with a choking effect of tobacco, sweet rum, vanilla and amber, fortunately -hallelujah!- you will be proven wrong by Maison Martin Margiela's Replica Jazz Club.",
+      "description": "If you just assumed that a stereotypical hangover is produced with a choking effect of tobacco, sweet rum, vanilla...",
       "category": "Fragrance Reviews",
       "author": "Elena Vosnaki",
       "published": 1786315323
@@ -67,7 +83,7 @@
     {
       "title": "Perfumed Horoscope: August 10 - August 16",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-10-August-16-25803.html",
-      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be rewarded with as much money as you can handle.",
+      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1786277162
@@ -783,25 +799,129 @@
       "category": "Fragrance Reviews",
       "author": "Sophie Normand",
       "published": 1785291604
-    },
-    {
-      "title": "Appreciating Like An Egyptian… By Miller et Bertaux",
-      "link": "https://www.fragrantica.com/news/Appreciating-Like-An-Egyptian-By-Miller-et-Bertaux-25713.html",
-      "description": "Ceremonial gum and wisp",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1785283624
-    },
-    {
-      "title": "Raccoon Urban Edition & Toucan by Zoologist Perfumes Review",
-      "link": "https://www.fragrantica.com/news/Raccoon-Urban-Edition-Toucan-by-Zoologist-Perfumes-Review-25712.html",
-      "description": "Two new Zoologist fragrances are coming!",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1785270149
     }
   ],
   "perfumes": [
+    {
+      "title": "Sense Dubai — Eid",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Eid-139390.html",
+      "description": "New perfume listing: Eid by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786393490
+    },
+    {
+      "title": "Genyum — Painter Noir",
+      "link": "https://www.fragrantica.com/perfume/Genyum/Painter-Noir-139388.html",
+      "description": "New perfume listing: Painter Noir by Genyum.",
+      "category": "New Perfumes",
+      "author": "Genyum",
+      "published": 1786393490
+    },
+    {
+      "title": "Genyum — Sandal Relax",
+      "link": "https://www.fragrantica.com/perfume/Genyum/Sandal-Relax-139387.html",
+      "description": "New perfume listing: Sandal Relax by Genyum.",
+      "category": "New Perfumes",
+      "author": "Genyum",
+      "published": 1786393490
+    },
+    {
+      "title": "Unifrom — Santalis",
+      "link": "https://www.fragrantica.com/perfume/Unifrom/Santalis-139386.html",
+      "description": "New perfume listing: Santalis by Unifrom.",
+      "category": "New Perfumes",
+      "author": "Unifrom",
+      "published": 1786393490
+    },
+    {
+      "title": "Kinana — Sylhet",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Sylhet-139385.html",
+      "description": "New perfume listing: Sylhet by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1786393490
+    },
+    {
+      "title": "Unifrom — Florum",
+      "link": "https://www.fragrantica.com/perfume/Unifrom/Florum-139384.html",
+      "description": "New perfume listing: Florum by Unifrom.",
+      "category": "New Perfumes",
+      "author": "Unifrom",
+      "published": 1786393490
+    },
+    {
+      "title": "Genyum — Wood Ecstasy",
+      "link": "https://www.fragrantica.com/perfume/Genyum/Wood-Ecstasy-139382.html",
+      "description": "New perfume listing: Wood Ecstasy by Genyum.",
+      "category": "New Perfumes",
+      "author": "Genyum",
+      "published": 1786393490
+    },
+    {
+      "title": "Maison D. Azeez — Demure Dungun",
+      "link": "https://www.fragrantica.com/perfume/Maison-D-Azeez/Demure-Dungun-139381.html",
+      "description": "New perfume listing: Demure Dungun by Maison D. Azeez.",
+      "category": "New Perfumes",
+      "author": "Maison D. Azeez",
+      "published": 1786393490
+    },
+    {
+      "title": "Genyum — Lime Light",
+      "link": "https://www.fragrantica.com/perfume/Genyum/Lime-Light-139380.html",
+      "description": "New perfume listing: Lime Light by Genyum.",
+      "category": "New Perfumes",
+      "author": "Genyum",
+      "published": 1786393490
+    },
+    {
+      "title": "Maison D. Azeez — Solace Balok",
+      "link": "https://www.fragrantica.com/perfume/Maison-D-Azeez/Solace-Balok-139379.html",
+      "description": "New perfume listing: Solace Balok by Maison D. Azeez.",
+      "category": "New Perfumes",
+      "author": "Maison D. Azeez",
+      "published": 1786393490
+    },
+    {
+      "title": "Acqua di Parma — Oud Ambrosia",
+      "link": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Oud-Ambrosia-139378.html",
+      "description": "New perfume listing: Oud Ambrosia by Acqua di Parma.",
+      "category": "New Perfumes",
+      "author": "Acqua di Parma",
+      "published": 1786393490
+    },
+    {
+      "title": "Jensen Fragrances — No. 1",
+      "link": "https://www.fragrantica.com/perfume/Jensen-Fragrances/No-1-139377.html",
+      "description": "New perfume listing: No. 1 by Jensen Fragrances.",
+      "category": "New Perfumes",
+      "author": "Jensen Fragrances",
+      "published": 1786393490
+    },
+    {
+      "title": "Sense Dubai — Al Nisa",
+      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Al-Nisa-139389.html",
+      "description": "New perfume listing: Al Nisa by Sense Dubai.",
+      "category": "New Perfumes",
+      "author": "Sense Dubai",
+      "published": 1786393490
+    },
+    {
+      "title": "Unifrom — Winter Saga",
+      "link": "https://www.fragrantica.com/perfume/Unifrom/Winter-Saga-139383.html",
+      "description": "New perfume listing: Winter Saga by Unifrom.",
+      "category": "New Perfumes",
+      "author": "Unifrom",
+      "published": 1786393490
+    },
+    {
+      "title": "Aaron Terence Hughes — Onyx",
+      "link": "https://www.fragrantica.com/perfume/Aaron-Terence-Hughes/Onyx-139277.html",
+      "description": "New perfume listing: Onyx by Aaron Terence Hughes.",
+      "category": "New Perfumes",
+      "author": "Aaron Terence Hughes",
+      "published": 1786393490
+    },
     {
       "title": "Bugatti — Vaniglia Pura",
       "link": "https://www.fragrantica.com/perfume/Bugatti/Vaniglia-Pura-139376.html",
@@ -1481,126 +1601,6 @@
       "category": "New Perfumes",
       "author": "BUQ Care",
       "published": 1786218446
-    },
-    {
-      "title": "Scent.br — Halo White Aura",
-      "link": "https://www.fragrantica.com/perfume/Scent-br/Halo-White-Aura-139295.html",
-      "description": "New perfume listing: Halo White Aura by Scent.br.",
-      "category": "New Perfumes",
-      "author": "Scent.br",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Aurale Dark Citrus",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Aurale-Dark-Citrus-139294.html",
-      "description": "New perfume listing: Aurale Dark Citrus by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Aurale Verdant Force",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Aurale-Verdant-Force-139293.html",
-      "description": "New perfume listing: Aurale Verdant Force by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Aurale Wood Intense",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Aurale-Wood-Intense-139292.html",
-      "description": "New perfume listing: Aurale Wood Intense by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Aurale Gold Energy",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Aurale-Gold-Energy-139291.html",
-      "description": "New perfume listing: Aurale Gold Energy by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "Natura — Frescor Baunilha Amazônica",
-      "link": "https://www.fragrantica.com/perfume/Natura/Frescor-Baunilha-Amazonica-139290.html",
-      "description": "New perfume listing: Frescor Baunilha Amazônica by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1786218446
-    },
-    {
-      "title": "Paixão — Flor de Baunilha",
-      "link": "https://www.fragrantica.com/perfume/Paixao/Flor-de-Baunilha-139289.html",
-      "description": "New perfume listing: Flor de Baunilha by Paixão.",
-      "category": "New Perfumes",
-      "author": "Paixão",
-      "published": 1786218446
-    },
-    {
-      "title": "Maracujá Brasil — Homem Bleu 2.0",
-      "link": "https://www.fragrantica.com/perfume/Maracuja-Brasil/Homem-Bleu-2-0-139299.html",
-      "description": "New perfume listing: Homem Bleu 2.0 by Maracujá Brasil.",
-      "category": "New Perfumes",
-      "author": "Maracujá Brasil",
-      "published": 1786218446
-    },
-    {
-      "title": "Tha Beauty — Chronos",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Chronos-139296.html",
-      "description": "New perfume listing: Chronos by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1786218446
-    },
-    {
-      "title": "Mustang — Wild Blossom Nectar for Her",
-      "link": "https://www.fragrantica.com/perfume/Mustang/Wild-Blossom-Nectar-for-Her-139288.html",
-      "description": "New perfume listing: Wild Blossom Nectar for Her by Mustang.",
-      "category": "New Perfumes",
-      "author": "Mustang",
-      "published": 1786198183
-    },
-    {
-      "title": "Mustang — Wild Blossom Velvet for Her",
-      "link": "https://www.fragrantica.com/perfume/Mustang/Wild-Blossom-Velvet-for-Her-139287.html",
-      "description": "New perfume listing: Wild Blossom Velvet for Her by Mustang.",
-      "category": "New Perfumes",
-      "author": "Mustang",
-      "published": 1786198183
-    },
-    {
-      "title": "Abdul Samad Al Qurashi — Body Oud Leather",
-      "link": "https://www.fragrantica.com/perfume/Abdul-Samad-Al-Qurashi/Body-Oud-Leather-139286.html",
-      "description": "New perfume listing: Body Oud Leather by Abdul Samad Al Qurashi.",
-      "category": "New Perfumes",
-      "author": "Abdul Samad Al Qurashi",
-      "published": 1786198183
-    },
-    {
-      "title": "French Avenue — Noble Cedar",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Noble-Cedar-139285.html",
-      "description": "New perfume listing: Noble Cedar by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1786198183
-    },
-    {
-      "title": "27 87 — WALDMEISTER (2025)",
-      "link": "https://www.fragrantica.com/perfume/27-87/WALDMEISTER-2025-139284.html",
-      "description": "New perfume listing: WALDMEISTER (2025) by 27 87.",
-      "category": "New Perfumes",
-      "author": "27 87",
-      "published": 1786198183
-    },
-    {
-      "title": "27 87 — DURIAN (2024)",
-      "link": "https://www.fragrantica.com/perfume/27-87/DURIAN-2024-139283.html",
-      "description": "New perfume listing: DURIAN (2024) by 27 87.",
-      "category": "New Perfumes",
-      "author": "27 87",
-      "published": 1786198183
     }
   ]
 }
