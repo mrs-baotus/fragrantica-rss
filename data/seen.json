@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Comparing Miss Dior Eau de Parfum: 2021 (Demachy) vs. 2026 (Kurkdjian)",
+      "link": "https://www.fragrantica.com/news/Comparing-Miss-Dior-Eau-de-Parfum-2021-Demachy-vs-2026-Kurkdjian-25810.html",
+      "description": "Splitting hairs...",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1786331676
+    },
+    {
+      "title": "A Guerlain Enigma: A Perfume Lost to the Ages",
+      "link": "https://www.fragrantica.com/news/A-Guerlain-Enigma-A-Perfume-Lost-to-the-Ages-25809.html",
+      "description": "A scent that circulated from 1872 to 1893, with at least one distinguished patronage, and then...vanished.",
+      "category": "1001 Past Tales",
+      "author": "Elena Vosnaki",
+      "published": 1786327922
+    },
+    {
+      "title": "Jazz Club: A Cozy Atmosphere for Days Ahead",
+      "link": "https://www.fragrantica.com/news/Jazz-Club-A-Cozy-Atmosphere-for-Days-Ahead-25808.html",
+      "description": "If you just assumed that a stereotypical hangover is produced with a choking effect of tobacco, sweet rum, vanilla and amber, fortunately -hallelujah!- you will be proven wrong by Maison Martin Margiela's Replica Jazz Club.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1786315323
+    },
+    {
+      "title": "ZOOLOGIST USA GIVEAWAY",
+      "link": "https://www.fragrantica.com/news/ZOOLOGIST-USA-GIVEAWAY-25807.html",
+      "description": "We invite you to participate in our US giveaway of Zoologist perfume samples!",
+      "category": "Fragrantica",
+      "author": "Elena Knezevic",
+      "published": 1786306474
+    },
+    {
+      "title": "ZEGNA MEMORIE Collection: Italian Elegance",
+      "link": "https://www.fragrantica.com/news/ZEGNA-MEMORIE-Collection-Italian-Elegance-25806.html",
+      "description": "Not groundbreaking but gracefully tailored compositions in an effortlessly elegant style.",
+      "category": "Fragrance Reviews",
+      "author": "Daria Bogdanova",
+      "published": 1786305662
+    },
+    {
       "title": "Eau Parfumée Thé Impérial by Bvglari: Refined Work From Cavallier Belletrud",
       "link": "https://www.fragrantica.com/news/Eau-Parfumee-The-Imperial-by-Bvglari-Refined-Work-From-Cavallier-Belletrud-25805.html",
       "description": "Clean-cut and shining",
@@ -759,49 +799,121 @@
       "category": "Fragrance Reviews",
       "author": "Giulietta Ptoyan",
       "published": 1785265203
-    },
-    {
-      "title": "Rare Beauty Rare Beginnings",
-      "link": "https://www.fragrantica.com/news/Rare-Beauty-Rare-Beginnings-25710.html",
-      "description": "Rare Beauty expands its fragrance collection with Rare Beginnings Eau de Parfum, a new fruity-floral scent inspired by optimism and fresh starts.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1785258004
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING–SUMMER 2026: Nicola Thomis & Dariia Fessalonika",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Nicola-Thomis-Dariia-Fessalonika-25709.html",
-      "description": "We are starting our traditional top list of the best perfumes of the first half of 2026.",
-      "category": "Fragrantica",
-      "author": "Nicola Thomis,Dariia Fessalonika",
-      "published": 1785243544
-    },
-    {
-      "title": "Dior Sauvage-Era Executive Takes the Reins at Givenchy and Kenzo",
-      "link": "https://www.fragrantica.com/news/Dior-Sauvage-Era-Executive-Takes-the-Reigns-at-Givenchy-and-Kenzo-25708.html",
-      "description": "Yann Musquin, credited with helping create Dior Sauvage, is taking control of Givenchy and Kenzo Parfums. Will he pursue another blockbuster or seek to imprint on the identities of the two houses?",
-      "category": "Fragrance News",
-      "author": "Adam Forziati",
-      "published": 1785236344
-    },
-    {
-      "title": "Sugar Blast, a Vanilla-Tinged Ode to Joy by Initio",
-      "link": "https://www.fragrantica.com/news/Sugar-Blast-a-Vanilla-Tinged-Ode-to-Joy-by-Initio-25707.html",
-      "description": "A look back at the new Supercharged collection, launched in the spring by Initio, with a focus on Sugar Blast.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1785225544
-    },
-    {
-      "title": "Need To Know New Brand: House of Cosmo, A Futurist House from Past Loss",
-      "link": "https://www.fragrantica.com/news/Need-To-Know-New-Brand-House-of-Cosmo-A-Futurist-House-from-Loss-in-the-Past-25706.html",
-      "description": "House of Cosmo is a brand-new brand out of Utah, boldly hard-launched over a stunning 110 days that doesn’t create memories, but untouchable futures...",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1785214683
     }
   ],
   "perfumes": [
+    {
+      "title": "RMK Perfumes — Grasse",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Grasse-139361.html",
+      "description": "New perfume listing: Grasse by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Amber Gel",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Amber-Gel-139360.html",
+      "description": "New perfume listing: Amber Gel by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — White Rose Gel",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/White-Rose-Gel-139359.html",
+      "description": "New perfume listing: White Rose Gel by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Emirati Jasmine",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Emirati-Jasmine-139358.html",
+      "description": "New perfume listing: Emirati Jasmine by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Oud Gel",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Oud-Gel-139357.html",
+      "description": "New perfume listing: Oud Gel by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Oud Gel Absolute",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Oud-Gel-Absolute-139356.html",
+      "description": "New perfume listing: Oud Gel Absolute by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Flame Tree Season",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Flame-Tree-Season-139355.html",
+      "description": "New perfume listing: Flame Tree Season by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "RMK Perfumes — Zilzal",
+      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Zilzal-139354.html",
+      "description": "New perfume listing: Zilzal by RMK Perfumes.",
+      "category": "New Perfumes",
+      "author": "RMK Perfumes",
+      "published": 1786338655
+    },
+    {
+      "title": "Al & Marie — Incarno",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Incarno-139353.html",
+      "description": "New perfume listing: Incarno by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786338655
+    },
+    {
+      "title": "Al & Marie — Corpuz",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Corpuz-139352.html",
+      "description": "New perfume listing: Corpuz by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786338655
+    },
+    {
+      "title": "Al & Marie — Amurao",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Amurao-139351.html",
+      "description": "New perfume listing: Amurao by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786338655
+    },
+    {
+      "title": "Al & Marie — Apolonio",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Apolonio-139350.html",
+      "description": "New perfume listing: Apolonio by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786338655
+    },
+    {
+      "title": "Dicora Urban Fit — Tokyo",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Tokyo-139349.html",
+      "description": "New perfume listing: Tokyo by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786338655
+    },
+    {
+      "title": "Keskiyon Hovi — Lune de Minuit",
+      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Lune-de-Minuit-139269.html",
+      "description": "New perfume listing: Lune de Minuit by Keskiyon Hovi.",
+      "category": "New Perfumes",
+      "author": "Keskiyon Hovi",
+      "published": 1786338655
+    },
     {
       "title": "By / Rosie Jane — Mixtape",
       "link": "https://www.fragrantica.com/perfume/By-Rosie-Jane/Mixtape-139348.html",
@@ -1489,118 +1601,6 @@
       "category": "New Perfumes",
       "author": "Raw Contrast",
       "published": 1786176553
-    },
-    {
-      "title": "Raw Contrast — Red Beans",
-      "link": "https://www.fragrantica.com/perfume/Raw-Contrast/Red-Beans-139200.html",
-      "description": "New perfume listing: Red Beans by Raw Contrast.",
-      "category": "New Perfumes",
-      "author": "Raw Contrast",
-      "published": 1786176553
-    },
-    {
-      "title": "Financier — Financier",
-      "link": "https://www.fragrantica.com/perfume/Financier/Financier-139189.html",
-      "description": "New perfume listing: Financier by Financier.",
-      "category": "New Perfumes",
-      "author": "Financier",
-      "published": 1786176553
-    },
-    {
-      "title": "Martev — Idus",
-      "link": "https://www.fragrantica.com/perfume/Martev/Idus-139188.html",
-      "description": "New perfume listing: Idus by Martev.",
-      "category": "New Perfumes",
-      "author": "Martev",
-      "published": 1786176553
-    },
-    {
-      "title": "Martev — Kalendae",
-      "link": "https://www.fragrantica.com/perfume/Martev/Kalendae-139187.html",
-      "description": "New perfume listing: Kalendae by Martev.",
-      "category": "New Perfumes",
-      "author": "Martev",
-      "published": 1786176553
-    },
-    {
-      "title": "Gap — Om",
-      "link": "https://www.fragrantica.com/perfume/Gap/Om-139276.html",
-      "description": "New perfume listing: Om by Gap.",
-      "category": "New Perfumes",
-      "author": "Gap",
-      "published": 1786163532
-    },
-    {
-      "title": "Gap — Dream",
-      "link": "https://www.fragrantica.com/perfume/Gap/Dream-139275.html",
-      "description": "New perfume listing: Dream by Gap.",
-      "category": "New Perfumes",
-      "author": "Gap",
-      "published": 1786163532
-    },
-    {
-      "title": "Gap — Heaven",
-      "link": "https://www.fragrantica.com/perfume/Gap/Heaven-139274.html",
-      "description": "New perfume listing: Heaven by Gap.",
-      "category": "New Perfumes",
-      "author": "Gap",
-      "published": 1786163532
-    },
-    {
-      "title": "Thomson Carter — Blush Hour",
-      "link": "https://www.fragrantica.com/perfume/Thomson-Carter/Blush-Hour-139273.html",
-      "description": "New perfume listing: Blush Hour by Thomson Carter.",
-      "category": "New Perfumes",
-      "author": "Thomson Carter",
-      "published": 1786163532
-    },
-    {
-      "title": "Gap — Grass",
-      "link": "https://www.fragrantica.com/perfume/Gap/Grass-139272.html",
-      "description": "New perfume listing: Grass by Gap.",
-      "category": "New Perfumes",
-      "author": "Gap",
-      "published": 1786163532
-    },
-    {
-      "title": "Gap — Harmony",
-      "link": "https://www.fragrantica.com/perfume/Gap/Harmony-139271.html",
-      "description": "New perfume listing: Harmony by Gap.",
-      "category": "New Perfumes",
-      "author": "Gap",
-      "published": 1786163532
-    },
-    {
-      "title": "RDZ Parfums — Wooder Ice",
-      "link": "https://www.fragrantica.com/perfume/RDZ-Parfums/Wooder-Ice-139270.html",
-      "description": "New perfume listing: Wooder Ice by RDZ Parfums.",
-      "category": "New Perfumes",
-      "author": "RDZ Parfums",
-      "published": 1786163532
-    },
-    {
-      "title": "Martev — Nonae",
-      "link": "https://www.fragrantica.com/perfume/Martev/Nonae-139186.html",
-      "description": "New perfume listing: Nonae by Martev.",
-      "category": "New Perfumes",
-      "author": "Martev",
-      "published": 1786163532
-    },
-    {
-      "title": "Emper — Sovereign Candy Flora",
-      "link": "https://www.fragrantica.com/perfume/Emper/Sovereign-Candy-Flora-139184.html",
-      "description": "New perfume listing: Sovereign Candy Flora by Emper.",
-      "category": "New Perfumes",
-      "author": "Emper",
-      "published": 1786163532
-    },
-    {
-      "title": "Mykonos — Reflection Elixir",
-      "link": "https://www.fragrantica.com/perfume/Mykonos/Reflection-Elixir-139183.html",
-      "description": "New perfume listing: Reflection Elixir by Mykonos.",
-      "category": "New Perfumes",
-      "author": "Mykonos",
-      "published": 1786163532
     }
   ]
 }
