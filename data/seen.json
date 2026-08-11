@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Esxence 2026: The Most Delicious Fragrances. Part II — Sweet Desserts",
+      "link": "https://www.fragrantica.com/news/Esxence-2026-The-Most-Delicious-Fragrances-Part-I-Sweet-Desserts-25819.html",
+      "description": "Sicilian cassata, pistachio halva, and Blue Java banana ice cream.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1786453387
+    },
+    {
+      "title": "A Perfume Review and Some Observations on Money Money More! And More",
+      "link": "https://www.fragrantica.com/news/A-Perfume-Review-and-Some-Observations-on-Money-Money-More-And-More-25818.html",
+      "description": "A review of Fukudo’s Money Money More and Uttori’s Gold, leads to pondering on why wishing for money feels festive to some cultures, but vulgar to others.",
+      "category": "Columns",
+      "author": "Yi Shang (怡 商)",
+      "published": 1786441923
+    },
+    {
       "title": "Coming Soon from Ormonde Jayne: VANILLA AUBE",
       "link": "https://www.fragrantica.com/news/Coming-Soon-from-Ormonde-Jayne-VANILLA-AUBE-25817.html",
       "description": "PURE — SECRETIVE — REIMAGINED Vanilla reimagined as a serene sunrise. Wear it when you want to be felt without being touched.",
@@ -115,7 +131,7 @@
     {
       "title": "Perfumed Horoscope: August 10 - August 16",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-10-August-16-25803.html",
-      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be rewarded with as much money as...",
+      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1786277162
@@ -783,25 +799,57 @@
       "category": "Video",
       "author": "1001 Past Tales",
       "published": 1785348242
-    },
-    {
-      "title": "We Need to Talk About Météore by Louis Vuitton",
-      "link": "https://www.fragrantica.com/news/We-Need-to-Talk-About-Meteore-by-Louis-Vuitton-25719.html",
-      "description": "It seems that comparisons between Météore and CK One or Azzaro Chrome are far from universally welcomed. All the more reason to examine why they keep coming up again and again.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1785343805
-    },
-    {
-      "title": "More Intrigue from ScentFest San Francisco: Part 2",
-      "link": "https://www.fragrantica.com/news/More-Intrigue-from-ScentFest-San-Francisco-Part-2-25718.html",
-      "description": "We continue our coverage from San Francisco's first annual ScentFest",
-      "category": "Art Books Events",
-      "author": "John Biebel",
-      "published": 1785335093
     }
   ],
   "perfumes": [
+    {
+      "title": "Thameen — Opaline",
+      "link": "https://www.fragrantica.com/perfume/Thameen/Opaline-139398.html",
+      "description": "New perfume listing: Opaline by Thameen.",
+      "category": "New Perfumes",
+      "author": "Thameen",
+      "published": 1786462414
+    },
+    {
+      "title": "Gourmet — Noir Foncé",
+      "link": "https://www.fragrantica.com/perfume/Gourmet/Noir-Fonce-139397.html",
+      "description": "New perfume listing: Noir Foncé by Gourmet.",
+      "category": "New Perfumes",
+      "author": "Gourmet",
+      "published": 1786462414
+    },
+    {
+      "title": "Gourmet — Grand Cognac",
+      "link": "https://www.fragrantica.com/perfume/Gourmet/Grand-Cognac-139396.html",
+      "description": "New perfume listing: Grand Cognac by Gourmet.",
+      "category": "New Perfumes",
+      "author": "Gourmet",
+      "published": 1786462414
+    },
+    {
+      "title": "Gourmet — Chocolate Suprême",
+      "link": "https://www.fragrantica.com/perfume/Gourmet/Chocolate-Supreme-139395.html",
+      "description": "New perfume listing: Chocolate Suprême by Gourmet.",
+      "category": "New Perfumes",
+      "author": "Gourmet",
+      "published": 1786462414
+    },
+    {
+      "title": "Gourmet — Caramel Salé",
+      "link": "https://www.fragrantica.com/perfume/Gourmet/Caramel-Sale-139394.html",
+      "description": "New perfume listing: Caramel Salé by Gourmet.",
+      "category": "New Perfumes",
+      "author": "Gourmet",
+      "published": 1786462414
+    },
+    {
+      "title": "Gourmet — Nuage De Lait",
+      "link": "https://www.fragrantica.com/perfume/Gourmet/Nuage-De-Lait-139393.html",
+      "description": "New perfume listing: Nuage De Lait by Gourmet.",
+      "category": "New Perfumes",
+      "author": "Gourmet",
+      "published": 1786462414
+    },
     {
       "title": "Levende Perfumes — Piemont Caffe",
       "link": "https://www.fragrantica.com/perfume/Levende-Perfumes/Piemont-Caffe-139392.html",
@@ -1553,54 +1601,6 @@
       "category": "New Perfumes",
       "author": "Kiss New York",
       "published": 1786250906
-    },
-    {
-      "title": "Kiss New York — Etleé Blooming Jasmine",
-      "link": "https://www.fragrantica.com/perfume/Kiss-New-York/Etlee-Blooming-Jasmine-139307.html",
-      "description": "New perfume listing: Etleé Blooming Jasmine by Kiss New York.",
-      "category": "New Perfumes",
-      "author": "Kiss New York",
-      "published": 1786250906
-    },
-    {
-      "title": "O Boticário — Glamour Intense",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Glamour-Intense-139306.html",
-      "description": "New perfume listing: Glamour Intense by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1786250906
-    },
-    {
-      "title": "O Boticário — Vanilla Ubesession",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Vanilla-Ubesession-139305.html",
-      "description": "New perfume listing: Vanilla Ubesession by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1786250906
-    },
-    {
-      "title": "ABOUJAMIL Perfumery — Black Rose",
-      "link": "https://www.fragrantica.com/perfume/ABOUJAMIL-Perfumery/Black-Rose-139304.html",
-      "description": "New perfume listing: Black Rose by ABOUJAMIL Perfumery.",
-      "category": "New Perfumes",
-      "author": "ABOUJAMIL Perfumery",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Hair Mist VF Choices",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Hair-Mist-VF-Choices-139303.html",
-      "description": "New perfume listing: Hair Mist VF Choices by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Hair Mist Perfect Pear",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Hair-Mist-Perfect-Pear-139302.html",
-      "description": "New perfume listing: Hair Mist Perfect Pear by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
     }
   ]
 }
