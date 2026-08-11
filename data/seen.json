@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Coming Soon from Ormonde Jayne: VANILLA AUBE",
+      "link": "https://www.fragrantica.com/news/Coming-Soon-from-Ormonde-Jayne-VANILLA-AUBE-25817.html",
+      "description": "PURE — SECRETIVE — REIMAGINED Vanilla reimagined as a serene sunrise. Wear it when you want to be felt without being touched.",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1786426623
+    },
+    {
       "title": "Nateeva: Flowers from Faraway Islands",
       "link": "https://www.fragrantica.com/news/Nateeva-Flowers-from-Faraway-Islands-25816.html",
       "description": "Exotic flowers in local fragrances.",
@@ -107,7 +115,7 @@
     {
       "title": "Perfumed Horoscope: August 10 - August 16",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-10-August-16-25803.html",
-      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be...",
+      "description": "With Jupiter, Mercury and the Lunar Eclipse festivity in Leo, this configuration will allow your generosity to be rewarded with as much money as...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1786277162
@@ -791,17 +799,25 @@
       "category": "Art Books Events",
       "author": "John Biebel",
       "published": 1785335093
-    },
-    {
-      "title": "Hiris by Hermès: Among Scarlet Irises",
-      "link": "https://www.fragrantica.com/news/Hiris-by-Hermes-Among-Scarlet-Irises-25717.html",
-      "description": "On fragile beauty and one of the finest summer iris fragrances.",
-      "category": "Fragrance Reviews",
-      "author": "Andrei Lensky",
-      "published": 1785321424
     }
   ],
   "perfumes": [
+    {
+      "title": "Levende Perfumes — Piemont Caffe",
+      "link": "https://www.fragrantica.com/perfume/Levende-Perfumes/Piemont-Caffe-139392.html",
+      "description": "New perfume listing: Piemont Caffe by Levende Perfumes.",
+      "category": "New Perfumes",
+      "author": "Levende Perfumes",
+      "published": 1786441427
+    },
+    {
+      "title": "Levende Perfumes — Rock Tea",
+      "link": "https://www.fragrantica.com/perfume/Levende-Perfumes/Rock-Tea-139391.html",
+      "description": "New perfume listing: Rock Tea by Levende Perfumes.",
+      "category": "New Perfumes",
+      "author": "Levende Perfumes",
+      "published": 1786441427
+    },
     {
       "title": "Maracujá Brasil — Homem Bleu 2.0",
       "link": "https://www.fragrantica.com/perfume/Maracuja-Brasil/Homem-Bleu-2-0-139299.html",
@@ -1582,22 +1598,6 @@
       "title": "We Pink — Hair Mist Perfect Pear",
       "link": "https://www.fragrantica.com/perfume/We-Pink/Hair-Mist-Perfect-Pear-139302.html",
       "description": "New perfume listing: Hair Mist Perfect Pear by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Hair Mist One Touch",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Hair-Mist-One-Touch-139301.html",
-      "description": "New perfume listing: Hair Mist One Touch by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1786218446
-    },
-    {
-      "title": "We Pink — Absolute Titanium",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Absolute-Titanium-139300.html",
-      "description": "New perfume listing: Absolute Titanium by We Pink.",
       "category": "New Perfumes",
       "author": "We Pink",
       "published": 1786218446
