@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "OTTO KERN Royal Addiction Collection: Champagne, Rose and Violet",
+      "link": "https://www.fragrantica.com/news/OTTO-KERN-Royal-Addiction-Collection-Champagne-Rose-and-Violet-25825.html",
+      "description": "Three fragrances, three takes on modern elegance",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1786525862
+    },
+    {
       "title": "Exhibition \"Marc-Antoine Barrois, 10 Years After B683, a Collective Photographical Work About Perfumes at Homes\"",
       "link": "https://www.fragrantica.com/news/Exhibition-Marc-Antoine-Barrois-10-Years-After-B683-a-Collective-Photographical-Work-About-Perfumes-at-Homes-25824.html",
       "description": "Marc-Antoine Barrois unveils a photographic show as part of the 'Rencontres d'Arles ' on the occasion of the tenth anniversary of B683.",
@@ -791,17 +799,89 @@
       "category": "Video",
       "author": "Fragrance Reviews",
       "published": 1785412143
-    },
-    {
-      "title": "BYREDO Unveils Future Memories by Quentin Bisch",
-      "link": "https://www.fragrantica.com/news/BYREDO-Unveils-Future-Memories-by-Quentin-Bisch-25725.html",
-      "description": "\"What You Choose Today Will Shape The Memories You Carry Tomorrow\".",
-      "category": "New Fragrances",
-      "author": "Elena Knezevic",
-      "published": 1785398404
     }
   ],
   "perfumes": [
+    {
+      "title": "Maison Du Miel — Paradis Perdu",
+      "link": "https://www.fragrantica.com/perfume/Maison-Du-Miel/Paradis-Perdu-139437.html",
+      "description": "New perfume listing: Paradis Perdu by Maison Du Miel.",
+      "category": "New Perfumes",
+      "author": "Maison Du Miel",
+      "published": 1786528112
+    },
+    {
+      "title": "Maison Du Miel — Peau d'Agrumes",
+      "link": "https://www.fragrantica.com/perfume/Maison-Du-Miel/Peau-d-Agrumes-139436.html",
+      "description": "New perfume listing: Peau d'Agrumes by Maison Du Miel.",
+      "category": "New Perfumes",
+      "author": "Maison Du Miel",
+      "published": 1786528112
+    },
+    {
+      "title": "Maison Du Miel — Extraordinairis",
+      "link": "https://www.fragrantica.com/perfume/Maison-Du-Miel/Extraordinairis-139435.html",
+      "description": "New perfume listing: Extraordinairis by Maison Du Miel.",
+      "category": "New Perfumes",
+      "author": "Maison Du Miel",
+      "published": 1786528112
+    },
+    {
+      "title": "Betty Barclay — Caramelised Vanilla Body & Hair Splash",
+      "link": "https://www.fragrantica.com/perfume/Betty-Barclay/Caramelised-Vanilla-Body-Hair-Splash-139434.html",
+      "description": "New perfume listing: Caramelised Vanilla Body & Hair Splash by Betty Barclay.",
+      "category": "New Perfumes",
+      "author": "Betty Barclay",
+      "published": 1786528112
+    },
+    {
+      "title": "Otto Kern — Gentleman's Code Copper",
+      "link": "https://www.fragrantica.com/perfume/Otto-Kern/Gentleman-s-Code-Copper-139433.html",
+      "description": "New perfume listing: Gentleman's Code Copper by Otto Kern.",
+      "category": "New Perfumes",
+      "author": "Otto Kern",
+      "published": 1786528112
+    },
+    {
+      "title": "Otto Kern — Gentleman's Code Gold",
+      "link": "https://www.fragrantica.com/perfume/Otto-Kern/Gentleman-s-Code-Gold-139432.html",
+      "description": "New perfume listing: Gentleman's Code Gold by Otto Kern.",
+      "category": "New Perfumes",
+      "author": "Otto Kern",
+      "published": 1786528112
+    },
+    {
+      "title": "Otto Kern — Royal Addiction Violet",
+      "link": "https://www.fragrantica.com/perfume/Otto-Kern/Royal-Addiction-Violet-139431.html",
+      "description": "New perfume listing: Royal Addiction Violet by Otto Kern.",
+      "category": "New Perfumes",
+      "author": "Otto Kern",
+      "published": 1786528112
+    },
+    {
+      "title": "Otto Kern — Royal Addiction Rose",
+      "link": "https://www.fragrantica.com/perfume/Otto-Kern/Royal-Addiction-Rose-139430.html",
+      "description": "New perfume listing: Royal Addiction Rose by Otto Kern.",
+      "category": "New Perfumes",
+      "author": "Otto Kern",
+      "published": 1786528112
+    },
+    {
+      "title": "Otto Kern — Royal Addiction Champagne",
+      "link": "https://www.fragrantica.com/perfume/Otto-Kern/Royal-Addiction-Champagne-139429.html",
+      "description": "New perfume listing: Royal Addiction Champagne by Otto Kern.",
+      "category": "New Perfumes",
+      "author": "Otto Kern",
+      "published": 1786528112
+    },
+    {
+      "title": "Dicora Urban Fit — NYC",
+      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139334.html",
+      "description": "New perfume listing: NYC by Dicora Urban Fit.",
+      "category": "New Perfumes",
+      "author": "Dicora Urban Fit",
+      "published": 1786528112
+    },
     {
       "title": "GRG — MangoManga",
       "link": "https://www.fragrantica.com/perfume/GRG/MangoManga-139428.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Layl by Sense Dubai.",
       "category": "New Perfumes",
       "author": "Sense Dubai",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — London",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/London-139342.html",
-      "description": "New perfume listing: London by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — Dubai",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Dubai-139341.html",
-      "description": "New perfume listing: Dubai by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — NYC",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139340.html",
-      "description": "New perfume listing: NYC by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — Vienna",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Vienna-139339.html",
-      "description": "New perfume listing: Vienna by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — Miami",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Miami-139338.html",
-      "description": "New perfume listing: Miami by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — Paris",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Paris-139337.html",
-      "description": "New perfume listing: Paris by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — L.A.",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/L-A-139336.html",
-      "description": "New perfume listing: L.A. by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — London",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/London-139335.html",
-      "description": "New perfume listing: London by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786305123
-    },
-    {
-      "title": "Keskiyon Hovi — Sweet Occasion",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Sweet-Occasion-139268.html",
-      "description": "New perfume listing: Sweet Occasion by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786305123
-    },
-    {
-      "title": "Keskiyon Hovi — Thorns & Honey",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Thorns-Honey-139267.html",
-      "description": "New perfume listing: Thorns & Honey by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
       "published": 1786305123
     }
   ]
