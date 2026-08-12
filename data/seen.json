@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Exhibition \"Marc-Antoine Barrois, 10 Years After B683, a Collective Photographical Work About Perfumes at Homes\"",
+      "link": "https://www.fragrantica.com/news/Exhibition-Marc-Antoine-Barrois-10-Years-After-B683-a-Collective-Photographical-Work-About-Perfumes-at-Homes-25824.html",
+      "description": "Marc-Antoine Barrois unveils a photographic show as part of the 'Rencontres d'Arles ' on the occasion of the tenth anniversary of B683.",
+      "category": "Art Books Events",
+      "author": "Sophie Normand",
+      "published": 1786505043
+    },
+    {
+      "title": "Historic British Brand Czech & Speake Under New Ownership With A New Niche Collection",
+      "link": "https://www.fragrantica.com/news/Historic-British-Brand-Czech-Speake-Under-New-Ownership-With-A-New-Niche-Collection-25823.html",
+      "description": "Six new formulas",
+      "category": "New Fragrances",
+      "author": "Eddie Bulliqi",
+      "published": 1786494242
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING–SUMMER 2026: Rouu Abd El-Latif & Elena Knezevic",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Rouu-Abd-El-Latif-Elena-Knezevic-25822.html",
+      "description": "Something rare and something popular to follow.",
+      "category": "Fragrantica",
+      "author": "Rouu Abd El-Latif,Elena Knezevic",
+      "published": 1786483429
+    },
+    {
       "title": "Decisamente Rosa Bois 1920 — An Italian New Release That Could Have Been Better",
       "link": "https://www.fragrantica.com/news/Decisamente-Rosa-Bois-1920-An-Italian-New-Release-That-Could-Have-Been-Better-25821.html",
       "description": "Oh rose, rose, what have they done to you…",
@@ -775,33 +799,41 @@
       "category": "New Fragrances",
       "author": "Elena Knezevic",
       "published": 1785398404
-    },
-    {
-      "title": "What's Happening at Avon: A Study in Spaghetti (and Barbells)",
-      "link": "https://www.fragrantica.com/news/What-s-Happening-at-Avon-A-Study-in-Spaghetti-and-Barbells-25724.html",
-      "description": "They're going to see what sticks, one way or another.",
-      "category": "Columns",
-      "author": "Adam Forziati",
-      "published": 1785390603
-    },
-    {
-      "title": "Veritas: Fragrances From the Land of Tulips and Still-Lives",
-      "link": "https://www.fragrantica.com/news/Veritas-Fragrances-From-the-Land-of-Tulips-and-Still-Lifes-25723.html",
-      "description": "Sergey got acquainted with five fragrances by this new brand.",
-      "category": "Fragrance News",
-      "author": "Sergey Borisov",
-      "published": 1785378064
-    },
-    {
-      "title": "Perfume Demographics: A Complicated Mix",
-      "link": "https://www.fragrantica.com/news/Perfume-Demographics-A-Complicated-Mix-25722.html",
-      "description": "Some companies are shooting themselves in the foot, entering a vicious circle. The consumer of the bubbly new stuff is as easily attracted by \"newness\" from yet another brand or company.",
-      "category": "Columns",
-      "author": "Elena Vosnaki",
-      "published": 1785364324
     }
   ],
   "perfumes": [
+    {
+      "title": "GRG — MangoManga",
+      "link": "https://www.fragrantica.com/perfume/GRG/MangoManga-139428.html",
+      "description": "New perfume listing: MangoManga by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786513789
+    },
+    {
+      "title": "GRG — Sweet G",
+      "link": "https://www.fragrantica.com/perfume/GRG/Sweet-G-139427.html",
+      "description": "New perfume listing: Sweet G by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786513789
+    },
+    {
+      "title": "GRG — Oktoberfest",
+      "link": "https://www.fragrantica.com/perfume/GRG/Oktoberfest-139426.html",
+      "description": "New perfume listing: Oktoberfest by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786513789
+    },
+    {
+      "title": "GRG — FKK",
+      "link": "https://www.fragrantica.com/perfume/GRG/FKK-139425.html",
+      "description": "New perfume listing: FKK by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786513789
+    },
     {
       "title": "Gravel — Eau D'Ivine",
       "link": "https://www.fragrantica.com/perfume/Gravel/Eau-D-Ivine-139424.html",
@@ -1569,38 +1601,6 @@
       "category": "New Perfumes",
       "author": "Keskiyon Hovi",
       "published": 1786305123
-    },
-    {
-      "title": "Dicora Urban Fit — NYC",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139334.html",
-      "description": "New perfume listing: NYC by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786285143
-    },
-    {
-      "title": "Keskiyon Hovi — Dreams In Matcha",
-      "link": "https://www.fragrantica.com/perfume/Keskiyon-Hovi/Dreams-In-Matcha-139266.html",
-      "description": "New perfume listing: Dreams In Matcha by Keskiyon Hovi.",
-      "category": "New Perfumes",
-      "author": "Keskiyon Hovi",
-      "published": 1786285143
-    },
-    {
-      "title": "Pour Toi — Katz!",
-      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Katz-139258.html",
-      "description": "New perfume listing: Katz! by Pour Toi.",
-      "category": "New Perfumes",
-      "author": "Pour Toi",
-      "published": 1786263880
-    },
-    {
-      "title": "Pour Toi — Simple Math",
-      "link": "https://www.fragrantica.com/perfume/Pour-Toi/Simple-Math-139257.html",
-      "description": "New perfume listing: Simple Math by Pour Toi.",
-      "category": "New Perfumes",
-      "author": "Pour Toi",
-      "published": 1786263880
     }
   ]
 }
