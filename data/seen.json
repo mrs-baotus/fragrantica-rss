@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Seasonal Scents for Sadbois: Rainy Days",
+      "link": "https://www.fragrantica.com/news/Seasonal-Scents-for-Sadbois-Rainy-Days-25833.html",
+      "description": "What do you wear when it rains if you’re only happy when it rains...?",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1786598943
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING–SUMMER 2026: Elena Prokofeva & Viktoria Vlasova",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Elena-Prokofeva-Viktoria-Vlasova-25832.html",
+      "description": "Wrapping up our top fragrances from the first half of 2026!",
+      "category": "Fragrantica",
+      "author": "Elena Prokofeva,Viktoria Vlasova",
+      "published": 1786577411
+    },
+    {
+      "title": "Oeillet Pourpre: A Jeweled Carnation in Vanilla Twilight",
+      "link": "https://www.fragrantica.com/news/Oeillet-Pourpre-A-Jeweled-Carnation-in-Vanilla-Twilight-25831.html",
+      "description": "A fantasy of Red Moscow as imagined by Guerlain.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1786573503
+    },
+    {
       "title": "Ambre Antique and a Difficult Choice",
       "link": "https://www.fragrantica.com/news/Ambre-Antique-and-a-Difficult-Choice-25830.html",
       "description": "Sense of smell as an addiction.",
@@ -775,33 +799,153 @@
       "category": "Vintages",
       "author": "Sergey Borisov",
       "published": 1785478084
-    },
-    {
-      "title": "Le 12 Victor Hugo: 'Salt of the Earth' Lavender",
-      "link": "https://www.fragrantica.com/news/Le-12-Victor-Hugo-Salt-of-the-Earth-Lavender-25733.html",
-      "description": "The incoming Jacques Fath perfume portrays a clay-like, supple lavender, unlike any other treatment of the note.",
-      "category": "Niche Perfumery",
-      "author": "Adam Forziati",
-      "published": 1785467202
-    },
-    {
-      "title": "Kohl Luminous and Kohl Opulence by Arabiyat Prestige",
-      "link": "https://www.fragrantica.com/news/Kohl-Luminous-and-Kohl-Opulence-by-Arabiyat-Prestige-25732.html",
-      "description": "Two fruity fragrances from the Kohl collection.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1785459417
-    },
-    {
-      "title": "Perfume and the NEP: The Commercial Renaissance of the 1920s",
-      "link": "https://www.fragrantica.com/news/Perfume-and-the-NEP-The-Commercial-Renaissance-of-the-1920s-25731.html",
-      "description": "Galina Anni once again immerses us in the history of perfumery.",
-      "category": "Columns",
-      "author": "Galina Anni",
-      "published": 1785448984
     }
   ],
   "perfumes": [
+    {
+      "title": "GRG — Kohvara",
+      "link": "https://www.fragrantica.com/perfume/GRG/Kohvara-139458.html",
+      "description": "New perfume listing: Kohvara by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Niveus",
+      "link": "https://www.fragrantica.com/perfume/GRG/Niveus-139457.html",
+      "description": "New perfume listing: Niveus by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Sciur",
+      "link": "https://www.fragrantica.com/perfume/GRG/Sciur-139456.html",
+      "description": "New perfume listing: Sciur by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Turrosa",
+      "link": "https://www.fragrantica.com/perfume/GRG/Turrosa-139455.html",
+      "description": "New perfume listing: Turrosa by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Tabakal",
+      "link": "https://www.fragrantica.com/perfume/GRG/Tabakal-139454.html",
+      "description": "New perfume listing: Tabakal by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Libertin",
+      "link": "https://www.fragrantica.com/perfume/GRG/Libertin-139453.html",
+      "description": "New perfume listing: Libertin by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "GRG — Na Und?",
+      "link": "https://www.fragrantica.com/perfume/GRG/Na-Und-139452.html",
+      "description": "New perfume listing: Na Und? by GRG.",
+      "category": "New Perfumes",
+      "author": "GRG",
+      "published": 1786600321
+    },
+    {
+      "title": "Flagolie — Verbena & Cashmere",
+      "link": "https://www.fragrantica.com/perfume/Flagolie/Verbena-Cashmere-139451.html",
+      "description": "New perfume listing: Verbena & Cashmere by Flagolie.",
+      "category": "New Perfumes",
+      "author": "Flagolie",
+      "published": 1786600321
+    },
+    {
+      "title": "Flagolie — Ylang-Ylang",
+      "link": "https://www.fragrantica.com/perfume/Flagolie/Ylang-Ylang-139450.html",
+      "description": "New perfume listing: Ylang-Ylang by Flagolie.",
+      "category": "New Perfumes",
+      "author": "Flagolie",
+      "published": 1786600321
+    },
+    {
+      "title": "Flagolie — Honey & Rose",
+      "link": "https://www.fragrantica.com/perfume/Flagolie/Honey-Rose-139449.html",
+      "description": "New perfume listing: Honey & Rose by Flagolie.",
+      "category": "New Perfumes",
+      "author": "Flagolie",
+      "published": 1786600321
+    },
+    {
+      "title": "JFENZI — White Flowers",
+      "link": "https://www.fragrantica.com/perfume/JFENZI/White-Flowers-139448.html",
+      "description": "New perfume listing: White Flowers by JFENZI.",
+      "category": "New Perfumes",
+      "author": "JFENZI",
+      "published": 1786600321
+    },
+    {
+      "title": "Bravo Sierra — Suede Musk",
+      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Suede-Musk-139462.html",
+      "description": "New perfume listing: Suede Musk by Bravo Sierra.",
+      "category": "New Perfumes",
+      "author": "Bravo Sierra",
+      "published": 1786600321
+    },
+    {
+      "title": "Bravo Sierra — Smoked Orris",
+      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Smoked-Orris-139461.html",
+      "description": "New perfume listing: Smoked Orris by Bravo Sierra.",
+      "category": "New Perfumes",
+      "author": "Bravo Sierra",
+      "published": 1786600321
+    },
+    {
+      "title": "Bravo Sierra — Marine Salt",
+      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Marine-Salt-139460.html",
+      "description": "New perfume listing: Marine Salt by Bravo Sierra.",
+      "category": "New Perfumes",
+      "author": "Bravo Sierra",
+      "published": 1786600321
+    },
+    {
+      "title": "Bravo Sierra — Bravo Sierra Eau de Cologne",
+      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Bravo-Sierra-Eau-de-Cologne-139459.html",
+      "description": "New perfume listing: Bravo Sierra Eau de Cologne by Bravo Sierra.",
+      "category": "New Perfumes",
+      "author": "Bravo Sierra",
+      "published": 1786600321
+    },
+    {
+      "title": "Roberto Ugolini — 4 Rosso",
+      "link": "https://www.fragrantica.com/perfume/Roberto-Ugolini/4-Rosso-139365.html",
+      "description": "New perfume listing: 4 Rosso by Roberto Ugolini.",
+      "category": "New Perfumes",
+      "author": "Roberto Ugolini",
+      "published": 1786600321
+    },
+    {
+      "title": "Al & Marie — Amurao",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Amurao-139351.html",
+      "description": "New perfume listing: Amurao by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786600321
+    },
+    {
+      "title": "Al & Marie — Apolonio",
+      "link": "https://www.fragrantica.com/perfume/Al-Marie/Apolonio-139350.html",
+      "description": "New perfume listing: Apolonio by Al & Marie.",
+      "category": "New Perfumes",
+      "author": "Al & Marie",
+      "published": 1786600321
+    },
     {
       "title": "Strange Harvest — Hori Hori",
       "link": "https://www.fragrantica.com/perfume/Strange-Harvest/Hori-Hori-139447.html",
@@ -1457,150 +1601,6 @@
       "category": "New Perfumes",
       "author": "Maison D. Azeez",
       "published": 1786393490
-    },
-    {
-      "title": "Genyum — Lime Light",
-      "link": "https://www.fragrantica.com/perfume/Genyum/Lime-Light-139380.html",
-      "description": "New perfume listing: Lime Light by Genyum.",
-      "category": "New Perfumes",
-      "author": "Genyum",
-      "published": 1786393490
-    },
-    {
-      "title": "Maison D. Azeez — Solace Balok",
-      "link": "https://www.fragrantica.com/perfume/Maison-D-Azeez/Solace-Balok-139379.html",
-      "description": "New perfume listing: Solace Balok by Maison D. Azeez.",
-      "category": "New Perfumes",
-      "author": "Maison D. Azeez",
-      "published": 1786393490
-    },
-    {
-      "title": "Acqua di Parma — Oud Ambrosia",
-      "link": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Oud-Ambrosia-139378.html",
-      "description": "New perfume listing: Oud Ambrosia by Acqua di Parma.",
-      "category": "New Perfumes",
-      "author": "Acqua di Parma",
-      "published": 1786393490
-    },
-    {
-      "title": "Jensen Fragrances — No. 1",
-      "link": "https://www.fragrantica.com/perfume/Jensen-Fragrances/No-1-139377.html",
-      "description": "New perfume listing: No. 1 by Jensen Fragrances.",
-      "category": "New Perfumes",
-      "author": "Jensen Fragrances",
-      "published": 1786393490
-    },
-    {
-      "title": "Sense Dubai — Al Nisa",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Al-Nisa-139389.html",
-      "description": "New perfume listing: Al Nisa by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786393490
-    },
-    {
-      "title": "Unifrom — Winter Saga",
-      "link": "https://www.fragrantica.com/perfume/Unifrom/Winter-Saga-139383.html",
-      "description": "New perfume listing: Winter Saga by Unifrom.",
-      "category": "New Perfumes",
-      "author": "Unifrom",
-      "published": 1786393490
-    },
-    {
-      "title": "Aaron Terence Hughes — Onyx",
-      "link": "https://www.fragrantica.com/perfume/Aaron-Terence-Hughes/Onyx-139277.html",
-      "description": "New perfume listing: Onyx by Aaron Terence Hughes.",
-      "category": "New Perfumes",
-      "author": "Aaron Terence Hughes",
-      "published": 1786393490
-    },
-    {
-      "title": "Bugatti — Vaniglia Pura",
-      "link": "https://www.fragrantica.com/perfume/Bugatti/Vaniglia-Pura-139376.html",
-      "description": "New perfume listing: Vaniglia Pura by Bugatti.",
-      "category": "New Perfumes",
-      "author": "Bugatti",
-      "published": 1786376084
-    },
-    {
-      "title": "Bugatti — Fiori d'Italia",
-      "link": "https://www.fragrantica.com/perfume/Bugatti/Fiori-d-Italia-139375.html",
-      "description": "New perfume listing: Fiori d'Italia by Bugatti.",
-      "category": "New Perfumes",
-      "author": "Bugatti",
-      "published": 1786376084
-    },
-    {
-      "title": "Flagolie — Lavender & Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Lavender-Vanilla-139374.html",
-      "description": "New perfume listing: Lavender & Vanilla by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786376084
-    },
-    {
-      "title": "BaoBath — Spiced Orange & Ginger",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Spiced-Orange-Ginger-139373.html",
-      "description": "New perfume listing: Spiced Orange & Ginger by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1786376084
-    },
-    {
-      "title": "BaoBath — White Freesia & Pear",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/White-Freesia-Pear-139372.html",
-      "description": "New perfume listing: White Freesia & Pear by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1786376084
-    },
-    {
-      "title": "Ghost — Sunday Dream",
-      "link": "https://www.fragrantica.com/perfume/Ghost/Sunday-Dream-139371.html",
-      "description": "New perfume listing: Sunday Dream by Ghost.",
-      "category": "New Perfumes",
-      "author": "Ghost",
-      "published": 1786376084
-    },
-    {
-      "title": "Ghost — Moody Dream",
-      "link": "https://www.fragrantica.com/perfume/Ghost/Moody-Dream-139370.html",
-      "description": "New perfume listing: Moody Dream by Ghost.",
-      "category": "New Perfumes",
-      "author": "Ghost",
-      "published": 1786376084
-    },
-    {
-      "title": "Cranford — Karizma",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Karizma-139369.html",
-      "description": "New perfume listing: Karizma by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1786376084
-    },
-    {
-      "title": "Cranford — Spartan",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Spartan-139368.html",
-      "description": "New perfume listing: Spartan by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1786376084
-    },
-    {
-      "title": "Cranford — Levante",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Levante-139367.html",
-      "description": "New perfume listing: Levante by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1786376084
-    },
-    {
-      "title": "Cranford — Lorenzo",
-      "link": "https://www.fragrantica.com/perfume/Cranford/Lorenzo-139366.html",
-      "description": "New perfume listing: Lorenzo by Cranford.",
-      "category": "New Perfumes",
-      "author": "Cranford",
-      "published": 1786376084
     }
   ]
 }
