@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Two New Fragrances From Rasasi: Hawas La Mer and Hawas Gold Digger",
+      "link": "https://www.fragrantica.com/news/Two-New-Fragrances-From-Rasasi-Hawas-La-Mer-and-Hawas-Gold-Digger-25843.html",
+      "description": "Rasasi has launched two new fragrances in the Hawas line.",
+      "category": "New Fragrances",
+      "author": "Alena Lavault",
+      "published": 1786722003
+    },
+    {
       "title": "Fugazzi Launches Miauw Miauw, First Exclusively at Sephora Europe",
       "link": "https://www.fragrantica.com/news/Fugazzi-Launches-Miauw-Miauw-First-Exclusively-at-Sephora-Europe-25842.html",
       "description": "\"The olfactory equivalent of an air of innocence that allows you to get out of any situation.\"",
@@ -791,17 +799,57 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1785590703
-    },
-    {
-      "title": "Oceano Viola: A Complex Purple Sea of Calm and Unsettling Wistfulness",
-      "link": "https://www.fragrantica.com/news/Oceano-Viola-A-Complex-Purple-Sea-of-Calm-and-Unsettling-Wistfulness-25743.html",
-      "description": "Filippo Sorcinelli adds one more to his UNUM series, an aquatic floral that pulls at your heart, smells like no other...",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1785559504
     }
   ],
   "perfumes": [
+    {
+      "title": "L'Orchestre Parfum — Heavy Bubblegum",
+      "link": "https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Heavy-Bubblegum-139527.html",
+      "description": "New perfume listing: Heavy Bubblegum by L'Orchestre Parfum.",
+      "category": "New Perfumes",
+      "author": "L'Orchestre Parfum",
+      "published": 1786737876
+    },
+    {
+      "title": "Ahmed Al Maghribi — O'Clock",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/O-Clock-139525.html",
+      "description": "New perfume listing: O'Clock by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1786737876
+    },
+    {
+      "title": "Ahmed Al Maghribi — Is It Me",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Is-It-Me-139524.html",
+      "description": "New perfume listing: Is It Me by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1786737876
+    },
+    {
+      "title": "Playboy — Berry Baby",
+      "link": "https://www.fragrantica.com/perfume/Playboy/Berry-Baby-139523.html",
+      "description": "New perfume listing: Berry Baby by Playboy.",
+      "category": "New Perfumes",
+      "author": "Playboy",
+      "published": 1786737876
+    },
+    {
+      "title": "H&M — Solar Blur",
+      "link": "https://www.fragrantica.com/perfume/H-M/Solar-Blur-139522.html",
+      "description": "New perfume listing: Solar Blur by H&M.",
+      "category": "New Perfumes",
+      "author": "H&M",
+      "published": 1786737876
+    },
+    {
+      "title": "Naseem — Celoud",
+      "link": "https://www.fragrantica.com/perfume/Naseem/Celoud-139526.html",
+      "description": "New perfume listing: Celoud by Naseem.",
+      "category": "New Perfumes",
+      "author": "Naseem",
+      "published": 1786737876
+    },
     {
       "title": "Azari Parfumery — Baku Nights Pink",
       "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Baku-Nights-Pink-139521.html",
@@ -1552,54 +1600,6 @@
       "description": "New perfume listing: SpritzCol by GRG.",
       "category": "New Perfumes",
       "author": "GRG",
-      "published": 1786566283
-    },
-    {
-      "title": "Strange Harvest — Praying Manthus",
-      "link": "https://www.fragrantica.com/perfume/Strange-Harvest/Praying-Manthus-139442.html",
-      "description": "New perfume listing: Praying Manthus by Strange Harvest.",
-      "category": "New Perfumes",
-      "author": "Strange Harvest",
-      "published": 1786566283
-    },
-    {
-      "title": "Dicora Urban Fit — Tokyo",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Tokyo-139349.html",
-      "description": "New perfume listing: Tokyo by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786566283
-    },
-    {
-      "title": "Sense Dubai — No. 11",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/No-11-139347.html",
-      "description": "New perfume listing: No. 11 by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786566283
-    },
-    {
-      "title": "Sense Dubai — Sara",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Sara-139346.html",
-      "description": "New perfume listing: Sara by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786566283
-    },
-    {
-      "title": "Sense Dubai — Jalad",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Jalad-139345.html",
-      "description": "New perfume listing: Jalad by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786566283
-    },
-    {
-      "title": "Sense Dubai — 808",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/808-139344.html",
-      "description": "New perfume listing: 808 by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
       "published": 1786566283
     }
   ]
