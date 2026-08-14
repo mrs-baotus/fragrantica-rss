@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Fugazzi Launches Miauw Miauw, First Exclusively at Sephora Europe",
+      "link": "https://www.fragrantica.com/news/Fugazzi-Launches-Miauw-Miauw-First-Exclusively-at-Sephora-Europe-25842.html",
+      "description": "\"The olfactory equivalent of an air of innocence that allows you to get out of any situation.\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1786709114
+    },
+    {
+      "title": "Rahasya - Part 1",
+      "link": "https://www.fragrantica.com/news/Rahasya-Part-1-25841.html",
+      "description": "A new brand brings Indian-inspired fragrances to a global stage",
+      "category": "Fragrance Reviews",
+      "author": "Nicola Thomis",
+      "published": 1786701842
+    },
+    {
       "title": "RMK Perfumes: A Legacy for Future Generations of the Emirates",
       "link": "https://www.fragrantica.com/news/RMK-Perfumes-A-Legacy-for-Future-Generations-of-the-Emirates-25840.html",
       "description": "Dubai's gift to the world.",
@@ -783,25 +799,73 @@
       "category": "Fragrance Reviews",
       "author": "Patric Rhys",
       "published": 1785559504
-    },
-    {
-      "title": "Coco Mademoiselle Chanel Crush Absolu Review",
-      "link": "https://www.fragrantica.com/news/Coco-Mademoiselle-Chanel-Crush-Absolu-Review-25742.html",
-      "description": "The evolution: Yeah, No!",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1785547474
-    },
-    {
-      "title": "Arak Baraka and Pistachio Paradise by Ideo",
-      "link": "https://www.fragrantica.com/news/Arak-Baraka-and-Pistachio-Paradise-by-Ideo-25741.html",
-      "description": "Two new scents join the Delicacies Collection",
-      "category": "Niche Perfumery",
-      "author": "Nicola Thomis",
-      "published": 1785534843
     }
   ],
   "perfumes": [
+    {
+      "title": "Azari Parfumery — Baku Nights Pink",
+      "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Baku-Nights-Pink-139521.html",
+      "description": "New perfume listing: Baku Nights Pink by Azari Parfumery.",
+      "category": "New Perfumes",
+      "author": "Azari Parfumery",
+      "published": 1786720244
+    },
+    {
+      "title": "Azari Parfumery — Baku Nights Green",
+      "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Baku-Nights-Green-139520.html",
+      "description": "New perfume listing: Baku Nights Green by Azari Parfumery.",
+      "category": "New Perfumes",
+      "author": "Azari Parfumery",
+      "published": 1786720244
+    },
+    {
+      "title": "Palms. — Sweet Beach",
+      "link": "https://www.fragrantica.com/perfume/Palms/Sweet-Beach-139519.html",
+      "description": "New perfume listing: Sweet Beach by Palms..",
+      "category": "New Perfumes",
+      "author": "Palms.",
+      "published": 1786720244
+    },
+    {
+      "title": "Fugazzi — Miauw Miauw",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Miauw-Miauw-139518.html",
+      "description": "New perfume listing: Miauw Miauw by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1786720244
+    },
+    {
+      "title": "Narcisse Taormina — Marrone Fondente",
+      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Marrone-Fondente-139517.html",
+      "description": "New perfume listing: Marrone Fondente by Narcisse Taormina.",
+      "category": "New Perfumes",
+      "author": "Narcisse Taormina",
+      "published": 1786720244
+    },
+    {
+      "title": "Narcisse Taormina — Verde Pistacchio",
+      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Verde-Pistacchio-139516.html",
+      "description": "New perfume listing: Verde Pistacchio by Narcisse Taormina.",
+      "category": "New Perfumes",
+      "author": "Narcisse Taormina",
+      "published": 1786720244
+    },
+    {
+      "title": "Narcisse Taormina — Arancio Candito",
+      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Arancio-Candito-139515.html",
+      "description": "New perfume listing: Arancio Candito by Narcisse Taormina.",
+      "category": "New Perfumes",
+      "author": "Narcisse Taormina",
+      "published": 1786720244
+    },
+    {
+      "title": "Narcisse Taormina — Bianco Sorbetto",
+      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Bianco-Sorbetto-139514.html",
+      "description": "New perfume listing: Bianco Sorbetto by Narcisse Taormina.",
+      "category": "New Perfumes",
+      "author": "Narcisse Taormina",
+      "published": 1786720244
+    },
     {
       "title": "EL Pasha — Noir",
       "link": "https://www.fragrantica.com/perfume/EL-Pasha/Noir-139513.html",
@@ -1537,70 +1601,6 @@
       "category": "New Perfumes",
       "author": "Sense Dubai",
       "published": 1786566283
-    },
-    {
-      "title": "Sense Dubai — Layl",
-      "link": "https://www.fragrantica.com/perfume/Sense-Dubai/Layl-139343.html",
-      "description": "New perfume listing: Layl by Sense Dubai.",
-      "category": "New Perfumes",
-      "author": "Sense Dubai",
-      "published": 1786566283
-    },
-    {
-      "title": "Dicora Urban Fit — London",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/London-139342.html",
-      "description": "New perfume listing: London by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — Dubai",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Dubai-139341.html",
-      "description": "New perfume listing: Dubai by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — NYC",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/NYC-139340.html",
-      "description": "New perfume listing: NYC by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — Vienna",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Vienna-139339.html",
-      "description": "New perfume listing: Vienna by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — Miami",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Miami-139338.html",
-      "description": "New perfume listing: Miami by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — Paris",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Paris-139337.html",
-      "description": "New perfume listing: Paris by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
-    },
-    {
-      "title": "Dicora Urban Fit — L.A.",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/L-A-139336.html",
-      "description": "New perfume listing: L.A. by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786548746
     }
   ]
 }
