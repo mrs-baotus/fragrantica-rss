@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Éveil Élémentaire from Mayhap: Sea Foam Frothing Of Silver Shavings",
+      "link": "https://www.fragrantica.com/news/Eveil-Elementaire-from-Mayhap-Sea-Foam-Frothing-Of-Silver-Shavings-25847.html",
+      "description": "Clearly inspired by an Hermès fragrance",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786787763
+    },
+    {
       "title": "Forget ‘Touch Grass’ – These Perfumes Invite You to ‘Sniff Water’",
       "link": "https://www.fragrantica.com/news/Forget-Touch-Grass-These-Perfumes-Invite-You-to-Sniff-Water-25846.html",
       "description": "…Figuratively, of course.",
@@ -791,17 +799,137 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1785627902
-    },
-    {
-      "title": "AERIN Amber Musk Pistache",
-      "link": "https://www.fragrantica.com/news/AERIN-Amber-Musk-Pistache-25747.html",
-      "description": "The Amber Musk story continues with Amber Musk Pistache, a limited-edition gourmand creation.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1785616983
     }
   ],
   "perfumes": [
+    {
+      "title": "Al Wataniah — Castilla",
+      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Castilla-139541.html",
+      "description": "New perfume listing: Castilla by Al Wataniah.",
+      "category": "New Perfumes",
+      "author": "Al Wataniah",
+      "published": 1786801505
+    },
+    {
+      "title": "Fragrance World — Riche & Royale Femme",
+      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Riche-Royale-Femme-139540.html",
+      "description": "New perfume listing: Riche & Royale Femme by Fragrance World.",
+      "category": "New Perfumes",
+      "author": "Fragrance World",
+      "published": 1786801505
+    },
+    {
+      "title": "Aroma Concepts — Golden Layal",
+      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Golden-Layal-139539.html",
+      "description": "New perfume listing: Golden Layal by Aroma Concepts.",
+      "category": "New Perfumes",
+      "author": "Aroma Concepts",
+      "published": 1786801505
+    },
+    {
+      "title": "Aroma Concepts — Cashmere Vanille",
+      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Cashmere-Vanille-139538.html",
+      "description": "New perfume listing: Cashmere Vanille by Aroma Concepts.",
+      "category": "New Perfumes",
+      "author": "Aroma Concepts",
+      "published": 1786801505
+    },
+    {
+      "title": "Nike — Moonlight",
+      "link": "https://www.fragrantica.com/perfume/Nike/Moonlight-139537.html",
+      "description": "New perfume listing: Moonlight by Nike.",
+      "category": "New Perfumes",
+      "author": "Nike",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Khatiiiiiir",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Khatiiiiiir-139552.html",
+      "description": "New perfume listing: Khatiiiiiir by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Horr Fi Al Riyah",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Horr-Fi-Al-Riyah-139551.html",
+      "description": "New perfume listing: Horr Fi Al Riyah by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Hamsa",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Hamsa-139550.html",
+      "description": "New perfume listing: Hamsa by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Hams Min Al Sahraa",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Hams-Min-Al-Sahraa-139549.html",
+      "description": "New perfume listing: Hams Min Al Sahraa by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Hadeeth Al Rooh",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Hadeeth-Al-Rooh-139548.html",
+      "description": "New perfume listing: Hadeeth Al Rooh by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Fakhamat Al Warda",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Fakhamat-Al-Warda-139547.html",
+      "description": "New perfume listing: Fakhamat Al Warda by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Amtar",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Amtar-139546.html",
+      "description": "New perfume listing: Amtar by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Al Shaghaf Al Ahmar",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Al-Shaghaf-Al-Ahmar-139545.html",
+      "description": "New perfume listing: Al Shaghaf Al Ahmar by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Al Hawa Ghallab",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Al-Hawa-Ghallab-139544.html",
+      "description": "New perfume listing: Al Hawa Ghallab by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Mansam — Aala Taj Warda",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Aala-Taj-Warda-139543.html",
+      "description": "New perfume listing: Aala Taj Warda by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786801505
+    },
+    {
+      "title": "Emper — Legend Arabia",
+      "link": "https://www.fragrantica.com/perfume/Emper/Legend-Arabia-139542.html",
+      "description": "New perfume listing: Legend Arabia by Emper.",
+      "category": "New Perfumes",
+      "author": "Emper",
+      "published": 1786801505
+    },
     {
       "title": "My Geisha — Jasmine in the Sun",
       "link": "https://www.fragrantica.com/perfume/My-Geisha/Jasmine-in-the-Sun-139536.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "Cranford",
       "published": 1786614569
-    },
-    {
-      "title": "GRG — Kohvara",
-      "link": "https://www.fragrantica.com/perfume/GRG/Kohvara-139458.html",
-      "description": "New perfume listing: Kohvara by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Niveus",
-      "link": "https://www.fragrantica.com/perfume/GRG/Niveus-139457.html",
-      "description": "New perfume listing: Niveus by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Sciur",
-      "link": "https://www.fragrantica.com/perfume/GRG/Sciur-139456.html",
-      "description": "New perfume listing: Sciur by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Turrosa",
-      "link": "https://www.fragrantica.com/perfume/GRG/Turrosa-139455.html",
-      "description": "New perfume listing: Turrosa by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Tabakal",
-      "link": "https://www.fragrantica.com/perfume/GRG/Tabakal-139454.html",
-      "description": "New perfume listing: Tabakal by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Libertin",
-      "link": "https://www.fragrantica.com/perfume/GRG/Libertin-139453.html",
-      "description": "New perfume listing: Libertin by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "GRG — Na Und?",
-      "link": "https://www.fragrantica.com/perfume/GRG/Na-Und-139452.html",
-      "description": "New perfume listing: Na Und? by GRG.",
-      "category": "New Perfumes",
-      "author": "GRG",
-      "published": 1786600321
-    },
-    {
-      "title": "Flagolie — Verbena & Cashmere",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Verbena-Cashmere-139451.html",
-      "description": "New perfume listing: Verbena & Cashmere by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786600321
-    },
-    {
-      "title": "Flagolie — Ylang-Ylang",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Ylang-Ylang-139450.html",
-      "description": "New perfume listing: Ylang-Ylang by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786600321
-    },
-    {
-      "title": "Flagolie — Honey & Rose",
-      "link": "https://www.fragrantica.com/perfume/Flagolie/Honey-Rose-139449.html",
-      "description": "New perfume listing: Honey & Rose by Flagolie.",
-      "category": "New Perfumes",
-      "author": "Flagolie",
-      "published": 1786600321
-    },
-    {
-      "title": "JFENZI — White Flowers",
-      "link": "https://www.fragrantica.com/perfume/JFENZI/White-Flowers-139448.html",
-      "description": "New perfume listing: White Flowers by JFENZI.",
-      "category": "New Perfumes",
-      "author": "JFENZI",
-      "published": 1786600321
-    },
-    {
-      "title": "Bravo Sierra — Suede Musk",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Suede-Musk-139462.html",
-      "description": "New perfume listing: Suede Musk by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786600321
-    },
-    {
-      "title": "Bravo Sierra — Smoked Orris",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Smoked-Orris-139461.html",
-      "description": "New perfume listing: Smoked Orris by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786600321
-    },
-    {
-      "title": "Bravo Sierra — Marine Salt",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Marine-Salt-139460.html",
-      "description": "New perfume listing: Marine Salt by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786600321
-    },
-    {
-      "title": "Bravo Sierra — Bravo Sierra Eau de Cologne",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Bravo-Sierra-Eau-de-Cologne-139459.html",
-      "description": "New perfume listing: Bravo Sierra Eau de Cologne by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786600321
-    },
-    {
-      "title": "Roberto Ugolini — 4 Rosso",
-      "link": "https://www.fragrantica.com/perfume/Roberto-Ugolini/4-Rosso-139365.html",
-      "description": "New perfume listing: 4 Rosso by Roberto Ugolini.",
-      "category": "New Perfumes",
-      "author": "Roberto Ugolini",
-      "published": 1786600321
     }
   ]
 }
