@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Forget ‘Touch Grass’ – These Perfumes Invite You to ‘Sniff Water’",
+      "link": "https://www.fragrantica.com/news/Forget-Touch-Grass-These-Perfumes-Invite-You-to-Sniff-Water-25846.html",
+      "description": "…Figuratively, of course.",
+      "category": "Niche Perfumery",
+      "author": "Adam Forziati",
+      "published": 1786777142
+    },
+    {
       "title": "Esxence 2026: Myrrh K Ella K Parfums – A Poisoned Treat",
       "link": "https://www.fragrantica.com/news/Esxence-2026-Myrrh-K-Ella-K-Parfums-A-Poisoned-Treat-25845.html",
       "description": "One of the most striking disappointments of Esxence 2026.",
@@ -791,17 +799,33 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1785616983
-    },
-    {
-      "title": "New Unique’e Luxury Summer Release - Chicelle",
-      "link": "https://www.fragrantica.com/news/New-Unique-e-Luxury-Summer-Release-Chicelle-25746.html",
-      "description": "Chicelle, pronounced as Chic-Elle, is a strawberry infused floral fragrance that gives you dreamy alluring vibes to enjoy your summer to the fullest.",
-      "category": "New Fragrances",
-      "author": "Svetlana Lozovaya",
-      "published": 1785616081
     }
   ],
   "perfumes": [
+    {
+      "title": "My Geisha — Jasmine in the Sun",
+      "link": "https://www.fragrantica.com/perfume/My-Geisha/Jasmine-in-the-Sun-139536.html",
+      "description": "New perfume listing: Jasmine in the Sun by My Geisha.",
+      "category": "New Perfumes",
+      "author": "My Geisha",
+      "published": 1786779947
+    },
+    {
+      "title": "Toouch — Sweet Gentle",
+      "link": "https://www.fragrantica.com/perfume/Toouch/Sweet-Gentle-139535.html",
+      "description": "New perfume listing: Sweet Gentle by Toouch.",
+      "category": "New Perfumes",
+      "author": "Toouch",
+      "published": 1786779947
+    },
+    {
+      "title": "Toouch — Hazy Nectar",
+      "link": "https://www.fragrantica.com/perfume/Toouch/Hazy-Nectar-139534.html",
+      "description": "New perfume listing: Hazy Nectar by Toouch.",
+      "category": "New Perfumes",
+      "author": "Toouch",
+      "published": 1786779947
+    },
     {
       "title": "Maison Aljazi — Nuit d’Ambre",
       "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/Nuit-d-Ambre-139532.html",
@@ -1577,30 +1601,6 @@
       "category": "New Perfumes",
       "author": "Roberto Ugolini",
       "published": 1786600321
-    },
-    {
-      "title": "Al & Marie — Amurao",
-      "link": "https://www.fragrantica.com/perfume/Al-Marie/Amurao-139351.html",
-      "description": "New perfume listing: Amurao by Al & Marie.",
-      "category": "New Perfumes",
-      "author": "Al & Marie",
-      "published": 1786600321
-    },
-    {
-      "title": "Al & Marie — Apolonio",
-      "link": "https://www.fragrantica.com/perfume/Al-Marie/Apolonio-139350.html",
-      "description": "New perfume listing: Apolonio by Al & Marie.",
-      "category": "New Perfumes",
-      "author": "Al & Marie",
-      "published": 1786600321
-    },
-    {
-      "title": "Strange Harvest — Hori Hori",
-      "link": "https://www.fragrantica.com/perfume/Strange-Harvest/Hori-Hori-139447.html",
-      "description": "New perfume listing: Hori Hori by Strange Harvest.",
-      "category": "New Perfumes",
-      "author": "Strange Harvest",
-      "published": 1786566283
     }
   ]
 }
