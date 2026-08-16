@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Sine Gloria Nobile 1942: A Tribute to the Antihero",
+      "link": "https://www.fragrantica.com/news/Sine-Gloria-Nobile-1942-A-Tribute-to-the-Antihero-25855.html",
+      "description": "“I’m a creep, I’m a weirdo.”",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1786897262
+    },
+    {
+      "title": "Second Touch by Toouch: Silent Heirloom Review",
+      "link": "https://www.fragrantica.com/news/Second-Touch-by-Toouch-Silent-Heirloom-Review-25854.html",
+      "description": "A new perfume in the Under One Roof Collection.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1786888323
+    },
+    {
       "title": "Lumi PERSEO",
       "link": "https://www.fragrantica.com/news/Lumi-PERSEO-25853.html",
       "description": "Perseo embraces light, clarity, and sculptural simplicity.",
@@ -783,25 +799,57 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1785712743
-    },
-    {
-      "title": "Kuwaiti Imperial Gissah: Review",
-      "link": "https://www.fragrantica.com/news/Kuwaiti-Imperial-Gissah-Review-25755.html",
-      "description": "Sergey sets out to test the fragrances of the new Gissah collection.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1785708123
-    },
-    {
-      "title": "ānti-Perfumery",
-      "link": "https://www.fragrantica.com/news/anti-Perfumery-25754.html",
-      "description": "Perfumes that make no attempt to please",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1785696724
     }
   ],
   "perfumes": [
+    {
+      "title": "Calaj — Classy Gentleman",
+      "link": "https://www.fragrantica.com/perfume/Calaj/Classy-Gentleman-139593.html",
+      "description": "New perfume listing: Classy Gentleman by Calaj.",
+      "category": "New Perfumes",
+      "author": "Calaj",
+      "published": 1786907057
+    },
+    {
+      "title": "Ybry Paris — Désir du Cœur",
+      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Desir-du-Coeur-139592.html",
+      "description": "New perfume listing: Désir du Cœur by Ybry Paris.",
+      "category": "New Perfumes",
+      "author": "Ybry Paris",
+      "published": 1786907057
+    },
+    {
+      "title": "Ybry Paris — Mon Âme",
+      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Mon-Ame-139591.html",
+      "description": "New perfume listing: Mon Âme by Ybry Paris.",
+      "category": "New Perfumes",
+      "author": "Ybry Paris",
+      "published": 1786907057
+    },
+    {
+      "title": "Ybry Paris — Devinez",
+      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Devinez-139590.html",
+      "description": "New perfume listing: Devinez by Ybry Paris.",
+      "category": "New Perfumes",
+      "author": "Ybry Paris",
+      "published": 1786907057
+    },
+    {
+      "title": "Ybry Paris — Femme de Paris",
+      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Femme-de-Paris-139589.html",
+      "description": "New perfume listing: Femme de Paris by Ybry Paris.",
+      "category": "New Perfumes",
+      "author": "Ybry Paris",
+      "published": 1786907057
+    },
+    {
+      "title": "Ybry Paris — Amour Sauvage",
+      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Amour-Sauvage-139588.html",
+      "description": "New perfume listing: Amour Sauvage by Ybry Paris.",
+      "category": "New Perfumes",
+      "author": "Ybry Paris",
+      "published": 1786907057
+    },
     {
       "title": "Zhufu 竹浮 — Cocoa Toffee",
       "link": "https://www.fragrantica.com/perfume/Zhufu-zhu-fu/Cocoa-Toffee-139587.html",
@@ -1553,54 +1601,6 @@
       "category": "New Perfumes",
       "author": "Street Origins",
       "published": 1786700649
-    },
-    {
-      "title": "Rasasi — Hawas Gold Digger",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Gold-Digger-139499.html",
-      "description": "New perfume listing: Hawas Gold Digger by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1786700649
-    },
-    {
-      "title": "Azari Parfumery — Saffron",
-      "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Saffron-139498.html",
-      "description": "New perfume listing: Saffron by Azari Parfumery.",
-      "category": "New Perfumes",
-      "author": "Azari Parfumery",
-      "published": 1786700649
-    },
-    {
-      "title": "Prann — Concrete Jungle",
-      "link": "https://www.fragrantica.com/perfume/Prann/Concrete-Jungle-139497.html",
-      "description": "New perfume listing: Concrete Jungle by Prann.",
-      "category": "New Perfumes",
-      "author": "Prann",
-      "published": 1786686593
-    },
-    {
-      "title": "Mith — Dark Suede",
-      "link": "https://www.fragrantica.com/perfume/Mith/Dark-Suede-139496.html",
-      "description": "New perfume listing: Dark Suede by Mith.",
-      "category": "New Perfumes",
-      "author": "Mith",
-      "published": 1786686593
-    },
-    {
-      "title": "Hemcael — Aether",
-      "link": "https://www.fragrantica.com/perfume/Hemcael/Aether-139495.html",
-      "description": "New perfume listing: Aether by Hemcael.",
-      "category": "New Perfumes",
-      "author": "Hemcael",
-      "published": 1786686593
-    },
-    {
-      "title": "French Avenue — Prune Hypnose",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Prune-Hypnose-139494.html",
-      "description": "New perfume listing: Prune Hypnose by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1786651584
     }
   ]
 }
