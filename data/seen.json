@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Lumi PERSEO",
+      "link": "https://www.fragrantica.com/news/Lumi-PERSEO-25853.html",
+      "description": "Perseo embraces light, clarity, and sculptural simplicity.",
+      "category": "Niche Perfumes",
+      "author": "Sandra Raičević Petrović",
+      "published": 1786877162
+    },
+    {
       "title": "UN AIR D’APOGÉE EXTRAIT: WHEN AUTUMN EMERGES THROUGH SUMMER",
       "link": "https://www.fragrantica.com/news/UN-AIR-D-APOGEE-EXTRAIT-WHEN-AUTUMN-EMERGES-THROUGH-SUMMER-25852.html",
       "description": "The scent of a \"dark summer.\"",
@@ -791,17 +799,201 @@
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1785696724
-    },
-    {
-      "title": "Caprice de Sophie by Chabaud Maison de Parfum: Sunny and Smiling",
-      "link": "https://www.fragrantica.com/news/Caprice-de-Sophie-by-Chabaud-Maison-de-Parfum-Sunny-and-Smiling-25753.html",
-      "description": "For summer, for every day, and for a good mood.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1785680463
     }
   ],
   "perfumes": [
+    {
+      "title": "Zhufu 竹浮 — Cocoa Toffee",
+      "link": "https://www.fragrantica.com/perfume/Zhufu-zhu-fu/Cocoa-Toffee-139587.html",
+      "description": "New perfume listing: Cocoa Toffee by Zhufu 竹浮.",
+      "category": "New Perfumes",
+      "author": "Zhufu 竹浮",
+      "published": 1786888048
+    },
+    {
+      "title": "Zhufu 竹浮 — Café Roma",
+      "link": "https://www.fragrantica.com/perfume/Zhufu-zhu-fu/Cafe-Roma-139586.html",
+      "description": "New perfume listing: Café Roma by Zhufu 竹浮.",
+      "category": "New Perfumes",
+      "author": "Zhufu 竹浮",
+      "published": 1786888048
+    },
+    {
+      "title": "Gucci — Gucci Guilty Eau de Toilette Intense Pour Homme",
+      "link": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Eau-de-Toilette-Intense-Pour-Homme-139583.html",
+      "description": "New perfume listing: Gucci Guilty Eau de Toilette Intense Pour Homme by Gucci.",
+      "category": "New Perfumes",
+      "author": "Gucci",
+      "published": 1786888048
+    },
+    {
+      "title": "Calaj — Modern Gentleman",
+      "link": "https://www.fragrantica.com/perfume/Calaj/Modern-Gentleman-139582.html",
+      "description": "New perfume listing: Modern Gentleman by Calaj.",
+      "category": "New Perfumes",
+      "author": "Calaj",
+      "published": 1786888048
+    },
+    {
+      "title": "Maison Evandie — Berry Gelato",
+      "link": "https://www.fragrantica.com/perfume/Maison-Evandie/Berry-Gelato-139581.html",
+      "description": "New perfume listing: Berry Gelato by Maison Evandie.",
+      "category": "New Perfumes",
+      "author": "Maison Evandie",
+      "published": 1786888048
+    },
+    {
+      "title": "Miroir des Sens — Souffle d'Émeraude",
+      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Souffle-d-Emeraude-139580.html",
+      "description": "New perfume listing: Souffle d'Émeraude by Miroir des Sens.",
+      "category": "New Perfumes",
+      "author": "Miroir des Sens",
+      "published": 1786888048
+    },
+    {
+      "title": "Miroir des Sens — Songe Pourpre",
+      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Songe-Pourpre-139579.html",
+      "description": "New perfume listing: Songe Pourpre by Miroir des Sens.",
+      "category": "New Perfumes",
+      "author": "Miroir des Sens",
+      "published": 1786888048
+    },
+    {
+      "title": "Miroir des Sens — Éclipse Gourmande",
+      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Eclipse-Gourmande-139578.html",
+      "description": "New perfume listing: Éclipse Gourmande by Miroir des Sens.",
+      "category": "New Perfumes",
+      "author": "Miroir des Sens",
+      "published": 1786888048
+    },
+    {
+      "title": "Miroir des Sens — Aube Dorée",
+      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Aube-Doree-139577.html",
+      "description": "New perfume listing: Aube Dorée by Miroir des Sens.",
+      "category": "New Perfumes",
+      "author": "Miroir des Sens",
+      "published": 1786888048
+    },
+    {
+      "title": "Victorio & Lucchino — Nº21 Vitamina Alegría",
+      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No21-Vitamina-Alegria-139576.html",
+      "description": "New perfume listing: Nº21 Vitamina Alegría by Victorio & Lucchino.",
+      "category": "New Perfumes",
+      "author": "Victorio & Lucchino",
+      "published": 1786888048
+    },
+    {
+      "title": "Victorio & Lucchino — Nº15 Negro Azabache Elixir",
+      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No15-Negro-Azabache-Elixir-139575.html",
+      "description": "New perfume listing: Nº15 Negro Azabache Elixir by Victorio & Lucchino.",
+      "category": "New Perfumes",
+      "author": "Victorio & Lucchino",
+      "published": 1786888048
+    },
+    {
+      "title": "Victorio & Lucchino — Nº22 Flor Andalusí Elixir",
+      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No22-Flor-Andalusi-Elixir-139574.html",
+      "description": "New perfume listing: Nº22 Flor Andalusí Elixir by Victorio & Lucchino.",
+      "category": "New Perfumes",
+      "author": "Victorio & Lucchino",
+      "published": 1786888048
+    },
+    {
+      "title": "Lumi — Ciao",
+      "link": "https://www.fragrantica.com/perfume/Lumi/Ciao-139564.html",
+      "description": "New perfume listing: Ciao by Lumi.",
+      "category": "New Perfumes",
+      "author": "Lumi",
+      "published": 1786888048
+    },
+    {
+      "title": "Ohana Mahaalo — Mana Ku'ulei",
+      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Mana-Ku-ulei-139585.html",
+      "description": "New perfume listing: Mana Ku'ulei by Ohana Mahaalo.",
+      "category": "New Perfumes",
+      "author": "Ohana Mahaalo",
+      "published": 1786888048
+    },
+    {
+      "title": "Ohana Mahaalo — Puana Laki Ho'ola",
+      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Puana-Laki-Ho-ola-139584.html",
+      "description": "New perfume listing: Puana Laki Ho'ola by Ohana Mahaalo.",
+      "category": "New Perfumes",
+      "author": "Ohana Mahaalo",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Thawrat Al Ahasseess",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Thawrat-Al-Ahasseess-139573.html",
+      "description": "New perfume listing: Thawrat Al Ahasseess by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Tahta Al Noujoum",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Tahta-Al-Noujoum-139572.html",
+      "description": "New perfume listing: Tahta Al Noujoum by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Shatha Biladi",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Shatha-Biladi-139571.html",
+      "description": "New perfume listing: Shatha Biladi by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Sarhan",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Sarhan-139570.html",
+      "description": "New perfume listing: Sarhan by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Safaa Al Nada",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Safaa-Al-Nada-139569.html",
+      "description": "New perfume listing: Safaa Al Nada by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Qublat Ward",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Qublat-Ward-139568.html",
+      "description": "New perfume listing: Qublat Ward by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Nasseem Al Ward",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Nasseem-Al-Ward-139567.html",
+      "description": "New perfume listing: Nasseem Al Ward by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Min Ana",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Min-Ana-139566.html",
+      "description": "New perfume listing: Min Ana by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
+    {
+      "title": "Mansam — Mamlakati",
+      "link": "https://www.fragrantica.com/perfume/Mansam/Mamlakati-139565.html",
+      "description": "New perfume listing: Mamlakati by Mansam.",
+      "category": "New Perfumes",
+      "author": "Mansam",
+      "published": 1786888048
+    },
     {
       "title": "Horace — Ibiza '87",
       "link": "https://www.fragrantica.com/perfume/Horace/Ibiza-87-139562.html",
@@ -1409,198 +1601,6 @@
       "category": "New Perfumes",
       "author": "French Avenue",
       "published": 1786651584
-    },
-    {
-      "title": "French Avenue — Papa Yeah!",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Papa-Yeah-139491.html",
-      "description": "New perfume listing: Papa Yeah! by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1786651584
-    },
-    {
-      "title": "French Avenue — Imperial Ocean",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Imperial-Ocean-139490.html",
-      "description": "New perfume listing: Imperial Ocean by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1786651584
-    },
-    {
-      "title": "Marco Philip Milano — Vincitori",
-      "link": "https://www.fragrantica.com/perfume/Marco-Philip-Milano/Vincitori-139485.html",
-      "description": "New perfume listing: Vincitori by Marco Philip Milano.",
-      "category": "New Perfumes",
-      "author": "Marco Philip Milano",
-      "published": 1786651584
-    },
-    {
-      "title": "Marco Philip Milano — Possibile",
-      "link": "https://www.fragrantica.com/perfume/Marco-Philip-Milano/Possibile-139483.html",
-      "description": "New perfume listing: Possibile by Marco Philip Milano.",
-      "category": "New Perfumes",
-      "author": "Marco Philip Milano",
-      "published": 1786651584
-    },
-    {
-      "title": "Marco Philip Milano — Mamma Mia",
-      "link": "https://www.fragrantica.com/perfume/Marco-Philip-Milano/Mamma-Mia-139481.html",
-      "description": "New perfume listing: Mamma Mia by Marco Philip Milano.",
-      "category": "New Perfumes",
-      "author": "Marco Philip Milano",
-      "published": 1786651584
-    },
-    {
-      "title": "Marco Philip Milano — Casuale",
-      "link": "https://www.fragrantica.com/perfume/Marco-Philip-Milano/Casuale-139480.html",
-      "description": "New perfume listing: Casuale by Marco Philip Milano.",
-      "category": "New Perfumes",
-      "author": "Marco Philip Milano",
-      "published": 1786651584
-    },
-    {
-      "title": "Marco Philip Milano — Bella Giornata",
-      "link": "https://www.fragrantica.com/perfume/Marco-Philip-Milano/Bella-Giornata-139479.html",
-      "description": "New perfume listing: Bella Giornata by Marco Philip Milano.",
-      "category": "New Perfumes",
-      "author": "Marco Philip Milano",
-      "published": 1786651584
-    },
-    {
-      "title": "Arcadia — Kuwait",
-      "link": "https://www.fragrantica.com/perfume/Arcadia/Kuwait-139493.html",
-      "description": "New perfume listing: Kuwait by Arcadia.",
-      "category": "New Perfumes",
-      "author": "Arcadia",
-      "published": 1786651584
-    },
-    {
-      "title": "Arcadia — London",
-      "link": "https://www.fragrantica.com/perfume/Arcadia/London-139492.html",
-      "description": "New perfume listing: London by Arcadia.",
-      "category": "New Perfumes",
-      "author": "Arcadia",
-      "published": 1786651584
-    },
-    {
-      "title": "Arcadia — Tokyo",
-      "link": "https://www.fragrantica.com/perfume/Arcadia/Tokyo-139489.html",
-      "description": "New perfume listing: Tokyo by Arcadia.",
-      "category": "New Perfumes",
-      "author": "Arcadia",
-      "published": 1786651584
-    },
-    {
-      "title": "Arcadia — Moscow",
-      "link": "https://www.fragrantica.com/perfume/Arcadia/Moscow-139488.html",
-      "description": "New perfume listing: Moscow by Arcadia.",
-      "category": "New Perfumes",
-      "author": "Arcadia",
-      "published": 1786651584
-    },
-    {
-      "title": "Parfums Genty — INSTAGIRL #Meow",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/INSTAGIRL-Meow-139487.html",
-      "description": "New perfume listing: INSTAGIRL #Meow by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1786651584
-    },
-    {
-      "title": "Parfums Genty — INSTAGIRL #IDontMind",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/INSTAGIRL-IDontMind-139486.html",
-      "description": "New perfume listing: INSTAGIRL #IDontMind by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1786651584
-    },
-    {
-      "title": "Parfums Genty — INSTAGIRL #2Night",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/INSTAGIRL-2Night-139484.html",
-      "description": "New perfume listing: INSTAGIRL #2Night by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1786651584
-    },
-    {
-      "title": "Parfums Genty — INSTAGIRL #HugMe",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/INSTAGIRL-HugMe-139482.html",
-      "description": "New perfume listing: INSTAGIRL #HugMe by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1786651584
-    },
-    {
-      "title": "Kiki Smith — Eau de Kiki",
-      "link": "https://www.fragrantica.com/perfume/Kiki-Smith/Eau-de-Kiki-139416.html",
-      "description": "New perfume listing: Eau de Kiki by Kiki Smith.",
-      "category": "New Perfumes",
-      "author": "Kiki Smith",
-      "published": 1786651584
-    },
-    {
-      "title": "Bujairami — Smokilla",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Smokilla-139406.html",
-      "description": "New perfume listing: Smokilla by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1786651584
-    },
-    {
-      "title": "Scentonic — Ocean Whisper",
-      "link": "https://www.fragrantica.com/perfume/Scentonic/Ocean-Whisper-139478.html",
-      "description": "New perfume listing: Ocean Whisper by Scentonic.",
-      "category": "New Perfumes",
-      "author": "Scentonic",
-      "published": 1786635394
-    },
-    {
-      "title": "Rasasi — Mushreqah",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Mushreqah-139475.html",
-      "description": "New perfume listing: Mushreqah by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1786635394
-    },
-    {
-      "title": "Riiffs Perfumes — Aswaar",
-      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Aswaar-139473.html",
-      "description": "New perfume listing: Aswaar by Riiffs Perfumes.",
-      "category": "New Perfumes",
-      "author": "Riiffs Perfumes",
-      "published": 1786635394
-    },
-    {
-      "title": "The Saltworks Company — Kami Tonka",
-      "link": "https://www.fragrantica.com/perfume/The-Saltworks-Company/Kami-Tonka-139477.html",
-      "description": "New perfume listing: Kami Tonka by The Saltworks Company.",
-      "category": "New Perfumes",
-      "author": "The Saltworks Company",
-      "published": 1786635394
-    },
-    {
-      "title": "Tamburins — Salty Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Tamburins/Salty-Vanilla-139476.html",
-      "description": "New perfume listing: Salty Vanilla by Tamburins.",
-      "category": "New Perfumes",
-      "author": "Tamburins",
-      "published": 1786635394
-    },
-    {
-      "title": "JFENZI — Violet",
-      "link": "https://www.fragrantica.com/perfume/JFENZI/Violet-139474.html",
-      "description": "New perfume listing: Violet by JFENZI.",
-      "category": "New Perfumes",
-      "author": "JFENZI",
-      "published": 1786635394
-    },
-    {
-      "title": "Gerini — Opal",
-      "link": "https://www.fragrantica.com/perfume/Gerini/Opal-139472.html",
-      "description": "New perfume listing: Opal by Gerini.",
-      "category": "New Perfumes",
-      "author": "Gerini",
-      "published": 1786614569
     }
   ]
 }
