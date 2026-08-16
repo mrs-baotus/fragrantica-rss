@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "UN AIR D’APOGÉE EXTRAIT: WHEN AUTUMN EMERGES THROUGH SUMMER",
+      "link": "https://www.fragrantica.com/news/UN-AIR-D-APOGEE-EXTRAIT-WHEN-AUTUMN-EMERGES-THROUGH-SUMMER-25852.html",
+      "description": "The scent of a \"dark summer.\"",
+      "category": "Fragrance Reviews",
+      "author": "Alex (Sane-Witch) Osipov",
+      "published": 1786865882
+    },
+    {
       "title": "Two New Fresh Perfumes from Gallagher: Ginfinity and Emerald Rendezvous",
       "link": "https://www.fragrantica.com/news/Two-New-Fresh-Perfumes-from-Gallagher-Ginfinity-and-Emerald-Rendezvous-25851.html",
       "description": "Gallagher Fragrances and Pearlescent Collection offer two new fresh, herbal, citrus perfumes that add intrigue to summer and early autumn",
@@ -791,17 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1785680463
-    },
-    {
-      "title": "Perfumed Horoscope: August 3 - August 9",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-3-August-9-25752.html",
-      "description": "This week we admire the experimental spirit of 1511.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1785678243
     }
   ],
   "perfumes": [
+    {
+      "title": "Horace — Ibiza '87",
+      "link": "https://www.fragrantica.com/perfume/Horace/Ibiza-87-139562.html",
+      "description": "New perfume listing: Ibiza '87 by Horace.",
+      "category": "New Perfumes",
+      "author": "Horace",
+      "published": 1786866515
+    },
+    {
+      "title": "Horace — Mezcal Musc",
+      "link": "https://www.fragrantica.com/perfume/Horace/Mezcal-Musc-139561.html",
+      "description": "New perfume listing: Mezcal Musc by Horace.",
+      "category": "New Perfumes",
+      "author": "Horace",
+      "published": 1786866515
+    },
+    {
+      "title": "Ohana Mahaalo — Fula ku'ulei",
+      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Fula-ku-ulei-139563.html",
+      "description": "New perfume listing: Fula ku'ulei by Ohana Mahaalo.",
+      "category": "New Perfumes",
+      "author": "Ohana Mahaalo",
+      "published": 1786866515
+    },
     {
       "title": "The Spirit Of Creation — TU$$",
       "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/TU-139560.html",
@@ -1574,30 +1598,6 @@
       "title": "Gerini — Opal",
       "link": "https://www.fragrantica.com/perfume/Gerini/Opal-139472.html",
       "description": "New perfume listing: Opal by Gerini.",
-      "category": "New Perfumes",
-      "author": "Gerini",
-      "published": 1786614569
-    },
-    {
-      "title": "Gerini — Lazuli",
-      "link": "https://www.fragrantica.com/perfume/Gerini/Lazuli-139471.html",
-      "description": "New perfume listing: Lazuli by Gerini.",
-      "category": "New Perfumes",
-      "author": "Gerini",
-      "published": 1786614569
-    },
-    {
-      "title": "Gerini — Emerald",
-      "link": "https://www.fragrantica.com/perfume/Gerini/Emerald-139470.html",
-      "description": "New perfume listing: Emerald by Gerini.",
-      "category": "New Perfumes",
-      "author": "Gerini",
-      "published": 1786614569
-    },
-    {
-      "title": "Gerini — Morganite",
-      "link": "https://www.fragrantica.com/perfume/Gerini/Morganite-139469.html",
-      "description": "New perfume listing: Morganite by Gerini.",
       "category": "New Perfumes",
       "author": "Gerini",
       "published": 1786614569
