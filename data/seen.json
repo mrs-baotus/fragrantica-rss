@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Binet Papillon Makes Some Great Scents: Here Are My Favourites",
+      "link": "https://www.fragrantica.com/news/Binet-Papillon-Makes-Some-Great-Scents-Here-Are-My-Favourites-25861.html",
+      "description": "No 5, No 10 & No 17.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786948383
+    },
+    {
       "title": "Aurora, Anemos, and Agora: Regalien's New Hidden Origins Collection",
       "link": "https://www.fragrantica.com/news/Aurora-Anemos-and-Agora-Regalien-s-New-Hidden-Origins-Collection-25860.html",
       "description": "Black roses of Halfeti, wild horses of Cappadocia and spices of the Golden Horn.",
@@ -791,17 +799,217 @@
       "category": "Events",
       "author": "Viktoria Vlasova",
       "published": 1785776861
-    },
-    {
-      "title": "WIDIAN Polite Oud, Exclusive for Harrods",
-      "link": "https://www.fragrantica.com/news/WIDIAN-Polite-Oud-Exclusive-for-Harrods-25761.html",
-      "description": "Crafted for moments of refined luxury.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1785772616
     }
   ],
   "perfumes": [
+    {
+      "title": "DSQUARED² — Icon Doll",
+      "link": "https://www.fragrantica.com/perfume/DSQUARED2/Icon-Doll-139638.html",
+      "description": "New perfume listing: Icon Doll by DSQUARED².",
+      "category": "New Perfumes",
+      "author": "DSQUARED²",
+      "published": 1786955133
+    },
+    {
+      "title": "DSQUARED² — Icon Dude",
+      "link": "https://www.fragrantica.com/perfume/DSQUARED2/Icon-Dude-139637.html",
+      "description": "New perfume listing: Icon Dude by DSQUARED².",
+      "category": "New Perfumes",
+      "author": "DSQUARED²",
+      "published": 1786955133
+    },
+    {
+      "title": "Jennifer Lopez — Glow Pure",
+      "link": "https://www.fragrantica.com/perfume/Jennifer-Lopez/Glow-Pure-139636.html",
+      "description": "New perfume listing: Glow Pure by Jennifer Lopez.",
+      "category": "New Perfumes",
+      "author": "Jennifer Lopez",
+      "published": 1786955133
+    },
+    {
+      "title": "DS&Durga — Ain't That Sweet",
+      "link": "https://www.fragrantica.com/perfume/DS-Durga/Ain-t-That-Sweet-139635.html",
+      "description": "New perfume listing: Ain't That Sweet by DS&Durga.",
+      "category": "New Perfumes",
+      "author": "DS&Durga",
+      "published": 1786955133
+    },
+    {
+      "title": "Fragmenta — Zilia",
+      "link": "https://www.fragrantica.com/perfume/Fragmenta/Zilia-139634.html",
+      "description": "New perfume listing: Zilia by Fragmenta.",
+      "category": "New Perfumes",
+      "author": "Fragmenta",
+      "published": 1786955133
+    },
+    {
+      "title": "Fragmenta — Via della Seta",
+      "link": "https://www.fragrantica.com/perfume/Fragmenta/Via-della-Seta-139633.html",
+      "description": "New perfume listing: Via della Seta by Fragmenta.",
+      "category": "New Perfumes",
+      "author": "Fragmenta",
+      "published": 1786955133
+    },
+    {
+      "title": "Fragmenta — Tabarro",
+      "link": "https://www.fragrantica.com/perfume/Fragmenta/Tabarro-139632.html",
+      "description": "New perfume listing: Tabarro by Fragmenta.",
+      "category": "New Perfumes",
+      "author": "Fragmenta",
+      "published": 1786955133
+    },
+    {
+      "title": "Fragmenta — Morosina",
+      "link": "https://www.fragrantica.com/perfume/Fragmenta/Morosina-139631.html",
+      "description": "New perfume listing: Morosina by Fragmenta.",
+      "category": "New Perfumes",
+      "author": "Fragmenta",
+      "published": 1786955133
+    },
+    {
+      "title": "Maghir — Exot",
+      "link": "https://www.fragrantica.com/perfume/Maghir/Exot-139613.html",
+      "description": "New perfume listing: Exot by Maghir.",
+      "category": "New Perfumes",
+      "author": "Maghir",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Leo",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Leo-139630.html",
+      "description": "New perfume listing: Leo by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Sagittarius",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Sagittarius-139629.html",
+      "description": "New perfume listing: Sagittarius by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Capricorn",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Capricorn-139628.html",
+      "description": "New perfume listing: Capricorn by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Aquarius",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Aquarius-139627.html",
+      "description": "New perfume listing: Aquarius by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Qi",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Qi-139626.html",
+      "description": "New perfume listing: Qi by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Libra",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Libra-139625.html",
+      "description": "New perfume listing: Libra by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Aries",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Aries-139624.html",
+      "description": "New perfume listing: Aries by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Taurus",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Taurus-139623.html",
+      "description": "New perfume listing: Taurus by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Virgo",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Virgo-139622.html",
+      "description": "New perfume listing: Virgo by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Scorpio",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Scorpio-139621.html",
+      "description": "New perfume listing: Scorpio by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Pisces",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Pisces-139620.html",
+      "description": "New perfume listing: Pisces by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Gemini",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Gemini-139619.html",
+      "description": "New perfume listing: Gemini by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Cancer",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Cancer-139618.html",
+      "description": "New perfume listing: Cancer by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Jiang Gong",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Jiang-Gong-139617.html",
+      "description": "New perfume listing: Jiang Gong by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Zhou Tian",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Zhou-Tian-139616.html",
+      "description": "New perfume listing: Zhou Tian by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Yu Zhen",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Yu-Zhen-139615.html",
+      "description": "New perfume listing: Yu Zhen by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
+    {
+      "title": "Outis 毋名 — Qing Xuan",
+      "link": "https://www.fragrantica.com/perfume/Outis-wu-ming/Qing-Xuan-139614.html",
+      "description": "New perfume listing: Qing Xuan by Outis 毋名.",
+      "category": "New Perfumes",
+      "author": "Outis 毋名",
+      "published": 1786955133
+    },
     {
       "title": "Ohana Kameala — NU.DE Parfum",
       "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/NU-DE-Parfum-139612.html",
@@ -1393,214 +1601,6 @@
       "category": "New Perfumes",
       "author": "Mansam",
       "published": 1786801505
-    },
-    {
-      "title": "Mansam — Fakhamat Al Warda",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Fakhamat-Al-Warda-139547.html",
-      "description": "New perfume listing: Fakhamat Al Warda by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Amtar",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Amtar-139546.html",
-      "description": "New perfume listing: Amtar by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Al Shaghaf Al Ahmar",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Al-Shaghaf-Al-Ahmar-139545.html",
-      "description": "New perfume listing: Al Shaghaf Al Ahmar by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Al Hawa Ghallab",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Al-Hawa-Ghallab-139544.html",
-      "description": "New perfume listing: Al Hawa Ghallab by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Aala Taj Warda",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Aala-Taj-Warda-139543.html",
-      "description": "New perfume listing: Aala Taj Warda by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Emper — Legend Arabia",
-      "link": "https://www.fragrantica.com/perfume/Emper/Legend-Arabia-139542.html",
-      "description": "New perfume listing: Legend Arabia by Emper.",
-      "category": "New Perfumes",
-      "author": "Emper",
-      "published": 1786801505
-    },
-    {
-      "title": "My Geisha — Jasmine in the Sun",
-      "link": "https://www.fragrantica.com/perfume/My-Geisha/Jasmine-in-the-Sun-139536.html",
-      "description": "New perfume listing: Jasmine in the Sun by My Geisha.",
-      "category": "New Perfumes",
-      "author": "My Geisha",
-      "published": 1786779947
-    },
-    {
-      "title": "Toouch — Sweet Gentle",
-      "link": "https://www.fragrantica.com/perfume/Toouch/Sweet-Gentle-139535.html",
-      "description": "New perfume listing: Sweet Gentle by Toouch.",
-      "category": "New Perfumes",
-      "author": "Toouch",
-      "published": 1786779947
-    },
-    {
-      "title": "Toouch — Hazy Nectar",
-      "link": "https://www.fragrantica.com/perfume/Toouch/Hazy-Nectar-139534.html",
-      "description": "New perfume listing: Hazy Nectar by Toouch.",
-      "category": "New Perfumes",
-      "author": "Toouch",
-      "published": 1786779947
-    },
-    {
-      "title": "Maison Aljazi — Nuit d’Ambre",
-      "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/Nuit-d-Ambre-139532.html",
-      "description": "New perfume listing: Nuit d’Ambre by Maison Aljazi.",
-      "category": "New Perfumes",
-      "author": "Maison Aljazi",
-      "published": 1786763356
-    },
-    {
-      "title": "Maison Aljazi — L’Essence",
-      "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/L-Essence-139531.html",
-      "description": "New perfume listing: L’Essence by Maison Aljazi.",
-      "category": "New Perfumes",
-      "author": "Maison Aljazi",
-      "published": 1786763356
-    },
-    {
-      "title": "Bujairami — Sasha",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Sasha-139530.html",
-      "description": "New perfume listing: Sasha by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1786763356
-    },
-    {
-      "title": "Perito Moreno — Velvet Zest",
-      "link": "https://www.fragrantica.com/perfume/Perito-Moreno/Velvet-Zest-139529.html",
-      "description": "New perfume listing: Velvet Zest by Perito Moreno.",
-      "category": "New Perfumes",
-      "author": "Perito Moreno",
-      "published": 1786763356
-    },
-    {
-      "title": "Kinana — Cambodi Atiq",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Cambodi-Atiq-139528.html",
-      "description": "New perfume listing: Cambodi Atiq by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1786763356
-    },
-    {
-      "title": "Tom Tailor — Perspective",
-      "link": "https://www.fragrantica.com/perfume/Tom-Tailor/Perspective-139533.html",
-      "description": "New perfume listing: Perspective by Tom Tailor.",
-      "category": "New Perfumes",
-      "author": "Tom Tailor",
-      "published": 1786763356
-    },
-    {
-      "title": "Strange Harvest — Praying Manthus",
-      "link": "https://www.fragrantica.com/perfume/Strange-Harvest/Praying-Manthus-139442.html",
-      "description": "New perfume listing: Praying Manthus by Strange Harvest.",
-      "category": "New Perfumes",
-      "author": "Strange Harvest",
-      "published": 1786763356
-    },
-    {
-      "title": "Dicora Urban Fit — Tokyo",
-      "link": "https://www.fragrantica.com/perfume/Dicora-Urban-Fit/Tokyo-139349.html",
-      "description": "New perfume listing: Tokyo by Dicora Urban Fit.",
-      "category": "New Perfumes",
-      "author": "Dicora Urban Fit",
-      "published": 1786763356
-    },
-    {
-      "title": "L'Orchestre Parfum — Heavy Bubblegum",
-      "link": "https://www.fragrantica.com/perfume/L-Orchestre-Parfum/Heavy-Bubblegum-139527.html",
-      "description": "New perfume listing: Heavy Bubblegum by L'Orchestre Parfum.",
-      "category": "New Perfumes",
-      "author": "L'Orchestre Parfum",
-      "published": 1786737876
-    },
-    {
-      "title": "Ahmed Al Maghribi — O'Clock",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/O-Clock-139525.html",
-      "description": "New perfume listing: O'Clock by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1786737876
-    },
-    {
-      "title": "Ahmed Al Maghribi — Is It Me",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Is-It-Me-139524.html",
-      "description": "New perfume listing: Is It Me by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1786737876
-    },
-    {
-      "title": "Playboy — Berry Baby",
-      "link": "https://www.fragrantica.com/perfume/Playboy/Berry-Baby-139523.html",
-      "description": "New perfume listing: Berry Baby by Playboy.",
-      "category": "New Perfumes",
-      "author": "Playboy",
-      "published": 1786737876
-    },
-    {
-      "title": "H&M — Solar Blur",
-      "link": "https://www.fragrantica.com/perfume/H-M/Solar-Blur-139522.html",
-      "description": "New perfume listing: Solar Blur by H&M.",
-      "category": "New Perfumes",
-      "author": "H&M",
-      "published": 1786737876
-    },
-    {
-      "title": "Naseem — Celoud",
-      "link": "https://www.fragrantica.com/perfume/Naseem/Celoud-139526.html",
-      "description": "New perfume listing: Celoud by Naseem.",
-      "category": "New Perfumes",
-      "author": "Naseem",
-      "published": 1786737876
-    },
-    {
-      "title": "Azari Parfumery — Baku Nights Pink",
-      "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Baku-Nights-Pink-139521.html",
-      "description": "New perfume listing: Baku Nights Pink by Azari Parfumery.",
-      "category": "New Perfumes",
-      "author": "Azari Parfumery",
-      "published": 1786720244
-    },
-    {
-      "title": "Azari Parfumery — Baku Nights Green",
-      "link": "https://www.fragrantica.com/perfume/Azari-Parfumery/Baku-Nights-Green-139520.html",
-      "description": "New perfume listing: Baku Nights Green by Azari Parfumery.",
-      "category": "New Perfumes",
-      "author": "Azari Parfumery",
-      "published": 1786720244
-    },
-    {
-      "title": "Palms. — Sweet Beach",
-      "link": "https://www.fragrantica.com/perfume/Palms/Sweet-Beach-139519.html",
-      "description": "New perfume listing: Sweet Beach by Palms..",
-      "category": "New Perfumes",
-      "author": "Palms.",
-      "published": 1786720244
     }
   ]
 }
