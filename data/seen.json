@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Aurora, Anemos, and Agora: Regalien's New Hidden Origins Collection",
+      "link": "https://www.fragrantica.com/news/Aurora-Anemos-and-Agora-Regalien-s-New-Hidden-Origins-Collection-25860.html",
+      "description": "Black roses of Halfeti, wild horses of Cappadocia and spices of the Golden Horn.",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1786933922
+    },
+    {
+      "title": "Gucci Guilty Eau de Toilette Intense Pour Homme",
+      "link": "https://www.fragrantica.com/news/Gucci-Guilty-Eau-de-Toilette-Intense-Pour-Homme-25859.html",
+      "description": "Sea salt, smooth lavender, and Palo Santo for a versatile, elegant composition.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1786923042
+    },
+    {
+      "title": "3 Fragrances for Languid Summer and Beyond...",
+      "link": "https://www.fragrantica.com/news/3-Fragrances-for-Languid-Summer-and-Beyond-25858.html",
+      "description": "The languid days of Indian summer and the cooling promise of the harvest around the cusp need their own dedicated scents to accompany them.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1786914432
+    },
+    {
+      "title": "A Scent Of A Good Place: New Sicily D&G",
+      "link": "https://www.fragrantica.com/news/A-Scent-A-Good-Place-New-Sicily-D-G-25857.html",
+      "description": "Fragrances are subjectively beautiful.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1786908181
+    },
+    {
+      "title": "Perfumed Horoscope: August 17 - August 22",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-17-August-22-25856.html",
+      "description": "A week to step back a bit, reconsider, and come back into the game.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1786907642
+    },
+    {
       "title": "Sine Gloria Nobile 1942: A Tribute to the Antihero",
       "link": "https://www.fragrantica.com/news/Sine-Gloria-Nobile-1942-A-Tribute-to-the-Antihero-25855.html",
       "description": "“I’m a creep, I’m a weirdo.”",
@@ -759,49 +799,161 @@
       "category": "Niche Perfumery",
       "author": "Sandra Raičević Petrović",
       "published": 1785772616
-    },
-    {
-      "title": "Chloé Le Nectar",
-      "link": "https://www.fragrantica.com/news/Chloe-Le-Nectar-25760.html",
-      "description": "Chloé introduces Le Nectar Parfum Intense, a luminous ambery-woody floral inspired by the free-spirited mood of the 1970s.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1785767822
-    },
-    {
-      "title": "Outrageous Indie Oud From Spain: Ponsà’s Indy Oud",
-      "link": "https://www.fragrantica.com/news/Outrageous-Indie-Oud-From-Spain-Ponsa-s-Indy-Oud-25759.html",
-      "description": "Blue cheese rubbed into latex",
-      "category": "Niche Perfumery",
-      "author": "Eddie Bulliqi",
-      "published": 1785758282
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Daria Bogdanova & Sena Toprak",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Daria-Bogdanova-Sena-Toprak-25758.html",
-      "description": "The best of popular niche and designer!",
-      "category": "Fragrantica",
-      "author": "Daria Bogdanova,Sena Toprak",
-      "published": 1785736983
-    },
-    {
-      "title": "Espoir Céruléen by Arnué: Clouds and Lightness",
-      "link": "https://www.fragrantica.com/news/Espoir-Ceruleen-by-Arnue-Clouds-and-Lightness-25757.html",
-      "description": "Sergey concludes his review of the first Arnué collection.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1785726183
-    },
-    {
-      "title": "Lust in Paradise Extrait by Ex Nihilo: Deeper, Sweeter, More Amber-Woody",
-      "link": "https://www.fragrantica.com/news/Lust-in-Paradise-Extrait-by-Ex-Nihilo-Deeper-Sweeter-More-Amber-Woody-25756.html",
-      "description": "Bisch without Bisch?",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1785712743
     }
   ],
   "perfumes": [
+    {
+      "title": "Ohana Kameala — NU.DE Parfum",
+      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/NU-DE-Parfum-139612.html",
+      "description": "New perfume listing: NU.DE Parfum by Ohana Kameala.",
+      "category": "New Perfumes",
+      "author": "Ohana Kameala",
+      "published": 1786937373
+    },
+    {
+      "title": "Yasmin Beauty — Afrodite Sexy Crush",
+      "link": "https://www.fragrantica.com/perfume/Yasmin-Beauty/Afrodite-Sexy-Crush-139611.html",
+      "description": "New perfume listing: Afrodite Sexy Crush by Yasmin Beauty.",
+      "category": "New Perfumes",
+      "author": "Yasmin Beauty",
+      "published": 1786937373
+    },
+    {
+      "title": "Kinana — Ambon",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Ambon-139610.html",
+      "description": "New perfume listing: Ambon by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1786937373
+    },
+    {
+      "title": "We Pink — Martin Magnetic",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Martin-Magnetic-139609.html",
+      "description": "New perfume listing: Martin Magnetic by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1786937373
+    },
+    {
+      "title": "Bujairami — Ocean Waves",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ocean-Waves-139608.html",
+      "description": "New perfume listing: Ocean Waves by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1786937373
+    },
+    {
+      "title": "Spoiler — Sim",
+      "link": "https://www.fragrantica.com/perfume/Spoiler/Sim-139607.html",
+      "description": "New perfume listing: Sim by Spoiler.",
+      "category": "New Perfumes",
+      "author": "Spoiler",
+      "published": 1786937373
+    },
+    {
+      "title": "Spoiler — Cheiro de Noiva",
+      "link": "https://www.fragrantica.com/perfume/Spoiler/Cheiro-de-Noiva-139606.html",
+      "description": "New perfume listing: Cheiro de Noiva by Spoiler.",
+      "category": "New Perfumes",
+      "author": "Spoiler",
+      "published": 1786937373
+    },
+    {
+      "title": "Maison Salem — Kalif Elixir",
+      "link": "https://www.fragrantica.com/perfume/Maison-Salem/Kalif-Elixir-139605.html",
+      "description": "New perfume listing: Kalif Elixir by Maison Salem.",
+      "category": "New Perfumes",
+      "author": "Maison Salem",
+      "published": 1786937373
+    },
+    {
+      "title": "Maison Salem — Zayid Elixir",
+      "link": "https://www.fragrantica.com/perfume/Maison-Salem/Zayid-Elixir-139604.html",
+      "description": "New perfume listing: Zayid Elixir by Maison Salem.",
+      "category": "New Perfumes",
+      "author": "Maison Salem",
+      "published": 1786937373
+    },
+    {
+      "title": "Tha Beauty — Sorrento",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Sorrento-139603.html",
+      "description": "New perfume listing: Sorrento by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1786937373
+    },
+    {
+      "title": "Tha Beauty — Capri",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Capri-139602.html",
+      "description": "New perfume listing: Capri by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1786937373
+    },
+    {
+      "title": "Tha Beauty — Amalfi",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Amalfi-139601.html",
+      "description": "New perfume listing: Amalfi by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1786937373
+    },
+    {
+      "title": "Tha Beauty — Positano",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Positano-139600.html",
+      "description": "New perfume listing: Positano by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1786937373
+    },
+    {
+      "title": "Chryso Louer — Selah No. 4 - Belamoure",
+      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-4-Belamoure-139599.html",
+      "description": "New perfume listing: Selah No. 4 - Belamoure by Chryso Louer.",
+      "category": "New Perfumes",
+      "author": "Chryso Louer",
+      "published": 1786937373
+    },
+    {
+      "title": "Chryso Louer — Selah No. 3 - Fait Pour Être",
+      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-3-Fait-Pour-Etre-139598.html",
+      "description": "New perfume listing: Selah No. 3 - Fait Pour Être by Chryso Louer.",
+      "category": "New Perfumes",
+      "author": "Chryso Louer",
+      "published": 1786937373
+    },
+    {
+      "title": "Chryso Louer — Selah No. 2 - Douce Promesse",
+      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-2-Douce-Promesse-139597.html",
+      "description": "New perfume listing: Selah No. 2 - Douce Promesse by Chryso Louer.",
+      "category": "New Perfumes",
+      "author": "Chryso Louer",
+      "published": 1786937373
+    },
+    {
+      "title": "Chryso Louer — Selah No. 1 - Aimer Encore",
+      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-1-Aimer-Encore-139596.html",
+      "description": "New perfume listing: Selah No. 1 - Aimer Encore by Chryso Louer.",
+      "category": "New Perfumes",
+      "author": "Chryso Louer",
+      "published": 1786937373
+    },
+    {
+      "title": "Soulvent — Picnic Day",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Picnic-Day-139595.html",
+      "description": "New perfume listing: Picnic Day by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786937373
+    },
+    {
+      "title": "Soulvent — Siam Summer",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Siam-Summer-139594.html",
+      "description": "New perfume listing: Siam Summer by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786937373
+    },
     {
       "title": "Calaj — Classy Gentleman",
       "link": "https://www.fragrantica.com/perfume/Calaj/Classy-Gentleman-139593.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "Palms.",
       "published": 1786720244
-    },
-    {
-      "title": "Fugazzi — Miauw Miauw",
-      "link": "https://www.fragrantica.com/perfume/Fugazzi/Miauw-Miauw-139518.html",
-      "description": "New perfume listing: Miauw Miauw by Fugazzi.",
-      "category": "New Perfumes",
-      "author": "Fugazzi",
-      "published": 1786720244
-    },
-    {
-      "title": "Narcisse Taormina — Marrone Fondente",
-      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Marrone-Fondente-139517.html",
-      "description": "New perfume listing: Marrone Fondente by Narcisse Taormina.",
-      "category": "New Perfumes",
-      "author": "Narcisse Taormina",
-      "published": 1786720244
-    },
-    {
-      "title": "Narcisse Taormina — Verde Pistacchio",
-      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Verde-Pistacchio-139516.html",
-      "description": "New perfume listing: Verde Pistacchio by Narcisse Taormina.",
-      "category": "New Perfumes",
-      "author": "Narcisse Taormina",
-      "published": 1786720244
-    },
-    {
-      "title": "Narcisse Taormina — Arancio Candito",
-      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Arancio-Candito-139515.html",
-      "description": "New perfume listing: Arancio Candito by Narcisse Taormina.",
-      "category": "New Perfumes",
-      "author": "Narcisse Taormina",
-      "published": 1786720244
-    },
-    {
-      "title": "Narcisse Taormina — Bianco Sorbetto",
-      "link": "https://www.fragrantica.com/perfume/Narcisse-Taormina/Bianco-Sorbetto-139514.html",
-      "description": "New perfume listing: Bianco Sorbetto by Narcisse Taormina.",
-      "category": "New Perfumes",
-      "author": "Narcisse Taormina",
-      "published": 1786720244
-    },
-    {
-      "title": "EL Pasha — Noir",
-      "link": "https://www.fragrantica.com/perfume/EL-Pasha/Noir-139513.html",
-      "description": "New perfume listing: Noir by EL Pasha.",
-      "category": "New Perfumes",
-      "author": "EL Pasha",
-      "published": 1786700649
-    },
-    {
-      "title": "EL Pasha — Prime",
-      "link": "https://www.fragrantica.com/perfume/EL-Pasha/Prime-139512.html",
-      "description": "New perfume listing: Prime by EL Pasha.",
-      "category": "New Perfumes",
-      "author": "EL Pasha",
-      "published": 1786700649
-    },
-    {
-      "title": "Matiane Parfums — Violet Snow",
-      "link": "https://www.fragrantica.com/perfume/Matiane-Parfums/Violet-Snow-139511.html",
-      "description": "New perfume listing: Violet Snow by Matiane Parfums.",
-      "category": "New Perfumes",
-      "author": "Matiane Parfums",
-      "published": 1786700649
-    },
-    {
-      "title": "Matiane Parfums — Merani",
-      "link": "https://www.fragrantica.com/perfume/Matiane-Parfums/Merani-139510.html",
-      "description": "New perfume listing: Merani by Matiane Parfums.",
-      "category": "New Perfumes",
-      "author": "Matiane Parfums",
-      "published": 1786700649
-    },
-    {
-      "title": "Maison Rese — Vertige",
-      "link": "https://www.fragrantica.com/perfume/Maison-Rese/Vertige-139509.html",
-      "description": "New perfume listing: Vertige by Maison Rese.",
-      "category": "New Perfumes",
-      "author": "Maison Rese",
-      "published": 1786700649
-    },
-    {
-      "title": "Maison Rese — Velarium",
-      "link": "https://www.fragrantica.com/perfume/Maison-Rese/Velarium-139508.html",
-      "description": "New perfume listing: Velarium by Maison Rese.",
-      "category": "New Perfumes",
-      "author": "Maison Rese",
-      "published": 1786700649
-    },
-    {
-      "title": "Maison Rese — Origine",
-      "link": "https://www.fragrantica.com/perfume/Maison-Rese/Origine-139507.html",
-      "description": "New perfume listing: Origine by Maison Rese.",
-      "category": "New Perfumes",
-      "author": "Maison Rese",
-      "published": 1786700649
-    },
-    {
-      "title": "Rasasi — Hawas La Mer",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-La-Mer-139506.html",
-      "description": "New perfume listing: Hawas La Mer by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1786700649
-    },
-    {
-      "title": "Street Origins — Rio Beleza",
-      "link": "https://www.fragrantica.com/perfume/Street-Origins/Rio-Beleza-139505.html",
-      "description": "New perfume listing: Rio Beleza by Street Origins.",
-      "category": "New Perfumes",
-      "author": "Street Origins",
-      "published": 1786700649
-    },
-    {
-      "title": "Street Origins — Seoul Fever",
-      "link": "https://www.fragrantica.com/perfume/Street-Origins/Seoul-Fever-139504.html",
-      "description": "New perfume listing: Seoul Fever by Street Origins.",
-      "category": "New Perfumes",
-      "author": "Street Origins",
-      "published": 1786700649
-    },
-    {
-      "title": "Nuance Parfums — Musk Al Layl",
-      "link": "https://www.fragrantica.com/perfume/Nuance-Parfums/Musk-Al-Layl-139503.html",
-      "description": "New perfume listing: Musk Al Layl by Nuance Parfums.",
-      "category": "New Perfumes",
-      "author": "Nuance Parfums",
-      "published": 1786700649
-    },
-    {
-      "title": "Nuance Parfums — Oud Berry",
-      "link": "https://www.fragrantica.com/perfume/Nuance-Parfums/Oud-Berry-139502.html",
-      "description": "New perfume listing: Oud Berry by Nuance Parfums.",
-      "category": "New Perfumes",
-      "author": "Nuance Parfums",
-      "published": 1786700649
-    },
-    {
-      "title": "Nuance Parfums — Vanille Ébène",
-      "link": "https://www.fragrantica.com/perfume/Nuance-Parfums/Vanille-Ebene-139501.html",
-      "description": "New perfume listing: Vanille Ébène by Nuance Parfums.",
-      "category": "New Perfumes",
-      "author": "Nuance Parfums",
-      "published": 1786700649
-    },
-    {
-      "title": "Street Origins — Tokyo Kirei",
-      "link": "https://www.fragrantica.com/perfume/Street-Origins/Tokyo-Kirei-139500.html",
-      "description": "New perfume listing: Tokyo Kirei by Street Origins.",
-      "category": "New Perfumes",
-      "author": "Street Origins",
-      "published": 1786700649
     }
   ]
 }
