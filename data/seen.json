@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Rahasya - Part Two",
+      "link": "https://www.fragrantica.com/news/Rahasya-Part-Two-25864.html",
+      "description": "Following our look at the Debut Collection, now we turn to the Magizhchi Collection fragrances",
+      "category": "Fragrance Reviews",
+      "author": "Nicola Thomis",
+      "published": 1786972143
+    },
+    {
+      "title": "Max Mara Le Parfum",
+      "link": "https://www.fragrantica.com/news/Max-Mara-Le-Parfum-25863.html",
+      "description": "Max Mara returns to fragrance with Max Mara Le Parfum, marking the first major fragrance introduction under the Shiseido licence.",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1786961522
+    },
+    {
+      "title": "Peach Of Desire by Women'Secret",
+      "link": "https://www.fragrantica.com/news/Peach-Of-Desire-by-Women-Secret-25862.html",
+      "description": "Perfect peachy fragrance!",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1786960143
+    },
+    {
       "title": "Binet Papillon Makes Some Great Scents: Here Are My Favourites",
       "link": "https://www.fragrantica.com/news/Binet-Papillon-Makes-Some-Great-Scents-Here-Are-My-Favourites-25861.html",
       "description": "No 5, No 10 & No 17.",
@@ -775,33 +799,257 @@
       "category": "Raw Materials",
       "author": "Matvey Yudov",
       "published": 1785801543
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Adam Forziati & Jerne Knowles",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Adam-Forziati-Jerne-Knowles-25764.html",
-      "description": "Summer grasses, lavenders, and tropical fruits!",
-      "category": "Fragrantica",
-      "author": "Adam Forziati,Jernê Knowles",
-      "published": 1785790803
-    },
-    {
-      "title": "NISHANE Meltemia",
-      "link": "https://www.fragrantica.com/news/NISHANE-Meltemia-25763.html",
-      "description": "Named after the legendary Aegean wind, Meltemia is NISHANE's latest Extrait de Parfum, where vibrant citrus meets airy florals and warm, skin-like woods.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1785788683
-    },
-    {
-      "title": "Happy Anniversary, Dusita!",
-      "link": "https://www.fragrantica.com/news/Happy-Anniversary-Dusita-25762.html",
-      "description": "An overview of all Dusita fragrances.",
-      "category": "Events",
-      "author": "Viktoria Vlasova",
-      "published": 1785776861
     }
   ],
   "perfumes": [
+    {
+      "title": "Rhyton — The Tablecloth",
+      "link": "https://www.fragrantica.com/perfume/Rhyton/The-Tablecloth-139669.html",
+      "description": "New perfume listing: The Tablecloth by Rhyton.",
+      "category": "New Perfumes",
+      "author": "Rhyton",
+      "published": 1786975331
+    },
+    {
+      "title": "Atralia — Absolute Ice",
+      "link": "https://www.fragrantica.com/perfume/Atralia/Absolute-Ice-139667.html",
+      "description": "New perfume listing: Absolute Ice by Atralia.",
+      "category": "New Perfumes",
+      "author": "Atralia",
+      "published": 1786975331
+    },
+    {
+      "title": "Prestige Cosmetics — Afrika",
+      "link": "https://www.fragrantica.com/perfume/Prestige-Cosmetics/Afrika-139662.html",
+      "description": "New perfume listing: Afrika by Prestige Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Prestige Cosmetics",
+      "published": 1786975331
+    },
+    {
+      "title": "Misty Monday — Sugar Violet",
+      "link": "https://www.fragrantica.com/perfume/Misty-Monday/Sugar-Violet-139660.html",
+      "description": "New perfume listing: Sugar Violet by Misty Monday.",
+      "category": "New Perfumes",
+      "author": "Misty Monday",
+      "published": 1786975331
+    },
+    {
+      "title": "Balios — Titan",
+      "link": "https://www.fragrantica.com/perfume/Balios/Titan-139659.html",
+      "description": "New perfume listing: Titan by Balios.",
+      "category": "New Perfumes",
+      "author": "Balios",
+      "published": 1786975331
+    },
+    {
+      "title": "Balios — Grace",
+      "link": "https://www.fragrantica.com/perfume/Balios/Grace-139658.html",
+      "description": "New perfume listing: Grace by Balios.",
+      "category": "New Perfumes",
+      "author": "Balios",
+      "published": 1786975331
+    },
+    {
+      "title": "Balios — Valor",
+      "link": "https://www.fragrantica.com/perfume/Balios/Valor-139657.html",
+      "description": "New perfume listing: Valor by Balios.",
+      "category": "New Perfumes",
+      "author": "Balios",
+      "published": 1786975331
+    },
+    {
+      "title": "Carlo Meneghetti Perfumes — Tramonto al Ponte Vecchio",
+      "link": "https://www.fragrantica.com/perfume/Carlo-Meneghetti-Perfumes/Tramonto-al-Ponte-Vecchio-139656.html",
+      "description": "New perfume listing: Tramonto al Ponte Vecchio by Carlo Meneghetti Perfumes.",
+      "category": "New Perfumes",
+      "author": "Carlo Meneghetti Perfumes",
+      "published": 1786975331
+    },
+    {
+      "title": "Cote d'Azur — Oud Zanjibar",
+      "link": "https://www.fragrantica.com/perfume/Cote-d-Azur/Oud-Zanjibar-139655.html",
+      "description": "New perfume listing: Oud Zanjibar by Cote d'Azur.",
+      "category": "New Perfumes",
+      "author": "Cote d'Azur",
+      "published": 1786975331
+    },
+    {
+      "title": "Cote d'Azur — The Edge",
+      "link": "https://www.fragrantica.com/perfume/Cote-d-Azur/The-Edge-139654.html",
+      "description": "New perfume listing: The Edge by Cote d'Azur.",
+      "category": "New Perfumes",
+      "author": "Cote d'Azur",
+      "published": 1786975331
+    },
+    {
+      "title": "Calaj — Halloween Carrot Cake",
+      "link": "https://www.fragrantica.com/perfume/Calaj/Halloween-Carrot-Cake-139653.html",
+      "description": "New perfume listing: Halloween Carrot Cake by Calaj.",
+      "category": "New Perfumes",
+      "author": "Calaj",
+      "published": 1786975331
+    },
+    {
+      "title": "Calaj — Rose Pumpkin Pie",
+      "link": "https://www.fragrantica.com/perfume/Calaj/Rose-Pumpkin-Pie-139652.html",
+      "description": "New perfume listing: Rose Pumpkin Pie by Calaj.",
+      "category": "New Perfumes",
+      "author": "Calaj",
+      "published": 1786975331
+    },
+    {
+      "title": "Calaj — 6 Simturi",
+      "link": "https://www.fragrantica.com/perfume/Calaj/6-Simturi-139651.html",
+      "description": "New perfume listing: 6 Simturi by Calaj.",
+      "category": "New Perfumes",
+      "author": "Calaj",
+      "published": 1786975331
+    },
+    {
+      "title": "Bottega Verde — Frutta Glassata",
+      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Frutta-Glassata-139650.html",
+      "description": "New perfume listing: Frutta Glassata by Bottega Verde.",
+      "category": "New Perfumes",
+      "author": "Bottega Verde",
+      "published": 1786975331
+    },
+    {
+      "title": "Bottega Verde — Noci Caramellate",
+      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Noci-Caramellate-139648.html",
+      "description": "New perfume listing: Noci Caramellate by Bottega Verde.",
+      "category": "New Perfumes",
+      "author": "Bottega Verde",
+      "published": 1786975331
+    },
+    {
+      "title": "Bottega Verde — Torta Paradiso",
+      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Torta-Paradiso-139647.html",
+      "description": "New perfume listing: Torta Paradiso by Bottega Verde.",
+      "category": "New Perfumes",
+      "author": "Bottega Verde",
+      "published": 1786975331
+    },
+    {
+      "title": "Bottega Verde — Latte di Vaniglia",
+      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Latte-di-Vaniglia-139646.html",
+      "description": "New perfume listing: Latte di Vaniglia by Bottega Verde.",
+      "category": "New Perfumes",
+      "author": "Bottega Verde",
+      "published": 1786975331
+    },
+    {
+      "title": "Max Mara — Max Mara Le Parfum",
+      "link": "https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-139644.html",
+      "description": "New perfume listing: Max Mara Le Parfum by Max Mara.",
+      "category": "New Perfumes",
+      "author": "Max Mara",
+      "published": 1786975331
+    },
+    {
+      "title": "Carolina Herrera — Good Girl Blush Crystal Class Collector's Edition",
+      "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-Crystal-Class-Collector-s-Edition-139643.html",
+      "description": "New perfume listing: Good Girl Blush Crystal Class Collector's Edition by Carolina Herrera.",
+      "category": "New Perfumes",
+      "author": "Carolina Herrera",
+      "published": 1786975331
+    },
+    {
+      "title": "Carolina Herrera — Good Girl Crystal Class Collector's Edition",
+      "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Crystal-Class-Collector-s-Edition-139641.html",
+      "description": "New perfume listing: Good Girl Crystal Class Collector's Edition by Carolina Herrera.",
+      "category": "New Perfumes",
+      "author": "Carolina Herrera",
+      "published": 1786975331
+    },
+    {
+      "title": "FORVR MOOD — Not Your Type",
+      "link": "https://www.fragrantica.com/perfume/FORVR-MOOD/Not-Your-Type-139640.html",
+      "description": "New perfume listing: Not Your Type by FORVR MOOD.",
+      "category": "New Perfumes",
+      "author": "FORVR MOOD",
+      "published": 1786975331
+    },
+    {
+      "title": "Britney Spears — Goddess Fantasy",
+      "link": "https://www.fragrantica.com/perfume/Britney-Spears/Goddess-Fantasy-139639.html",
+      "description": "New perfume listing: Goddess Fantasy by Britney Spears.",
+      "category": "New Perfumes",
+      "author": "Britney Spears",
+      "published": 1786975331
+    },
+    {
+      "title": "Fragrance World — Legion",
+      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Legion-139668.html",
+      "description": "New perfume listing: Legion by Fragrance World.",
+      "category": "New Perfumes",
+      "author": "Fragrance World",
+      "published": 1786975331
+    },
+    {
+      "title": "Aroma Concepts — Echelon Soleil",
+      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Echelon-Soleil-139666.html",
+      "description": "New perfume listing: Echelon Soleil by Aroma Concepts.",
+      "category": "New Perfumes",
+      "author": "Aroma Concepts",
+      "published": 1786975331
+    },
+    {
+      "title": "Velixir — Selene",
+      "link": "https://www.fragrantica.com/perfume/Velixir/Selene-139665.html",
+      "description": "New perfume listing: Selene by Velixir.",
+      "category": "New Perfumes",
+      "author": "Velixir",
+      "published": 1786975331
+    },
+    {
+      "title": "Velixir — Nyx",
+      "link": "https://www.fragrantica.com/perfume/Velixir/Nyx-139664.html",
+      "description": "New perfume listing: Nyx by Velixir.",
+      "category": "New Perfumes",
+      "author": "Velixir",
+      "published": 1786975331
+    },
+    {
+      "title": "Velixir — Harmonia",
+      "link": "https://www.fragrantica.com/perfume/Velixir/Harmonia-139663.html",
+      "description": "New perfume listing: Harmonia by Velixir.",
+      "category": "New Perfumes",
+      "author": "Velixir",
+      "published": 1786975331
+    },
+    {
+      "title": "Misty Monday — Lychee Powder",
+      "link": "https://www.fragrantica.com/perfume/Misty-Monday/Lychee-Powder-139661.html",
+      "description": "New perfume listing: Lychee Powder by Misty Monday.",
+      "category": "New Perfumes",
+      "author": "Misty Monday",
+      "published": 1786975331
+    },
+    {
+      "title": "Dolce — Classic",
+      "link": "https://www.fragrantica.com/perfume/Dolce/Classic-139649.html",
+      "description": "New perfume listing: Classic by Dolce.",
+      "category": "New Perfumes",
+      "author": "Dolce",
+      "published": 1786975331
+    },
+    {
+      "title": "Dolce — Luna",
+      "link": "https://www.fragrantica.com/perfume/Dolce/Luna-139645.html",
+      "description": "New perfume listing: Luna by Dolce.",
+      "category": "New Perfumes",
+      "author": "Dolce",
+      "published": 1786975331
+    },
+    {
+      "title": "Dolce — Bella",
+      "link": "https://www.fragrantica.com/perfume/Dolce/Bella-139642.html",
+      "description": "New perfume listing: Bella by Dolce.",
+      "category": "New Perfumes",
+      "author": "Dolce",
+      "published": 1786975331
+    },
     {
       "title": "DSQUARED² — Icon Doll",
       "link": "https://www.fragrantica.com/perfume/DSQUARED2/Icon-Doll-139638.html",
@@ -1353,254 +1601,6 @@
       "category": "New Perfumes",
       "author": "Mansam",
       "published": 1786888048
-    },
-    {
-      "title": "Mansam — Sarhan",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Sarhan-139570.html",
-      "description": "New perfume listing: Sarhan by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Safaa Al Nada",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Safaa-Al-Nada-139569.html",
-      "description": "New perfume listing: Safaa Al Nada by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Qublat Ward",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Qublat-Ward-139568.html",
-      "description": "New perfume listing: Qublat Ward by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Nasseem Al Ward",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Nasseem-Al-Ward-139567.html",
-      "description": "New perfume listing: Nasseem Al Ward by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Min Ana",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Min-Ana-139566.html",
-      "description": "New perfume listing: Min Ana by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Mamlakati",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Mamlakati-139565.html",
-      "description": "New perfume listing: Mamlakati by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Horace — Ibiza '87",
-      "link": "https://www.fragrantica.com/perfume/Horace/Ibiza-87-139562.html",
-      "description": "New perfume listing: Ibiza '87 by Horace.",
-      "category": "New Perfumes",
-      "author": "Horace",
-      "published": 1786866515
-    },
-    {
-      "title": "Horace — Mezcal Musc",
-      "link": "https://www.fragrantica.com/perfume/Horace/Mezcal-Musc-139561.html",
-      "description": "New perfume listing: Mezcal Musc by Horace.",
-      "category": "New Perfumes",
-      "author": "Horace",
-      "published": 1786866515
-    },
-    {
-      "title": "Ohana Mahaalo — Fula ku'ulei",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Fula-ku-ulei-139563.html",
-      "description": "New perfume listing: Fula ku'ulei by Ohana Mahaalo.",
-      "category": "New Perfumes",
-      "author": "Ohana Mahaalo",
-      "published": 1786866515
-    },
-    {
-      "title": "The Spirit Of Creation — TU$$",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/TU-139560.html",
-      "description": "New perfume listing: TU$$ by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Void",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Void-139559.html",
-      "description": "New perfume listing: Void by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Black Dolphin",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Black-Dolphin-139558.html",
-      "description": "New perfume listing: Black Dolphin by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Promise of Summer",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Promise-of-Summer-139557.html",
-      "description": "New perfume listing: Promise of Summer by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Our Dirty Li’l Secret",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Our-Dirty-Li-l-Secret-139556.html",
-      "description": "New perfume listing: Our Dirty Li’l Secret by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Tears of the Green Goddess",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Tears-of-the-Green-Goddess-139555.html",
-      "description": "New perfume listing: Tears of the Green Goddess by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "The Spirit Of Creation — Sun God",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-Of-Creation/Sun-God-139554.html",
-      "description": "New perfume listing: Sun God by The Spirit Of Creation.",
-      "category": "New Perfumes",
-      "author": "The Spirit Of Creation",
-      "published": 1786850919
-    },
-    {
-      "title": "Fulton & Roark — 226 Club",
-      "link": "https://www.fragrantica.com/perfume/Fulton-Roark/226-Club-139553.html",
-      "description": "New perfume listing: 226 Club by Fulton & Roark.",
-      "category": "New Perfumes",
-      "author": "Fulton & Roark",
-      "published": 1786850919
-    },
-    {
-      "title": "Bravo Sierra — Suede Musk",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Suede-Musk-139462.html",
-      "description": "New perfume listing: Suede Musk by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786821026
-    },
-    {
-      "title": "Bravo Sierra — Smoked Orris",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Smoked-Orris-139461.html",
-      "description": "New perfume listing: Smoked Orris by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786821026
-    },
-    {
-      "title": "Bravo Sierra — Marine Salt",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Marine-Salt-139460.html",
-      "description": "New perfume listing: Marine Salt by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786821026
-    },
-    {
-      "title": "Bravo Sierra — Bravo Sierra Eau de Cologne",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Bravo-Sierra-Eau-de-Cologne-139459.html",
-      "description": "New perfume listing: Bravo Sierra Eau de Cologne by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1786821026
-    },
-    {
-      "title": "Al Wataniah — Castilla",
-      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Castilla-139541.html",
-      "description": "New perfume listing: Castilla by Al Wataniah.",
-      "category": "New Perfumes",
-      "author": "Al Wataniah",
-      "published": 1786801505
-    },
-    {
-      "title": "Fragrance World — Riche & Royale Femme",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Riche-Royale-Femme-139540.html",
-      "description": "New perfume listing: Riche & Royale Femme by Fragrance World.",
-      "category": "New Perfumes",
-      "author": "Fragrance World",
-      "published": 1786801505
-    },
-    {
-      "title": "Aroma Concepts — Golden Layal",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Golden-Layal-139539.html",
-      "description": "New perfume listing: Golden Layal by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1786801505
-    },
-    {
-      "title": "Aroma Concepts — Cashmere Vanille",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Cashmere-Vanille-139538.html",
-      "description": "New perfume listing: Cashmere Vanille by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1786801505
-    },
-    {
-      "title": "Nike — Moonlight",
-      "link": "https://www.fragrantica.com/perfume/Nike/Moonlight-139537.html",
-      "description": "New perfume listing: Moonlight by Nike.",
-      "category": "New Perfumes",
-      "author": "Nike",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Khatiiiiiir",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Khatiiiiiir-139552.html",
-      "description": "New perfume listing: Khatiiiiiir by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Horr Fi Al Riyah",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Horr-Fi-Al-Riyah-139551.html",
-      "description": "New perfume listing: Horr Fi Al Riyah by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Hamsa",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Hamsa-139550.html",
-      "description": "New perfume listing: Hamsa by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Hams Min Al Sahraa",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Hams-Min-Al-Sahraa-139549.html",
-      "description": "New perfume listing: Hams Min Al Sahraa by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
-    },
-    {
-      "title": "Mansam — Hadeeth Al Rooh",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Hadeeth-Al-Rooh-139548.html",
-      "description": "New perfume listing: Hadeeth Al Rooh by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786801505
     }
   ]
 }
