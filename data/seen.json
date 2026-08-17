@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Café Roma by Zhufu: Rome for Some, Belgrade for Others",
+      "link": "https://www.fragrantica.com/news/Cafe-Roma-by-Zhufu-Rome-for-Some-Belgrade-for-Others-25866.html",
+      "description": "Jedan espreso, molim.",
+      "category": "Fragrance Reviews",
+      "author": "Andrei Lensky",
+      "published": 1786985275
+    },
+    {
+      "title": "CK Everyone Eau De Parfum Is A Good Value Freshie",
+      "link": "https://www.fragrantica.com/news/CK-Everyone-Eau-De-Parfum-Is-A-Good-Value-Freshie-25865.html",
+      "description": "Especially compared to the Eau de Toilette",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1786982402
+    },
+    {
       "title": "Rahasya - Part Two",
       "link": "https://www.fragrantica.com/news/Rahasya-Part-Two-25864.html",
       "description": "Following our look at the Debut Collection, now we turn to the Magizhchi Collection fragrances",
@@ -11,7 +27,7 @@
     {
       "title": "Max Mara Le Parfum",
       "link": "https://www.fragrantica.com/news/Max-Mara-Le-Parfum-25863.html",
-      "description": "Max Mara returns to fragrance with Max Mara Le Parfum, marking the first major fragrance introduction under the Shiseido licence.",
+      "description": "Max Mara returns to fragrance with Max Mara Le Parfum, marking the first major fragrance introduction under the...",
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1786961522
@@ -783,25 +799,265 @@
       "category": "Fragrantica",
       "author": "Nayeli Cano,Edie Smith",
       "published": 1785826263
-    },
-    {
-      "title": "The Modern Barbershop Experience: Introducing Blind Barber",
-      "link": "https://www.fragrantica.com/news/The-Modern-Barbershop-Experience-Introducing-Blind-Barber-25766.html",
-      "description": "\"Stay handsome\"",
-      "category": "Fragrance News",
-      "author": "Beth Butterfield",
-      "published": 1785812403
-    },
-    {
-      "title": "Pomegranate: From Santa Maria Novella Melograno to Fugazzi Pomegranoudh",
-      "link": "https://www.fragrantica.com/news/Pomegranate-From-Santa-Maria-Novella-Melograno-to-Fugazzi-Pomegranoudh-25765.html",
-      "description": "The ancient Persians called the pomegranate the fruit of the gods, while the ancient Greeks called it the fruit of the dead, associating it with blood and the afterlife. In biblical times, images of pomegranates adorned the garments of kings and...",
-      "category": "Raw Materials",
-      "author": "Matvey Yudov",
-      "published": 1785801543
     }
   ],
   "perfumes": [
+    {
+      "title": "Soulvent — Palace Ballet",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Palace-Ballet-139699.html",
+      "description": "New perfume listing: Palace Ballet by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786993080
+    },
+    {
+      "title": "Soulvent — Golden Rain",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Golden-Rain-139698.html",
+      "description": "New perfume listing: Golden Rain by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786993080
+    },
+    {
+      "title": "Faizal Privee — Chypre Iris Regale",
+      "link": "https://www.fragrantica.com/perfume/Faizal-Privee/Chypre-Iris-Regale-139697.html",
+      "description": "New perfume listing: Chypre Iris Regale by Faizal Privee.",
+      "category": "New Perfumes",
+      "author": "Faizal Privee",
+      "published": 1786993080
+    },
+    {
+      "title": "Profumi Di Polignano — Crema Oud",
+      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Crema-Oud-139694.html",
+      "description": "New perfume listing: Crema Oud by Profumi Di Polignano.",
+      "category": "New Perfumes",
+      "author": "Profumi Di Polignano",
+      "published": 1786993080
+    },
+    {
+      "title": "Profumi Di Polignano — Volare Extrait de Parfum (2026 Edition)",
+      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Volare-Extrait-de-Parfum-2026-Edition-139693.html",
+      "description": "New perfume listing: Volare Extrait de Parfum (2026 Edition) by Profumi Di Polignano.",
+      "category": "New Perfumes",
+      "author": "Profumi Di Polignano",
+      "published": 1786993080
+    },
+    {
+      "title": "Profumi Di Polignano — Volare (2026 Edition)",
+      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Volare-2026-Edition-139692.html",
+      "description": "New perfume listing: Volare (2026 Edition) by Profumi Di Polignano.",
+      "category": "New Perfumes",
+      "author": "Profumi Di Polignano",
+      "published": 1786993080
+    },
+    {
+      "title": "Profumi Di Polignano — Wow Extrait de Parfum (2025 Edition)",
+      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Wow-Extrait-de-Parfum-2025-Edition-139691.html",
+      "description": "New perfume listing: Wow Extrait de Parfum (2025 Edition) by Profumi Di Polignano.",
+      "category": "New Perfumes",
+      "author": "Profumi Di Polignano",
+      "published": 1786993080
+    },
+    {
+      "title": "Profumi Di Polignano — Wow (2025 Edition)",
+      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Wow-2025-Edition-139690.html",
+      "description": "New perfume listing: Wow (2025 Edition) by Profumi Di Polignano.",
+      "category": "New Perfumes",
+      "author": "Profumi Di Polignano",
+      "published": 1786993080
+    },
+    {
+      "title": "Nabeel — Birwaz Fidhi",
+      "link": "https://www.fragrantica.com/perfume/Nabeel/Birwaz-Fidhi-139676.html",
+      "description": "New perfume listing: Birwaz Fidhi by Nabeel.",
+      "category": "New Perfumes",
+      "author": "Nabeel",
+      "published": 1786993080
+    },
+    {
+      "title": "Serge Dumonten — Strawberries and Rum",
+      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Strawberries-and-Rum-139675.html",
+      "description": "New perfume listing: Strawberries and Rum by Serge Dumonten.",
+      "category": "New Perfumes",
+      "author": "Serge Dumonten",
+      "published": 1786993080
+    },
+    {
+      "title": "American Perfumer — Rushlight",
+      "link": "https://www.fragrantica.com/perfume/American-Perfumer/Rushlight-139674.html",
+      "description": "New perfume listing: Rushlight by American Perfumer.",
+      "category": "New Perfumes",
+      "author": "American Perfumer",
+      "published": 1786993080
+    },
+    {
+      "title": "Soulvent — Sherpa Tobacco",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Sherpa-Tobacco-139701.html",
+      "description": "New perfume listing: Sherpa Tobacco by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786993080
+    },
+    {
+      "title": "Soulvent — Cantonese Herb",
+      "link": "https://www.fragrantica.com/perfume/Soulvent/Cantonese-Herb-139700.html",
+      "description": "New perfume listing: Cantonese Herb by Soulvent.",
+      "category": "New Perfumes",
+      "author": "Soulvent",
+      "published": 1786993080
+    },
+    {
+      "title": "Nabeel — Zabad Roll On Oil",
+      "link": "https://www.fragrantica.com/perfume/Nabeel/Zabad-Roll-On-Oil-139696.html",
+      "description": "New perfume listing: Zabad Roll On Oil by Nabeel.",
+      "category": "New Perfumes",
+      "author": "Nabeel",
+      "published": 1786993080
+    },
+    {
+      "title": "Nabeel — Habibi Lil Abad Ruby",
+      "link": "https://www.fragrantica.com/perfume/Nabeel/Habibi-Lil-Abad-Ruby-139695.html",
+      "description": "New perfume listing: Habibi Lil Abad Ruby by Nabeel.",
+      "category": "New Perfumes",
+      "author": "Nabeel",
+      "published": 1786993080
+    },
+    {
+      "title": "Inayaa Perfumes — Oud Divino",
+      "link": "https://www.fragrantica.com/perfume/Inayaa-Perfumes/Oud-Divino-139689.html",
+      "description": "New perfume listing: Oud Divino by Inayaa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Inayaa Perfumes",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Vanity for Man",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Vanity-for-Man-139688.html",
+      "description": "New perfume listing: Vanity for Man by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Mystery S..Y",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Mystery-S-Y-139687.html",
+      "description": "New perfume listing: Mystery S..Y by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Soleil Pour Femme",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Soleil-Pour-Femme-139686.html",
+      "description": "New perfume listing: Soleil Pour Femme by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Impero Rouge",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Impero-Rouge-139685.html",
+      "description": "New perfume listing: Impero Rouge by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Nomad Exclusif",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Nomad-Exclusif-139684.html",
+      "description": "New perfume listing: Nomad Exclusif by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Venture Absolu",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Venture-Absolu-139683.html",
+      "description": "New perfume listing: Venture Absolu by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Amour Pour Femme",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Amour-Pour-Femme-139682.html",
+      "description": "New perfume listing: Amour Pour Femme by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Royal De Maison — Voco For Man",
+      "link": "https://www.fragrantica.com/perfume/Royal-De-Maison/Voco-For-Man-139681.html",
+      "description": "New perfume listing: Voco For Man by Royal De Maison.",
+      "category": "New Perfumes",
+      "author": "Royal De Maison",
+      "published": 1786993080
+    },
+    {
+      "title": "Ahmed Al Maghribi — Instance",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Instance-139680.html",
+      "description": "New perfume listing: Instance by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1786993080
+    },
+    {
+      "title": "Ard Al Zaafaran — Saheb Emotions",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Saheb-Emotions-139679.html",
+      "description": "New perfume listing: Saheb Emotions by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1786993080
+    },
+    {
+      "title": "Nabeel — Touch Maroon",
+      "link": "https://www.fragrantica.com/perfume/Nabeel/Touch-Maroon-139678.html",
+      "description": "New perfume listing: Touch Maroon by Nabeel.",
+      "category": "New Perfumes",
+      "author": "Nabeel",
+      "published": 1786993080
+    },
+    {
+      "title": "Nabeel — Bois",
+      "link": "https://www.fragrantica.com/perfume/Nabeel/Bois-139677.html",
+      "description": "New perfume listing: Bois by Nabeel.",
+      "category": "New Perfumes",
+      "author": "Nabeel",
+      "published": 1786993080
+    },
+    {
+      "title": "Serge Dumonten — Versailles Currant",
+      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Versailles-Currant-139673.html",
+      "description": "New perfume listing: Versailles Currant by Serge Dumonten.",
+      "category": "New Perfumes",
+      "author": "Serge Dumonten",
+      "published": 1786993080
+    },
+    {
+      "title": "Ahmed Al Maghribi — Patchouli",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Patchouli-139672.html",
+      "description": "New perfume listing: Patchouli by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1786993080
+    },
+    {
+      "title": "Ahmed Al Maghribi — Oud A.M.G.",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-A-M-G-139671.html",
+      "description": "New perfume listing: Oud A.M.G. by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1786993080
+    },
+    {
+      "title": "Serge Dumonten — Peach Brandy",
+      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Peach-Brandy-139670.html",
+      "description": "New perfume listing: Peach Brandy by Serge Dumonten.",
+      "category": "New Perfumes",
+      "author": "Serge Dumonten",
+      "published": 1786993080
+    },
     {
       "title": "Rhyton — The Tablecloth",
       "link": "https://www.fragrantica.com/perfume/Rhyton/The-Tablecloth-139669.html",
@@ -1345,262 +1601,6 @@
       "category": "New Perfumes",
       "author": "Tha Beauty",
       "published": 1786937373
-    },
-    {
-      "title": "Tha Beauty — Amalfi",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Amalfi-139601.html",
-      "description": "New perfume listing: Amalfi by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1786937373
-    },
-    {
-      "title": "Tha Beauty — Positano",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Positano-139600.html",
-      "description": "New perfume listing: Positano by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1786937373
-    },
-    {
-      "title": "Chryso Louer — Selah No. 4 - Belamoure",
-      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-4-Belamoure-139599.html",
-      "description": "New perfume listing: Selah No. 4 - Belamoure by Chryso Louer.",
-      "category": "New Perfumes",
-      "author": "Chryso Louer",
-      "published": 1786937373
-    },
-    {
-      "title": "Chryso Louer — Selah No. 3 - Fait Pour Être",
-      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-3-Fait-Pour-Etre-139598.html",
-      "description": "New perfume listing: Selah No. 3 - Fait Pour Être by Chryso Louer.",
-      "category": "New Perfumes",
-      "author": "Chryso Louer",
-      "published": 1786937373
-    },
-    {
-      "title": "Chryso Louer — Selah No. 2 - Douce Promesse",
-      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-2-Douce-Promesse-139597.html",
-      "description": "New perfume listing: Selah No. 2 - Douce Promesse by Chryso Louer.",
-      "category": "New Perfumes",
-      "author": "Chryso Louer",
-      "published": 1786937373
-    },
-    {
-      "title": "Chryso Louer — Selah No. 1 - Aimer Encore",
-      "link": "https://www.fragrantica.com/perfume/Chryso-Louer/Selah-No-1-Aimer-Encore-139596.html",
-      "description": "New perfume listing: Selah No. 1 - Aimer Encore by Chryso Louer.",
-      "category": "New Perfumes",
-      "author": "Chryso Louer",
-      "published": 1786937373
-    },
-    {
-      "title": "Soulvent — Picnic Day",
-      "link": "https://www.fragrantica.com/perfume/Soulvent/Picnic-Day-139595.html",
-      "description": "New perfume listing: Picnic Day by Soulvent.",
-      "category": "New Perfumes",
-      "author": "Soulvent",
-      "published": 1786937373
-    },
-    {
-      "title": "Soulvent — Siam Summer",
-      "link": "https://www.fragrantica.com/perfume/Soulvent/Siam-Summer-139594.html",
-      "description": "New perfume listing: Siam Summer by Soulvent.",
-      "category": "New Perfumes",
-      "author": "Soulvent",
-      "published": 1786937373
-    },
-    {
-      "title": "Calaj — Classy Gentleman",
-      "link": "https://www.fragrantica.com/perfume/Calaj/Classy-Gentleman-139593.html",
-      "description": "New perfume listing: Classy Gentleman by Calaj.",
-      "category": "New Perfumes",
-      "author": "Calaj",
-      "published": 1786907057
-    },
-    {
-      "title": "Ybry Paris — Désir du Cœur",
-      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Desir-du-Coeur-139592.html",
-      "description": "New perfume listing: Désir du Cœur by Ybry Paris.",
-      "category": "New Perfumes",
-      "author": "Ybry Paris",
-      "published": 1786907057
-    },
-    {
-      "title": "Ybry Paris — Mon Âme",
-      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Mon-Ame-139591.html",
-      "description": "New perfume listing: Mon Âme by Ybry Paris.",
-      "category": "New Perfumes",
-      "author": "Ybry Paris",
-      "published": 1786907057
-    },
-    {
-      "title": "Ybry Paris — Devinez",
-      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Devinez-139590.html",
-      "description": "New perfume listing: Devinez by Ybry Paris.",
-      "category": "New Perfumes",
-      "author": "Ybry Paris",
-      "published": 1786907057
-    },
-    {
-      "title": "Ybry Paris — Femme de Paris",
-      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Femme-de-Paris-139589.html",
-      "description": "New perfume listing: Femme de Paris by Ybry Paris.",
-      "category": "New Perfumes",
-      "author": "Ybry Paris",
-      "published": 1786907057
-    },
-    {
-      "title": "Ybry Paris — Amour Sauvage",
-      "link": "https://www.fragrantica.com/perfume/Ybry-Paris/Amour-Sauvage-139588.html",
-      "description": "New perfume listing: Amour Sauvage by Ybry Paris.",
-      "category": "New Perfumes",
-      "author": "Ybry Paris",
-      "published": 1786907057
-    },
-    {
-      "title": "Zhufu 竹浮 — Cocoa Toffee",
-      "link": "https://www.fragrantica.com/perfume/Zhufu-zhu-fu/Cocoa-Toffee-139587.html",
-      "description": "New perfume listing: Cocoa Toffee by Zhufu 竹浮.",
-      "category": "New Perfumes",
-      "author": "Zhufu 竹浮",
-      "published": 1786888048
-    },
-    {
-      "title": "Zhufu 竹浮 — Café Roma",
-      "link": "https://www.fragrantica.com/perfume/Zhufu-zhu-fu/Cafe-Roma-139586.html",
-      "description": "New perfume listing: Café Roma by Zhufu 竹浮.",
-      "category": "New Perfumes",
-      "author": "Zhufu 竹浮",
-      "published": 1786888048
-    },
-    {
-      "title": "Gucci — Gucci Guilty Eau de Toilette Intense Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Eau-de-Toilette-Intense-Pour-Homme-139583.html",
-      "description": "New perfume listing: Gucci Guilty Eau de Toilette Intense Pour Homme by Gucci.",
-      "category": "New Perfumes",
-      "author": "Gucci",
-      "published": 1786888048
-    },
-    {
-      "title": "Calaj — Modern Gentleman",
-      "link": "https://www.fragrantica.com/perfume/Calaj/Modern-Gentleman-139582.html",
-      "description": "New perfume listing: Modern Gentleman by Calaj.",
-      "category": "New Perfumes",
-      "author": "Calaj",
-      "published": 1786888048
-    },
-    {
-      "title": "Maison Evandie — Berry Gelato",
-      "link": "https://www.fragrantica.com/perfume/Maison-Evandie/Berry-Gelato-139581.html",
-      "description": "New perfume listing: Berry Gelato by Maison Evandie.",
-      "category": "New Perfumes",
-      "author": "Maison Evandie",
-      "published": 1786888048
-    },
-    {
-      "title": "Miroir des Sens — Souffle d'Émeraude",
-      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Souffle-d-Emeraude-139580.html",
-      "description": "New perfume listing: Souffle d'Émeraude by Miroir des Sens.",
-      "category": "New Perfumes",
-      "author": "Miroir des Sens",
-      "published": 1786888048
-    },
-    {
-      "title": "Miroir des Sens — Songe Pourpre",
-      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Songe-Pourpre-139579.html",
-      "description": "New perfume listing: Songe Pourpre by Miroir des Sens.",
-      "category": "New Perfumes",
-      "author": "Miroir des Sens",
-      "published": 1786888048
-    },
-    {
-      "title": "Miroir des Sens — Éclipse Gourmande",
-      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Eclipse-Gourmande-139578.html",
-      "description": "New perfume listing: Éclipse Gourmande by Miroir des Sens.",
-      "category": "New Perfumes",
-      "author": "Miroir des Sens",
-      "published": 1786888048
-    },
-    {
-      "title": "Miroir des Sens — Aube Dorée",
-      "link": "https://www.fragrantica.com/perfume/Miroir-des-Sens/Aube-Doree-139577.html",
-      "description": "New perfume listing: Aube Dorée by Miroir des Sens.",
-      "category": "New Perfumes",
-      "author": "Miroir des Sens",
-      "published": 1786888048
-    },
-    {
-      "title": "Victorio & Lucchino — Nº21 Vitamina Alegría",
-      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No21-Vitamina-Alegria-139576.html",
-      "description": "New perfume listing: Nº21 Vitamina Alegría by Victorio & Lucchino.",
-      "category": "New Perfumes",
-      "author": "Victorio & Lucchino",
-      "published": 1786888048
-    },
-    {
-      "title": "Victorio & Lucchino — Nº15 Negro Azabache Elixir",
-      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No15-Negro-Azabache-Elixir-139575.html",
-      "description": "New perfume listing: Nº15 Negro Azabache Elixir by Victorio & Lucchino.",
-      "category": "New Perfumes",
-      "author": "Victorio & Lucchino",
-      "published": 1786888048
-    },
-    {
-      "title": "Victorio & Lucchino — Nº22 Flor Andalusí Elixir",
-      "link": "https://www.fragrantica.com/perfume/Victorio-Lucchino/No22-Flor-Andalusi-Elixir-139574.html",
-      "description": "New perfume listing: Nº22 Flor Andalusí Elixir by Victorio & Lucchino.",
-      "category": "New Perfumes",
-      "author": "Victorio & Lucchino",
-      "published": 1786888048
-    },
-    {
-      "title": "Lumi — Ciao",
-      "link": "https://www.fragrantica.com/perfume/Lumi/Ciao-139564.html",
-      "description": "New perfume listing: Ciao by Lumi.",
-      "category": "New Perfumes",
-      "author": "Lumi",
-      "published": 1786888048
-    },
-    {
-      "title": "Ohana Mahaalo — Mana Ku'ulei",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Mana-Ku-ulei-139585.html",
-      "description": "New perfume listing: Mana Ku'ulei by Ohana Mahaalo.",
-      "category": "New Perfumes",
-      "author": "Ohana Mahaalo",
-      "published": 1786888048
-    },
-    {
-      "title": "Ohana Mahaalo — Puana Laki Ho'ola",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Mahaalo/Puana-Laki-Ho-ola-139584.html",
-      "description": "New perfume listing: Puana Laki Ho'ola by Ohana Mahaalo.",
-      "category": "New Perfumes",
-      "author": "Ohana Mahaalo",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Thawrat Al Ahasseess",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Thawrat-Al-Ahasseess-139573.html",
-      "description": "New perfume listing: Thawrat Al Ahasseess by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Tahta Al Noujoum",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Tahta-Al-Noujoum-139572.html",
-      "description": "New perfume listing: Tahta Al Noujoum by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
-    },
-    {
-      "title": "Mansam — Shatha Biladi",
-      "link": "https://www.fragrantica.com/perfume/Mansam/Shatha-Biladi-139571.html",
-      "description": "New perfume listing: Shatha Biladi by Mansam.",
-      "category": "New Perfumes",
-      "author": "Mansam",
-      "published": 1786888048
     }
   ]
 }
