@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Écoute-Moi Anthologie: Lucien Ferrero Asks Us to Listen",
+      "link": "https://www.fragrantica.com/news/Ecoute-Moi-Anthologie-Lucien-Ferrero-Asks-Us-to-Listen-25869.html",
+      "description": "A divisive new release from Anthologie.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1787007603
+    },
+    {
+      "title": "BEST FRAGRANCES SPRING–SUMMER 2026: Tyrvasia Argyraki",
+      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Tyrvasia-Argyraki-25868.html",
+      "description": "And a little more of the best from the last six months!",
+      "category": "Fragrantica",
+      "author": "Tyrvasia Argyraki",
+      "published": 1786997427
+    },
+    {
+      "title": "With Musk Flower, HFC Depicts the Riviera in a Powdery Light",
+      "link": "https://www.fragrantica.com/news/With-Musk-Flower-HFC-Depicts-the-Riviera-in-a-Powdery-Light-25867.html",
+      "description": "In addition to its limited edition dedicated to Saint-Tropez, the brand unveiled a new release this spring: Musk Flower.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1786996805
+    },
+    {
       "title": "Café Roma by Zhufu: Rome for Some, Belgrade for Others",
       "link": "https://www.fragrantica.com/news/Cafe-Roma-by-Zhufu-Rome-for-Some-Belgrade-for-Others-25866.html",
       "description": "Jedan espreso, molim.",
@@ -27,7 +51,7 @@
     {
       "title": "Max Mara Le Parfum",
       "link": "https://www.fragrantica.com/news/Max-Mara-Le-Parfum-25863.html",
-      "description": "Max Mara returns to fragrance with Max Mara Le Parfum, marking the first major fragrance introduction under the...",
+      "description": "Max Mara returns to fragrance with Max Mara Le Parfum, marking the first major fragrance introduction under the Shiseido licence.",
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1786961522
@@ -775,33 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Andrei Lensky",
       "published": 1785850209
-    },
-    {
-      "title": "Kumquat: Citrus in Reverse",
-      "link": "https://www.fragrantica.com/news/Kumquat-Citrus-in-Reverse-25769.html",
-      "description": "Kumquat in the history of biology, the kitchen, and perfumery",
-      "category": "Raw Materials",
-      "author": "Matvey Yudov",
-      "published": 1785842944
-    },
-    {
-      "title": "Aerse: The New Asian Perfumery",
-      "link": "https://www.fragrantica.com/news/Aerse-The-New-Asian-Perfumery-25768.html",
-      "description": "A (very) young brand, ten fragrances, unconventional design: What will happen of it?",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1785837603
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Nayeli Cano & Edie Smith",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Nayeli-Cano-Edie-Smith-25767.html",
-      "description": "The best of the sweet fragrances, as well as some strange names and mysterious scents.",
-      "category": "Fragrantica",
-      "author": "Nayeli Cano,Edie Smith",
-      "published": 1785826263
     }
   ],
   "perfumes": [
+    {
+      "title": "Kinana — Qamra",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Qamra-139706.html",
+      "description": "New perfume listing: Qamra by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1787017867
+    },
+    {
+      "title": "Agarwood Luxury Oud — Overdose",
+      "link": "https://www.fragrantica.com/perfume/Agarwood-Luxury-Oud/Overdose-139705.html",
+      "description": "New perfume listing: Overdose by Agarwood Luxury Oud.",
+      "category": "New Perfumes",
+      "author": "Agarwood Luxury Oud",
+      "published": 1787017867
+    },
+    {
+      "title": "By Kilian — Piña Paraíso",
+      "link": "https://www.fragrantica.com/perfume/By-Kilian/Pina-Paraiso-139704.html",
+      "description": "New perfume listing: Piña Paraíso by By Kilian.",
+      "category": "New Perfumes",
+      "author": "By Kilian",
+      "published": 1787017867
+    },
+    {
+      "title": "By Kilian — Sparkling Royal",
+      "link": "https://www.fragrantica.com/perfume/By-Kilian/Sparkling-Royal-139703.html",
+      "description": "New perfume listing: Sparkling Royal by By Kilian.",
+      "category": "New Perfumes",
+      "author": "By Kilian",
+      "published": 1787017867
+    },
+    {
+      "title": "By Kilian — Midnight Espresso",
+      "link": "https://www.fragrantica.com/perfume/By-Kilian/Midnight-Espresso-139702.html",
+      "description": "New perfume listing: Midnight Espresso by By Kilian.",
+      "category": "New Perfumes",
+      "author": "By Kilian",
+      "published": 1787017867
+    },
     {
       "title": "Soulvent — Palace Ballet",
       "link": "https://www.fragrantica.com/perfume/Soulvent/Palace-Ballet-139699.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Sim by Spoiler.",
       "category": "New Perfumes",
       "author": "Spoiler",
-      "published": 1786937373
-    },
-    {
-      "title": "Spoiler — Cheiro de Noiva",
-      "link": "https://www.fragrantica.com/perfume/Spoiler/Cheiro-de-Noiva-139606.html",
-      "description": "New perfume listing: Cheiro de Noiva by Spoiler.",
-      "category": "New Perfumes",
-      "author": "Spoiler",
-      "published": 1786937373
-    },
-    {
-      "title": "Maison Salem — Kalif Elixir",
-      "link": "https://www.fragrantica.com/perfume/Maison-Salem/Kalif-Elixir-139605.html",
-      "description": "New perfume listing: Kalif Elixir by Maison Salem.",
-      "category": "New Perfumes",
-      "author": "Maison Salem",
-      "published": 1786937373
-    },
-    {
-      "title": "Maison Salem — Zayid Elixir",
-      "link": "https://www.fragrantica.com/perfume/Maison-Salem/Zayid-Elixir-139604.html",
-      "description": "New perfume listing: Zayid Elixir by Maison Salem.",
-      "category": "New Perfumes",
-      "author": "Maison Salem",
-      "published": 1786937373
-    },
-    {
-      "title": "Tha Beauty — Sorrento",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Sorrento-139603.html",
-      "description": "New perfume listing: Sorrento by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1786937373
-    },
-    {
-      "title": "Tha Beauty — Capri",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Capri-139602.html",
-      "description": "New perfume listing: Capri by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
       "published": 1786937373
     }
   ]
