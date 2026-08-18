@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "New From Roja London: ELYSIUM ABSOLUE POUR FEMME",
+      "link": "https://www.fragrantica.com/news/New-From-Roja-London-ELYSIUM-ABSOLUE-POUR-FEMME-25875.html",
+      "description": "Launching tomorrow, August 19, 2026",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1787075379
+    },
+    {
+      "title": "Avau, Family Matters",
+      "link": "https://www.fragrantica.com/news/Avau-Family-Matters-25874.html",
+      "description": "Three siblings, six fragrances, a star of the latest Esxence.",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1787070603
+    },
+    {
+      "title": "Pan’s Labyrinth by Lost Tribe: A Romantic’s Shaving Foam",
+      "link": "https://www.fragrantica.com/news/Pan-s-Labyrinth-by-Lost-Tribe-A-Romantic-s-Shaving-Foam-25873.html",
+      "description": "Abstract: Hypnotic Poison goes fougère.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1787059822
+    },
+    {
       "title": "Suede Silhouette by Ormonde Jayne",
       "link": "https://www.fragrantica.com/news/Suede-Silhouette-by-Ormonde-Jayne-25872.html",
       "description": "A glint of rebellion",
@@ -775,33 +799,73 @@
       "category": "Fragrance Reviews",
       "author": "Giulietta Ptoyan",
       "published": 1785937444
-    },
-    {
-      "title": "Skandinavisk Launch New Fragrance Collection",
-      "link": "https://www.fragrantica.com/news/Skandinavisk-Launch-New-Fragrance-Collection-25775.html",
-      "description": "The brand, perhaps best known for their home fragrances, releases seven scents as personal perfumes",
-      "category": "Fragrance Reviews",
-      "author": "Nicola Thomis",
-      "published": 1785920403
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING-SUMMER 2026: Eddie Bulliqi & Bella Van Der Weerd",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Eddie-Bulliqi-Bella-Van-Der-Weerd-25774.html",
-      "description": "Exotic flowers and fruits, as well as perfume frost.",
-      "category": "Fragrantica",
-      "author": "Eddie Bulliqi,Bella van der Weerd",
-      "published": 1785892742
-    },
-    {
-      "title": "An Invisible Treasure: Thesaurus by Cale Fragranze d’Autore",
-      "link": "https://www.fragrantica.com/news/An-Invisible-Treasure-Thesaurus-by-Cale-Fragranze-d-Autore-25773.html",
-      "description": "…the rarest treasure is never something we posses, but something we become…",
-      "category": "New Fragrances",
-      "author": "Dariia Fessalonika",
-      "published": 1785880803
     }
   ],
   "perfumes": [
+    {
+      "title": "Ubara — Wonder",
+      "link": "https://www.fragrantica.com/perfume/Ubara/Wonder-139777.html",
+      "description": "New perfume listing: Wonder by Ubara.",
+      "category": "New Perfumes",
+      "author": "Ubara",
+      "published": 1787079427
+    },
+    {
+      "title": "Ubara — Qurm",
+      "link": "https://www.fragrantica.com/perfume/Ubara/Qurm-139776.html",
+      "description": "New perfume listing: Qurm by Ubara.",
+      "category": "New Perfumes",
+      "author": "Ubara",
+      "published": 1787079427
+    },
+    {
+      "title": "Ubara — Balance",
+      "link": "https://www.fragrantica.com/perfume/Ubara/Balance-139775.html",
+      "description": "New perfume listing: Balance by Ubara.",
+      "category": "New Perfumes",
+      "author": "Ubara",
+      "published": 1787079427
+    },
+    {
+      "title": "Ivy Fragrance — Hakman",
+      "link": "https://www.fragrantica.com/perfume/Ivy-Fragrance/Hakman-139774.html",
+      "description": "New perfume listing: Hakman by Ivy Fragrance.",
+      "category": "New Perfumes",
+      "author": "Ivy Fragrance",
+      "published": 1787079427
+    },
+    {
+      "title": "Dolomia — Calma",
+      "link": "https://www.fragrantica.com/perfume/Dolomia/Calma-139773.html",
+      "description": "New perfume listing: Calma by Dolomia.",
+      "category": "New Perfumes",
+      "author": "Dolomia",
+      "published": 1787079427
+    },
+    {
+      "title": "Dolomia — Gioia",
+      "link": "https://www.fragrantica.com/perfume/Dolomia/Gioia-139772.html",
+      "description": "New perfume listing: Gioia by Dolomia.",
+      "category": "New Perfumes",
+      "author": "Dolomia",
+      "published": 1787079427
+    },
+    {
+      "title": "Dolomia — Armonia",
+      "link": "https://www.fragrantica.com/perfume/Dolomia/Armonia-139771.html",
+      "description": "New perfume listing: Armonia by Dolomia.",
+      "category": "New Perfumes",
+      "author": "Dolomia",
+      "published": 1787079427
+    },
+    {
+      "title": "Roja Dove — Elysium Absolue Pour Femme",
+      "link": "https://www.fragrantica.com/perfume/Roja-Dove/Elysium-Absolue-Pour-Femme-139770.html",
+      "description": "New perfume listing: Elysium Absolue Pour Femme by Roja Dove.",
+      "category": "New Perfumes",
+      "author": "Roja Dove",
+      "published": 1787079427
+    },
     {
       "title": "Parfums de Marly — Dorval",
       "link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Dorval-139715.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Good Girl Blush Crystal Class Collector's Edition by Carolina Herrera.",
       "category": "New Perfumes",
       "author": "Carolina Herrera",
-      "published": 1786975331
-    },
-    {
-      "title": "Carolina Herrera — Good Girl Crystal Class Collector's Edition",
-      "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Crystal-Class-Collector-s-Edition-139641.html",
-      "description": "New perfume listing: Good Girl Crystal Class Collector's Edition by Carolina Herrera.",
-      "category": "New Perfumes",
-      "author": "Carolina Herrera",
-      "published": 1786975331
-    },
-    {
-      "title": "FORVR MOOD — Not Your Type",
-      "link": "https://www.fragrantica.com/perfume/FORVR-MOOD/Not-Your-Type-139640.html",
-      "description": "New perfume listing: Not Your Type by FORVR MOOD.",
-      "category": "New Perfumes",
-      "author": "FORVR MOOD",
-      "published": 1786975331
-    },
-    {
-      "title": "Britney Spears — Goddess Fantasy",
-      "link": "https://www.fragrantica.com/perfume/Britney-Spears/Goddess-Fantasy-139639.html",
-      "description": "New perfume listing: Goddess Fantasy by Britney Spears.",
-      "category": "New Perfumes",
-      "author": "Britney Spears",
-      "published": 1786975331
-    },
-    {
-      "title": "Fragrance World — Legion",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Legion-139668.html",
-      "description": "New perfume listing: Legion by Fragrance World.",
-      "category": "New Perfumes",
-      "author": "Fragrance World",
-      "published": 1786975331
-    },
-    {
-      "title": "Aroma Concepts — Echelon Soleil",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Echelon-Soleil-139666.html",
-      "description": "New perfume listing: Echelon Soleil by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1786975331
-    },
-    {
-      "title": "Velixir — Selene",
-      "link": "https://www.fragrantica.com/perfume/Velixir/Selene-139665.html",
-      "description": "New perfume listing: Selene by Velixir.",
-      "category": "New Perfumes",
-      "author": "Velixir",
-      "published": 1786975331
-    },
-    {
-      "title": "Velixir — Nyx",
-      "link": "https://www.fragrantica.com/perfume/Velixir/Nyx-139664.html",
-      "description": "New perfume listing: Nyx by Velixir.",
-      "category": "New Perfumes",
-      "author": "Velixir",
-      "published": 1786975331
-    },
-    {
-      "title": "Velixir — Harmonia",
-      "link": "https://www.fragrantica.com/perfume/Velixir/Harmonia-139663.html",
-      "description": "New perfume listing: Harmonia by Velixir.",
-      "category": "New Perfumes",
-      "author": "Velixir",
       "published": 1786975331
     }
   ]
