@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Wild Rush and Sugar Blast by Initio Parfums Privés: Under the Strobe Lights",
+      "link": "https://www.fragrantica.com/news/Wild-Rush-and-Sugar-Blast-by-Initio-Parfums-Prives-Under-the-Strobe-Lights-25881.html",
+      "description": "Getting to know the first fragrances in the new Supercharged collection.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1787133602
+    },
+    {
       "title": "Scented...Car Mats?!",
       "link": "https://www.fragrantica.com/news/Scented-Car-Mats-25880.html",
       "description": "Under $20, six designs, and it's genuinely sustainable — 100% bio-based and biodegradable, from a materials-science company, not a novelty label.",
@@ -791,17 +799,169 @@
       "category": "Fragrance Reviews",
       "author": "Jernê Knowles",
       "published": 1785996243
-    },
-    {
-      "title": "Life and Death in the Tropic of Capricorn",
-      "link": "https://www.fragrantica.com/news/Life-and-Death-in-the-Tropic-of-Capricorn-25781.html",
-      "description": "An underrated gem from independent perfumer Ellen Covey’s Olympic Orchids.",
-      "category": "Niche Perfumery",
-      "author": "Adam Forziati",
-      "published": 1785986343
     }
   ],
   "perfumes": [
+    {
+      "title": "Clean — Caramel Craze",
+      "link": "https://www.fragrantica.com/perfume/Clean/Caramel-Craze-139802.html",
+      "description": "New perfume listing: Caramel Craze by Clean.",
+      "category": "New Perfumes",
+      "author": "Clean",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Zeus",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Zeus-139801.html",
+      "description": "New perfume listing: Zeus by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Voluptas",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Voluptas-139800.html",
+      "description": "New perfume listing: Voluptas by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Temi",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Temi-139799.html",
+      "description": "New perfume listing: Temi by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Sweet Venus",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Sweet-Venus-139798.html",
+      "description": "New perfume listing: Sweet Venus by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Sweet Cupid",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Sweet-Cupid-139797.html",
+      "description": "New perfume listing: Sweet Cupid by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Nettuno",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Nettuno-139796.html",
+      "description": "New perfume listing: Nettuno by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Làchesi",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Lachesi-139795.html",
+      "description": "New perfume listing: Làchesi by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Hybris",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Hybris-139794.html",
+      "description": "New perfume listing: Hybris by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Enea",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Enea-139793.html",
+      "description": "New perfume listing: Enea by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Armaf — Club De Nuit Elite",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Elite-139792.html",
+      "description": "New perfume listing: Club De Nuit Elite by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Cloto",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Cloto-139791.html",
+      "description": "New perfume listing: Cloto by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Clelia",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Clelia-139790.html",
+      "description": "New perfume listing: Clelia by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "d.grayi — Hmong Bobtail Dog",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Hmong-Bobtail-Dog-139786.html",
+      "description": "New perfume listing: Hmong Bobtail Dog by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1787144957
+    },
+    {
+      "title": "House of Dastan — 12 Faces",
+      "link": "https://www.fragrantica.com/perfume/House-of-Dastan/12-Faces-139785.html",
+      "description": "New perfume listing: 12 Faces by House of Dastan.",
+      "category": "New Perfumes",
+      "author": "House of Dastan",
+      "published": 1787144957
+    },
+    {
+      "title": "Volaré — Neroli Oracle",
+      "link": "https://www.fragrantica.com/perfume/Volare/Neroli-Oracle-139784.html",
+      "description": "New perfume listing: Neroli Oracle by Volaré.",
+      "category": "New Perfumes",
+      "author": "Volaré",
+      "published": 1787144957
+    },
+    {
+      "title": "Mimani — Mocha Sip",
+      "link": "https://www.fragrantica.com/perfume/Mimani/Mocha-Sip-139783.html",
+      "description": "New perfume listing: Mocha Sip by Mimani.",
+      "category": "New Perfumes",
+      "author": "Mimani",
+      "published": 1787144957
+    },
+    {
+      "title": "Moire Roma — Atropo",
+      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Atropo-139789.html",
+      "description": "New perfume listing: Atropo by Moire Roma.",
+      "category": "New Perfumes",
+      "author": "Moire Roma",
+      "published": 1787144957
+    },
+    {
+      "title": "Steffi For Men — Wing Man",
+      "link": "https://www.fragrantica.com/perfume/Steffi-For-Men/Wing-Man-139788.html",
+      "description": "New perfume listing: Wing Man by Steffi For Men.",
+      "category": "New Perfumes",
+      "author": "Steffi For Men",
+      "published": 1787144957
+    },
+    {
+      "title": "Flor de Mayo — Cuore Gold",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Cuore-Gold-139787.html",
+      "description": "New perfume listing: Cuore Gold by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1787144957
+    },
     {
       "title": "Mimani — Whipped Cream",
       "link": "https://www.fragrantica.com/perfume/Mimani/Whipped-Cream-139782.html",
@@ -1441,166 +1601,6 @@
       "category": "New Perfumes",
       "author": "Ard Al Zaafaran",
       "published": 1786993080
-    },
-    {
-      "title": "Nabeel — Touch Maroon",
-      "link": "https://www.fragrantica.com/perfume/Nabeel/Touch-Maroon-139678.html",
-      "description": "New perfume listing: Touch Maroon by Nabeel.",
-      "category": "New Perfumes",
-      "author": "Nabeel",
-      "published": 1786993080
-    },
-    {
-      "title": "Nabeel — Bois",
-      "link": "https://www.fragrantica.com/perfume/Nabeel/Bois-139677.html",
-      "description": "New perfume listing: Bois by Nabeel.",
-      "category": "New Perfumes",
-      "author": "Nabeel",
-      "published": 1786993080
-    },
-    {
-      "title": "Serge Dumonten — Versailles Currant",
-      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Versailles-Currant-139673.html",
-      "description": "New perfume listing: Versailles Currant by Serge Dumonten.",
-      "category": "New Perfumes",
-      "author": "Serge Dumonten",
-      "published": 1786993080
-    },
-    {
-      "title": "Ahmed Al Maghribi — Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Patchouli-139672.html",
-      "description": "New perfume listing: Patchouli by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1786993080
-    },
-    {
-      "title": "Ahmed Al Maghribi — Oud A.M.G.",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Oud-A-M-G-139671.html",
-      "description": "New perfume listing: Oud A.M.G. by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1786993080
-    },
-    {
-      "title": "Serge Dumonten — Peach Brandy",
-      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Peach-Brandy-139670.html",
-      "description": "New perfume listing: Peach Brandy by Serge Dumonten.",
-      "category": "New Perfumes",
-      "author": "Serge Dumonten",
-      "published": 1786993080
-    },
-    {
-      "title": "Rhyton — The Tablecloth",
-      "link": "https://www.fragrantica.com/perfume/Rhyton/The-Tablecloth-139669.html",
-      "description": "New perfume listing: The Tablecloth by Rhyton.",
-      "category": "New Perfumes",
-      "author": "Rhyton",
-      "published": 1786975331
-    },
-    {
-      "title": "Atralia — Absolute Ice",
-      "link": "https://www.fragrantica.com/perfume/Atralia/Absolute-Ice-139667.html",
-      "description": "New perfume listing: Absolute Ice by Atralia.",
-      "category": "New Perfumes",
-      "author": "Atralia",
-      "published": 1786975331
-    },
-    {
-      "title": "Prestige Cosmetics — Afrika",
-      "link": "https://www.fragrantica.com/perfume/Prestige-Cosmetics/Afrika-139662.html",
-      "description": "New perfume listing: Afrika by Prestige Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Prestige Cosmetics",
-      "published": 1786975331
-    },
-    {
-      "title": "Misty Monday — Sugar Violet",
-      "link": "https://www.fragrantica.com/perfume/Misty-Monday/Sugar-Violet-139660.html",
-      "description": "New perfume listing: Sugar Violet by Misty Monday.",
-      "category": "New Perfumes",
-      "author": "Misty Monday",
-      "published": 1786975331
-    },
-    {
-      "title": "Balios — Titan",
-      "link": "https://www.fragrantica.com/perfume/Balios/Titan-139659.html",
-      "description": "New perfume listing: Titan by Balios.",
-      "category": "New Perfumes",
-      "author": "Balios",
-      "published": 1786975331
-    },
-    {
-      "title": "Balios — Grace",
-      "link": "https://www.fragrantica.com/perfume/Balios/Grace-139658.html",
-      "description": "New perfume listing: Grace by Balios.",
-      "category": "New Perfumes",
-      "author": "Balios",
-      "published": 1786975331
-    },
-    {
-      "title": "Balios — Valor",
-      "link": "https://www.fragrantica.com/perfume/Balios/Valor-139657.html",
-      "description": "New perfume listing: Valor by Balios.",
-      "category": "New Perfumes",
-      "author": "Balios",
-      "published": 1786975331
-    },
-    {
-      "title": "Carlo Meneghetti Perfumes — Tramonto al Ponte Vecchio",
-      "link": "https://www.fragrantica.com/perfume/Carlo-Meneghetti-Perfumes/Tramonto-al-Ponte-Vecchio-139656.html",
-      "description": "New perfume listing: Tramonto al Ponte Vecchio by Carlo Meneghetti Perfumes.",
-      "category": "New Perfumes",
-      "author": "Carlo Meneghetti Perfumes",
-      "published": 1786975331
-    },
-    {
-      "title": "Cote d'Azur — Oud Zanjibar",
-      "link": "https://www.fragrantica.com/perfume/Cote-d-Azur/Oud-Zanjibar-139655.html",
-      "description": "New perfume listing: Oud Zanjibar by Cote d'Azur.",
-      "category": "New Perfumes",
-      "author": "Cote d'Azur",
-      "published": 1786975331
-    },
-    {
-      "title": "Cote d'Azur — The Edge",
-      "link": "https://www.fragrantica.com/perfume/Cote-d-Azur/The-Edge-139654.html",
-      "description": "New perfume listing: The Edge by Cote d'Azur.",
-      "category": "New Perfumes",
-      "author": "Cote d'Azur",
-      "published": 1786975331
-    },
-    {
-      "title": "Calaj — Halloween Carrot Cake",
-      "link": "https://www.fragrantica.com/perfume/Calaj/Halloween-Carrot-Cake-139653.html",
-      "description": "New perfume listing: Halloween Carrot Cake by Calaj.",
-      "category": "New Perfumes",
-      "author": "Calaj",
-      "published": 1786975331
-    },
-    {
-      "title": "Calaj — Rose Pumpkin Pie",
-      "link": "https://www.fragrantica.com/perfume/Calaj/Rose-Pumpkin-Pie-139652.html",
-      "description": "New perfume listing: Rose Pumpkin Pie by Calaj.",
-      "category": "New Perfumes",
-      "author": "Calaj",
-      "published": 1786975331
-    },
-    {
-      "title": "Calaj — 6 Simturi",
-      "link": "https://www.fragrantica.com/perfume/Calaj/6-Simturi-139651.html",
-      "description": "New perfume listing: 6 Simturi by Calaj.",
-      "category": "New Perfumes",
-      "author": "Calaj",
-      "published": 1786975331
-    },
-    {
-      "title": "Bottega Verde — Frutta Glassata",
-      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Frutta-Glassata-139650.html",
-      "description": "New perfume listing: Frutta Glassata by Bottega Verde.",
-      "category": "New Perfumes",
-      "author": "Bottega Verde",
-      "published": 1786975331
     }
   ]
 }
