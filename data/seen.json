@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Esxence 2026: Vivi Comporta",
+      "link": "https://www.fragrantica.com/news/Esxence-2026-Vivi-Comporta-25878.html",
+      "description": "What do beauty and elegance from Stéphanie Bakouche smell like?",
+      "category": "Fragrance Reviews",
+      "author": "Alena Lavault",
+      "published": 1787097899
+    },
+    {
+      "title": "Dior Sauvage Extrait — An Oudy Sauvage?",
+      "link": "https://www.fragrantica.com/news/Dior-Sauvage-Extrait-An-Oudy-Sauvage-25877.html",
+      "description": "How wearable is it?",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1787091545
+    },
+    {
+      "title": "Lush: Summer Preserved in a Bottle",
+      "link": "https://www.fragrantica.com/news/Lush-Summer-Preserved-in-a-Bottle-25876.html",
+      "description": "Stocking up for winter with Lush: Bond Street 1972, Sweet Pea, Hungarian Fronds, and The Bee's Knees.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1787086803
+    },
+    {
       "title": "New From Roja London: ELYSIUM ABSOLUE POUR FEMME",
       "link": "https://www.fragrantica.com/news/New-From-Roja-London-ELYSIUM-ABSOLUE-POUR-FEMME-25875.html",
       "description": "Launching tomorrow, August 19, 2026",
@@ -775,33 +799,49 @@
       "category": "Columns",
       "author": "Dr Ruqayya Abba Tofa",
       "published": 1785969602
-    },
-    {
-      "title": "A New House: Maison Matthieu Meneuvrier",
-      "link": "https://www.fragrantica.com/news/A-New-House-Maison-Matthieu-Meneuvrier-25778.html",
-      "description": "Will the brand be able to carve out a distinct space in an overcrowded market?",
-      "category": "Niche Perfumery",
-      "author": "Nicola Thomis",
-      "published": 1785958802
-    },
-    {
-      "title": "Dolce Base by Lusso Maasa: Niche at a Mass-Market Price",
-      "link": "https://www.fragrantica.com/news/Dolce-Base-by-Lusso-Maasa-Niche-at-a-Mass-Market-Price-25777.html",
-      "description": "Price is far from being a reliable indicator of a fragrance's quality.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1785947403
-    },
-    {
-      "title": "La Rhapsodie Noire by Parfums Dusita, in the Moonlight",
-      "link": "https://www.fragrantica.com/news/La-Rhapsodie-Noire-by-Parfums-Dusita-in-the-Moonlight-25776.html",
-      "description": "\"What makes it particularly interesting is its nocturnal character, therefore unusual for Pissara Umavijani's output: an exception that proves the rule.\"",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1785937444
     }
   ],
   "perfumes": [
+    {
+      "title": "Mimani — Whipped Cream",
+      "link": "https://www.fragrantica.com/perfume/Mimani/Whipped-Cream-139782.html",
+      "description": "New perfume listing: Whipped Cream by Mimani.",
+      "category": "New Perfumes",
+      "author": "Mimani",
+      "published": 1787104387
+    },
+    {
+      "title": "Mimani — Pistachio Cake",
+      "link": "https://www.fragrantica.com/perfume/Mimani/Pistachio-Cake-139781.html",
+      "description": "New perfume listing: Pistachio Cake by Mimani.",
+      "category": "New Perfumes",
+      "author": "Mimani",
+      "published": 1787104387
+    },
+    {
+      "title": "The Dua Brand — Tonkamberlicious",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tonkamberlicious-139780.html",
+      "description": "New perfume listing: Tonkamberlicious by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1787104387
+    },
+    {
+      "title": "The Dua Brand — Honeyed Whip",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Honeyed-Whip-139779.html",
+      "description": "New perfume listing: Honeyed Whip by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1787104387
+    },
+    {
+      "title": "The Dua Brand — Marshmallow Cream Tart",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Marshmallow-Cream-Tart-139778.html",
+      "description": "New perfume listing: Marshmallow Cream Tart by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1787104387
+    },
     {
       "title": "Ubara — Wonder",
       "link": "https://www.fragrantica.com/perfume/Ubara/Wonder-139777.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Frutta Glassata by Bottega Verde.",
       "category": "New Perfumes",
       "author": "Bottega Verde",
-      "published": 1786975331
-    },
-    {
-      "title": "Bottega Verde — Noci Caramellate",
-      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Noci-Caramellate-139648.html",
-      "description": "New perfume listing: Noci Caramellate by Bottega Verde.",
-      "category": "New Perfumes",
-      "author": "Bottega Verde",
-      "published": 1786975331
-    },
-    {
-      "title": "Bottega Verde — Torta Paradiso",
-      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Torta-Paradiso-139647.html",
-      "description": "New perfume listing: Torta Paradiso by Bottega Verde.",
-      "category": "New Perfumes",
-      "author": "Bottega Verde",
-      "published": 1786975331
-    },
-    {
-      "title": "Bottega Verde — Latte di Vaniglia",
-      "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Latte-di-Vaniglia-139646.html",
-      "description": "New perfume listing: Latte di Vaniglia by Bottega Verde.",
-      "category": "New Perfumes",
-      "author": "Bottega Verde",
-      "published": 1786975331
-    },
-    {
-      "title": "Max Mara — Max Mara Le Parfum",
-      "link": "https://www.fragrantica.com/perfume/Max-Mara/Max-Mara-Le-Parfum-139644.html",
-      "description": "New perfume listing: Max Mara Le Parfum by Max Mara.",
-      "category": "New Perfumes",
-      "author": "Max Mara",
-      "published": 1786975331
-    },
-    {
-      "title": "Carolina Herrera — Good Girl Blush Crystal Class Collector's Edition",
-      "link": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-Crystal-Class-Collector-s-Edition-139643.html",
-      "description": "New perfume listing: Good Girl Blush Crystal Class Collector's Edition by Carolina Herrera.",
-      "category": "New Perfumes",
-      "author": "Carolina Herrera",
       "published": 1786975331
     }
   ]
