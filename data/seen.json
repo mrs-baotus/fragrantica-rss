@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "KAYALI's NEW YUM Lip & Body Collection",
+      "link": "https://www.fragrantica.com/news/KAYALI-s-NEW-YUM-Lip-Body-Collection-25889.html",
+      "description": "Yaaay! Yum! Yesss!",
+      "category": "Bath & Body",
+      "author": "Elena Knezevic",
+      "published": 1787203683
+    },
+    {
+      "title": "Sable Lavande Chloé: The Last Drops of Summer",
+      "link": "https://www.fragrantica.com/news/Sable-Lavande-Chloe-The-Last-Drops-of-Summer-25888.html",
+      "description": "The same color in winter and summer, but completely different!",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1787191923
+    },
+    {
       "title": "ESXENCE 2026: Naked Bänänä As Another Banana Bore?",
       "link": "https://www.fragrantica.com/news/ESXENCE-2026-Naked-Baenaenae-As-Another-Banana-Bore-25887.html",
       "description": "This one is under-ripe and waxy",
@@ -783,25 +799,17 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1786093142
-    },
-    {
-      "title": "Discovering Five Fragrances From Contes de Parfums",
-      "link": "https://www.fragrantica.com/news/Discovering-Five-Fragrances-From-Contes-de-Parfums-25789.html",
-      "description": "From Dubai to Reykjavik, from Marrakesh to Tokyo.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1786077423
-    },
-    {
-      "title": "Armani Beauty Launched the New Pillar I Will",
-      "link": "https://www.fragrantica.com/news/Armani-Beauty-Launched-the-New-Pillar-I-Will-25788.html",
-      "description": "A long-lasting woody vanilla Eau de Parfum for men.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1786058222
     }
   ],
   "perfumes": [
+    {
+      "title": "Sorry Not Sorry — Terracota",
+      "link": "https://www.fragrantica.com/perfume/Sorry-Not-Sorry/Terracota-139831.html",
+      "description": "New perfume listing: Terracota by Sorry Not Sorry.",
+      "category": "New Perfumes",
+      "author": "Sorry Not Sorry",
+      "published": 1787209601
+    },
     {
       "title": "Hugh Parsons — Carnaby Street",
       "link": "https://www.fragrantica.com/perfume/Hugh-Parsons/Carnaby-Street-139830.html",
@@ -1592,14 +1600,6 @@
       "description": "New perfume listing: Overdose by Agarwood Luxury Oud.",
       "category": "New Perfumes",
       "author": "Agarwood Luxury Oud",
-      "published": 1787017867
-    },
-    {
-      "title": "By Kilian — Piña Paraíso",
-      "link": "https://www.fragrantica.com/perfume/By-Kilian/Pina-Paraiso-139704.html",
-      "description": "New perfume listing: Piña Paraíso by By Kilian.",
-      "category": "New Perfumes",
-      "author": "By Kilian",
       "published": 1787017867
     }
   ]
