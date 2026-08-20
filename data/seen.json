@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "ESXENCE 2026: Naked Bänänä As Another Banana Bore?",
+      "link": "https://www.fragrantica.com/news/ESXENCE-2026-Naked-Baenaenae-As-Another-Banana-Bore-25887.html",
+      "description": "This one is under-ripe and waxy",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1787180405
+    },
+    {
+      "title": "Lait Concentré Chabaud Maison de Parfum: Ole Lukøje’s Secret Weapon",
+      "link": "https://www.fragrantica.com/news/Lait-Concentre-Chabaud-Maison-de-Parfum-Ole-Lukoeje-s-Secret-Weapon-25886.html",
+      "description": "…and Brazilian “little kisses” and milk oolong, too.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1787173983
+    },
+    {
+      "title": "The New Talisman Extrait by Farmacia SS. Annunziata",
+      "link": "https://www.fragrantica.com/news/The-New-Talisman-Extrait-by-Farmacia-SS-Annunziata-25885.html",
+      "description": "Where does female shamanic power lie, sister? In earthy patchouli!",
+      "category": "Fragrance News",
+      "author": "Sergey Borisov",
+      "published": 1787169603
+    },
+    {
       "title": "Glint: A Perfect Non-Gourmand Gourmand",
       "link": "https://www.fragrantica.com/news/Glint-A-Perfect-Non-Gourmand-Gourmand-25884.html",
       "description": "\"Sweet without being sugary, explicit but not too direct, seductive yet whispered\"",
@@ -775,33 +799,105 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1786058222
-    },
-    {
-      "title": "Sora Dora Launched Raphael",
-      "link": "https://www.fragrantica.com/news/Sora-Dora-Launched-Raphael-25787.html",
-      "description": "\"Some fragrances tell a story; Raphael tells a life story. A life beautiful in its struggles, a life beautiful in its brilliance.\"",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1786047663
-    },
-    {
-      "title": "ESXENCE 2026: Fruit & Fun In New Baruti Fragrances",
-      "link": "https://www.fragrantica.com/news/ESXENCE-2026-Fruit-Fun-In-New-Baruti-Fragrances-25786.html",
-      "description": "A good time with acid and sugar",
-      "category": "Niche Perfumery",
-      "author": "Eddie Bulliqi",
-      "published": 1786031763
-    },
-    {
-      "title": "Dior revamps Miss Dior Eau de Parfum for 2026",
-      "link": "https://www.fragrantica.com/news/Dior-revamps-Miss-Dior-Eau-de-Parfum-for-2026-25785.html",
-      "description": "Dior reinvents Miss Dior Eau de Parfum with a new Francis Kurkdjian composition.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1786019522
     }
   ],
   "perfumes": [
+    {
+      "title": "Hugh Parsons — Carnaby Street",
+      "link": "https://www.fragrantica.com/perfume/Hugh-Parsons/Carnaby-Street-139830.html",
+      "description": "New perfume listing: Carnaby Street by Hugh Parsons.",
+      "category": "New Perfumes",
+      "author": "Hugh Parsons",
+      "published": 1787190725
+    },
+    {
+      "title": "Kyse Perfumes — Delizia di Marshmallow Gran Riserva Elisir",
+      "link": "https://www.fragrantica.com/perfume/Kyse-Perfumes/Delizia-di-Marshmallow-Gran-Riserva-Elisir-139829.html",
+      "description": "New perfume listing: Delizia di Marshmallow Gran Riserva Elisir by Kyse Perfumes.",
+      "category": "New Perfumes",
+      "author": "Kyse Perfumes",
+      "published": 1787190725
+    },
+    {
+      "title": "Solonoi — Entourage",
+      "link": "https://www.fragrantica.com/perfume/Solonoi/Entourage-139828.html",
+      "description": "New perfume listing: Entourage by Solonoi.",
+      "category": "New Perfumes",
+      "author": "Solonoi",
+      "published": 1787190725
+    },
+    {
+      "title": "Kinana — Tabac",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Tabac-139827.html",
+      "description": "New perfume listing: Tabac by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1787190725
+    },
+    {
+      "title": "Bujairami — Double Dose",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Double-Dose-139826.html",
+      "description": "New perfume listing: Double Dose by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787190725
+    },
+    {
+      "title": "Mahogany — Sunset in Malibu",
+      "link": "https://www.fragrantica.com/perfume/Mahogany/Sunset-in-Malibu-139825.html",
+      "description": "New perfume listing: Sunset in Malibu by Mahogany.",
+      "category": "New Perfumes",
+      "author": "Mahogany",
+      "published": 1787190725
+    },
+    {
+      "title": "JA Essence de La Vie — Orian",
+      "link": "https://www.fragrantica.com/perfume/JA-Essence-de-La-Vie/Orian-139824.html",
+      "description": "New perfume listing: Orian by JA Essence de La Vie.",
+      "category": "New Perfumes",
+      "author": "JA Essence de La Vie",
+      "published": 1787190725
+    },
+    {
+      "title": "JA Essence de La Vie — First Love",
+      "link": "https://www.fragrantica.com/perfume/JA-Essence-de-La-Vie/First-Love-139823.html",
+      "description": "New perfume listing: First Love by JA Essence de La Vie.",
+      "category": "New Perfumes",
+      "author": "JA Essence de La Vie",
+      "published": 1787190725
+    },
+    {
+      "title": "Le Botanic — Evoria Magnetic",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Evoria-Magnetic-139822.html",
+      "description": "New perfume listing: Evoria Magnetic by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1787190725
+    },
+    {
+      "title": "Le Botanic — CandyCore",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/CandyCore-139821.html",
+      "description": "New perfume listing: CandyCore by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1787190725
+    },
+    {
+      "title": "Le Botanic — Second Skin",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Second-Skin-139820.html",
+      "description": "New perfume listing: Second Skin by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1787190725
+    },
+    {
+      "title": "Le Botanic — Therapy",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Therapy-139819.html",
+      "description": "New perfume listing: Therapy by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1787190725
+    },
     {
       "title": "Le Botanic — Magnific",
       "link": "https://www.fragrantica.com/perfume/Le-Botanic/Magnific-139818.html",
@@ -1505,102 +1601,6 @@
       "category": "New Perfumes",
       "author": "By Kilian",
       "published": 1787017867
-    },
-    {
-      "title": "By Kilian — Sparkling Royal",
-      "link": "https://www.fragrantica.com/perfume/By-Kilian/Sparkling-Royal-139703.html",
-      "description": "New perfume listing: Sparkling Royal by By Kilian.",
-      "category": "New Perfumes",
-      "author": "By Kilian",
-      "published": 1787017867
-    },
-    {
-      "title": "By Kilian — Midnight Espresso",
-      "link": "https://www.fragrantica.com/perfume/By-Kilian/Midnight-Espresso-139702.html",
-      "description": "New perfume listing: Midnight Espresso by By Kilian.",
-      "category": "New Perfumes",
-      "author": "By Kilian",
-      "published": 1787017867
-    },
-    {
-      "title": "Soulvent — Palace Ballet",
-      "link": "https://www.fragrantica.com/perfume/Soulvent/Palace-Ballet-139699.html",
-      "description": "New perfume listing: Palace Ballet by Soulvent.",
-      "category": "New Perfumes",
-      "author": "Soulvent",
-      "published": 1786993080
-    },
-    {
-      "title": "Soulvent — Golden Rain",
-      "link": "https://www.fragrantica.com/perfume/Soulvent/Golden-Rain-139698.html",
-      "description": "New perfume listing: Golden Rain by Soulvent.",
-      "category": "New Perfumes",
-      "author": "Soulvent",
-      "published": 1786993080
-    },
-    {
-      "title": "Faizal Privee — Chypre Iris Regale",
-      "link": "https://www.fragrantica.com/perfume/Faizal-Privee/Chypre-Iris-Regale-139697.html",
-      "description": "New perfume listing: Chypre Iris Regale by Faizal Privee.",
-      "category": "New Perfumes",
-      "author": "Faizal Privee",
-      "published": 1786993080
-    },
-    {
-      "title": "Profumi Di Polignano — Crema Oud",
-      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Crema-Oud-139694.html",
-      "description": "New perfume listing: Crema Oud by Profumi Di Polignano.",
-      "category": "New Perfumes",
-      "author": "Profumi Di Polignano",
-      "published": 1786993080
-    },
-    {
-      "title": "Profumi Di Polignano — Volare Extrait de Parfum (2026 Edition)",
-      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Volare-Extrait-de-Parfum-2026-Edition-139693.html",
-      "description": "New perfume listing: Volare Extrait de Parfum (2026 Edition) by Profumi Di Polignano.",
-      "category": "New Perfumes",
-      "author": "Profumi Di Polignano",
-      "published": 1786993080
-    },
-    {
-      "title": "Profumi Di Polignano — Volare (2026 Edition)",
-      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Volare-2026-Edition-139692.html",
-      "description": "New perfume listing: Volare (2026 Edition) by Profumi Di Polignano.",
-      "category": "New Perfumes",
-      "author": "Profumi Di Polignano",
-      "published": 1786993080
-    },
-    {
-      "title": "Profumi Di Polignano — Wow Extrait de Parfum (2025 Edition)",
-      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Wow-Extrait-de-Parfum-2025-Edition-139691.html",
-      "description": "New perfume listing: Wow Extrait de Parfum (2025 Edition) by Profumi Di Polignano.",
-      "category": "New Perfumes",
-      "author": "Profumi Di Polignano",
-      "published": 1786993080
-    },
-    {
-      "title": "Profumi Di Polignano — Wow (2025 Edition)",
-      "link": "https://www.fragrantica.com/perfume/Profumi-Di-Polignano/Wow-2025-Edition-139690.html",
-      "description": "New perfume listing: Wow (2025 Edition) by Profumi Di Polignano.",
-      "category": "New Perfumes",
-      "author": "Profumi Di Polignano",
-      "published": 1786993080
-    },
-    {
-      "title": "Nabeel — Birwaz Fidhi",
-      "link": "https://www.fragrantica.com/perfume/Nabeel/Birwaz-Fidhi-139676.html",
-      "description": "New perfume listing: Birwaz Fidhi by Nabeel.",
-      "category": "New Perfumes",
-      "author": "Nabeel",
-      "published": 1786993080
-    },
-    {
-      "title": "Serge Dumonten — Strawberries and Rum",
-      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Strawberries-and-Rum-139675.html",
-      "description": "New perfume listing: Strawberries and Rum by Serge Dumonten.",
-      "category": "New Perfumes",
-      "author": "Serge Dumonten",
-      "published": 1786993080
     }
   ]
 }
