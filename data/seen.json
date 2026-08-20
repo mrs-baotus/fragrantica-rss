@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "CAROLINA HERRERA La Bomba Eau de Parfum REVIEW",
+      "link": "https://www.fragrantica.com/news/CAROLINA-HERRERA-La-Bomba-Eau-de-Parfum-REVIEW-25893.html",
+      "description": "Designed to be unforgettable and electric!",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1787247006
+    },
+    {
+      "title": "Ex Introvert: The Most Interesting Fragrance From Athenian Brand All Things Past",
+      "link": "https://www.fragrantica.com/news/Ex-Introvert-The-Most-Interesting-Fragrance-From-Athenian-Brand-All-Things-Past-25892.html",
+      "description": "Mutation on iris",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1787238963
+    },
+    {
       "title": "Matcha Crème, A Faceted Gourmand by L'Atelier Parfum",
       "link": "https://www.fragrantica.com/news/Matcha-Creme-A-Faceted-Gourmand-by-L-Atelier-Parfum-25891.html",
       "description": "Sophie looks back at one of the new releases she discovered at Esxence in Milan: Matcha Crème by L'Atelier Parfum.",
@@ -783,25 +799,17 @@
       "category": "Fragrance Reviews",
       "author": "Sandra Raičević Petrović",
       "published": 1786127582
-    },
-    {
-      "title": "Estée Lauder Introduces Glimmer",
-      "link": "https://www.fragrantica.com/news/Estee-Lauder-Introduces-Glimmer-25793.html",
-      "description": "When you find what makes you glimmer, it lights up everyone around you.",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1786122962
-    },
-    {
-      "title": "La Favorite by Jean Paul Gaultier: The Brand's Vision",
-      "link": "https://www.fragrantica.com/news/La-Favorite-by-Jean-Paul-Gaultier-The-Brand-s-Vision-25792.html",
-      "description": "What does Puig imagine with the new fragrance?",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1786118523
     }
   ],
   "perfumes": [
+    {
+      "title": "Maïssa Parfums — 13e Note",
+      "link": "https://www.fragrantica.com/perfume/Maissa-Parfums/13e-Note-139832.html",
+      "description": "New perfume listing: 13e Note by Maïssa Parfums.",
+      "category": "New Perfumes",
+      "author": "Maïssa Parfums",
+      "published": 1787252366
+    },
     {
       "title": "Sorry Not Sorry — Terracota",
       "link": "https://www.fragrantica.com/perfume/Sorry-Not-Sorry/Terracota-139831.html",
@@ -1592,14 +1600,6 @@
       "description": "New perfume listing: Qamra by Kinana.",
       "category": "New Perfumes",
       "author": "Kinana",
-      "published": 1787017867
-    },
-    {
-      "title": "Agarwood Luxury Oud — Overdose",
-      "link": "https://www.fragrantica.com/perfume/Agarwood-Luxury-Oud/Overdose-139705.html",
-      "description": "New perfume listing: Overdose by Agarwood Luxury Oud.",
-      "category": "New Perfumes",
-      "author": "Agarwood Luxury Oud",
       "published": 1787017867
     }
   ]
