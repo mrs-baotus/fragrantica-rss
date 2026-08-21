@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Sorry Not Sorry Launches Terracota Extrait de Parfum",
+      "link": "https://www.fragrantica.com/news/Sorry-Not-Sorry-Launches-Terracota-Extrait-de-Parfum-25897.html",
+      "description": "The monumentality of Yosemite translated into fragrance.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1787290263
+    },
+    {
+      "title": "Carolina Herrera La Bomba Duo Ring Set 2 x 11ml",
+      "link": "https://www.fragrantica.com/news/Carolina-Herrera-La-Bomba-Duo-Ring-Set-2-x-11ml-25896.html",
+      "description": "La Bomba Eau de Parfum and La Bomba Intensa Eau de Parfum in an irresistible ring format.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1787278863
+    },
+    {
       "title": "Chanel Coco Mademoiselle Crush Absolu: Back to the Golden Age of FruitChoulis",
       "link": "https://www.fragrantica.com/news/Chanel-Coco-Mademoiselle-Crush-Absolu-Back-to-the-Golden-Age-of-FruitChoulis-25895.html",
       "description": "From the name and the campaign, I was almost certain Coco Mademoiselle Crush Absolu would be Chanel’s answer to the current vanilla-gourmand...",
@@ -783,25 +799,81 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1786182782
-    },
-    {
-      "title": "GAP Launched a Reimagination of Four Iconic 90s Fragrances, Plus a New One",
-      "link": "https://www.fragrantica.com/news/GAP-Launched-a-Reimagination-of-Four-Iconic-90s-Fragrances-Plus-a-New-One-25797.html",
-      "description": "\"Five emotive fragrances. Five distinct personalities. Made to express every version of you.\"",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1786156863
-    },
-    {
-      "title": "More Hot Air From Jo Malone London",
-      "link": "https://www.fragrantica.com/news/More-Hot-Air-From-Jo-Malone-London-25796.html",
-      "description": "Just a bit soulless.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1786144142
     }
   ],
   "perfumes": [
+    {
+      "title": "Rawaha — Tango",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Tango-139755.html",
+      "description": "New perfume listing: Tango by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Tranquility",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Tranquility-139754.html",
+      "description": "New perfume listing: Tranquility by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Aquatic Leather",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Aquatic-Leather-139753.html",
+      "description": "New perfume listing: Aquatic Leather by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Coco Laachi Elixir",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Coco-Laachi-Elixir-139752.html",
+      "description": "New perfume listing: Coco Laachi Elixir by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Gold Coast Reverie",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Gold-Coast-Reverie-139751.html",
+      "description": "New perfume listing: Gold Coast Reverie by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Emperor's Vow",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Emperor-s-Vow-139750.html",
+      "description": "New perfume listing: Emperor's Vow by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Cosmic Stellar",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Cosmic-Stellar-139749.html",
+      "description": "New perfume listing: Cosmic Stellar by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Sacred Love",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Sacred-Love-139748.html",
+      "description": "New perfume listing: Sacred Love by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
+    {
+      "title": "Rawaha — Roman Leather Top",
+      "link": "https://www.fragrantica.com/perfume/Rawaha/Roman-Leather-Top-139747.html",
+      "description": "New perfume listing: Roman Leather Top by Rawaha.",
+      "category": "New Perfumes",
+      "author": "Rawaha",
+      "published": 1787296091
+    },
     {
       "title": "Casa Amalfi — Blue Vibes Only Capri",
       "link": "https://www.fragrantica.com/perfume/Casa-Amalfi/Blue-Vibes-Only-Capri-139847.html",
@@ -1526,78 +1598,6 @@
       "title": "Rawaha — Thousand Candles",
       "link": "https://www.fragrantica.com/perfume/Rawaha/Thousand-Candles-139765.html",
       "description": "New perfume listing: Thousand Candles by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Sweet Affairs 1861",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Sweet-Affairs-1861-139764.html",
-      "description": "New perfume listing: Sweet Affairs 1861 by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Tabac Lounge Top",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Tabac-Lounge-Top-139763.html",
-      "description": "New perfume listing: Tabac Lounge Top by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Rebellious Leader",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Rebellious-Leader-139762.html",
-      "description": "New perfume listing: Rebellious Leader by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Saffron Ink",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Saffron-Ink-139761.html",
-      "description": "New perfume listing: Saffron Ink by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Arcadium Eau Intense",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Arcadium-Eau-Intense-139760.html",
-      "description": "New perfume listing: Arcadium Eau Intense by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Sweet Smoke",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Sweet-Smoke-139759.html",
-      "description": "New perfume listing: Sweet Smoke by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Solitary",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Solitary-139758.html",
-      "description": "New perfume listing: Solitary by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Mystic Ember",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Mystic-Ember-139757.html",
-      "description": "New perfume listing: Mystic Ember by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — La Luna",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/La-Luna-139756.html",
-      "description": "New perfume listing: La Luna by Rawaha.",
       "category": "New Perfumes",
       "author": "Rawaha",
       "published": 1787058505
