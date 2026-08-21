@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "A Gentle Elevation to Celebrate Ten Years of Les Eaux Primordiales",
+      "link": "https://www.fragrantica.com/news/A-Gentle-Elevation-to-Celebrate-Ten-Years-of-Les-Eaux-Primordiales-25898.html",
+      "description": "Self-elevation at the center of the tenth anniversary celebrations of Les Eaux Primordiales.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1787304783
+    },
+    {
       "title": "Sorry Not Sorry Launches Terracota Extrait de Parfum",
       "link": "https://www.fragrantica.com/news/Sorry-Not-Sorry-Launches-Terracota-Extrait-de-Parfum-25897.html",
       "description": "The monumentality of Yosemite translated into fragrance.",
@@ -791,17 +799,321 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1786208523
-    },
-    {
-      "title": "Aghora from Byermia: Burnt Bell Pepper and Paddock Hay",
-      "link": "https://www.fragrantica.com/news/Aghora-from-Byermia-Burnt-Bell-Pepper-and-Paddock-Hay-25798.html",
-      "description": "Smoky, spicy, leathery",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1786182782
     }
   ],
   "perfumes": [
+    {
+      "title": "Luxury Concept — Orlane",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Orlane-139874.html",
+      "description": "New perfume listing: Orlane by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Havena",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Havena-139873.html",
+      "description": "New perfume listing: Havena by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Flamara",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Flamara-139872.html",
+      "description": "New perfume listing: Flamara by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Ebonyx",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Ebonyx-139871.html",
+      "description": "New perfume listing: Ebonyx by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Sultan Elixir",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Sultan-Elixir-139869.html",
+      "description": "New perfume listing: Sultan Elixir by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Oud Zaeem",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Zaeem-139865.html",
+      "description": "New perfume listing: Oud Zaeem by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Orange & Musk",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Orange-Musk-139861.html",
+      "description": "New perfume listing: Orange & Musk by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Carriere",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Carriere-139854.html",
+      "description": "New perfume listing: Carriere by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Mercedes-Benz — I Am Mercedes",
+      "link": "https://www.fragrantica.com/perfume/Mercedes-Benz/I-Am-Mercedes-139852.html",
+      "description": "New perfume listing: I Am Mercedes by Mercedes-Benz.",
+      "category": "New Perfumes",
+      "author": "Mercedes-Benz",
+      "published": 1787317881
+    },
+    {
+      "title": "Jimmy Choo — I Want Choo Limited Edition",
+      "link": "https://www.fragrantica.com/perfume/Jimmy-Choo/I-Want-Choo-Limited-Edition-139851.html",
+      "description": "New perfume listing: I Want Choo Limited Edition by Jimmy Choo.",
+      "category": "New Perfumes",
+      "author": "Jimmy Choo",
+      "published": 1787317881
+    },
+    {
+      "title": "Ricardo Ramos Perfumes de Autor — Inkera",
+      "link": "https://www.fragrantica.com/perfume/Ricardo-Ramos-Perfumes-de-Autor/Inkera-139850.html",
+      "description": "New perfume listing: Inkera by Ricardo Ramos Perfumes de Autor.",
+      "category": "New Perfumes",
+      "author": "Ricardo Ramos Perfumes de Autor",
+      "published": 1787317881
+    },
+    {
+      "title": "aaa/unbranded — N.4 / Decade",
+      "link": "https://www.fragrantica.com/perfume/aaa-unbranded/N-4-Decade-139888.html",
+      "description": "New perfume listing: N.4 / Decade by aaa/unbranded.",
+      "category": "New Perfumes",
+      "author": "aaa/unbranded",
+      "published": 1787317881
+    },
+    {
+      "title": "aaa/unbranded — N.3 / Noma",
+      "link": "https://www.fragrantica.com/perfume/aaa-unbranded/N-3-Noma-139887.html",
+      "description": "New perfume listing: N.3 / Noma by aaa/unbranded.",
+      "category": "New Perfumes",
+      "author": "aaa/unbranded",
+      "published": 1787317881
+    },
+    {
+      "title": "aaa/unbranded — N.1 Concrete",
+      "link": "https://www.fragrantica.com/perfume/aaa-unbranded/N-1-Concrete-139886.html",
+      "description": "New perfume listing: N.1 Concrete by aaa/unbranded.",
+      "category": "New Perfumes",
+      "author": "aaa/unbranded",
+      "published": 1787317881
+    },
+    {
+      "title": "aaa/unbranded — N.5 Carbon",
+      "link": "https://www.fragrantica.com/perfume/aaa-unbranded/N-5-Carbon-139885.html",
+      "description": "New perfume listing: N.5 Carbon by aaa/unbranded.",
+      "category": "New Perfumes",
+      "author": "aaa/unbranded",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Goodies",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Goodies-139884.html",
+      "description": "New perfume listing: Goodies by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Le Classique Premier 02",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Le-Classique-Premier-02-139883.html",
+      "description": "New perfume listing: Le Classique Premier 02 by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Aromatique Luxury 02",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Aromatique-Luxury-02-139882.html",
+      "description": "New perfume listing: Aromatique Luxury 02 by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Scented Dreams",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Scented-Dreams-139881.html",
+      "description": "New perfume listing: Scented Dreams by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Medley Scents",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Medley-Scents-139880.html",
+      "description": "New perfume listing: Medley Scents by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — HSK Paris Rouge 540",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/HSK-Paris-Rouge-540-139879.html",
+      "description": "New perfume listing: HSK Paris Rouge 540 by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Oud and Saffron",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-and-Saffron-139878.html",
+      "description": "New perfume listing: Oud and Saffron by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Alberto Luxe Lumen",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Alberto-Luxe-Lumen-139877.html",
+      "description": "New perfume listing: Alberto Luxe Lumen by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — La Rosa",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/La-Rosa-139876.html",
+      "description": "New perfume listing: La Rosa by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Golden Oud",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Golden-Oud-139875.html",
+      "description": "New perfume listing: Golden Oud by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — The Jacket",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/The-Jacket-139870.html",
+      "description": "New perfume listing: The Jacket by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Spiritual Scents",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Spiritual-Scents-139868.html",
+      "description": "New perfume listing: Spiritual Scents by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Solo Nero",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Solo-Nero-139867.html",
+      "description": "New perfume listing: Solo Nero by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Polo Di Blanc",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Polo-Di-Blanc-139866.html",
+      "description": "New perfume listing: Polo Di Blanc by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Oud Underwater Intense",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Underwater-Intense-139864.html",
+      "description": "New perfume listing: Oud Underwater Intense by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Oud Tiger Intense",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Tiger-Intense-139863.html",
+      "description": "New perfume listing: Oud Tiger Intense by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Oud and Saffron Intense",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-and-Saffron-Intense-139862.html",
+      "description": "New perfume listing: Oud and Saffron Intense by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Opulence",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Opulence-139860.html",
+      "description": "New perfume listing: Opulence by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Milk & Musk",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Milk-Musk-139859.html",
+      "description": "New perfume listing: Milk & Musk by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — La Felle",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/La-Felle-139858.html",
+      "description": "New perfume listing: La Felle by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Emerald",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Emerald-139857.html",
+      "description": "New perfume listing: Emerald by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Ecstasy",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Ecstasy-139856.html",
+      "description": "New perfume listing: Ecstasy by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Luxury Concept — Dulce",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Dulce-139855.html",
+      "description": "New perfume listing: Dulce by Luxury Concept.",
+      "category": "New Perfumes",
+      "author": "Luxury Concept",
+      "published": 1787317881
+    },
+    {
+      "title": "Casaniche — Sex Appeal",
+      "link": "https://www.fragrantica.com/perfume/Casaniche/Sex-Appeal-139853.html",
+      "description": "New perfume listing: Sex Appeal by Casaniche.",
+      "category": "New Perfumes",
+      "author": "Casaniche",
+      "published": 1787317881
+    },
     {
       "title": "Rawaha — Tango",
       "link": "https://www.fragrantica.com/perfume/Rawaha/Tango-139755.html",
@@ -1289,318 +1601,6 @@
       "category": "New Perfumes",
       "author": "Moire Roma",
       "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Sweet Cupid",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Sweet-Cupid-139797.html",
-      "description": "New perfume listing: Sweet Cupid by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Nettuno",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Nettuno-139796.html",
-      "description": "New perfume listing: Nettuno by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Làchesi",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Lachesi-139795.html",
-      "description": "New perfume listing: Làchesi by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Hybris",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Hybris-139794.html",
-      "description": "New perfume listing: Hybris by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Enea",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Enea-139793.html",
-      "description": "New perfume listing: Enea by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Armaf — Club De Nuit Elite",
-      "link": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Elite-139792.html",
-      "description": "New perfume listing: Club De Nuit Elite by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Cloto",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Cloto-139791.html",
-      "description": "New perfume listing: Cloto by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Clelia",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Clelia-139790.html",
-      "description": "New perfume listing: Clelia by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "d.grayi — Hmong Bobtail Dog",
-      "link": "https://www.fragrantica.com/perfume/d-grayi/Hmong-Bobtail-Dog-139786.html",
-      "description": "New perfume listing: Hmong Bobtail Dog by d.grayi.",
-      "category": "New Perfumes",
-      "author": "d.grayi",
-      "published": 1787144957
-    },
-    {
-      "title": "House of Dastan — 12 Faces",
-      "link": "https://www.fragrantica.com/perfume/House-of-Dastan/12-Faces-139785.html",
-      "description": "New perfume listing: 12 Faces by House of Dastan.",
-      "category": "New Perfumes",
-      "author": "House of Dastan",
-      "published": 1787144957
-    },
-    {
-      "title": "Volaré — Neroli Oracle",
-      "link": "https://www.fragrantica.com/perfume/Volare/Neroli-Oracle-139784.html",
-      "description": "New perfume listing: Neroli Oracle by Volaré.",
-      "category": "New Perfumes",
-      "author": "Volaré",
-      "published": 1787144957
-    },
-    {
-      "title": "Mimani — Mocha Sip",
-      "link": "https://www.fragrantica.com/perfume/Mimani/Mocha-Sip-139783.html",
-      "description": "New perfume listing: Mocha Sip by Mimani.",
-      "category": "New Perfumes",
-      "author": "Mimani",
-      "published": 1787144957
-    },
-    {
-      "title": "Moire Roma — Atropo",
-      "link": "https://www.fragrantica.com/perfume/Moire-Roma/Atropo-139789.html",
-      "description": "New perfume listing: Atropo by Moire Roma.",
-      "category": "New Perfumes",
-      "author": "Moire Roma",
-      "published": 1787144957
-    },
-    {
-      "title": "Steffi For Men — Wing Man",
-      "link": "https://www.fragrantica.com/perfume/Steffi-For-Men/Wing-Man-139788.html",
-      "description": "New perfume listing: Wing Man by Steffi For Men.",
-      "category": "New Perfumes",
-      "author": "Steffi For Men",
-      "published": 1787144957
-    },
-    {
-      "title": "Flor de Mayo — Cuore Gold",
-      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Cuore-Gold-139787.html",
-      "description": "New perfume listing: Cuore Gold by Flor de Mayo.",
-      "category": "New Perfumes",
-      "author": "Flor de Mayo",
-      "published": 1787144957
-    },
-    {
-      "title": "Mimani — Whipped Cream",
-      "link": "https://www.fragrantica.com/perfume/Mimani/Whipped-Cream-139782.html",
-      "description": "New perfume listing: Whipped Cream by Mimani.",
-      "category": "New Perfumes",
-      "author": "Mimani",
-      "published": 1787104387
-    },
-    {
-      "title": "Mimani — Pistachio Cake",
-      "link": "https://www.fragrantica.com/perfume/Mimani/Pistachio-Cake-139781.html",
-      "description": "New perfume listing: Pistachio Cake by Mimani.",
-      "category": "New Perfumes",
-      "author": "Mimani",
-      "published": 1787104387
-    },
-    {
-      "title": "The Dua Brand — Tonkamberlicious",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tonkamberlicious-139780.html",
-      "description": "New perfume listing: Tonkamberlicious by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1787104387
-    },
-    {
-      "title": "The Dua Brand — Honeyed Whip",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Honeyed-Whip-139779.html",
-      "description": "New perfume listing: Honeyed Whip by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1787104387
-    },
-    {
-      "title": "The Dua Brand — Marshmallow Cream Tart",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Marshmallow-Cream-Tart-139778.html",
-      "description": "New perfume listing: Marshmallow Cream Tart by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1787104387
-    },
-    {
-      "title": "Ubara — Wonder",
-      "link": "https://www.fragrantica.com/perfume/Ubara/Wonder-139777.html",
-      "description": "New perfume listing: Wonder by Ubara.",
-      "category": "New Perfumes",
-      "author": "Ubara",
-      "published": 1787079427
-    },
-    {
-      "title": "Ubara — Qurm",
-      "link": "https://www.fragrantica.com/perfume/Ubara/Qurm-139776.html",
-      "description": "New perfume listing: Qurm by Ubara.",
-      "category": "New Perfumes",
-      "author": "Ubara",
-      "published": 1787079427
-    },
-    {
-      "title": "Ubara — Balance",
-      "link": "https://www.fragrantica.com/perfume/Ubara/Balance-139775.html",
-      "description": "New perfume listing: Balance by Ubara.",
-      "category": "New Perfumes",
-      "author": "Ubara",
-      "published": 1787079427
-    },
-    {
-      "title": "Ivy Fragrance — Hakman",
-      "link": "https://www.fragrantica.com/perfume/Ivy-Fragrance/Hakman-139774.html",
-      "description": "New perfume listing: Hakman by Ivy Fragrance.",
-      "category": "New Perfumes",
-      "author": "Ivy Fragrance",
-      "published": 1787079427
-    },
-    {
-      "title": "Dolomia — Calma",
-      "link": "https://www.fragrantica.com/perfume/Dolomia/Calma-139773.html",
-      "description": "New perfume listing: Calma by Dolomia.",
-      "category": "New Perfumes",
-      "author": "Dolomia",
-      "published": 1787079427
-    },
-    {
-      "title": "Dolomia — Gioia",
-      "link": "https://www.fragrantica.com/perfume/Dolomia/Gioia-139772.html",
-      "description": "New perfume listing: Gioia by Dolomia.",
-      "category": "New Perfumes",
-      "author": "Dolomia",
-      "published": 1787079427
-    },
-    {
-      "title": "Dolomia — Armonia",
-      "link": "https://www.fragrantica.com/perfume/Dolomia/Armonia-139771.html",
-      "description": "New perfume listing: Armonia by Dolomia.",
-      "category": "New Perfumes",
-      "author": "Dolomia",
-      "published": 1787079427
-    },
-    {
-      "title": "Roja Dove — Elysium Absolue Pour Femme",
-      "link": "https://www.fragrantica.com/perfume/Roja-Dove/Elysium-Absolue-Pour-Femme-139770.html",
-      "description": "New perfume listing: Elysium Absolue Pour Femme by Roja Dove.",
-      "category": "New Perfumes",
-      "author": "Roja Dove",
-      "published": 1787079427
-    },
-    {
-      "title": "Parfums de Marly — Dorval",
-      "link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Dorval-139715.html",
-      "description": "New perfume listing: Dorval by Parfums de Marly.",
-      "category": "New Perfumes",
-      "author": "Parfums de Marly",
-      "published": 1787058505
-    },
-    {
-      "title": "Sol de Janeiro — Cheirosa 62 Intense",
-      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Cheirosa-62-Intense-139714.html",
-      "description": "New perfume listing: Cheirosa 62 Intense by Sol de Janeiro.",
-      "category": "New Perfumes",
-      "author": "Sol de Janeiro",
-      "published": 1787058505
-    },
-    {
-      "title": "Sol de Janeiro — Cheirosa 59 Intense",
-      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Cheirosa-59-Intense-139713.html",
-      "description": "New perfume listing: Cheirosa 59 Intense by Sol de Janeiro.",
-      "category": "New Perfumes",
-      "author": "Sol de Janeiro",
-      "published": 1787058505
-    },
-    {
-      "title": "Sol de Janeiro — Cheirosa 74 Intense",
-      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Cheirosa-74-Intense-139712.html",
-      "description": "New perfume listing: Cheirosa 74 Intense by Sol de Janeiro.",
-      "category": "New Perfumes",
-      "author": "Sol de Janeiro",
-      "published": 1787058505
-    },
-    {
-      "title": "Sol de Janeiro — Cheirosa 91 Intense",
-      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Cheirosa-91-Intense-139711.html",
-      "description": "New perfume listing: Cheirosa 91 Intense by Sol de Janeiro.",
-      "category": "New Perfumes",
-      "author": "Sol de Janeiro",
-      "published": 1787058505
-    },
-    {
-      "title": "Frederic Malle Editions de Parfums — Northern Love",
-      "link": "https://www.fragrantica.com/perfume/Frederic-Malle-Editions-de-Parfums/Northern-Love-139710.html",
-      "description": "New perfume listing: Northern Love by Frederic Malle Editions de Parfums.",
-      "category": "New Perfumes",
-      "author": "Frederic Malle Editions de Parfums",
-      "published": 1787058505
-    },
-    {
-      "title": "KREPIDA — IVOLO",
-      "link": "https://www.fragrantica.com/perfume/KREPIDA/IVOLO-139769.html",
-      "description": "New perfume listing: IVOLO by KREPIDA.",
-      "category": "New Perfumes",
-      "author": "KREPIDA",
-      "published": 1787058505
-    },
-    {
-      "title": "KREPIDA — Bellini",
-      "link": "https://www.fragrantica.com/perfume/KREPIDA/Bellini-139768.html",
-      "description": "New perfume listing: Bellini by KREPIDA.",
-      "category": "New Perfumes",
-      "author": "KREPIDA",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Green Emerald",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Green-Emerald-139767.html",
-      "description": "New perfume listing: Green Emerald by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Fire Breather",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Fire-Breather-139766.html",
-      "description": "New perfume listing: Fire Breather by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
-    },
-    {
-      "title": "Rawaha — Thousand Candles",
-      "link": "https://www.fragrantica.com/perfume/Rawaha/Thousand-Candles-139765.html",
-      "description": "New perfume listing: Thousand Candles by Rawaha.",
-      "category": "New Perfumes",
-      "author": "Rawaha",
-      "published": 1787058505
     }
   ]
 }
