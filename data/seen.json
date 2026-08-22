@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "How We Store Our Fragrances: Insights From Iulia Halatz",
+      "link": "https://www.fragrantica.com/news/How-We-Store-Our-Fragrances-Insights-From-Iulia-Halatz-25906.html",
+      "description": "Samples, samples, everywhere!",
+      "category": "Fragrantica",
+      "author": "Iulia Halatz",
+      "published": 1787401743
+    },
+    {
+      "title": "New Italian Brand Jacky: First Impressions",
+      "link": "https://www.fragrantica.com/news/New-Italian-Brand-Jacky-First-Impressions-25905.html",
+      "description": "Three initial fragrances: Luna Park, Kill Kit and May Light.",
+      "category": "Fragrance Reviews",
+      "author": "Miguel Matos",
+      "published": 1787390702
+    },
+    {
       "title": "The ‘Minimal Masculines’",
       "link": "https://www.fragrantica.com/news/The-Minimal-Masculines-25904.html",
       "description": "Easy-to-reach-for fragrances that communicate masculinity.",
@@ -783,25 +799,17 @@
       "category": "Fragrantica",
       "author": "Elena Knezevic",
       "published": 1786306474
-    },
-    {
-      "title": "ZEGNA MEMORIE Collection: Italian Elegance",
-      "link": "https://www.fragrantica.com/news/ZEGNA-MEMORIE-Collection-Italian-Elegance-25806.html",
-      "description": "Not groundbreaking but gracefully tailored compositions in an effortlessly elegant style.",
-      "category": "Fragrance Reviews",
-      "author": "Daria Bogdanova",
-      "published": 1786305662
-    },
-    {
-      "title": "Eau Parfumée Thé Impérial by Bvglari: Refined Work From Cavallier Belletrud",
-      "link": "https://www.fragrantica.com/news/Eau-Parfumee-The-Imperial-by-Bvglari-Refined-Work-From-Cavallier-Belletrud-25805.html",
-      "description": "Clean-cut and shining",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1786288982
     }
   ],
   "perfumes": [
+    {
+      "title": "Atralia — Sugar Mallow Pink Cloud",
+      "link": "https://www.fragrantica.com/perfume/Atralia/Sugar-Mallow-Pink-Cloud-139910.html",
+      "description": "New perfume listing: Sugar Mallow Pink Cloud by Atralia.",
+      "category": "New Perfumes",
+      "author": "Atralia",
+      "published": 1787403657
+    },
     {
       "title": "Granado — Sarau",
       "link": "https://www.fragrantica.com/perfume/Granado/Sarau-139909.html",
@@ -1590,14 +1598,6 @@
       "title": "Le Botanic — Second Skin",
       "link": "https://www.fragrantica.com/perfume/Le-Botanic/Second-Skin-139820.html",
       "description": "New perfume listing: Second Skin by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787190725
-    },
-    {
-      "title": "Le Botanic — Therapy",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Therapy-139819.html",
-      "description": "New perfume listing: Therapy by Le Botanic.",
       "category": "New Perfumes",
       "author": "Le Botanic",
       "published": 1787190725
