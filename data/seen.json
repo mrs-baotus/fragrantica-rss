@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Perfumed Horoscope: August 24 - August 30",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-24-August-30-25913.html",
+      "description": "The liberating accomplishments of this week’s full moon could be substantial.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1787489522
+    },
+    {
+      "title": "Scented Lament: Oud de Nil by Penhaligon’s",
+      "link": "https://www.fragrantica.com/news/Scented-Lament-Oud-de-Nil-by-Penhaligon-s-25912.html",
+      "description": "A good, unusual rose-and-oud fragrance from the days before the combination became a tedious standard.",
+      "category": "Fragrance Reviews",
+      "author": "Alex (Sane-Witch) Osipov",
+      "published": 1787481076
+    },
+    {
       "title": "Beautyworld Dubai 30th Edition: 6-8 October, 2026",
       "link": "https://www.fragrantica.com/news/Beautyworld-Dubai-30th-Edition-6-8-October-2026-25911.html",
       "description": "Beautyworld Dubai 2026 marks a new chapter for the global beauty industry",
@@ -783,25 +799,153 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1786395616
-    },
-    {
-      "title": "Giardini di Toscana Expands Its Body Cream Collection",
-      "link": "https://www.fragrantica.com/news/Giardini-di-Toscana-Expands-Its-Body-Cream-Collection-25813.html",
-      "description": "Two new additions scented with honey and Mediterranean tones",
-      "category": "Bath & Body",
-      "author": "Giulietta Ptoyan",
-      "published": 1786390764
-    },
-    {
-      "title": "Need To Know Line: Montauk Man, and The Sexiness of Desolation",
-      "link": "https://www.fragrantica.com/news/Need-To-Know-Line-Montauk-Man-and-The-Sexiness-of-Desolation-25812.html",
-      "description": "A new fragrance line about the loneliness of a famous coastal hamlet after the tourists go home ...",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1786380560
     }
   ],
   "perfumes": [
+    {
+      "title": "Keyth — Pink Pepper",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Pink-Pepper-139970.html",
+      "description": "New perfume listing: Pink Pepper by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Pink Pepper",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Pink-Pepper-139969.html",
+      "description": "New perfume listing: Pink Pepper by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Cowboy Wanted",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Cowboy-Wanted-139968.html",
+      "description": "New perfume listing: Cowboy Wanted by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Cowboy Wanted",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Cowboy-Wanted-139967.html",
+      "description": "New perfume listing: Cowboy Wanted by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Talk To Me",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Talk-To-Me-139966.html",
+      "description": "New perfume listing: Talk To Me by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Makkah Perfumes — Vanilla Orchid",
+      "link": "https://www.fragrantica.com/perfume/Makkah-Perfumes/Vanilla-Orchid-139965.html",
+      "description": "New perfume listing: Vanilla Orchid by Makkah Perfumes.",
+      "category": "New Perfumes",
+      "author": "Makkah Perfumes",
+      "published": 1787490156
+    },
+    {
+      "title": "Makkah Perfumes — Royal Musk",
+      "link": "https://www.fragrantica.com/perfume/Makkah-Perfumes/Royal-Musk-139964.html",
+      "description": "New perfume listing: Royal Musk by Makkah Perfumes.",
+      "category": "New Perfumes",
+      "author": "Makkah Perfumes",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Talk To Me",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Talk-To-Me-139963.html",
+      "description": "New perfume listing: Talk To Me by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Pleuvoir — Tokyo Cloud",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Tokyo-Cloud-139962.html",
+      "description": "New perfume listing: Tokyo Cloud by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1787490156
+    },
+    {
+      "title": "Pleuvoir — Rose Wood",
+      "link": "https://www.fragrantica.com/perfume/Pleuvoir/Rose-Wood-139961.html",
+      "description": "New perfume listing: Rose Wood by Pleuvoir.",
+      "category": "New Perfumes",
+      "author": "Pleuvoir",
+      "published": 1787490156
+    },
+    {
+      "title": "Nautica — Coastal Crush Peach Bite",
+      "link": "https://www.fragrantica.com/perfume/Nautica/Coastal-Crush-Peach-Bite-139960.html",
+      "description": "New perfume listing: Coastal Crush Peach Bite by Nautica.",
+      "category": "New Perfumes",
+      "author": "Nautica",
+      "published": 1787490156
+    },
+    {
+      "title": "Assaf — Aura Black",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Aura-Black-139959.html",
+      "description": "New perfume listing: Aura Black by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1787490156
+    },
+    {
+      "title": "LAMAR — Lovable",
+      "link": "https://www.fragrantica.com/perfume/LAMAR/Lovable-139958.html",
+      "description": "New perfume listing: Lovable by LAMAR.",
+      "category": "New Perfumes",
+      "author": "LAMAR",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Reptile Disco",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Reptile-Disco-139974.html",
+      "description": "New perfume listing: Reptile Disco by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Reptile Disco",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Reptile-Disco-139973.html",
+      "description": "New perfume listing: Reptile Disco by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Saint Berry",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Saint-Berry-139972.html",
+      "description": "New perfume listing: Saint Berry by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "Keyth — Saint Berry",
+      "link": "https://www.fragrantica.com/perfume/Keyth/Saint-Berry-139971.html",
+      "description": "New perfume listing: Saint Berry by Keyth.",
+      "category": "New Perfumes",
+      "author": "Keyth",
+      "published": 1787490156
+    },
+    {
+      "title": "HANOK — Malaya",
+      "link": "https://www.fragrantica.com/perfume/HANOK/Malaya-139957.html",
+      "description": "New perfume listing: Malaya by HANOK.",
+      "category": "New Perfumes",
+      "author": "HANOK",
+      "published": 1787490156
+    },
     {
       "title": "Bruno Banani — Man BVB Fan Edition",
       "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Man-BVB-Fan-Edition-139956.html",
@@ -1456,150 +1600,6 @@
       "description": "New perfume listing: N.1 Concrete by aaa/unbranded.",
       "category": "New Perfumes",
       "author": "aaa/unbranded",
-      "published": 1787317881
-    },
-    {
-      "title": "aaa/unbranded — N.5 Carbon",
-      "link": "https://www.fragrantica.com/perfume/aaa-unbranded/N-5-Carbon-139885.html",
-      "description": "New perfume listing: N.5 Carbon by aaa/unbranded.",
-      "category": "New Perfumes",
-      "author": "aaa/unbranded",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Goodies",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Goodies-139884.html",
-      "description": "New perfume listing: Goodies by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Le Classique Premier 02",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Le-Classique-Premier-02-139883.html",
-      "description": "New perfume listing: Le Classique Premier 02 by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Aromatique Luxury 02",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Aromatique-Luxury-02-139882.html",
-      "description": "New perfume listing: Aromatique Luxury 02 by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Scented Dreams",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Scented-Dreams-139881.html",
-      "description": "New perfume listing: Scented Dreams by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Medley Scents",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Medley-Scents-139880.html",
-      "description": "New perfume listing: Medley Scents by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — HSK Paris Rouge 540",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/HSK-Paris-Rouge-540-139879.html",
-      "description": "New perfume listing: HSK Paris Rouge 540 by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Oud and Saffron",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-and-Saffron-139878.html",
-      "description": "New perfume listing: Oud and Saffron by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Alberto Luxe Lumen",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Alberto-Luxe-Lumen-139877.html",
-      "description": "New perfume listing: Alberto Luxe Lumen by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — La Rosa",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/La-Rosa-139876.html",
-      "description": "New perfume listing: La Rosa by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Golden Oud",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Golden-Oud-139875.html",
-      "description": "New perfume listing: Golden Oud by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — The Jacket",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/The-Jacket-139870.html",
-      "description": "New perfume listing: The Jacket by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Spiritual Scents",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Spiritual-Scents-139868.html",
-      "description": "New perfume listing: Spiritual Scents by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Solo Nero",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Solo-Nero-139867.html",
-      "description": "New perfume listing: Solo Nero by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Polo Di Blanc",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Polo-Di-Blanc-139866.html",
-      "description": "New perfume listing: Polo Di Blanc by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Oud Underwater Intense",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Underwater-Intense-139864.html",
-      "description": "New perfume listing: Oud Underwater Intense by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Oud Tiger Intense",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Tiger-Intense-139863.html",
-      "description": "New perfume listing: Oud Tiger Intense by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Oud and Saffron Intense",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-and-Saffron-Intense-139862.html",
-      "description": "New perfume listing: Oud and Saffron Intense by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
       "published": 1787317881
     }
   ]
