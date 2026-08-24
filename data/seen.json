@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Masculine Re-Edition 1999 Dolce&Gabbana Review",
+      "link": "https://www.fragrantica.com/news/Masculine-Re-Edition-1999-Dolce-Gabbana-Review-25920.html",
+      "description": "A pleasantly conservative scent.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1787542312
+    },
+    {
+      "title": "Arrogate Comete and Dangerous Arrogate: Two Fragrances by Assaf",
+      "link": "https://www.fragrantica.com/news/Arrogate-Comete-and-Dangerous-Arrogate-Two-Fragrances-by-Assaf-25919.html",
+      "description": "A collection of fragrances honoring a thoroughbred stallion.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1787536982
+    },
+    {
       "title": "Ralph’s Club New York: The Original vs. The New Parfum",
       "link": "https://www.fragrantica.com/news/Ralph-s-Club-New-York-The-Original-vs-The-New-Parfum-25918.html",
       "description": "A beautifully boozy, ultra-cozy flask enters the line and shocks the pants off a snarky journalist...",
@@ -783,25 +799,137 @@
       "category": "Fragrance Reviews",
       "author": "Alex (Sane-Witch) Osipov",
       "published": 1786474803
-    },
-    {
-      "title": "Mugler Angel Stellar: A Breath of Angel From the Past",
-      "link": "https://www.fragrantica.com/news/Mugler-Angel-Stellar-A-Breath-of-Angel-From-the-Past-25820.html",
-      "description": "One of the best Angel flankers, and proof that there is still life in this franchise.",
-      "category": "Fragrance Reviews",
-      "author": "Miguel Matos",
-      "published": 1786464003
-    },
-    {
-      "title": "Esxence 2026: The Most Delicious Fragrances. Part II — Sweet Desserts",
-      "link": "https://www.fragrantica.com/news/Esxence-2026-The-Most-Delicious-Fragrances-Part-I-Sweet-Desserts-25819.html",
-      "description": "Sicilian cassata, pistachio halva, and Blue Java banana ice cream.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1786453387
     }
   ],
   "perfumes": [
+    {
+      "title": "Elixir Attar — Silk Road (Tareeq Al Hareer 2)",
+      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/Silk-Road-Tareeq-Al-Hareer-2-139990.html",
+      "description": "New perfume listing: Silk Road (Tareeq Al Hareer 2) by Elixir Attar.",
+      "category": "New Perfumes",
+      "author": "Elixir Attar",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — I Was Here 48",
+      "link": "https://www.fragrantica.com/perfume/Laverne/I-Was-Here-48-139989.html",
+      "description": "New perfume listing: I Was Here 48 by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Player",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Player-139988.html",
+      "description": "New perfume listing: Player by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Declare 50",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Declare-50-139987.html",
+      "description": "New perfume listing: Declare 50 by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Loyard",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Loyard-139986.html",
+      "description": "New perfume listing: Loyard by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Imperial",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Imperial-139985.html",
+      "description": "New perfume listing: Imperial by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Light Under the Stars",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Light-Under-the-Stars-139984.html",
+      "description": "New perfume listing: Light Under the Stars by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Hajri — Tea Party",
+      "link": "https://www.fragrantica.com/perfume/Hajri/Tea-Party-139983.html",
+      "description": "New perfume listing: Tea Party by Hajri.",
+      "category": "New Perfumes",
+      "author": "Hajri",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Glory",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Glory-139982.html",
+      "description": "New perfume listing: Glory by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Majestic",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Majestic-139981.html",
+      "description": "New perfume listing: Majestic by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Exceptional",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Exceptional-139980.html",
+      "description": "New perfume listing: Exceptional by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Icon",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Icon-139979.html",
+      "description": "New perfume listing: Icon by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Wanted",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Wanted-139978.html",
+      "description": "New perfume listing: Wanted by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Laverne — Glamour",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Glamour-139977.html",
+      "description": "New perfume listing: Glamour by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787556544
+    },
+    {
+      "title": "Margara — Agua de Salamanca",
+      "link": "https://www.fragrantica.com/perfume/Margara/Agua-de-Salamanca-139976.html",
+      "description": "New perfume listing: Agua de Salamanca by Margara.",
+      "category": "New Perfumes",
+      "author": "Margara",
+      "published": 1787556544
+    },
+    {
+      "title": "Neesh Perfumes — Haute Vetiver",
+      "link": "https://www.fragrantica.com/perfume/Neesh-Perfumes/Haute-Vetiver-139975.html",
+      "description": "New perfume listing: Haute Vetiver by Neesh Perfumes.",
+      "category": "New Perfumes",
+      "author": "Neesh Perfumes",
+      "published": 1787556544
+    },
     {
       "title": "Keyth — Pink Pepper Eau de Parfum",
       "link": "https://www.fragrantica.com/perfume/Keyth/Pink-Pepper-Eau-de-Parfum-139970.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "Casa Amalfi",
       "published": 1787363442
-    },
-    {
-      "title": "Casa Amalfi — Drunk Lovers In Amalfi",
-      "link": "https://www.fragrantica.com/perfume/Casa-Amalfi/Drunk-Lovers-In-Amalfi-139890.html",
-      "description": "New perfume listing: Drunk Lovers In Amalfi by Casa Amalfi.",
-      "category": "New Perfumes",
-      "author": "Casa Amalfi",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Romano",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Romano-139889.html",
-      "description": "New perfume listing: Romano by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Ohana Kameala — Nomady",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Nomady-139906.html",
-      "description": "New perfume listing: Nomady by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Beach Grass",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Beach-Grass-139900.html",
-      "description": "New perfume listing: Beach Grass by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Halcyon",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Halcyon-139897.html",
-      "description": "New perfume listing: Halcyon by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Elda",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Elda-139895.html",
-      "description": "New perfume listing: Elda by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Lynnewood",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Lynnewood-139892.html",
-      "description": "New perfume listing: Lynnewood by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Black Swan Society — Miranda",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Miranda-139891.html",
-      "description": "New perfume listing: Miranda by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787363442
-    },
-    {
-      "title": "Luxury Concept — Orlane",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Orlane-139874.html",
-      "description": "New perfume listing: Orlane by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Havena",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Havena-139873.html",
-      "description": "New perfume listing: Havena by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Flamara",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Flamara-139872.html",
-      "description": "New perfume listing: Flamara by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Ebonyx",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Ebonyx-139871.html",
-      "description": "New perfume listing: Ebonyx by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Sultan Elixir",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Sultan-Elixir-139869.html",
-      "description": "New perfume listing: Sultan Elixir by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Oud Zaeem",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Oud-Zaeem-139865.html",
-      "description": "New perfume listing: Oud Zaeem by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Orange & Musk",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Orange-Musk-139861.html",
-      "description": "New perfume listing: Orange & Musk by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
-    },
-    {
-      "title": "Luxury Concept — Carriere",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Concept/Carriere-139854.html",
-      "description": "New perfume listing: Carriere by Luxury Concept.",
-      "category": "New Perfumes",
-      "author": "Luxury Concept",
-      "published": 1787317881
     }
   ]
 }
