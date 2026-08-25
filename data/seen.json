@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 24th Edition, Florence, September 11-13, 2026",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-24th-Edition-Florence-September-11-13-2026-25933.html",
+      "description": "The 24th edition of Pitti Fragranze will bring more than 260 international brands to Florence’s Stazione Leopolda, reaffirming the fair’s position as a key meeting point for artistic perfumery, independent beauty and contemporary olfactory culture.",
+      "category": "Art Books Events",
+      "author": "Sandra Raičević Petrović",
+      "published": 1787657762
+    },
+    {
+      "title": "Five Elegant Creations from Lapot Studio 窄門",
+      "link": "https://www.fragrantica.com/news/Five-Elegant-Creations-from-Lapot-Studio-zhai-men-25932.html",
+      "description": "Perfumes worth traveling to China for.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1787647819
+    },
+    {
       "title": "Narcisse Taormina Launches The Gourmand Collection",
       "link": "https://www.fragrantica.com/news/Narcisse-Taormina-Launches-The-Gourmand-Collection-25931.html",
       "description": "Four perfumes capturing the vibrant notes of Sicilian Pastry, interpreted through imaginary encounters in Taormina.",
@@ -783,25 +799,185 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1786636683
-    },
-    {
-      "title": "A Day in the Life of a Perfume Obsessed Radiologist",
-      "link": "https://www.fragrantica.com/news/A-Day-in-the-Life-of-a-Perfume-Obsessed-Radiologist-25834.html",
-      "description": "From the first cup of coffee in the morning to the final fragrance before bed.",
-      "category": "Columns",
-      "author": "Dr Ruqayya Abba Tofa",
-      "published": 1786615143
-    },
-    {
-      "title": "Seasonal Scents for Sadbois: Rainy Days",
-      "link": "https://www.fragrantica.com/news/Seasonal-Scents-for-Sadbois-Rainy-Days-25833.html",
-      "description": "What do you wear when it rains if you’re only happy when it rains...?",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1786598943
     }
   ],
   "perfumes": [
+    {
+      "title": "Dkhoon Emirates — LADY",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/LADY-140079.html",
+      "description": "New perfume listing: LADY by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1787663506
+    },
+    {
+      "title": "Dkhoon Emirates — MISS",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/MISS-140078.html",
+      "description": "New perfume listing: MISS by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1787663506
+    },
+    {
+      "title": "Dkhoon Emirates — SENSE",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/SENSE-140077.html",
+      "description": "New perfume listing: SENSE by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1787663506
+    },
+    {
+      "title": "Laverne — Santorini",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Santorini-140076.html",
+      "description": "New perfume listing: Santorini by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1787663506
+    },
+    {
+      "title": "BORNTOSTANDOUT® — Melon Malo",
+      "link": "https://www.fragrantica.com/perfume/BORNTOSTANDOUT/Melon-Malo-140075.html",
+      "description": "New perfume listing: Melon Malo by BORNTOSTANDOUT®.",
+      "category": "New Perfumes",
+      "author": "BORNTOSTANDOUT®",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Orlen Noir",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Orlen-Noir-140074.html",
+      "description": "New perfume listing: Orlen Noir by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Ragnar Alexis",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Ragnar-Alexis-140073.html",
+      "description": "New perfume listing: Ragnar Alexis by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Velvet Green",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Velvet-Green-140072.html",
+      "description": "New perfume listing: Velvet Green by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Gorman",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Gorman-140071.html",
+      "description": "New perfume listing: Gorman by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Lenny",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Lenny-140070.html",
+      "description": "New perfume listing: Lenny by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Noxman",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Noxman-140069.html",
+      "description": "New perfume listing: Noxman by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Rumor Elixir",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Rumor-Elixir-140068.html",
+      "description": "New perfume listing: Rumor Elixir by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Vittorio — LeDoux",
+      "link": "https://www.fragrantica.com/perfume/Vittorio/LeDoux-140065.html",
+      "description": "New perfume listing: LeDoux by Vittorio.",
+      "category": "New Perfumes",
+      "author": "Vittorio",
+      "published": 1787663506
+    },
+    {
+      "title": "Opal Perfumes — Coco Banana",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Coco-Banana-140064.html",
+      "description": "New perfume listing: Coco Banana by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1787663506
+    },
+    {
+      "title": "Riiffs Perfumes — Freeze in flames",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Freeze-in-flames-140063.html",
+      "description": "New perfume listing: Freeze in flames by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1787663506
+    },
+    {
+      "title": "Armaf — SHK IV",
+      "link": "https://www.fragrantica.com/perfume/Armaf/SHK-IV-140062.html",
+      "description": "New perfume listing: SHK IV by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1787663506
+    },
+    {
+      "title": "Armaf — SHK III",
+      "link": "https://www.fragrantica.com/perfume/Armaf/SHK-III-140061.html",
+      "description": "New perfume listing: SHK III by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1787663506
+    },
+    {
+      "title": "Swiss Arabian — Leather and Oud",
+      "link": "https://www.fragrantica.com/perfume/Swiss-Arabian/Leather-and-Oud-140060.html",
+      "description": "New perfume listing: Leather and Oud by Swiss Arabian.",
+      "category": "New Perfumes",
+      "author": "Swiss Arabian",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — Ottoman",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Ottoman-140067.html",
+      "description": "New perfume listing: Ottoman by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Line Luxury — WE",
+      "link": "https://www.fragrantica.com/perfume/Line-Luxury/WE-140066.html",
+      "description": "New perfume listing: WE by Line Luxury.",
+      "category": "New Perfumes",
+      "author": "Line Luxury",
+      "published": 1787663506
+    },
+    {
+      "title": "Duccio Pasolini — Ghiaccio Marrone",
+      "link": "https://www.fragrantica.com/perfume/Duccio-Pasolini/Ghiaccio-Marrone-140059.html",
+      "description": "New perfume listing: Ghiaccio Marrone by Duccio Pasolini.",
+      "category": "New Perfumes",
+      "author": "Duccio Pasolini",
+      "published": 1787663506
+    },
+    {
+      "title": "Riiffs Perfumes — Intrepid For Men",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Intrepid-For-Men-140058.html",
+      "description": "New perfume listing: Intrepid For Men by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1787663506
+    },
     {
       "title": "Oppen Cosmetics — Hall Of Beauty",
       "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Hall-Of-Beauty-140057.html",
@@ -1425,182 +1601,6 @@
       "category": "New Perfumes",
       "author": "Gozerd",
       "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Noosa Bergamote",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Noosa-Bergamote-140005.html",
-      "description": "New perfume listing: Noosa Bergamote by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Bondi Blanc",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Bondi-Blanc-140004.html",
-      "description": "New perfume listing: Bondi Blanc by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Off Script — Wallflower",
-      "link": "https://www.fragrantica.com/perfume/Off-Script/Wallflower-140003.html",
-      "description": "New perfume listing: Wallflower by Off Script.",
-      "category": "New Perfumes",
-      "author": "Off Script",
-      "published": 1787577216
-    },
-    {
-      "title": "Off Script — Heavenspot",
-      "link": "https://www.fragrantica.com/perfume/Off-Script/Heavenspot-140002.html",
-      "description": "New perfume listing: Heavenspot by Off Script.",
-      "category": "New Perfumes",
-      "author": "Off Script",
-      "published": 1787577216
-    },
-    {
-      "title": "Off Script — Doubletake",
-      "link": "https://www.fragrantica.com/perfume/Off-Script/Doubletake-140001.html",
-      "description": "New perfume listing: Doubletake by Off Script.",
-      "category": "New Perfumes",
-      "author": "Off Script",
-      "published": 1787577216
-    },
-    {
-      "title": "Rasasi — Hawas Private Luceo",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Private-Luceo-140000.html",
-      "description": "New perfume listing: Hawas Private Luceo by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1787577216
-    },
-    {
-      "title": "Rasasi — Hawas Private Terra",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Private-Terra-139999.html",
-      "description": "New perfume listing: Hawas Private Terra by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1787577216
-    },
-    {
-      "title": "Rasasi — Hawas Private Dulce",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Private-Dulce-139998.html",
-      "description": "New perfume listing: Hawas Private Dulce by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1787577216
-    },
-    {
-      "title": "Pepe Jeans London — Bright So Lucky",
-      "link": "https://www.fragrantica.com/perfume/Pepe-Jeans-London/Bright-So-Lucky-139997.html",
-      "description": "New perfume listing: Bright So Lucky by Pepe Jeans London.",
-      "category": "New Perfumes",
-      "author": "Pepe Jeans London",
-      "published": 1787577216
-    },
-    {
-      "title": "Pepe Jeans London — So Bold So Lucky",
-      "link": "https://www.fragrantica.com/perfume/Pepe-Jeans-London/So-Bold-So-Lucky-139996.html",
-      "description": "New perfume listing: So Bold So Lucky by Pepe Jeans London.",
-      "category": "New Perfumes",
-      "author": "Pepe Jeans London",
-      "published": 1787577216
-    },
-    {
-      "title": "Aesop — Unforeseen Aer",
-      "link": "https://www.fragrantica.com/perfume/Aesop/Unforeseen-Aer-139995.html",
-      "description": "New perfume listing: Unforeseen Aer by Aesop.",
-      "category": "New Perfumes",
-      "author": "Aesop",
-      "published": 1787577216
-    },
-    {
-      "title": "Brown Girl Jane — Halo Barbie x Brown Girl Jane",
-      "link": "https://www.fragrantica.com/perfume/Brown-Girl-Jane/Halo-Barbie-x-Brown-Girl-Jane-139994.html",
-      "description": "New perfume listing: Halo Barbie x Brown Girl Jane by Brown Girl Jane.",
-      "category": "New Perfumes",
-      "author": "Brown Girl Jane",
-      "published": 1787577216
-    },
-    {
-      "title": "Future Society — Solar Canopy",
-      "link": "https://www.fragrantica.com/perfume/Future-Society/Solar-Canopy-139993.html",
-      "description": "New perfume listing: Solar Canopy by Future Society.",
-      "category": "New Perfumes",
-      "author": "Future Society",
-      "published": 1787577216
-    },
-    {
-      "title": "Khadlaj Perfumes — Muse",
-      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Muse-139992.html",
-      "description": "New perfume listing: Muse by Khadlaj Perfumes.",
-      "category": "New Perfumes",
-      "author": "Khadlaj Perfumes",
-      "published": 1787577216
-    },
-    {
-      "title": "Khadlaj Perfumes — Island Sun",
-      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Island-Sun-139991.html",
-      "description": "New perfume listing: Island Sun by Khadlaj Perfumes.",
-      "category": "New Perfumes",
-      "author": "Khadlaj Perfumes",
-      "published": 1787577216
-    },
-    {
-      "title": "Ohana Kameala — Nomady",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Nomady-139906.html",
-      "description": "New perfume listing: Nomady by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1787577216
-    },
-    {
-      "title": "Black Swan Society — Beach Grass",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Beach-Grass-139900.html",
-      "description": "New perfume listing: Beach Grass by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787577216
-    },
-    {
-      "title": "Black Swan Society — Halcyon",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Halcyon-139897.html",
-      "description": "New perfume listing: Halcyon by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787577216
-    },
-    {
-      "title": "Black Swan Society — Elda",
-      "link": "https://www.fragrantica.com/perfume/Black-Swan-Society/Elda-139895.html",
-      "description": "New perfume listing: Elda by Black Swan Society.",
-      "category": "New Perfumes",
-      "author": "Black Swan Society",
-      "published": 1787577216
-    },
-    {
-      "title": "Elixir Attar — Silk Road (Tareeq Al Hareer 2)",
-      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/Silk-Road-Tareeq-Al-Hareer-2-139990.html",
-      "description": "New perfume listing: Silk Road (Tareeq Al Hareer 2) by Elixir Attar.",
-      "category": "New Perfumes",
-      "author": "Elixir Attar",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — I Was Here 48",
-      "link": "https://www.fragrantica.com/perfume/Laverne/I-Was-Here-48-139989.html",
-      "description": "New perfume listing: I Was Here 48 by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Player",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Player-139988.html",
-      "description": "New perfume listing: Player by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
     }
   ]
 }
