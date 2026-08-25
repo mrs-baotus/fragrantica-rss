@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Narcisse Taormina Launches The Gourmand Collection",
+      "link": "https://www.fragrantica.com/news/Narcisse-Taormina-Launches-The-Gourmand-Collection-25931.html",
+      "description": "Four perfumes capturing the vibrant notes of Sicilian Pastry, interpreted through imaginary encounters in Taormina.",
+      "category": "Niche Perfumery",
+      "author": "Lucia Remigi",
+      "published": 1787641203
+    },
+    {
+      "title": "Recent Middle Eastern Releases - My Thoughts, Part 4",
+      "link": "https://www.fragrantica.com/news/Recent-Middle-Eastern-Releases-My-Thoughts-Part-4-25930.html",
+      "description": "There are plenty of new scents competing for our attention, so let’s discuss a few.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1787634006
+    },
+    {
       "title": "\"I Will\" by Giorgio Armani Film",
       "link": "https://www.fragrantica.com/news/I-Will-by-Giorgio-Armani-Film-25930.html",
       "description": "Enjoy!",
@@ -783,25 +799,89 @@
       "category": "Fragrance Reviews",
       "author": "Patric Rhys",
       "published": 1786598943
-    },
-    {
-      "title": "BEST FRAGRANCES SPRING–SUMMER 2026: Elena Prokofeva & Viktoria Vlasova",
-      "link": "https://www.fragrantica.com/news/BEST-FRAGRANCES-SPRING-SUMMER-2026-Elena-Prokofeva-Viktoria-Vlasova-25832.html",
-      "description": "Wrapping up our top fragrances from the first half of 2026!",
-      "category": "Fragrantica",
-      "author": "Elena Prokofeva,Viktoria Vlasova",
-      "published": 1786577411
-    },
-    {
-      "title": "Oeillet Pourpre: A Jeweled Carnation in Vanilla Twilight",
-      "link": "https://www.fragrantica.com/news/Oeillet-Pourpre-A-Jeweled-Carnation-in-Vanilla-Twilight-25831.html",
-      "description": "A fantasy of Red Moscow as imagined by Guerlain.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1786573503
     }
   ],
   "perfumes": [
+    {
+      "title": "Oppen Cosmetics — Hall Of Beauty",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Hall-Of-Beauty-140057.html",
+      "description": "New perfume listing: Hall Of Beauty by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Roshen",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Roshen-140056.html",
+      "description": "New perfume listing: Roshen by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Townzent",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Townzent-140055.html",
+      "description": "New perfume listing: Townzent by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Shunshō",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Shunsho-140054.html",
+      "description": "New perfume listing: Shunshō by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Ransui",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Ransui-140053.html",
+      "description": "New perfume listing: Ransui by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Gyofū",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Gyofu-140052.html",
+      "description": "New perfume listing: Gyofū by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Beatrice",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Beatrice-140051.html",
+      "description": "New perfume listing: Beatrice by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Stleya",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Stleya-140050.html",
+      "description": "New perfume listing: Stleya by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Princess Pauline No. 7",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Princess-Pauline-No-7-140049.html",
+      "description": "New perfume listing: Princess Pauline No. 7 by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
+    {
+      "title": "Oppen Cosmetics — Hot Night",
+      "link": "https://www.fragrantica.com/perfume/Oppen-Cosmetics/Hot-Night-140048.html",
+      "description": "New perfume listing: Hot Night by Oppen Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Oppen Cosmetics",
+      "published": 1787641717
+    },
     {
       "title": "Kinana — Amir Silani",
       "link": "https://www.fragrantica.com/perfume/Kinana/Amir-Silani-140047.html",
@@ -1518,86 +1598,6 @@
       "title": "Laverne — Player",
       "link": "https://www.fragrantica.com/perfume/Laverne/Player-139988.html",
       "description": "New perfume listing: Player by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Declare 50",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Declare-50-139987.html",
-      "description": "New perfume listing: Declare 50 by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Loyard",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Loyard-139986.html",
-      "description": "New perfume listing: Loyard by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Imperial",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Imperial-139985.html",
-      "description": "New perfume listing: Imperial by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Light Under the Stars",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Light-Under-the-Stars-139984.html",
-      "description": "New perfume listing: Light Under the Stars by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Hajri — Tea Party",
-      "link": "https://www.fragrantica.com/perfume/Hajri/Tea-Party-139983.html",
-      "description": "New perfume listing: Tea Party by Hajri.",
-      "category": "New Perfumes",
-      "author": "Hajri",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Glory",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Glory-139982.html",
-      "description": "New perfume listing: Glory by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Majestic",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Majestic-139981.html",
-      "description": "New perfume listing: Majestic by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Exceptional",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Exceptional-139980.html",
-      "description": "New perfume listing: Exceptional by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Icon",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Icon-139979.html",
-      "description": "New perfume listing: Icon by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787556544
-    },
-    {
-      "title": "Laverne — Wanted",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Wanted-139978.html",
-      "description": "New perfume listing: Wanted by Laverne.",
       "category": "New Perfumes",
       "author": "Laverne",
       "published": 1787556544
