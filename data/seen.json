@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 2026: The Exhibitors",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-The-Exhibitors-25937.html",
+      "description": "The list of 240 exhibitors for the upcoming Pitti Fragranze in Florence.",
+      "category": "Art Books Events",
+      "author": "Sandra Raičević Petrović",
+      "published": 1787680803
+    },
+    {
+      "title": "PITTI FRAGRANZE 2026 Highlights: The Ideas and Voices Shaping Perfumery",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Highlights-The-Ideas-and-Voices-Shaping-Perfumery-25936.html",
+      "description": "What to expect at Pitti Fragranze 2026.",
+      "category": "Art Books Events",
+      "author": "Sandra Raičević Petrović",
+      "published": 1787677203
+    },
+    {
+      "title": "Kolonya in Turkey: Much More Than Just A Scent",
+      "link": "https://www.fragrantica.com/news/Kolonya-in-Turkey-Much-More-Than-Just-A-Scent-25935.html",
+      "description": "The story of a few drops poured into the palms.",
+      "category": "Fragrances and Cultures",
+      "author": "Sena Toprak",
+      "published": 1787673479
+    },
+    {
+      "title": "Prada Paradoxe Sweet Chemistry Arrives With Zendaya as the New Face",
+      "link": "https://www.fragrantica.com/news/Prada-Paradoxe-Sweet-Chemistry-Arrives-With-Zendaya-as-the-New-Face-25934.html",
+      "description": "Prada Beauty opens a new chapter for its Paradoxe fragrance line, introducing Zendaya as its new global ambassador alongside Prada Paradoxe Sweet Chemistry, a new fruity floral composition.",
+      "category": "Video",
+      "author": "New Fragrances",
+      "published": 1787665862
+    },
+    {
       "title": "PITTI FRAGRANZE 24th Edition, Florence, September 11-13, 2026",
       "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-24th-Edition-Florence-September-11-13-2026-25933.html",
       "description": "The 24th edition of Pitti Fragranze will bring more than 260 international brands to Florence’s Stazione Leopolda, reaffirming the fair’s position as a key meeting point for artistic perfumery, independent beauty and contemporary olfactory culture.",
@@ -767,41 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1786676703
-    },
-    {
-      "title": "The Invisible Made Visible – Perfume Through the Eyes of Artists. Part III",
-      "link": "https://www.fragrantica.com/news/The-Invisible-Made-Visible-Perfume-Through-the-Eyes-of-Artists-Part-III-25838.html",
-      "description": "Once again — perfumery themes in art across different eras and cultures, in the final and perhaps the most thoroughly “matured” installment.",
-      "category": "Columns",
-      "author": "Ksenia Golovanova",
-      "published": 1786668663
-    },
-    {
-      "title": "Orris Cocoon by Pesade, Iris 2.0",
-      "link": "https://www.fragrantica.com/news/Orris-Cocoon-by-Pesade-Iris-2-0-25837.html",
-      "description": "Iris, roasted green tea, orange powder",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1786658223
-    },
-    {
-      "title": "\"Pseudo-Fresh Fragrances\" by Filippo Sorcinelli",
-      "link": "https://www.fragrantica.com/news/Pseudo-Fresh-Fragrances-by-Filippo-Sorcinelli-25836.html",
-      "description": "There are compositions made up of familiar clean and refreshing notes and accords, with a certain darkness lurking beneath the surface.",
-      "category": "Columns",
-      "author": "Daria Bogdanova",
-      "published": 1786639717
-    },
-    {
-      "title": "Three Standouts From New Niche Greek House Little Bottle Perfumes",
-      "link": "https://www.fragrantica.com/news/Three-Standouts-From-New-Niche-Greek-House-Little-Bottle-Perfumes-25835.html",
-      "description": "Little Mango Sunshine, Falling In Schinos, and Tartruffo",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1786636683
     }
   ],
   "perfumes": [
+    {
+      "title": "Bravo Sierra — Vanilla Hide",
+      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Vanilla-Hide-140082.html",
+      "description": "New perfume listing: Vanilla Hide by Bravo Sierra.",
+      "category": "New Perfumes",
+      "author": "Bravo Sierra",
+      "published": 1787684261
+    },
+    {
+      "title": "Rasasi — Hawas Dreams",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Dreams-140081.html",
+      "description": "New perfume listing: Hawas Dreams by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1787684261
+    },
+    {
+      "title": "Rasasi — Hawas Love",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Love-140080.html",
+      "description": "New perfume listing: Hawas Love by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1787684261
+    },
     {
       "title": "Dkhoon Emirates — LADY",
       "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/LADY-140079.html",
@@ -1574,30 +1598,6 @@
       "title": "Gozerd — Daintree Oud",
       "link": "https://www.fragrantica.com/perfume/Gozerd/Daintree-Oud-140009.html",
       "description": "New perfume listing: Daintree Oud by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Grampy Botanica",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Grampy-Botanica-140008.html",
-      "description": "New perfume listing: Grampy Botanica by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Outback Dusk",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Outback-Dusk-140007.html",
-      "description": "New perfume listing: Outback Dusk by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Byron Bay Aura",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Byron-Bay-Aura-140006.html",
-      "description": "New perfume listing: Byron Bay Aura by Gozerd.",
       "category": "New Perfumes",
       "author": "Gozerd",
       "published": 1787577216
