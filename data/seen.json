@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Four Perfumes I Will Always Come Back To",
+      "link": "https://www.fragrantica.com/news/Four-Perfumes-I-Will-Always-Come-Back-To-25940.html",
+      "description": "As long as they remain in production, of course...",
+      "category": "Columns",
+      "author": "Sena Toprak",
+      "published": 1787706003
+    },
+    {
+      "title": "ASIA PERFUME SHOW 2026: Asian Perfumery Takes Centre Stage in Paris",
+      "link": "https://www.fragrantica.com/news/ASIA-PERFUME-SHOW-2026-Asian-Perfumery-Takes-Centre-Stage-in-Paris-25939.html",
+      "description": "The Asia Perfume Show brings more than 40 Asian niche fragrance brands to Paris from 23–25 September 2026.",
+      "category": "Art Books Events",
+      "author": "Sandra Raičević Petrović",
+      "published": 1787698803
+    },
+    {
+      "title": "Bravo Sierra Launches Its First Eau de Parfum",
+      "link": "https://www.fragrantica.com/news/Bravo-Sierra-Launches-Its-First-Eau-de-Parfum-25938.html",
+      "description": "A rich and sophisticated black tea composition with vanilla in its name but not among the notes",
+      "category": "New Fragrances",
+      "author": "Giulietta Ptoyan",
+      "published": 1787691603
+    },
+    {
       "title": "PITTI FRAGRANZE 2026: The Exhibitors",
       "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-The-Exhibitors-25937.html",
       "description": "The list of 240 exhibitors for the upcoming Pitti Fragranze in Florence.",
@@ -775,33 +799,89 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1786709114
-    },
-    {
-      "title": "Rahasya - Part 1",
-      "link": "https://www.fragrantica.com/news/Rahasya-Part-1-25841.html",
-      "description": "A new brand brings Indian-inspired fragrances to a global stage",
-      "category": "Fragrance Reviews",
-      "author": "Nicola Thomis",
-      "published": 1786701842
-    },
-    {
-      "title": "RMK Perfumes: A Legacy for Future Generations of the Emirates",
-      "link": "https://www.fragrantica.com/news/RMK-Perfumes-A-Legacy-for-Future-Generations-of-the-Emirates-25840.html",
-      "description": "Dubai's gift to the world.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1786689502
-    },
-    {
-      "title": "Aldhèyx and the Aldehyde Renaissance",
-      "link": "https://www.fragrantica.com/news/Aldheyx-and-the-Aldehyde-Renaissance-25839.html",
-      "description": "Rebellious and on-trend.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1786676703
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Golden Scale",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Golden-Scale-140092.html",
+      "description": "New perfume listing: Golden Scale by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — Ace",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ace-140091.html",
+      "description": "New perfume listing: Ace by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 26",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/26-140088.html",
+      "description": "New perfume listing: 26 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 25",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/25-140087.html",
+      "description": "New perfume listing: 25 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 22",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/22-140086.html",
+      "description": "New perfume listing: 22 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 2000",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/2000-140085.html",
+      "description": "New perfume listing: 2000 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — Jalad",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Jalad-140084.html",
+      "description": "New perfume listing: Jalad by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Guerlain — L'Heure Bleue 2026",
+      "link": "https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-2026-140083.html",
+      "description": "New perfume listing: L'Heure Bleue 2026 by Guerlain.",
+      "category": "New Perfumes",
+      "author": "Guerlain",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 33",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/33-140090.html",
+      "description": "New perfume listing: 33 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
+    {
+      "title": "Bujairami — 10/10",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/10-10-140089.html",
+      "description": "New perfume listing: 10/10 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787709520
+    },
     {
       "title": "Bravo Sierra — Vanilla Hide",
       "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Vanilla-Hide-140082.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Hepcat by Amali New York.",
       "category": "New Perfumes",
       "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Surprise",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Surprise-140018.html",
-      "description": "New perfume listing: Surprise by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Second Skin",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Second-Skin-140017.html",
-      "description": "New perfume listing: Second Skin by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Source",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Source-140016.html",
-      "description": "New perfume listing: Source by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Crystal Cherry",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Crystal-Cherry-140015.html",
-      "description": "New perfume listing: Crystal Cherry by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Damascus Oud",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Damascus-Oud-140014.html",
-      "description": "New perfume listing: Damascus Oud by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Ambre d'Uluru",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Ambre-d-Uluru-140013.html",
-      "description": "New perfume listing: Ambre d'Uluru by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Bushranger Leather",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Bushranger-Leather-140012.html",
-      "description": "New perfume listing: Bushranger Leather by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Whitsunday Azur",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Whitsunday-Azur-140011.html",
-      "description": "New perfume listing: Whitsunday Azur by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Mareeba Tabac",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Mareeba-Tabac-140010.html",
-      "description": "New perfume listing: Mareeba Tabac by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
-      "published": 1787577216
-    },
-    {
-      "title": "Gozerd — Daintree Oud",
-      "link": "https://www.fragrantica.com/perfume/Gozerd/Daintree-Oud-140009.html",
-      "description": "New perfume listing: Daintree Oud by Gozerd.",
-      "category": "New Perfumes",
-      "author": "Gozerd",
       "published": 1787577216
     }
   ]
