@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "SUOYIN: The Search for the Hidden",
+      "link": "https://www.fragrantica.com/news/SUOYIN-The-Search-for-the-Hidden-25944.html",
+      "description": "\"To see a world in a grain of sand, and a heaven in a drop of perfume.\"",
+      "category": "Columns",
+      "author": "Andrei Lensky",
+      "published": 1787739903
+    },
+    {
+      "title": "Favourites From Korean Brand dosigoh",
+      "link": "https://www.fragrantica.com/news/Favourites-From-Korean-Brand-dosigoh-25943.html",
+      "description": "The brand formerly known as Concreted has renamed to dosigoh. Nicola explores her favourites from them.",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1787735222
+    },
+    {
       "title": "Some Random Fragrances: A Brief Season on the Coast",
       "link": "https://www.fragrantica.com/news/Some-Random-Fragrances-A-Brief-Season-on-the-Coast-25942.html",
       "description": "When the place changes the way we perceive a perfume.",
@@ -13,7 +29,7 @@
       "link": "https://www.fragrantica.com/news/Carmen-From-Cire-Trudon-Chypre-Beast-25941.html",
       "description": "Mitsouko x Aramis x Chanel",
       "category": "Fragrance Reviews",
-      "author": "Beth Butterfield",
+      "author": "Eddie Bulliqi",
       "published": 1787713203
     },
     {
@@ -783,25 +799,73 @@
       "category": "Niche Perfumery",
       "author": "Adam Forziati",
       "published": 1786777142
-    },
-    {
-      "title": "Esxence 2026: Myrrh K Ella K Parfums – A Poisoned Treat",
-      "link": "https://www.fragrantica.com/news/Esxence-2026-Myrrh-K-Ella-K-Parfums-A-Poisoned-Treat-25845.html",
-      "description": "One of the most striking disappointments of Esxence 2026.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1786758902
-    },
-    {
-      "title": "Bois Impérial Essential Parfums Review",
-      "link": "https://www.fragrantica.com/news/Bois-Imperial-Essential-Parfums-Review-25844.html",
-      "description": "Quentin Bisch's new fragrance is already popular!",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1786746097
     }
   ],
   "perfumes": [
+    {
+      "title": "L'Affair — Summer Shockwave",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Summer-Shockwave-140104.html",
+      "description": "New perfume listing: Summer Shockwave by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1787750221
+    },
+    {
+      "title": "Blend Fragrance Cocktailing — Gardenia",
+      "link": "https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Gardenia-140103.html",
+      "description": "New perfume listing: Gardenia by Blend Fragrance Cocktailing.",
+      "category": "New Perfumes",
+      "author": "Blend Fragrance Cocktailing",
+      "published": 1787750221
+    },
+    {
+      "title": "Blend Fragrance Cocktailing — Grapefruit",
+      "link": "https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Grapefruit-140102.html",
+      "description": "New perfume listing: Grapefruit by Blend Fragrance Cocktailing.",
+      "category": "New Perfumes",
+      "author": "Blend Fragrance Cocktailing",
+      "published": 1787750221
+    },
+    {
+      "title": "Blend Fragrance Cocktailing — Melon",
+      "link": "https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Melon-140101.html",
+      "description": "New perfume listing: Melon by Blend Fragrance Cocktailing.",
+      "category": "New Perfumes",
+      "author": "Blend Fragrance Cocktailing",
+      "published": 1787750221
+    },
+    {
+      "title": "Blend Fragrance Cocktailing — Cherry",
+      "link": "https://www.fragrantica.com/perfume/Blend-Fragrance-Cocktailing/Cherry-140100.html",
+      "description": "New perfume listing: Cherry by Blend Fragrance Cocktailing.",
+      "category": "New Perfumes",
+      "author": "Blend Fragrance Cocktailing",
+      "published": 1787750221
+    },
+    {
+      "title": "Francoise de Gaulle — Roi",
+      "link": "https://www.fragrantica.com/perfume/Francoise-de-Gaulle/Roi-140099.html",
+      "description": "New perfume listing: Roi by Francoise de Gaulle.",
+      "category": "New Perfumes",
+      "author": "Francoise de Gaulle",
+      "published": 1787750221
+    },
+    {
+      "title": "Nicki Minaj — Minajesty Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Nicki-Minaj/Minajesty-Body-Mist-140098.html",
+      "description": "New perfume listing: Minajesty Body Mist by Nicki Minaj.",
+      "category": "New Perfumes",
+      "author": "Nicki Minaj",
+      "published": 1787750221
+    },
+    {
+      "title": "Sofia Belluci Profumi — Feeling Gorgeous",
+      "link": "https://www.fragrantica.com/perfume/Sofia-Belluci-Profumi/Feeling-Gorgeous-140097.html",
+      "description": "New perfume listing: Feeling Gorgeous by Sofia Belluci Profumi.",
+      "category": "New Perfumes",
+      "author": "Sofia Belluci Profumi",
+      "published": 1787750221
+    },
     {
       "title": "Sintaire — Merienda Mango",
       "link": "https://www.fragrantica.com/perfume/Sintaire/Merienda-Mango-140094.html",
@@ -1537,70 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bruno Banani",
       "published": 1787597979
-    },
-    {
-      "title": "Bruno Banani — Pure Woman Cheeky Cassis",
-      "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Pure-Woman-Cheeky-Cassis-139921.html",
-      "description": "New perfume listing: Pure Woman Cheeky Cassis by Bruno Banani.",
-      "category": "New Perfumes",
-      "author": "Bruno Banani",
-      "published": 1787597979
-    },
-    {
-      "title": "Bruno Banani — Sweet Fantasy",
-      "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Sweet-Fantasy-139920.html",
-      "description": "New perfume listing: Sweet Fantasy by Bruno Banani.",
-      "category": "New Perfumes",
-      "author": "Bruno Banani",
-      "published": 1787597979
-    },
-    {
-      "title": "Bruno Banani — Daring Woman Sensual Peach",
-      "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Daring-Woman-Sensual-Peach-139919.html",
-      "description": "New perfume listing: Daring Woman Sensual Peach by Bruno Banani.",
-      "category": "New Perfumes",
-      "author": "Bruno Banani",
-      "published": 1787597979
-    },
-    {
-      "title": "Valentino — Rêve à trois",
-      "link": "https://www.fragrantica.com/perfume/Valentino/Reve-a-trois-140025.html",
-      "description": "New perfume listing: Rêve à trois by Valentino.",
-      "category": "New Perfumes",
-      "author": "Valentino",
-      "published": 1787577216
-    },
-    {
-      "title": "Lili Bermuda — Golden Hour",
-      "link": "https://www.fragrantica.com/perfume/Lili-Bermuda/Golden-Hour-140024.html",
-      "description": "New perfume listing: Golden Hour by Lili Bermuda.",
-      "category": "New Perfumes",
-      "author": "Lili Bermuda",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Infinite Saffron",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Infinite-Saffron-140023.html",
-      "description": "New perfume listing: Infinite Saffron by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Vanero",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Vanero-140022.html",
-      "description": "New perfume listing: Vanero by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
-    },
-    {
-      "title": "Amali New York — Saddle Leather",
-      "link": "https://www.fragrantica.com/perfume/Amali-New-York/Saddle-Leather-140021.html",
-      "description": "New perfume listing: Saddle Leather by Amali New York.",
-      "category": "New Perfumes",
-      "author": "Amali New York",
-      "published": 1787577216
     }
   ]
 }
