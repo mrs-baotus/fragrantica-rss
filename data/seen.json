@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Nagamani and Rayiha: Two New Releases from Puzzle Parfum",
+      "link": "https://www.fragrantica.com/news/Nagamani-and-Rayiha-Two-New-Releases-from-Puzzle-Parfum-25961.html",
+      "description": "Sergey tried two of the three new releases by the Turkish brand.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1787893985
+    },
+    {
+      "title": "Oud Liaisons: Woody Bliss Cloaked in a Dangerous Veneer",
+      "link": "https://www.fragrantica.com/news/Oud-Liaisons-Woody-Bliss-Cloaked-in-a-Dangerous-Veneer-25960.html",
+      "description": "For Adam, it's less \"Dangerous Liaisons\" and more \"The Tree of Life.\"",
+      "category": "Fragrance Reviews",
+      "author": "Adam Forziati",
+      "published": 1787882943
+    },
+    {
+      "title": "Flight to ALDEBARAN with Marc-Antoine BARROIS",
+      "link": "https://www.fragrantica.com/news/Flight-to-ALDEBARAN-with-Marc-Antoine-BARROIS-25959.html",
+      "description": "Heading to Aldebaran!",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1787872120
+    },
+    {
       "title": "Danner & Flemming: The Best Iris on the Market!",
       "link": "https://www.fragrantica.com/news/Danner-Flemming-The-Best-Iris-on-the-Market-25958.html",
       "description": "Change my mind! (You won't. Here's why...)",
@@ -775,33 +799,193 @@
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1786961522
-    },
-    {
-      "title": "Peach Of Desire by Women'Secret",
-      "link": "https://www.fragrantica.com/news/Peach-Of-Desire-by-Women-Secret-25862.html",
-      "description": "Perfect peachy fragrance!",
-      "category": "Video",
-      "author": "Fragrance Reviews",
-      "published": 1786960143
-    },
-    {
-      "title": "Binet Papillon Makes Some Great Scents: Here Are My Favourites",
-      "link": "https://www.fragrantica.com/news/Binet-Papillon-Makes-Some-Great-Scents-Here-Are-My-Favourites-25861.html",
-      "description": "No 5, No 10 & No 17.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1786948383
-    },
-    {
-      "title": "Aurora, Anemos, and Agora: Regalien's New Hidden Origins Collection",
-      "link": "https://www.fragrantica.com/news/Aurora-Anemos-and-Agora-Regalien-s-New-Hidden-Origins-Collection-25860.html",
-      "description": "Black roses of Halfeti, wild horses of Cappadocia and spices of the Golden Horn.",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1786933922
     }
   ],
   "perfumes": [
+    {
+      "title": "Max Philip — Panda",
+      "link": "https://www.fragrantica.com/perfume/Max-Philip/Panda-140190.html",
+      "description": "New perfume listing: Panda by Max Philip.",
+      "category": "New Perfumes",
+      "author": "Max Philip",
+      "published": 1787916289
+    },
+    {
+      "title": "Rasasi — Hawas Alpha For Him",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Alpha-For-Him-140182.html",
+      "description": "New perfume listing: Hawas Alpha For Him by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1787916289
+    },
+    {
+      "title": "Sarantis — B.U. Brazilian Soul",
+      "link": "https://www.fragrantica.com/perfume/Sarantis/B-U-Brazilian-Soul-140181.html",
+      "description": "New perfume listing: B.U. Brazilian Soul by Sarantis.",
+      "category": "New Perfumes",
+      "author": "Sarantis",
+      "published": 1787916289
+    },
+    {
+      "title": "Sarantis — B.U. Ipanema Girl",
+      "link": "https://www.fragrantica.com/perfume/Sarantis/B-U-Ipanema-Girl-140180.html",
+      "description": "New perfume listing: B.U. Ipanema Girl by Sarantis.",
+      "category": "New Perfumes",
+      "author": "Sarantis",
+      "published": 1787916289
+    },
+    {
+      "title": "Sarantis — B.U.Peach Mimosa",
+      "link": "https://www.fragrantica.com/perfume/Sarantis/B-U-Peach-Mimosa-140179.html",
+      "description": "New perfume listing: B.U.Peach Mimosa by Sarantis.",
+      "category": "New Perfumes",
+      "author": "Sarantis",
+      "published": 1787916289
+    },
+    {
+      "title": "Sarantis — B.U. Vanilla Candy",
+      "link": "https://www.fragrantica.com/perfume/Sarantis/B-U-Vanilla-Candy-140178.html",
+      "description": "New perfume listing: B.U. Vanilla Candy by Sarantis.",
+      "category": "New Perfumes",
+      "author": "Sarantis",
+      "published": 1787916289
+    },
+    {
+      "title": "Faizal Privee — Autumn in Guangxi",
+      "link": "https://www.fragrantica.com/perfume/Faizal-Privee/Autumn-in-Guangxi-140177.html",
+      "description": "New perfume listing: Autumn in Guangxi by Faizal Privee.",
+      "category": "New Perfumes",
+      "author": "Faizal Privee",
+      "published": 1787916289
+    },
+    {
+      "title": "Bujairami — Affinity",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Affinity-140176.html",
+      "description": "New perfume listing: Affinity by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787916289
+    },
+    {
+      "title": "Bujairami — Aethera",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aethera-140175.html",
+      "description": "New perfume listing: Aethera by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787916289
+    },
+    {
+      "title": "Bujairami — Afternoon Bliss",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Afternoon-Bliss-140174.html",
+      "description": "New perfume listing: Afternoon Bliss by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787916289
+    },
+    {
+      "title": "Bujairami — After Dark",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/After-Dark-140173.html",
+      "description": "New perfume listing: After Dark by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787916289
+    },
+    {
+      "title": "Bujairami — The Blueprint",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/The-Blueprint-140172.html",
+      "description": "New perfume listing: The Blueprint by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1787916289
+    },
+    {
+      "title": "Habeebi — Smoke Hide",
+      "link": "https://www.fragrantica.com/perfume/Habeebi/Smoke-Hide-140171.html",
+      "description": "New perfume listing: Smoke Hide by Habeebi.",
+      "category": "New Perfumes",
+      "author": "Habeebi",
+      "published": 1787916289
+    },
+    {
+      "title": "Habeebi — Burnt Velvet",
+      "link": "https://www.fragrantica.com/perfume/Habeebi/Burnt-Velvet-140170.html",
+      "description": "New perfume listing: Burnt Velvet by Habeebi.",
+      "category": "New Perfumes",
+      "author": "Habeebi",
+      "published": 1787916289
+    },
+    {
+      "title": "Habeebi — Midnight Ember",
+      "link": "https://www.fragrantica.com/perfume/Habeebi/Midnight-Ember-140169.html",
+      "description": "New perfume listing: Midnight Ember by Habeebi.",
+      "category": "New Perfumes",
+      "author": "Habeebi",
+      "published": 1787916289
+    },
+    {
+      "title": "Habeebi — Ghost Tobacco",
+      "link": "https://www.fragrantica.com/perfume/Habeebi/Ghost-Tobacco-140168.html",
+      "description": "New perfume listing: Ghost Tobacco by Habeebi.",
+      "category": "New Perfumes",
+      "author": "Habeebi",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — ME2ME Impulse",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/ME2ME-Impulse-140189.html",
+      "description": "New perfume listing: ME2ME Impulse by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Love Drop",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Love-Drop-140188.html",
+      "description": "New perfume listing: Love Drop by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Intensity La Prive",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Intensity-La-Prive-140187.html",
+      "description": "New perfume listing: Intensity La Prive by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Intensity La d'Or",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Intensity-La-d-Or-140186.html",
+      "description": "New perfume listing: Intensity La d'Or by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Ambrin Royal",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Ambrin-Royal-140185.html",
+      "description": "New perfume listing: Ambrin Royal by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Regal Cuir",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Regal-Cuir-140184.html",
+      "description": "New perfume listing: Regal Cuir by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
+    {
+      "title": "Kolmaz — Imperial Nox",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Imperial-Nox-140183.html",
+      "description": "New perfume listing: Imperial Nox by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1787916289
+    },
     {
       "title": "Sttes Brazilian — Matcha Mallow",
       "link": "https://www.fragrantica.com/perfume/Sttes-Brazilian/Matcha-Mallow-140167.html",
@@ -1417,190 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bujairami",
       "published": 1787709520
-    },
-    {
-      "title": "Bujairami — 22",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/22-140086.html",
-      "description": "New perfume listing: 22 by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787709520
-    },
-    {
-      "title": "Bujairami — 2000",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/2000-140085.html",
-      "description": "New perfume listing: 2000 by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787709520
-    },
-    {
-      "title": "Bujairami — Jalad",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Jalad-140084.html",
-      "description": "New perfume listing: Jalad by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787709520
-    },
-    {
-      "title": "Guerlain — L'Heure Bleue 2026",
-      "link": "https://www.fragrantica.com/perfume/Guerlain/L-Heure-Bleue-2026-140083.html",
-      "description": "New perfume listing: L'Heure Bleue 2026 by Guerlain.",
-      "category": "New Perfumes",
-      "author": "Guerlain",
-      "published": 1787709520
-    },
-    {
-      "title": "Bujairami — 33",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/33-140090.html",
-      "description": "New perfume listing: 33 by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787709520
-    },
-    {
-      "title": "Bujairami — 10/10",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/10-10-140089.html",
-      "description": "New perfume listing: 10/10 by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787709520
-    },
-    {
-      "title": "Bravo Sierra — Vanilla Hide",
-      "link": "https://www.fragrantica.com/perfume/Bravo-Sierra/Vanilla-Hide-140082.html",
-      "description": "New perfume listing: Vanilla Hide by Bravo Sierra.",
-      "category": "New Perfumes",
-      "author": "Bravo Sierra",
-      "published": 1787684261
-    },
-    {
-      "title": "Rasasi — Hawas Dreams",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Dreams-140081.html",
-      "description": "New perfume listing: Hawas Dreams by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1787684261
-    },
-    {
-      "title": "Rasasi — Hawas Love",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Love-140080.html",
-      "description": "New perfume listing: Hawas Love by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1787684261
-    },
-    {
-      "title": "Dkhoon Emirates — LADY",
-      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/LADY-140079.html",
-      "description": "New perfume listing: LADY by Dkhoon Emirates.",
-      "category": "New Perfumes",
-      "author": "Dkhoon Emirates",
-      "published": 1787663506
-    },
-    {
-      "title": "Dkhoon Emirates — MISS",
-      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/MISS-140078.html",
-      "description": "New perfume listing: MISS by Dkhoon Emirates.",
-      "category": "New Perfumes",
-      "author": "Dkhoon Emirates",
-      "published": 1787663506
-    },
-    {
-      "title": "Dkhoon Emirates — SENSE",
-      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/SENSE-140077.html",
-      "description": "New perfume listing: SENSE by Dkhoon Emirates.",
-      "category": "New Perfumes",
-      "author": "Dkhoon Emirates",
-      "published": 1787663506
-    },
-    {
-      "title": "Laverne — Santorini",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Santorini-140076.html",
-      "description": "New perfume listing: Santorini by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1787663506
-    },
-    {
-      "title": "BORNTOSTANDOUT® — Melon Malo",
-      "link": "https://www.fragrantica.com/perfume/BORNTOSTANDOUT/Melon-Malo-140075.html",
-      "description": "New perfume listing: Melon Malo by BORNTOSTANDOUT®.",
-      "category": "New Perfumes",
-      "author": "BORNTOSTANDOUT®",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Orlen Noir",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Orlen-Noir-140074.html",
-      "description": "New perfume listing: Orlen Noir by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Ragnar Alexis",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Ragnar-Alexis-140073.html",
-      "description": "New perfume listing: Ragnar Alexis by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Velvet Green",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Velvet-Green-140072.html",
-      "description": "New perfume listing: Velvet Green by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Gorman",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Gorman-140071.html",
-      "description": "New perfume listing: Gorman by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Lenny",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Lenny-140070.html",
-      "description": "New perfume listing: Lenny by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Noxman",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Noxman-140069.html",
-      "description": "New perfume listing: Noxman by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Line Luxury — Rumor Elixir",
-      "link": "https://www.fragrantica.com/perfume/Line-Luxury/Rumor-Elixir-140068.html",
-      "description": "New perfume listing: Rumor Elixir by Line Luxury.",
-      "category": "New Perfumes",
-      "author": "Line Luxury",
-      "published": 1787663506
-    },
-    {
-      "title": "Vittorio — LeDoux",
-      "link": "https://www.fragrantica.com/perfume/Vittorio/LeDoux-140065.html",
-      "description": "New perfume listing: LeDoux by Vittorio.",
-      "category": "New Perfumes",
-      "author": "Vittorio",
-      "published": 1787663506
-    },
-    {
-      "title": "Opal Perfumes — Coco Banana",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Coco-Banana-140064.html",
-      "description": "New perfume listing: Coco Banana by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1787663506
     }
   ]
 }
