@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Dolce & Gabbana Your Devotion: A New Devotion to Milk and Vanilla",
+      "link": "https://www.fragrantica.com/news/Dolce-Gabbana-Your-Devotion-A-New-Devotion-to-Milk-and-Vanilla-25969.html",
+      "description": "Vanilla ice cream enters the Devotion world.",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1788003663
+    },
+    {
+      "title": "Memoize London Launch Room Sprays",
+      "link": "https://www.fragrantica.com/news/Memoize-London-Launch-Room-Sprays-25968.html",
+      "description": "The brand brings three of its best-selling fragrances into the new format",
+      "category": "Scented Home & Garden",
+      "author": "Nicola Thomis",
+      "published": 1787991062
+    },
+    {
       "title": "Balenciaga Launched Three Extraits de Parfum",
       "link": "https://www.fragrantica.com/news/Balenciaga-Launched-Three-Extraits-de-Parfum-25967.html",
       "description": "Amber Crush Extrait, Pink Oud Extrait, and Vanilla XXL Extrait, also in a beautiful Discovery Set.",
@@ -783,25 +799,169 @@
       "category": "Columns",
       "author": "Dr Ruqayya Abba Tofa",
       "published": 1787036403
-    },
-    {
-      "title": "Setting Course for Lavender With dsm-firmenich",
-      "link": "https://www.fragrantica.com/news/Setting-Course-for-Lavender-With-dsm-firmenich-25870.html",
-      "description": "On July 15th, dsm-firmenich took us on a journey to the lavender fields.",
-      "category": "Columns",
-      "author": "Sophie Normand",
-      "published": 1787018404
-    },
-    {
-      "title": "Écoute-Moi Anthologie: Lucien Ferrero Asks Us to Listen",
-      "link": "https://www.fragrantica.com/news/Ecoute-Moi-Anthologie-Lucien-Ferrero-Asks-Us-to-Listen-25869.html",
-      "description": "A divisive new release from Anthologie.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1787007603
     }
   ],
   "perfumes": [
+    {
+      "title": "4711 — 4711 Original Intense",
+      "link": "https://www.fragrantica.com/perfume/4711/4711-Original-Intense-140253.html",
+      "description": "New perfume listing: 4711 Original Intense by 4711.",
+      "category": "New Perfumes",
+      "author": "4711",
+      "published": 1788021825
+    },
+    {
+      "title": "Söppö — Toddy Spice",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Toddy-Spice-140252.html",
+      "description": "New perfume listing: Toddy Spice by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1788021825
+    },
+    {
+      "title": "La Rive — Almond Cream",
+      "link": "https://www.fragrantica.com/perfume/La-Rive/Almond-Cream-140251.html",
+      "description": "New perfume listing: Almond Cream by La Rive.",
+      "category": "New Perfumes",
+      "author": "La Rive",
+      "published": 1788021825
+    },
+    {
+      "title": "Victoria's Secret — Coconut & Creamy",
+      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Coconut-Creamy-140250.html",
+      "description": "New perfume listing: Coconut & Creamy by Victoria's Secret.",
+      "category": "New Perfumes",
+      "author": "Victoria's Secret",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Kibz",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Kibz-140268.html",
+      "description": "New perfume listing: Kibz by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Qudra",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Qudra-140267.html",
+      "description": "New perfume listing: Qudra by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Tobacco Honey",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Tobacco-Honey-140266.html",
+      "description": "New perfume listing: Tobacco Honey by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Ana Ameerat",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Ana-Ameerat-140265.html",
+      "description": "New perfume listing: Ana Ameerat by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Dominant With You",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Dominant-With-You-140264.html",
+      "description": "New perfume listing: Dominant With You by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Al Youm",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Al-Youm-140263.html",
+      "description": "New perfume listing: Al Youm by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Opal Perfumes — Nice Girl",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Nice-Girl-140262.html",
+      "description": "New perfume listing: Nice Girl by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788021825
+    },
+    {
+      "title": "Zara — Fashionably London Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Zara/Fashionably-London-Solid-Perfume-140261.html",
+      "description": "New perfume listing: Fashionably London Solid Perfume by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788021825
+    },
+    {
+      "title": "Zara — Elegantly Tokyo Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Zara/Elegantly-Tokyo-Solid-Perfume-140260.html",
+      "description": "New perfume listing: Elegantly Tokyo Solid Perfume by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — Feelings",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Feelings-140259.html",
+      "description": "New perfume listing: Feelings by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — Valore",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Valore-140258.html",
+      "description": "New perfume listing: Valore by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — Le Cafe",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Le-Cafe-140257.html",
+      "description": "New perfume listing: Le Cafe by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — K One",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/K-One-140256.html",
+      "description": "New perfume listing: K One by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — DJ Light",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/DJ-Light-140255.html",
+      "description": "New perfume listing: DJ Light by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Kolmaz — De Kirki",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/De-Kirki-140254.html",
+      "description": "New perfume listing: De Kirki by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788021825
+    },
+    {
+      "title": "Assaf — Frankel Blackout",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Frankel-Blackout-140249.html",
+      "description": "New perfume listing: Frankel Blackout by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1788021825
+    },
     {
       "title": "Fragrance One — The ROSE Relax",
       "link": "https://www.fragrantica.com/perfume/Fragrance-One/The-ROSE-Relax-140248.html",
@@ -1441,166 +1601,6 @@
       "category": "New Perfumes",
       "author": "Slumberhouse",
       "published": 1787868994
-    },
-    {
-      "title": "BeauFort London — Fathom V Director's Cut",
-      "link": "https://www.fragrantica.com/perfume/BeauFort-London/Fathom-V-Director-s-Cut-140164.html",
-      "description": "New perfume listing: Fathom V Director's Cut by BeauFort London.",
-      "category": "New Perfumes",
-      "author": "BeauFort London",
-      "published": 1787868994
-    },
-    {
-      "title": "Femmenina — Lavender Gelato",
-      "link": "https://www.fragrantica.com/perfume/Femmenina/Lavender-Gelato-140163.html",
-      "description": "New perfume listing: Lavender Gelato by Femmenina.",
-      "category": "New Perfumes",
-      "author": "Femmenina",
-      "published": 1787868994
-    },
-    {
-      "title": "Zara — Red Zara Temptation Délice Crème",
-      "link": "https://www.fragrantica.com/perfume/Zara/Red-Zara-Temptation-Delice-Creme-140162.html",
-      "description": "New perfume listing: Red Zara Temptation Délice Crème by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1787868994
-    },
-    {
-      "title": "Zara — Golden Decade Délice Fruits Rouges",
-      "link": "https://www.fragrantica.com/perfume/Zara/Golden-Decade-Delice-Fruits-Rouges-140161.html",
-      "description": "New perfume listing: Golden Decade Délice Fruits Rouges by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1787868994
-    },
-    {
-      "title": "Cave — Bloomé",
-      "link": "https://www.fragrantica.com/perfume/Cave/Bloome-140148.html",
-      "description": "New perfume listing: Bloomé by Cave.",
-      "category": "New Perfumes",
-      "author": "Cave",
-      "published": 1787868994
-    },
-    {
-      "title": "Hilde Soliani — Liqueeeiziia Salaaata",
-      "link": "https://www.fragrantica.com/perfume/Hilde-Soliani/Liqueeeiziia-Salaaata-140165.html",
-      "description": "New perfume listing: Liqueeeiziia Salaaata by Hilde Soliani.",
-      "category": "New Perfumes",
-      "author": "Hilde Soliani",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Crescent Parfum",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Crescent-Parfum-140160.html",
-      "description": "New perfume listing: Crescent Parfum by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Sufiyana",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Sufiyana-140159.html",
-      "description": "New perfume listing: Sufiyana by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Silk Musk",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Silk-Musk-140158.html",
-      "description": "New perfume listing: Silk Musk by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Shanice",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Shanice-140157.html",
-      "description": "New perfume listing: Shanice by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Serene",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Serene-140156.html",
-      "description": "New perfume listing: Serene by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Rider",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Rider-140155.html",
-      "description": "New perfume listing: Rider by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Révéler Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Reveler-Pour-Homme-140154.html",
-      "description": "New perfume listing: Révéler Pour Homme by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Révéler Pour Femme",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Reveler-Pour-Femme-140153.html",
-      "description": "New perfume listing: Révéler Pour Femme by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Legend",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Legend-140152.html",
-      "description": "New perfume listing: Legend by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Hugh Magnus",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Hugh-Magnus-140151.html",
-      "description": "New perfume listing: Hugh Magnus by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Guerrier Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Guerrier-Pour-Homme-140150.html",
-      "description": "New perfume listing: Guerrier Pour Homme by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Kolmaz — Guerrier Pour Femme",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Guerrier-Pour-Femme-140149.html",
-      "description": "New perfume listing: Guerrier Pour Femme by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1787868994
-    },
-    {
-      "title": "Bujairami — Smoke & Sugar",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Smoke-Sugar-140146.html",
-      "description": "New perfume listing: Smoke & Sugar by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787824229
-    },
-    {
-      "title": "Bujairami — Peach Please",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Peach-Please-140144.html",
-      "description": "New perfume listing: Peach Please by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1787824229
     }
   ]
 }
