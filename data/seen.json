@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Colosseum by Christian Provenzano Parfums: Colossal Longevity",
+      "link": "https://www.fragrantica.com/news/Colosseum-by-Christian-Provenzano-Parfums-Colossal-Longevity-25979.html",
+      "description": "Juicy citruses, freshwater aquatics, hemp-like greenery, and vetiver smokiness from Christian Provenzano.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1788104103
+    },
+    {
+      "title": "Rouge Bunny Rouge: A Review of All Eight Fragrances",
+      "link": "https://www.fragrantica.com/news/Rouge-Bunny-Rouge-A-Review-of-All-Eight-Fragrances-25978.html",
+      "description": "The Italian reincarnation of a British bunny.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1788095403
+    },
+    {
       "title": "Perfumed Horoscope: August 31 - September 6",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-31-September-6-25977.html",
       "description": "This week brings some serious cleanup after the lunar eclipse this past weekend.",
@@ -783,25 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1787133602
-    },
-    {
-      "title": "Scented...Car Mats?!",
-      "link": "https://www.fragrantica.com/news/Scented-Car-Mats-25880.html",
-      "description": "Under $20, six designs, and it's genuinely sustainable — 100% bio-based and biodegradable, from a materials-science company, not a novelty label.",
-      "category": "Fragrance News",
-      "author": "Beth Butterfield",
-      "published": 1787117584
-    },
-    {
-      "title": "A Rose in the Shalimar Garden & USA GIVEAWAY",
-      "link": "https://www.fragrantica.com/news/A-Rose-in-the-Shalimar-Garden-USA-GIVEAWAY-25879.html",
-      "description": "A beautiful, non-Shalimar Shalimar.",
-      "category": "Fragrance Reviews",
-      "author": "Viktoria Vlasova",
-      "published": 1787106843
     }
   ],
   "perfumes": [
+    {
+      "title": "La Fleur by Livvy — Fleur d'Innocence (2025 Edition)",
+      "link": "https://www.fragrantica.com/perfume/La-Fleur-by-Livvy/Fleur-d-Innocence-2025-Edition-140315.html",
+      "description": "New perfume listing: Fleur d'Innocence (2025 Edition) by La Fleur by Livvy.",
+      "category": "New Perfumes",
+      "author": "La Fleur by Livvy",
+      "published": 1788108105
+    },
+    {
+      "title": "Kolmaz — Cute Lady",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Cute-Lady-140243.html",
+      "description": "New perfume listing: Cute Lady by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788108105
+    },
+    {
+      "title": "Kolmaz — Zorona Extreme",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Zorona-Extreme-140206.html",
+      "description": "New perfume listing: Zorona Extreme by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788108105
+    },
+    {
+      "title": "Kolmaz — Mocca Silver",
+      "link": "https://www.fragrantica.com/perfume/Kolmaz/Mocca-Silver-140205.html",
+      "description": "New perfume listing: Mocca Silver by Kolmaz.",
+      "category": "New Perfumes",
+      "author": "Kolmaz",
+      "published": 1788108105
+    },
+    {
+      "title": "Fumie — Sage",
+      "link": "https://www.fragrantica.com/perfume/Fumie/Sage-140204.html",
+      "description": "New perfume listing: Sage by Fumie.",
+      "category": "New Perfumes",
+      "author": "Fumie",
+      "published": 1788108105
+    },
     {
       "title": "Maison Rihla — Sillage de Marrakech",
       "link": "https://www.fragrantica.com/perfume/Maison-Rihla/Sillage-de-Marrakech-140314.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Pink Popcorn Perfume Mist by Yumique.",
       "category": "New Perfumes",
       "author": "Yumique",
-      "published": 1787955687
-    },
-    {
-      "title": "Yumique — Mango Sorbet Perfume Mist",
-      "link": "https://www.fragrantica.com/perfume/Yumique/Mango-Sorbet-Perfume-Mist-140218.html",
-      "description": "New perfume listing: Mango Sorbet Perfume Mist by Yumique.",
-      "category": "New Perfumes",
-      "author": "Yumique",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — Bali Crush",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Bali-Crush-140217.html",
-      "description": "New perfume listing: Bali Crush by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — Heavenly",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Heavenly-140216.html",
-      "description": "New perfume listing: Heavenly by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Inoar — Delilah",
-      "link": "https://www.fragrantica.com/perfume/Inoar/Delilah-140215.html",
-      "description": "New perfume listing: Delilah by Inoar.",
-      "category": "New Perfumes",
-      "author": "Inoar",
-      "published": 1787955687
-    },
-    {
-      "title": "Inoar — Paradoxe Orange",
-      "link": "https://www.fragrantica.com/perfume/Inoar/Paradoxe-Orange-140214.html",
-      "description": "New perfume listing: Paradoxe Orange by Inoar.",
-      "category": "New Perfumes",
-      "author": "Inoar",
       "published": 1787955687
     }
   ]
