@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Tamburins’ Puppy: The Intimate Aroma Of A Dog’s Fur",
+      "link": "https://www.fragrantica.com/news/Tamburins-Puppy-The-Intimate-Aroma-Of-A-Dog-s-Fur-25984.html",
+      "description": "Warm, musky, nutty, cosy",
+      "category": "Niche Perfumery",
+      "author": "Eddie Bulliqi",
+      "published": 1788168663
+    },
+    {
       "title": "Yawahada by J-Scent: The Quiet Tenderness of Sleeping Beauties",
       "link": "https://www.fragrantica.com/news/Yawahada-by-J-Scent-The-Quiet-Tenderness-of-Sleeping-Beauties-25983.html",
       "description": "In the language of Japanese perfumery.",
@@ -791,17 +799,257 @@
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1787173983
-    },
-    {
-      "title": "The New Talisman Extrait by Farmacia SS. Annunziata",
-      "link": "https://www.fragrantica.com/news/The-New-Talisman-Extrait-by-Farmacia-SS-Annunziata-25885.html",
-      "description": "Where does female shamanic power lie, sister? In earthy patchouli!",
-      "category": "Fragrance News",
-      "author": "Sergey Borisov",
-      "published": 1787169603
     }
   ],
   "perfumes": [
+    {
+      "title": "Last Note — Velvet Bouquet",
+      "link": "https://www.fragrantica.com/perfume/Last-Note/Velvet-Bouquet-140370.html",
+      "description": "New perfume listing: Velvet Bouquet by Last Note.",
+      "category": "New Perfumes",
+      "author": "Last Note",
+      "published": 1788184391
+    },
+    {
+      "title": "Last Note — Soft Island Drift",
+      "link": "https://www.fragrantica.com/perfume/Last-Note/Soft-Island-Drift-140369.html",
+      "description": "New perfume listing: Soft Island Drift by Last Note.",
+      "category": "New Perfumes",
+      "author": "Last Note",
+      "published": 1788184391
+    },
+    {
+      "title": "Last Note — Echoes of You",
+      "link": "https://www.fragrantica.com/perfume/Last-Note/Echoes-of-You-140368.html",
+      "description": "New perfume listing: Echoes of You by Last Note.",
+      "category": "New Perfumes",
+      "author": "Last Note",
+      "published": 1788184391
+    },
+    {
+      "title": "Last Note — Vanilla Portrait",
+      "link": "https://www.fragrantica.com/perfume/Last-Note/Vanilla-Portrait-140367.html",
+      "description": "New perfume listing: Vanilla Portrait by Last Note.",
+      "category": "New Perfumes",
+      "author": "Last Note",
+      "published": 1788184391
+    },
+    {
+      "title": "Last Note — Into the Orchard",
+      "link": "https://www.fragrantica.com/perfume/Last-Note/Into-the-Orchard-140366.html",
+      "description": "New perfume listing: Into the Orchard by Last Note.",
+      "category": "New Perfumes",
+      "author": "Last Note",
+      "published": 1788184391
+    },
+    {
+      "title": "Librery Parfum — Vanilla Plum",
+      "link": "https://www.fragrantica.com/perfume/Librery-Parfum/Vanilla-Plum-140365.html",
+      "description": "New perfume listing: Vanilla Plum by Librery Parfum.",
+      "category": "New Perfumes",
+      "author": "Librery Parfum",
+      "published": 1788184391
+    },
+    {
+      "title": "Librery Parfum — Magnetic Flowers",
+      "link": "https://www.fragrantica.com/perfume/Librery-Parfum/Magnetic-Flowers-140364.html",
+      "description": "New perfume listing: Magnetic Flowers by Librery Parfum.",
+      "category": "New Perfumes",
+      "author": "Librery Parfum",
+      "published": 1788184391
+    },
+    {
+      "title": "Zara — Red Zara Temptation Winter (2026)",
+      "link": "https://www.fragrantica.com/perfume/Zara/Red-Zara-Temptation-Winter-2026-140363.html",
+      "description": "New perfume listing: Red Zara Temptation Winter (2026) by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788184391
+    },
+    {
+      "title": "Zara — Golden Decade Winter (2026)",
+      "link": "https://www.fragrantica.com/perfume/Zara/Golden-Decade-Winter-2026-140362.html",
+      "description": "New perfume listing: Golden Decade Winter (2026) by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788184391
+    },
+    {
+      "title": "Zara — Immortal Vanilla Winter",
+      "link": "https://www.fragrantica.com/perfume/Zara/Immortal-Vanilla-Winter-140361.html",
+      "description": "New perfume listing: Immortal Vanilla Winter by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788184391
+    },
+    {
+      "title": "Zara — Hypnotic Vanilla Winter",
+      "link": "https://www.fragrantica.com/perfume/Zara/Hypnotic-Vanilla-Winter-140360.html",
+      "description": "New perfume listing: Hypnotic Vanilla Winter by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Lia De Li",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Lia-De-Li-140359.html",
+      "description": "New perfume listing: Lia De Li by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Vanilla Extravagance",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Vanilla-Extravagance-140358.html",
+      "description": "New perfume listing: Vanilla Extravagance by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Apricot Brioche",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Apricot-Brioche-140357.html",
+      "description": "New perfume listing: Apricot Brioche by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Bitter Nectar",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Bitter-Nectar-140356.html",
+      "description": "New perfume listing: Bitter Nectar by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Silk Aura",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Silk-Aura-140355.html",
+      "description": "New perfume listing: Silk Aura by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Kano Beauty — Santal Elegance",
+      "link": "https://www.fragrantica.com/perfume/Kano-Beauty/Santal-Elegance-140354.html",
+      "description": "New perfume listing: Santal Elegance by Kano Beauty.",
+      "category": "New Perfumes",
+      "author": "Kano Beauty",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Mirage",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Mirage-140352.html",
+      "description": "New perfume listing: Mirage by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Eau de Lynch",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Eau-de-Lynch-140350.html",
+      "description": "New perfume listing: Eau de Lynch by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Bespoke",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Bespoke-140353.html",
+      "description": "New perfume listing: Bespoke by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Aura",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Aura-140351.html",
+      "description": "New perfume listing: Aura by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Burning Piano",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Burning-Piano-140349.html",
+      "description": "New perfume listing: Burning Piano by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Nose of Gatsby — Double Espresso",
+      "link": "https://www.fragrantica.com/perfume/Nose-of-Gatsby/Double-Espresso-140348.html",
+      "description": "New perfume listing: Double Espresso by Nose of Gatsby.",
+      "category": "New Perfumes",
+      "author": "Nose of Gatsby",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Ambitious Absolu",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Ambitious-Absolu-140347.html",
+      "description": "New perfume listing: Ambitious Absolu by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Dominant Pure",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Dominant-Pure-140346.html",
+      "description": "New perfume listing: Dominant Pure by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Dominant Rouge",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Dominant-Rouge-140345.html",
+      "description": "New perfume listing: Dominant Rouge by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Dominant Intense",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Dominant-Intense-140344.html",
+      "description": "New perfume listing: Dominant Intense by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Dominant Elixir",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Dominant-Elixir-140343.html",
+      "description": "New perfume listing: Dominant Elixir by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Dominant Savant",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Dominant-Savant-140342.html",
+      "description": "New perfume listing: Dominant Savant by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Clever",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Clever-140341.html",
+      "description": "New perfume listing: Clever by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
+    {
+      "title": "Perfume De Major — Brave",
+      "link": "https://www.fragrantica.com/perfume/Perfume-De-Major/Brave-140340.html",
+      "description": "New perfume listing: Brave by Perfume De Major.",
+      "category": "New Perfumes",
+      "author": "Perfume De Major",
+      "published": 1788184391
+    },
     {
       "title": "Ruby Rose — Vanillove",
       "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Vanillove-140339.html",
@@ -1353,254 +1601,6 @@
       "category": "New Perfumes",
       "author": "Ahmed Al Maghribi",
       "published": 1788067538
-    },
-    {
-      "title": "Ohana Kameala — La Lace",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/La-Lace-140283.html",
-      "description": "New perfume listing: La Lace by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1788067538
-    },
-    {
-      "title": "Ohana Kameala — Goddy",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Goddy-140282.html",
-      "description": "New perfume listing: Goddy by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1788067538
-    },
-    {
-      "title": "Lucky Beauty — Diary of a Lady",
-      "link": "https://www.fragrantica.com/perfume/Lucky-Beauty/Diary-of-a-Lady-140275.html",
-      "description": "New perfume listing: Diary of a Lady by Lucky Beauty.",
-      "category": "New Perfumes",
-      "author": "Lucky Beauty",
-      "published": 1788067538
-    },
-    {
-      "title": "Lucky Beauty — Letters from a Woman",
-      "link": "https://www.fragrantica.com/perfume/Lucky-Beauty/Letters-from-a-Woman-140274.html",
-      "description": "New perfume listing: Letters from a Woman by Lucky Beauty.",
-      "category": "New Perfumes",
-      "author": "Lucky Beauty",
-      "published": 1788067538
-    },
-    {
-      "title": "Lucky Beauty — Stories of a Girl",
-      "link": "https://www.fragrantica.com/perfume/Lucky-Beauty/Stories-of-a-Girl-140273.html",
-      "description": "New perfume listing: Stories of a Girl by Lucky Beauty.",
-      "category": "New Perfumes",
-      "author": "Lucky Beauty",
-      "published": 1788067538
-    },
-    {
-      "title": "Opal Perfumes — III AM",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/III-AM-140269.html",
-      "description": "New perfume listing: III AM by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788036977
-    },
-    {
-      "title": "4711 — 4711 Original Intense",
-      "link": "https://www.fragrantica.com/perfume/4711/4711-Original-Intense-140253.html",
-      "description": "New perfume listing: 4711 Original Intense by 4711.",
-      "category": "New Perfumes",
-      "author": "4711",
-      "published": 1788021825
-    },
-    {
-      "title": "Söppö — Toddy Spice",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Toddy-Spice-140252.html",
-      "description": "New perfume listing: Toddy Spice by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1788021825
-    },
-    {
-      "title": "La Rive — Almond Cream",
-      "link": "https://www.fragrantica.com/perfume/La-Rive/Almond-Cream-140251.html",
-      "description": "New perfume listing: Almond Cream by La Rive.",
-      "category": "New Perfumes",
-      "author": "La Rive",
-      "published": 1788021825
-    },
-    {
-      "title": "Victoria's Secret — Coconut & Creamy",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Coconut-Creamy-140250.html",
-      "description": "New perfume listing: Coconut & Creamy by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Kibz",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Kibz-140268.html",
-      "description": "New perfume listing: Kibz by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Qudra",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Qudra-140267.html",
-      "description": "New perfume listing: Qudra by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Tobacco Honey",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Tobacco-Honey-140266.html",
-      "description": "New perfume listing: Tobacco Honey by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Ana Ameerat",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Ana-Ameerat-140265.html",
-      "description": "New perfume listing: Ana Ameerat by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Dominant With You",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Dominant-With-You-140264.html",
-      "description": "New perfume listing: Dominant With You by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Al Youm",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Al-Youm-140263.html",
-      "description": "New perfume listing: Al Youm by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Opal Perfumes — Nice Girl",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Nice-Girl-140262.html",
-      "description": "New perfume listing: Nice Girl by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788021825
-    },
-    {
-      "title": "Zara — Fashionably London Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Zara/Fashionably-London-Solid-Perfume-140261.html",
-      "description": "New perfume listing: Fashionably London Solid Perfume by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1788021825
-    },
-    {
-      "title": "Zara — Elegantly Tokyo Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Zara/Elegantly-Tokyo-Solid-Perfume-140260.html",
-      "description": "New perfume listing: Elegantly Tokyo Solid Perfume by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — Feelings",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Feelings-140259.html",
-      "description": "New perfume listing: Feelings by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — Valore",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Valore-140258.html",
-      "description": "New perfume listing: Valore by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — Le Cafe",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/Le-Cafe-140257.html",
-      "description": "New perfume listing: Le Cafe by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — K One",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/K-One-140256.html",
-      "description": "New perfume listing: K One by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — DJ Light",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/DJ-Light-140255.html",
-      "description": "New perfume listing: DJ Light by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Kolmaz — De Kirki",
-      "link": "https://www.fragrantica.com/perfume/Kolmaz/De-Kirki-140254.html",
-      "description": "New perfume listing: De Kirki by Kolmaz.",
-      "category": "New Perfumes",
-      "author": "Kolmaz",
-      "published": 1788021825
-    },
-    {
-      "title": "Assaf — Frankel Blackout",
-      "link": "https://www.fragrantica.com/perfume/Assaf/Frankel-Blackout-140249.html",
-      "description": "New perfume listing: Frankel Blackout by Assaf.",
-      "category": "New Perfumes",
-      "author": "Assaf",
-      "published": 1788021825
-    },
-    {
-      "title": "Fragrance One — The ROSE Relax",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-One/The-ROSE-Relax-140248.html",
-      "description": "New perfume listing: The ROSE Relax by Fragrance One.",
-      "category": "New Perfumes",
-      "author": "Fragrance One",
-      "published": 1787987132
-    },
-    {
-      "title": "Fragrance One — The INCENSE Focus",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-One/The-INCENSE-Focus-140247.html",
-      "description": "New perfume listing: The INCENSE Focus by Fragrance One.",
-      "category": "New Perfumes",
-      "author": "Fragrance One",
-      "published": 1787987132
-    },
-    {
-      "title": "Fragrance One — The MINT Energy",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-One/The-MINT-Energy-140246.html",
-      "description": "New perfume listing: The MINT Energy by Fragrance One.",
-      "category": "New Perfumes",
-      "author": "Fragrance One",
-      "published": 1787987132
-    },
-    {
-      "title": "RMK Perfumes — Eau de Karak",
-      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Eau-de-Karak-140245.html",
-      "description": "New perfume listing: Eau de Karak by RMK Perfumes.",
-      "category": "New Perfumes",
-      "author": "RMK Perfumes",
-      "published": 1787987132
-    },
-    {
-      "title": "RMK Perfumes — Vaneelya",
-      "link": "https://www.fragrantica.com/perfume/RMK-Perfumes/Vaneelya-140244.html",
-      "description": "New perfume listing: Vaneelya by RMK Perfumes.",
-      "category": "New Perfumes",
-      "author": "RMK Perfumes",
-      "published": 1787987132
     }
   ]
 }
