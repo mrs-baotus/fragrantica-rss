@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Yawahada by J-Scent: The Quiet Tenderness of Sleeping Beauties",
+      "link": "https://www.fragrantica.com/news/Yawahada-by-J-Scent-The-Quiet-Tenderness-of-Sleeping-Beauties-25983.html",
+      "description": "In the language of Japanese perfumery.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1788146170
+    },
+    {
+      "title": "THOO Ciao: A Review",
+      "link": "https://www.fragrantica.com/news/THOO-Ciao-A-Review-25982.html",
+      "description": "With Ciao, everything begins!",
+      "category": "Fragrance Reviews",
+      "author": "Sandra Raičević Petrović",
+      "published": 1788135003
+    },
+    {
       "title": "My Vanilla Diaries - My Most Comforting Vanilla Scents",
       "link": "https://www.fragrantica.com/news/My-Vanilla-Diaries-My-Most-Comforting-Vanilla-Scents-25981.html",
       "description": "Vanilla is a note that appeals to my senses like nothing else. Check out my selection of eight vanilla perfumes that comfort me.",
@@ -783,25 +799,201 @@
       "category": "Fragrance News",
       "author": "Sergey Borisov",
       "published": 1787169603
-    },
-    {
-      "title": "Glint: A Perfect Non-Gourmand Gourmand",
-      "link": "https://www.fragrantica.com/news/Glint-A-Perfect-Non-Gourmand-Gourmand-25884.html",
-      "description": "\"Sweet without being sugary, explicit but not too direct, seductive yet whispered\"",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1787158803
-    },
-    {
-      "title": "Frederic Malle Northern Love",
-      "link": "https://www.fragrantica.com/news/Frederic-Malle-Northern-Love-25883.html",
-      "description": "Frédéric Malle presents Northern Love, a new fragrance by Bruno Jovanovic inspired by warmth, nostalgia, and modern romanticism.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1787147955
     }
   ],
   "perfumes": [
+    {
+      "title": "Ruby Rose — Vanillove",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Vanillove-140339.html",
+      "description": "New perfume listing: Vanillove by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Vanillove",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Vanillove-140338.html",
+      "description": "New perfume listing: Vanillove by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Delicate Bloom",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Delicate-Bloom-140337.html",
+      "description": "New perfume listing: Delicate Bloom by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Bananinha",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Bananinha-140336.html",
+      "description": "New perfume listing: Bananinha by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Flor de Bananeira",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Flor-de-Bananeira-140335.html",
+      "description": "New perfume listing: Flor de Bananeira by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Pistachill",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Pistachill-140334.html",
+      "description": "New perfume listing: Pistachill by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ruby Rose — Pistachill",
+      "link": "https://www.fragrantica.com/perfume/Ruby-Rose/Pistachill-140333.html",
+      "description": "New perfume listing: Pistachill by Ruby Rose.",
+      "category": "New Perfumes",
+      "author": "Ruby Rose",
+      "published": 1788154611
+    },
+    {
+      "title": "Ard Al Zaafaran — Rafeef",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Rafeef-140332.html",
+      "description": "New perfume listing: Rafeef by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1788154611
+    },
+    {
+      "title": "Maison Alhambra — Victorioso Fearless",
+      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Victorioso-Fearless-140331.html",
+      "description": "New perfume listing: Victorioso Fearless by Maison Alhambra.",
+      "category": "New Perfumes",
+      "author": "Maison Alhambra",
+      "published": 1788154611
+    },
+    {
+      "title": "Stella Dustin — Mendoza",
+      "link": "https://www.fragrantica.com/perfume/Stella-Dustin/Mendoza-140329.html",
+      "description": "New perfume listing: Mendoza by Stella Dustin.",
+      "category": "New Perfumes",
+      "author": "Stella Dustin",
+      "published": 1788154611
+    },
+    {
+      "title": "Stella Dustin — Velvet Garnet",
+      "link": "https://www.fragrantica.com/perfume/Stella-Dustin/Velvet-Garnet-140328.html",
+      "description": "New perfume listing: Velvet Garnet by Stella Dustin.",
+      "category": "New Perfumes",
+      "author": "Stella Dustin",
+      "published": 1788154611
+    },
+    {
+      "title": "O Boticário — Ameixa Intensa",
+      "link": "https://www.fragrantica.com/perfume/O-Boticario/Ameixa-Intensa-140327.html",
+      "description": "New perfume listing: Ameixa Intensa by O Boticário.",
+      "category": "New Perfumes",
+      "author": "O Boticário",
+      "published": 1788154611
+    },
+    {
+      "title": "Nuancielo — Très Chic",
+      "link": "https://www.fragrantica.com/perfume/Nuancielo/Tres-Chic-140326.html",
+      "description": "New perfume listing: Très Chic by Nuancielo.",
+      "category": "New Perfumes",
+      "author": "Nuancielo",
+      "published": 1788154611
+    },
+    {
+      "title": "Maison Alhambra — Flower Addiction",
+      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Flower-Addiction-140325.html",
+      "description": "New perfume listing: Flower Addiction by Maison Alhambra.",
+      "category": "New Perfumes",
+      "author": "Maison Alhambra",
+      "published": 1788154611
+    },
+    {
+      "title": "LAB 8 — Vanilla",
+      "link": "https://www.fragrantica.com/perfume/LAB-8/Vanilla-140324.html",
+      "description": "New perfume listing: Vanilla by LAB 8.",
+      "category": "New Perfumes",
+      "author": "LAB 8",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Powerful",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Powerful-140323.html",
+      "description": "New perfume listing: Powerful by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Matcha Latte",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Matcha-Latte-140322.html",
+      "description": "New perfume listing: Matcha Latte by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Snooze",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Snooze-140321.html",
+      "description": "New perfume listing: Snooze by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Tivori Extradose",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Tivori-Extradose-140320.html",
+      "description": "New perfume listing: Tivori Extradose by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Haze Crystalline",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Haze-Crystalline-140319.html",
+      "description": "New perfume listing: Haze Crystalline by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "Le Botanic — Capri Lemonade",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Capri-Lemonade-140318.html",
+      "description": "New perfume listing: Capri Lemonade by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1788154611
+    },
+    {
+      "title": "LAB 8 — Windstorm",
+      "link": "https://www.fragrantica.com/perfume/LAB-8/Windstorm-140317.html",
+      "description": "New perfume listing: Windstorm by LAB 8.",
+      "category": "New Perfumes",
+      "author": "LAB 8",
+      "published": 1788154611
+    },
+    {
+      "title": "Viking — Bergamota 81",
+      "link": "https://www.fragrantica.com/perfume/Viking/Bergamota-81-140316.html",
+      "description": "New perfume listing: Bergamota 81 by Viking.",
+      "category": "New Perfumes",
+      "author": "Viking",
+      "published": 1788154611
+    },
+    {
+      "title": "Stella Dustin — Silver Alloy",
+      "link": "https://www.fragrantica.com/perfume/Stella-Dustin/Silver-Alloy-140330.html",
+      "description": "New perfume listing: Silver Alloy by Stella Dustin.",
+      "category": "New Perfumes",
+      "author": "Stella Dustin",
+      "published": 1788154611
+    },
     {
       "title": "La Fleur by Livvy — Fleur d'Innocence (2025 Edition)",
       "link": "https://www.fragrantica.com/perfume/La-Fleur-by-Livvy/Fleur-d-Innocence-2025-Edition-140315.html",
@@ -1409,198 +1601,6 @@
       "category": "New Perfumes",
       "author": "RMK Perfumes",
       "published": 1787987132
-    },
-    {
-      "title": "Tommy Hilfiger — Freedom Eau de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Tommy-Hilfiger/Freedom-Eau-de-Parfum-140242.html",
-      "description": "New perfume listing: Freedom Eau de Parfum by Tommy Hilfiger.",
-      "category": "New Perfumes",
-      "author": "Tommy Hilfiger",
-      "published": 1787955687
-    },
-    {
-      "title": "Stardust & Stems — Moonstruck Marshmallow",
-      "link": "https://www.fragrantica.com/perfume/Stardust-Stems/Moonstruck-Marshmallow-140241.html",
-      "description": "New perfume listing: Moonstruck Marshmallow by Stardust & Stems.",
-      "category": "New Perfumes",
-      "author": "Stardust & Stems",
-      "published": 1787955687
-    },
-    {
-      "title": "Nissaba — Andevalo",
-      "link": "https://www.fragrantica.com/perfume/Nissaba/Andevalo-140240.html",
-      "description": "New perfume listing: Andevalo by Nissaba.",
-      "category": "New Perfumes",
-      "author": "Nissaba",
-      "published": 1787955687
-    },
-    {
-      "title": "Fabbrica Della Musa — Obsidian Gold",
-      "link": "https://www.fragrantica.com/perfume/Fabbrica-Della-Musa/Obsidian-Gold-140239.html",
-      "description": "New perfume listing: Obsidian Gold by Fabbrica Della Musa.",
-      "category": "New Perfumes",
-      "author": "Fabbrica Della Musa",
-      "published": 1787955687
-    },
-    {
-      "title": "Bon Parfumeur — 503 Sultan Fire",
-      "link": "https://www.fragrantica.com/perfume/Bon-Parfumeur/503-Sultan-Fire-140238.html",
-      "description": "New perfume listing: 503 Sultan Fire by Bon Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Bon Parfumeur",
-      "published": 1787955687
-    },
-    {
-      "title": "Bon Parfumeur — 604 Noir Atlas",
-      "link": "https://www.fragrantica.com/perfume/Bon-Parfumeur/604-Noir-Atlas-140237.html",
-      "description": "New perfume listing: 604 Noir Atlas by Bon Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Bon Parfumeur",
-      "published": 1787955687
-    },
-    {
-      "title": "Bon Parfumeur — 305 Bois Darshan",
-      "link": "https://www.fragrantica.com/perfume/Bon-Parfumeur/305-Bois-Darshan-140236.html",
-      "description": "New perfume listing: 305 Bois Darshan by Bon Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Bon Parfumeur",
-      "published": 1787955687
-    },
-    {
-      "title": "OGLIARI — Frangipani",
-      "link": "https://www.fragrantica.com/perfume/OGLIARI/Frangipani-140235.html",
-      "description": "New perfume listing: Frangipani by OGLIARI.",
-      "category": "New Perfumes",
-      "author": "OGLIARI",
-      "published": 1787955687
-    },
-    {
-      "title": "Riggs — Halcyon",
-      "link": "https://www.fragrantica.com/perfume/Riggs/Halcyon-140234.html",
-      "description": "New perfume listing: Halcyon by Riggs.",
-      "category": "New Perfumes",
-      "author": "Riggs",
-      "published": 1787955687
-    },
-    {
-      "title": "OGLIARI — Black Sequoia",
-      "link": "https://www.fragrantica.com/perfume/OGLIARI/Black-Sequoia-140233.html",
-      "description": "New perfume listing: Black Sequoia by OGLIARI.",
-      "category": "New Perfumes",
-      "author": "OGLIARI",
-      "published": 1787955687
-    },
-    {
-      "title": "Mawwal Arabia — Icandy Cherry Pop",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Icandy-Cherry-Pop-140232.html",
-      "description": "New perfume listing: Icandy Cherry Pop by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1787955687
-    },
-    {
-      "title": "Mawwal Arabia — Icandy Pistachio Frost",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Icandy-Pistachio-Frost-140231.html",
-      "description": "New perfume listing: Icandy Pistachio Frost by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1787955687
-    },
-    {
-      "title": "Mawwal Arabia — Icandy Vanilla Drip",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Icandy-Vanilla-Drip-140230.html",
-      "description": "New perfume listing: Icandy Vanilla Drip by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1787955687
-    },
-    {
-      "title": "Riggs — Elysian",
-      "link": "https://www.fragrantica.com/perfume/Riggs/Elysian-140229.html",
-      "description": "New perfume listing: Elysian by Riggs.",
-      "category": "New Perfumes",
-      "author": "Riggs",
-      "published": 1787955687
-    },
-    {
-      "title": "Mawwal Arabia — Icandy Berry Crush",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Icandy-Berry-Crush-140228.html",
-      "description": "New perfume listing: Icandy Berry Crush by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1787955687
-    },
-    {
-      "title": "Riggs — Heritus",
-      "link": "https://www.fragrantica.com/perfume/Riggs/Heritus-140227.html",
-      "description": "New perfume listing: Heritus by Riggs.",
-      "category": "New Perfumes",
-      "author": "Riggs",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — The Way Ylang",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/The-Way-Ylang-140226.html",
-      "description": "New perfume listing: The Way Ylang by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Riggs — Phenom",
-      "link": "https://www.fragrantica.com/perfume/Riggs/Phenom-140225.html",
-      "description": "New perfume listing: Phenom by Riggs.",
-      "category": "New Perfumes",
-      "author": "Riggs",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — Nube",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Nube-140224.html",
-      "description": "New perfume listing: Nube by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Riggs — Ethos",
-      "link": "https://www.fragrantica.com/perfume/Riggs/Ethos-140223.html",
-      "description": "New perfume listing: Ethos by Riggs.",
-      "category": "New Perfumes",
-      "author": "Riggs",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — Marea",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Marea-140222.html",
-      "description": "New perfume listing: Marea by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Le Botanic — Delirium",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Delirium-140221.html",
-      "description": "New perfume listing: Delirium by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1787955687
-    },
-    {
-      "title": "Yumique — Salted Nuts Perfume Mist",
-      "link": "https://www.fragrantica.com/perfume/Yumique/Salted-Nuts-Perfume-Mist-140220.html",
-      "description": "New perfume listing: Salted Nuts Perfume Mist by Yumique.",
-      "category": "New Perfumes",
-      "author": "Yumique",
-      "published": 1787955687
-    },
-    {
-      "title": "Yumique — Pink Popcorn Perfume Mist",
-      "link": "https://www.fragrantica.com/perfume/Yumique/Pink-Popcorn-Perfume-Mist-140219.html",
-      "description": "New perfume listing: Pink Popcorn Perfume Mist by Yumique.",
-      "category": "New Perfumes",
-      "author": "Yumique",
-      "published": 1787955687
     }
   ]
 }
