@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Amouage Introduces Decision 42 and Overture 41",
+      "link": "https://www.fragrantica.com/news/Amouage-Introduces-Decision-42-and-Overture-41-25997.html",
+      "description": "Two new Exceptional Extraits from Amouage, inspired by a juniper tree struck by lightning and a young singer who becomes an operatic diva.",
+      "category": "New Fragrances",
+      "author": "Igor Masyukov",
+      "published": 1788292030
+    },
+    {
+      "title": "Floraïku Paris Announced the New Eau de Parfum: Birdwatcher",
+      "link": "https://www.fragrantica.com/news/Floraiku-Paris-Announced-the-New-Eau-de-Parfum-Birdwatcher-25996.html",
+      "description": "Created by perfumer Sophie Labbé, inspired by bird murmurations, and launching September 1st.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1788287403
+    },
+    {
       "title": "What We Do Is Secret Studio Particulier",
       "link": "https://www.fragrantica.com/news/What-We-Do-Is-Secret-Studio-Particulier-25995.html",
       "description": "Rather than referencing a physical space, Studio Particulier captures its atmosphere, translating the quiet intensity of artistic creation into scent.",
@@ -783,25 +799,113 @@
       "category": "Columns",
       "author": "Dr Ruqayya Abba Tofa",
       "published": 1787319123
-    },
-    {
-      "title": "A Gentle Elevation to Celebrate Ten Years of Les Eaux Primordiales",
-      "link": "https://www.fragrantica.com/news/A-Gentle-Elevation-to-Celebrate-Ten-Years-of-Les-Eaux-Primordiales-25898.html",
-      "description": "Self-elevation at the center of the tenth anniversary celebrations of Les Eaux Primordiales.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1787304783
-    },
-    {
-      "title": "Sorry Not Sorry Launches Terracota Extrait de Parfum",
-      "link": "https://www.fragrantica.com/news/Sorry-Not-Sorry-Launches-Terracota-Extrait-de-Parfum-25897.html",
-      "description": "The monumentality of Yosemite translated into fragrance.",
-      "category": "Fragrance News",
-      "author": "Jernê Knowles",
-      "published": 1787290263
     }
   ],
   "perfumes": [
+    {
+      "title": "Bvlgari — Omnia Amethyste Eau de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Bvlgari/Omnia-Amethyste-Eau-de-Parfum-140495.html",
+      "description": "New perfume listing: Omnia Amethyste Eau de Parfum by Bvlgari.",
+      "category": "New Perfumes",
+      "author": "Bvlgari",
+      "published": 1788296569
+    },
+    {
+      "title": "Al Haramain Perfumes — Euphoric Roots",
+      "link": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Euphoric-Roots-140416.html",
+      "description": "New perfume listing: Euphoric Roots by Al Haramain Perfumes.",
+      "category": "New Perfumes",
+      "author": "Al Haramain Perfumes",
+      "published": 1788296569
+    },
+    {
+      "title": "Ard Al Zaafaran — Ajmal Ehsas Bloom",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Ajmal-Ehsas-Bloom-140415.html",
+      "description": "New perfume listing: Ajmal Ehsas Bloom by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1788296569
+    },
+    {
+      "title": "AlBidaa — 05",
+      "link": "https://www.fragrantica.com/perfume/AlBidaa/05-140404.html",
+      "description": "New perfume listing: 05 by AlBidaa.",
+      "category": "New Perfumes",
+      "author": "AlBidaa",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Filevsky Park (Филевский парк)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Filevsky-Park-Filevskij-park-140398.html",
+      "description": "New perfume listing: Filevsky Park (Филевский парк) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Japanese Garden (Японский Cад)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Japanese-Garden-Aponskij-Cad-140397.html",
+      "description": "New perfume listing: Japanese Garden (Японский Cад) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Berry Cocktail (Ягодный Kоктейль)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Berry-Cocktail-Agodnyj-Koktejl-140396.html",
+      "description": "New perfume listing: Berry Cocktail (Ягодный Kоктейль) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Fiesta (Фиеста)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Fiesta-Fiesta-140395.html",
+      "description": "New perfume listing: Fiesta (Фиеста) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Mayan Sun (Солнце Майя)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Mayan-Sun-Solnce-Maja-140394.html",
+      "description": "New perfume listing: Mayan Sun (Солнце Майя) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Sunny Nectar (Солнечный Hектар)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Sunny-Nectar-Solnecnyj-Hektar-140393.html",
+      "description": "New perfume listing: Sunny Nectar (Солнечный Hектар) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Spicy Apple (Пряное яблоко)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Spicy-Apple-Pranoe-abloko-140392.html",
+      "description": "New perfume listing: Spicy Apple (Пряное яблоко) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Rooftop Walks (Прогулки По Крышам)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Rooftop-Walks-Progulki-Po-Krysam-140389.html",
+      "description": "New perfume listing: Rooftop Walks (Прогулки По Крышам) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
+    {
+      "title": "Alexandra Gluck — Spring (Побег)",
+      "link": "https://www.fragrantica.com/perfume/Alexandra-Gluck/Spring-Pobeg-140388.html",
+      "description": "New perfume listing: Spring (Побег) by Alexandra Gluck.",
+      "category": "New Perfumes",
+      "author": "Alexandra Gluck",
+      "published": 1788296569
+    },
     {
       "title": "Mucha — Dark Rum 1897",
       "link": "https://www.fragrantica.com/perfume/Mucha/Dark-Rum-1897-140493.html",
@@ -1496,110 +1600,6 @@
       "description": "New perfume listing: M4R-4BISS4L by D4C.",
       "category": "New Perfumes",
       "author": "D4C",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Marshmallow",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Marshmallow-140405.html",
-      "description": "New perfume listing: Marshmallow by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Lemon Pie",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Lemon-Pie-140403.html",
-      "description": "New perfume listing: Lemon Pie by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Cotton Candy",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Cotton-Candy-140402.html",
-      "description": "New perfume listing: Cotton Candy by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Popcorn",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Popcorn-140401.html",
-      "description": "New perfume listing: Popcorn by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Chocolate Bar",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Chocolate-Bar-140400.html",
-      "description": "New perfume listing: Chocolate Bar by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Sugar Addiction — Bubble Gum",
-      "link": "https://www.fragrantica.com/perfume/Sugar-Addiction/Bubble-Gum-140399.html",
-      "description": "New perfume listing: Bubble Gum by Sugar Addiction.",
-      "category": "New Perfumes",
-      "author": "Sugar Addiction",
-      "published": 1788216693
-    },
-    {
-      "title": "Aetherii Fragrance — Sfusato Solare",
-      "link": "https://www.fragrantica.com/perfume/Aetherii-Fragrance/Sfusato-Solare-140391.html",
-      "description": "New perfume listing: Sfusato Solare by Aetherii Fragrance.",
-      "category": "New Perfumes",
-      "author": "Aetherii Fragrance",
-      "published": 1788216693
-    },
-    {
-      "title": "Rasasi — Hawas Majestic",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Majestic-140390.html",
-      "description": "New perfume listing: Hawas Majestic by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1788216693
-    },
-    {
-      "title": "Anecdotes by Artists — Painted Petals",
-      "link": "https://www.fragrantica.com/perfume/Anecdotes-by-Artists/Painted-Petals-140386.html",
-      "description": "New perfume listing: Painted Petals by Anecdotes by Artists.",
-      "category": "New Perfumes",
-      "author": "Anecdotes by Artists",
-      "published": 1788216693
-    },
-    {
-      "title": "Anecdotes by Artists — The Villainelle",
-      "link": "https://www.fragrantica.com/perfume/Anecdotes-by-Artists/The-Villainelle-140383.html",
-      "description": "New perfume listing: The Villainelle by Anecdotes by Artists.",
-      "category": "New Perfumes",
-      "author": "Anecdotes by Artists",
-      "published": 1788216693
-    },
-    {
-      "title": "Anecdotes by Artists — Wild Cousin",
-      "link": "https://www.fragrantica.com/perfume/Anecdotes-by-Artists/Wild-Cousin-140381.html",
-      "description": "New perfume listing: Wild Cousin by Anecdotes by Artists.",
-      "category": "New Perfumes",
-      "author": "Anecdotes by Artists",
-      "published": 1788216693
-    },
-    {
-      "title": "Eolie Parfums — Malvasia",
-      "link": "https://www.fragrantica.com/perfume/Eolie-Parfums/Malvasia-140377.html",
-      "description": "New perfume listing: Malvasia by Eolie Parfums.",
-      "category": "New Perfumes",
-      "author": "Eolie Parfums",
-      "published": 1788216693
-    },
-    {
-      "title": "Cerchi Nell’Acqua — Drive In",
-      "link": "https://www.fragrantica.com/perfume/Cerchi-Nell-Acqua/Drive-In-140376.html",
-      "description": "New perfume listing: Drive In by Cerchi Nell’Acqua.",
-      "category": "New Perfumes",
-      "author": "Cerchi Nell’Acqua",
       "published": 1788216693
     }
   ]
