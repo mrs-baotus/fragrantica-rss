@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "KHAMRAH WAHA Lattafa Perfumes: Unisex? My Nose Says Otherwise",
+      "link": "https://www.fragrantica.com/news/KHAMRAH-WAHA-Lattafa-Perfumes-Unisex-My-Nose-Says-Otherwise-26010.html",
+      "description": "A fresh, juicy, and lightly spiced composition in which citrus and juniper blend with crisp cucumber, woody notes, and a subtle hint of vanilla.",
+      "category": "Fragrance Reviews",
+      "author": "Markéta Rybínová",
+      "published": 1788406082
+    },
+    {
+      "title": "With Le Nectar Parfum Intense, Chloé Breathes a Sensual Aura Into Its Iconic Fragrance",
+      "link": "https://www.fragrantica.com/news/With-Le-Nectar-Parfum-Intense-Chloe-Breathes-a-Sensual-Aura-Into-Its-Iconic-Fragrance-26009.html",
+      "description": "Chloé's signature perfume reveals itself in a new ambery version, inspired by the vintage aesthetic of the 70s.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1788393903
+    },
+    {
+      "title": "A Controversial Issue: Step on the Gas!",
+      "link": "https://www.fragrantica.com/news/A-Controversial-Issue-Step-on-the-Gas-26008.html",
+      "description": "Not only the smell of a brand-new expensive car interior, but also exhaust fumes, smoking tires, gasoline, asphalt, and motor oil.",
+      "category": "Columns",
+      "author": "Daria Bogdanova",
+      "published": 1788385502
+    },
+    {
       "title": "Within the Amber Seed: Quelque Part from Racyne",
       "link": "https://www.fragrantica.com/news/Within-the-Amber-Seed-Quelque-Part-from-Racyne-26007.html",
       "description": "A cozy-with-character musk.",
@@ -775,33 +799,529 @@
       "category": "Fragrance Reviews",
       "author": "Alex (Sane-Witch) Osipov",
       "published": 1787481076
-    },
-    {
-      "title": "Beautyworld Dubai 30th Edition: 6-8 October, 2026",
-      "link": "https://www.fragrantica.com/news/Beautyworld-Dubai-30th-Edition-6-8-October-2026-25911.html",
-      "description": "Beautyworld Dubai 2026 marks a new chapter for the global beauty industry",
-      "category": "Art Books Events",
-      "author": "Sandra Raičević Petrović",
-      "published": 1787448603
-    },
-    {
-      "title": "Le Labo Launches Shiu 25, Its Beijing City Exclusive",
-      "link": "https://www.fragrantica.com/news/Le-Labo-Launches-Shiu-25-Its-Beijing-City-Exclusive-25910.html",
-      "description": "More of the soft-woody same",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1787437802
-    },
-    {
-      "title": "Chanel and Grapefruits",
-      "link": "https://www.fragrantica.com/news/Chanel-and-Grapefruits-25909.html",
-      "description": "A second look at Coco Mademoiselle Crush Absolu.",
-      "category": "Columns",
-      "author": "Elena Knezevic",
-      "published": 1787427140
     }
   ],
   "perfumes": [
+    {
+      "title": "De Gabor — Astroberry",
+      "link": "https://www.fragrantica.com/perfume/De-Gabor/Astroberry-140760.html",
+      "description": "New perfume listing: Astroberry by De Gabor.",
+      "category": "New Perfumes",
+      "author": "De Gabor",
+      "published": 1788410086
+    },
+    {
+      "title": "De Gabor — Astronaut Cosmo Cologne Forte",
+      "link": "https://www.fragrantica.com/perfume/De-Gabor/Astronaut-Cosmo-Cologne-Forte-140759.html",
+      "description": "New perfume listing: Astronaut Cosmo Cologne Forte by De Gabor.",
+      "category": "New Perfumes",
+      "author": "De Gabor",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Frosted Pistachio Frosting",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Frosted-Pistachio-Frosting-140757.html",
+      "description": "New perfume listing: Frosted Pistachio Frosting by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Floral Coconut Lemon Candy of Maui Bananas",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Coconut-Lemon-Candy-of-Maui-Bananas-140755.html",
+      "description": "New perfume listing: Floral Coconut Lemon Candy of Maui Bananas by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Sunset Reverie",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sunset-Reverie-140753.html",
+      "description": "New perfume listing: Sunset Reverie by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Italian Tiramisu",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Italian-Tiramisu-140751.html",
+      "description": "New perfume listing: Italian Tiramisu by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Versailles Signature Aura",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Versailles-Signature-Aura-140748.html",
+      "description": "New perfume listing: Versailles Signature Aura by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Fresh Serenity",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fresh-Serenity-140747.html",
+      "description": "New perfume listing: Fresh Serenity by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "De Gabor — Amber Forever",
+      "link": "https://www.fragrantica.com/perfume/De-Gabor/Amber-Forever-140746.html",
+      "description": "New perfume listing: Amber Forever by De Gabor.",
+      "category": "New Perfumes",
+      "author": "De Gabor",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Coastal Leather",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Coastal-Leather-140745.html",
+      "description": "New perfume listing: Coastal Leather by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Cashmere Pear",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cashmere-Pear-140744.html",
+      "description": "New perfume listing: Cashmere Pear by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "De Gabor — Top Gold",
+      "link": "https://www.fragrantica.com/perfume/De-Gabor/Top-Gold-140743.html",
+      "description": "New perfume listing: Top Gold by De Gabor.",
+      "category": "New Perfumes",
+      "author": "De Gabor",
+      "published": 1788410086
+    },
+    {
+      "title": "Kerzon Paris — Bois d'Hinoki",
+      "link": "https://www.fragrantica.com/perfume/Kerzon-Paris/Bois-d-Hinoki-140742.html",
+      "description": "New perfume listing: Bois d'Hinoki by Kerzon Paris.",
+      "category": "New Perfumes",
+      "author": "Kerzon Paris",
+      "published": 1788410086
+    },
+    {
+      "title": "Kerzon Paris — Super Frais",
+      "link": "https://www.fragrantica.com/perfume/Kerzon-Paris/Super-Frais-140739.html",
+      "description": "New perfume listing: Super Frais by Kerzon Paris.",
+      "category": "New Perfumes",
+      "author": "Kerzon Paris",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Healing Pistachio",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Healing-Pistachio-140736.html",
+      "description": "New perfume listing: Healing Pistachio by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Dua's Gold Ambassadora",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dua-s-Gold-Ambassadora-140734.html",
+      "description": "New perfume listing: Dua's Gold Ambassadora by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Vetiver Bloom",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vetiver-Bloom-140732.html",
+      "description": "New perfume listing: Vetiver Bloom by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Starlit Rose",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Starlit-Rose-140730.html",
+      "description": "New perfume listing: Starlit Rose by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Golden Prestige",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Golden-Prestige-140728.html",
+      "description": "New perfume listing: Golden Prestige by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Cosmic Awakening",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cosmic-Awakening-140726.html",
+      "description": "New perfume listing: Cosmic Awakening by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Vanilla Cloud Sundae",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vanilla-Cloud-Sundae-140724.html",
+      "description": "New perfume listing: Vanilla Cloud Sundae by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Vanilla Strawberry Milk",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vanilla-Strawberry-Milk-140722.html",
+      "description": "New perfume listing: Vanilla Strawberry Milk by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Imagined Sun-Kissed Lemonade",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Imagined-Sun-Kissed-Lemonade-140720.html",
+      "description": "New perfume listing: Imagined Sun-Kissed Lemonade by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Soft Cashmere",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Soft-Cashmere-140718.html",
+      "description": "New perfume listing: Soft Cashmere by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Cashmere Cream",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cashmere-Cream-140716.html",
+      "description": "New perfume listing: Cashmere Cream by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Alienated Pulp",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Alienated-Pulp-140714.html",
+      "description": "New perfume listing: Alienated Pulp by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Wild & Free Coconut",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Wild-Free-Coconut-140712.html",
+      "description": "New perfume listing: Wild & Free Coconut by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — White Lily Musk",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/White-Lily-Musk-140710.html",
+      "description": "New perfume listing: White Lily Musk by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Violet Elegance",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Violet-Elegance-140708.html",
+      "description": "New perfume listing: Violet Elegance by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Unleash The Leopard Attar",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Unleash-The-Leopard-Attar-140706.html",
+      "description": "New perfume listing: Unleash The Leopard Attar by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Silent Cosmos",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Silent-Cosmos-140704.html",
+      "description": "New perfume listing: Silent Cosmos by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Counter Move",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Counter-Move-140702.html",
+      "description": "New perfume listing: Counter Move by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Peach & Roses",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Peach-Roses-140700.html",
+      "description": "New perfume listing: Peach & Roses by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Berry Spritz",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Berry-Spritz-140697.html",
+      "description": "New perfume listing: Berry Spritz by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Vanilla Candies",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vanilla-Candies-140695.html",
+      "description": "New perfume listing: Vanilla Candies by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Peach Spiritus",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Peach-Spiritus-140758.html",
+      "description": "New perfume listing: Peach Spiritus by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Lustful Paradise",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lustful-Paradise-140756.html",
+      "description": "New perfume listing: Lustful Paradise by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Tea de Russie",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tea-de-Russie-140754.html",
+      "description": "New perfume listing: Tea de Russie by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Essence of Vetiverum",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Essence-of-Vetiverum-140752.html",
+      "description": "New perfume listing: Essence of Vetiverum by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Her Affair",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Her-Affair-140750.html",
+      "description": "New perfume listing: Her Affair by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — #Fierce",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fierce-140749.html",
+      "description": "New perfume listing: #Fierce by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "Kerzon Paris — Le Soleil",
+      "link": "https://www.fragrantica.com/perfume/Kerzon-Paris/Le-Soleil-140741.html",
+      "description": "New perfume listing: Le Soleil by Kerzon Paris.",
+      "category": "New Perfumes",
+      "author": "Kerzon Paris",
+      "published": 1788410086
+    },
+    {
+      "title": "Kerzon Paris — Maille Câline",
+      "link": "https://www.fragrantica.com/perfume/Kerzon-Paris/Maille-Caline-140740.html",
+      "description": "New perfume listing: Maille Câline by Kerzon Paris.",
+      "category": "New Perfumes",
+      "author": "Kerzon Paris",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Gold Chypre",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Gold-Chypre-140738.html",
+      "description": "New perfume listing: Gold Chypre by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Xtreme Patch",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Xtreme-Patch-140737.html",
+      "description": "New perfume listing: Xtreme Patch by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Spice From The East",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Spice-From-The-East-140735.html",
+      "description": "New perfume listing: Spice From The East by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Gold Fluid",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Gold-Fluid-140733.html",
+      "description": "New perfume listing: Gold Fluid by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Casino Elixir Special Edition",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Casino-Elixir-Special-Edition-140731.html",
+      "description": "New perfume listing: Casino Elixir Special Edition by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Year of 1849",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Year-of-1849-140729.html",
+      "description": "New perfume listing: Year of 1849 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Mythical Horse",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mythical-Horse-140727.html",
+      "description": "New perfume listing: Mythical Horse by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Supernova in a Matrix",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Supernova-in-a-Matrix-140725.html",
+      "description": "New perfume listing: Supernova in a Matrix by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — The Savage Of Casino Royale",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Savage-Of-Casino-Royale-140723.html",
+      "description": "New perfume listing: The Savage Of Casino Royale by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Arena",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Arena-140721.html",
+      "description": "New perfume listing: Arena by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Bleu Casino Royale Femme",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Bleu-Casino-Royale-Femme-140719.html",
+      "description": "New perfume listing: Bleu Casino Royale Femme by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Midnight Caribbean Rendezvous",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Midnight-Caribbean-Rendezvous-140717.html",
+      "description": "New perfume listing: Midnight Caribbean Rendezvous by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Enchanted Casino Elixir",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Enchanted-Casino-Elixir-140715.html",
+      "description": "New perfume listing: Enchanted Casino Elixir by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — #Craveme",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Craveme-140713.html",
+      "description": "New perfume listing: #Craveme by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Poseidon's Legendary Chariot",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Poseidon-s-Legendary-Chariot-140711.html",
+      "description": "New perfume listing: Poseidon's Legendary Chariot by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Victorian Poseidon",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Victorian-Poseidon-140709.html",
+      "description": "New perfume listing: Victorian Poseidon by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Casino Royale's Chariot",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Casino-Royale-s-Chariot-140707.html",
+      "description": "New perfume listing: Casino Royale's Chariot by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Rosa Poseidon",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rosa-Poseidon-140705.html",
+      "description": "New perfume listing: Rosa Poseidon by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Casino Matrix",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Casino-Matrix-140703.html",
+      "description": "New perfume listing: Casino Matrix by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Poseidon's Elixir Remixed MOD 2",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Poseidon-s-Elixir-Remixed-MOD-2-140701.html",
+      "description": "New perfume listing: Poseidon's Elixir Remixed MOD 2 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Midnight Rendezvous in a Tux",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Midnight-Rendezvous-in-a-Tux-140699.html",
+      "description": "New perfume listing: Midnight Rendezvous in a Tux by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
+    {
+      "title": "The Dua Brand — Casino Royale's Fortune",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Casino-Royale-s-Fortune-140698.html",
+      "description": "New perfume listing: Casino Royale's Fortune by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788410086
+    },
     {
       "title": "The Dua Brand — Smoky Cedar Intense",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Smoky-Cedar-Intense-140624.html",
@@ -1081,526 +1601,6 @@
       "category": "New Perfumes",
       "author": "PARIS CORNER",
       "published": 1788383056
-    },
-    {
-      "title": "Staroscent — Sex on the Bridge",
-      "link": "https://www.fragrantica.com/perfume/Staroscent/Sex-on-the-Bridge-140591.html",
-      "description": "New perfume listing: Sex on the Bridge by Staroscent.",
-      "category": "New Perfumes",
-      "author": "Staroscent",
-      "published": 1788366939
-    },
-    {
-      "title": "Staroscent — Morava",
-      "link": "https://www.fragrantica.com/perfume/Staroscent/Morava-140590.html",
-      "description": "New perfume listing: Morava by Staroscent.",
-      "category": "New Perfumes",
-      "author": "Staroscent",
-      "published": 1788366939
-    },
-    {
-      "title": "Skylar — Coconut Glow",
-      "link": "https://www.fragrantica.com/perfume/Skylar/Coconut-Glow-140589.html",
-      "description": "New perfume listing: Coconut Glow by Skylar.",
-      "category": "New Perfumes",
-      "author": "Skylar",
-      "published": 1788366939
-    },
-    {
-      "title": "Staroscent — Golem",
-      "link": "https://www.fragrantica.com/perfume/Staroscent/Golem-140588.html",
-      "description": "New perfume listing: Golem by Staroscent.",
-      "category": "New Perfumes",
-      "author": "Staroscent",
-      "published": 1788366939
-    },
-    {
-      "title": "Renier Perfumes — Donaire",
-      "link": "https://www.fragrantica.com/perfume/Renier-Perfumes/Donaire-140587.html",
-      "description": "New perfume listing: Donaire by Renier Perfumes.",
-      "category": "New Perfumes",
-      "author": "Renier Perfumes",
-      "published": 1788366939
-    },
-    {
-      "title": "Jouri — Rouh",
-      "link": "https://www.fragrantica.com/perfume/Jouri/Rouh-140586.html",
-      "description": "New perfume listing: Rouh by Jouri.",
-      "category": "New Perfumes",
-      "author": "Jouri",
-      "published": 1788366939
-    },
-    {
-      "title": "Korbaj — Amara",
-      "link": "https://www.fragrantica.com/perfume/Korbaj/Amara-140585.html",
-      "description": "New perfume listing: Amara by Korbaj.",
-      "category": "New Perfumes",
-      "author": "Korbaj",
-      "published": 1788366939
-    },
-    {
-      "title": "Zara — Luce di Tuscana Italian Fig & Wood",
-      "link": "https://www.fragrantica.com/perfume/Zara/Luce-di-Tuscana-Italian-Fig-Wood-140584.html",
-      "description": "New perfume listing: Luce di Tuscana Italian Fig & Wood by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1788366939
-    },
-    {
-      "title": "Zara — Sera a Taormina Mango & Oud",
-      "link": "https://www.fragrantica.com/perfume/Zara/Sera-a-Taormina-Mango-Oud-140583.html",
-      "description": "New perfume listing: Sera a Taormina Mango & Oud by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1788366939
-    },
-    {
-      "title": "Zara — Firenze Per Due Violet & Mocha",
-      "link": "https://www.fragrantica.com/perfume/Zara/Firenze-Per-Due-Violet-Mocha-140582.html",
-      "description": "New perfume listing: Firenze Per Due Violet & Mocha by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1788366939
-    },
-    {
-      "title": "Phronema Perfumes — Megalexandros",
-      "link": "https://www.fragrantica.com/perfume/Phronema-Perfumes/Megalexandros-140581.html",
-      "description": "New perfume listing: Megalexandros by Phronema Perfumes.",
-      "category": "New Perfumes",
-      "author": "Phronema Perfumes",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — Alvina Harmony",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alvina-Harmony-140580.html",
-      "description": "New perfume listing: Alvina Harmony by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Bujairami — Extra Pulse",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Extra-Pulse-140579.html",
-      "description": "New perfume listing: Extra Pulse by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — ALVINA CHARM",
-      "link": "https://www.fragrantica.com/perfume/Boshara/ALVINA-CHARM-140578.html",
-      "description": "New perfume listing: ALVINA CHARM by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — Alvina Allure",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alvina-Allure-140577.html",
-      "description": "New perfume listing: Alvina Allure by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — Alvina",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alvina-140576.html",
-      "description": "New perfume listing: Alvina by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — Alvaro Valour",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alvaro-Valour-140575.html",
-      "description": "New perfume listing: Alvaro Valour by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — ALVARO STRENGTH",
-      "link": "https://www.fragrantica.com/perfume/Boshara/ALVARO-STRENGTH-140574.html",
-      "description": "New perfume listing: ALVARO STRENGTH by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Boshara — Alvaro",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alvaro-140573.html",
-      "description": "New perfume listing: Alvaro by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1788366939
-    },
-    {
-      "title": "Read Fragrances — Wild Mimosa",
-      "link": "https://www.fragrantica.com/perfume/Read-Fragrances/Wild-Mimosa-140572.html",
-      "description": "New perfume listing: Wild Mimosa by Read Fragrances.",
-      "category": "New Perfumes",
-      "author": "Read Fragrances",
-      "published": 1788366939
-    },
-    {
-      "title": "Read Fragrances — Radiant Rose",
-      "link": "https://www.fragrantica.com/perfume/Read-Fragrances/Radiant-Rose-140571.html",
-      "description": "New perfume listing: Radiant Rose by Read Fragrances.",
-      "category": "New Perfumes",
-      "author": "Read Fragrances",
-      "published": 1788366939
-    },
-    {
-      "title": "Read Fragrances — Bold Poppy",
-      "link": "https://www.fragrantica.com/perfume/Read-Fragrances/Bold-Poppy-140570.html",
-      "description": "New perfume listing: Bold Poppy by Read Fragrances.",
-      "category": "New Perfumes",
-      "author": "Read Fragrances",
-      "published": 1788366939
-    },
-    {
-      "title": "Accordi Olfattivi Firenze — Vento di Fiesole",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi-Firenze/Vento-di-Fiesole-140569.html",
-      "description": "New perfume listing: Vento di Fiesole by Accordi Olfattivi Firenze.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi Firenze",
-      "published": 1788366939
-    },
-    {
-      "title": "Accordi Olfattivi Firenze — Alba di Boboli",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi-Firenze/Alba-di-Boboli-140568.html",
-      "description": "New perfume listing: Alba di Boboli by Accordi Olfattivi Firenze.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi Firenze",
-      "published": 1788366939
-    },
-    {
-      "title": "Accordi Olfattivi Firenze — Luce de’ Lungarni",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi-Firenze/Luce-de-Lungarni-140567.html",
-      "description": "New perfume listing: Luce de’ Lungarni by Accordi Olfattivi Firenze.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi Firenze",
-      "published": 1788366939
-    },
-    {
-      "title": "Accordi Olfattivi — Vento di Fiesole",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi/Vento-di-Fiesole-140569.html",
-      "description": "New perfume listing: Vento di Fiesole by Accordi Olfattivi.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi",
-      "published": 1788347986
-    },
-    {
-      "title": "Accordi Olfattivi — Alba di Boboli",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi/Alba-di-Boboli-140568.html",
-      "description": "New perfume listing: Alba di Boboli by Accordi Olfattivi.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi",
-      "published": 1788347986
-    },
-    {
-      "title": "Accordi Olfattivi — Luce de’ Lungarni",
-      "link": "https://www.fragrantica.com/perfume/Accordi-Olfattivi/Luce-de-Lungarni-140567.html",
-      "description": "New perfume listing: Luce de’ Lungarni by Accordi Olfattivi.",
-      "category": "New Perfumes",
-      "author": "Accordi Olfattivi",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — Mojito Vibe",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/Mojito-Vibe-140557.html",
-      "description": "New perfume listing: Mojito Vibe by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — Frozen Bliss",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/Frozen-Bliss-140556.html",
-      "description": "New perfume listing: Frozen Bliss by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — #10 Tomato/Leaf",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/10-Tomato-Leaf-140555.html",
-      "description": "New perfume listing: #10 Tomato/Leaf by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — #9 Mandarin/Rhubarb",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/9-Mandarin-Rhubarb-140554.html",
-      "description": "New perfume listing: #9 Mandarin/Rhubarb by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Faberlic — Call Me Muse",
-      "link": "https://www.fragrantica.com/perfume/Faberlic/Call-Me-Muse-140553.html",
-      "description": "New perfume listing: Call Me Muse by Faberlic.",
-      "category": "New Perfumes",
-      "author": "Faberlic",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — #8 Pineapple/Orange",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/8-Pineapple-Orange-140552.html",
-      "description": "New perfume listing: #8 Pineapple/Orange by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — Dilis Classic Collection No. 49",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/Dilis-Classic-Collection-No-49-140551.html",
-      "description": "New perfume listing: Dilis Classic Collection No. 49 by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — #5 Silent Moon",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/5-Silent-Moon-140550.html",
-      "description": "New perfume listing: #5 Silent Moon by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — #9 Rose Desire",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/9-Rose-Desire-140549.html",
-      "description": "New perfume listing: #9 Rose Desire by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Dilís Parfum — Revisee éclat",
-      "link": "https://www.fragrantica.com/perfume/Dilis-Parfum/Revisee-eclat-140548.html",
-      "description": "New perfume listing: Revisee éclat by Dilís Parfum.",
-      "category": "New Perfumes",
-      "author": "Dilís Parfum",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — La Rebelle",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/La-Rebelle-140547.html",
-      "description": "New perfume listing: La Rebelle by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — Naked Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Naked-Vanilla-140546.html",
-      "description": "New perfume listing: Naked Vanilla by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — Cherry Attar",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Cherry-Attar-140545.html",
-      "description": "New perfume listing: Cherry Attar by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — Forbidden Fruit",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Forbidden-Fruit-140544.html",
-      "description": "New perfume listing: Forbidden Fruit by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — Weekend à Paris",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Weekend-a-Paris-140543.html",
-      "description": "New perfume listing: Weekend à Paris by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Alan Bray — Crème de la Crème",
-      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Creme-de-la-Creme-140542.html",
-      "description": "New perfume listing: Crème de la Crème by Alan Bray.",
-      "category": "New Perfumes",
-      "author": "Alan Bray",
-      "published": 1788347986
-    },
-    {
-      "title": "Avon — Full Speed Metaenergy",
-      "link": "https://www.fragrantica.com/perfume/Avon/Full-Speed-Metaenergy-140541.html",
-      "description": "New perfume listing: Full Speed Metaenergy by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1788347986
-    },
-    {
-      "title": "Avon — Black Suede Daring",
-      "link": "https://www.fragrantica.com/perfume/Avon/Black-Suede-Daring-140540.html",
-      "description": "New perfume listing: Black Suede Daring by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1788347986
-    },
-    {
-      "title": "Benneviento — Silent Derealization",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Silent-Derealization-140535.html",
-      "description": "New perfume listing: Silent Derealization by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Capricorn",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Capricorn-140534.html",
-      "description": "New perfume listing: Capricorn by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Pisces",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Pisces-140533.html",
-      "description": "New perfume listing: Pisces by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Bleu Deschamps 1897",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Bleu-Deschamps-1897-140532.html",
-      "description": "New perfume listing: Bleu Deschamps 1897 by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Reverie 1897",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Reverie-1897-140531.html",
-      "description": "New perfume listing: Reverie 1897 by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Jaroslava 1919",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Jaroslava-1919-140530.html",
-      "description": "New perfume listing: Jaroslava 1919 by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Chocolate & Salt",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Chocolate-Salt-140529.html",
-      "description": "New perfume listing: Chocolate & Salt by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Bujairami — Soft Damage",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Soft-Damage-140528.html",
-      "description": "New perfume listing: Soft Damage by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Leo",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Leo-140527.html",
-      "description": "New perfume listing: Leo by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Gemini",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Gemini-140526.html",
-      "description": "New perfume listing: Gemini by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Virgo",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Virgo-140525.html",
-      "description": "New perfume listing: Virgo by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Cancer",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Cancer-140524.html",
-      "description": "New perfume listing: Cancer by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Aquarius",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Aquarius-140523.html",
-      "description": "New perfume listing: Aquarius by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Mucha — Libra",
-      "link": "https://www.fragrantica.com/perfume/Mucha/Libra-140522.html",
-      "description": "New perfume listing: Libra by Mucha.",
-      "category": "New Perfumes",
-      "author": "Mucha",
-      "published": 1788347986
-    },
-    {
-      "title": "Celio — Cedar",
-      "link": "https://www.fragrantica.com/perfume/Celio/Cedar-140566.html",
-      "description": "New perfume listing: Cedar by Celio.",
-      "category": "New Perfumes",
-      "author": "Celio",
-      "published": 1788347986
-    },
-    {
-      "title": "Celio — Vetiver",
-      "link": "https://www.fragrantica.com/perfume/Celio/Vetiver-140565.html",
-      "description": "New perfume listing: Vetiver by Celio.",
-      "category": "New Perfumes",
-      "author": "Celio",
-      "published": 1788347986
-    },
-    {
-      "title": "Celio — Mineral",
-      "link": "https://www.fragrantica.com/perfume/Celio/Mineral-140564.html",
-      "description": "New perfume listing: Mineral by Celio.",
-      "category": "New Perfumes",
-      "author": "Celio",
-      "published": 1788347986
-    },
-    {
-      "title": "Celio — Amber",
-      "link": "https://www.fragrantica.com/perfume/Celio/Amber-140563.html",
-      "description": "New perfume listing: Amber by Celio.",
-      "category": "New Perfumes",
-      "author": "Celio",
-      "published": 1788347986
-    },
-    {
-      "title": "Celio — Santal",
-      "link": "https://www.fragrantica.com/perfume/Celio/Santal-140562.html",
-      "description": "New perfume listing: Santal by Celio.",
-      "category": "New Perfumes",
-      "author": "Celio",
-      "published": 1788347986
     }
   ]
 }
