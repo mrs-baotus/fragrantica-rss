@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rahasya Launches Nomadic Jasmine",
+      "link": "https://www.fragrantica.com/news/Rahasya-Launches-Nomadic-Jasmine-26019.html",
+      "description": "A delicate, surprisingly cool take on jasmine",
+      "category": "New Fragrances",
+      "author": "Nicola Thomis",
+      "published": 1788509582
+    },
+    {
       "title": "Land Of Warriors by The Vagabond Prince: Like a Father's Belt",
       "link": "https://www.fragrantica.com/news/Land-Of-Warriors-by-The-Vagabond-Prince-Like-a-Father-s-Belt-26018.html",
       "description": "This father's belt is sorely missed these days!",
@@ -791,17 +799,41 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1787558403
-    },
-    {
-      "title": "Masculine Re-Edition 1999 Dolce&Gabbana Review",
-      "link": "https://www.fragrantica.com/news/Masculine-Re-Edition-1999-Dolce-Gabbana-Review-25920.html",
-      "description": "A pleasantly conservative scent.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1787542312
     }
   ],
   "perfumes": [
+    {
+      "title": "Zara — Session 01 Velvet Tempo",
+      "link": "https://www.fragrantica.com/perfume/Zara/Session-01-Velvet-Tempo-141373.html",
+      "description": "New perfume listing: Session 01 Velvet Tempo by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788520753
+    },
+    {
+      "title": "Zara — Session 01 Solar Bossa",
+      "link": "https://www.fragrantica.com/perfume/Zara/Session-01-Solar-Bossa-141372.html",
+      "description": "New perfume listing: Session 01 Solar Bossa by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788520753
+    },
+    {
+      "title": "Zara — Session 01 Smoked Reverb",
+      "link": "https://www.fragrantica.com/perfume/Zara/Session-01-Smoked-Reverb-141371.html",
+      "description": "New perfume listing: Session 01 Smoked Reverb by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1788520753
+    },
+    {
+      "title": "Rahasya — Nomadic Jasmine",
+      "link": "https://www.fragrantica.com/perfume/Rahasya/Nomadic-Jasmine-141370.html",
+      "description": "New perfume listing: Nomadic Jasmine by Rahasya.",
+      "category": "New Perfumes",
+      "author": "Rahasya",
+      "published": 1788520753
+    },
     {
       "title": "The Dua Brand — Miss Congeniality's Cotton Candy",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Miss-Congeniality-s-Cotton-Candy-141368.html",
@@ -1566,38 +1598,6 @@
       "title": "The Dua Brand — Village Of Greenwich",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Village-Of-Greenwich-141189.html",
       "description": "New perfume listing: Village Of Greenwich by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Silver Wood",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Silver-Wood-141187.html",
-      "description": "New perfume listing: Silver Wood by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Silver Rose Croc",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Silver-Rose-Croc-141185.html",
-      "description": "New perfume listing: Silver Rose Croc by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Reimagined Rose",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Reimagined-Rose-141183.html",
-      "description": "New perfume listing: Reimagined Rose by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Peachy Sugar Confection",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Peachy-Sugar-Confection-141181.html",
-      "description": "New perfume listing: Peachy Sugar Confection by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788469394
