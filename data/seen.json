@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Vintner's Daughter Introduces UNDERSTORY Vol. 4",
+      "link": "https://www.fragrantica.com/news/Vintner-s-Daughter-Introduces-UNDERSTORY-Vol-4-26022.html",
+      "description": "Includes a brief object lesson on the subjectivity of scent and skin chemistry",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1788549879
+    },
+    {
+      "title": "Issey Miyake Launches Le Sel d'Issey Parfum, A Saffron-Seaweed Scent",
+      "link": "https://www.fragrantica.com/news/Issey-Miyake-Launches-Le-Sel-d-Issey-Parfum-A-Saffron-Seaweed-Scent-26021.html",
+      "description": "Milky-spicy marine.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1788539556
+    },
+    {
       "title": "My Thoughts on Power of You and Ana Abiyedh Passion",
       "link": "https://www.fragrantica.com/news/My-Thoughts-on-Power-of-You-and-Ana-Abiyedh-Passion-26020.html",
       "description": "Based on my experience, testing the two extensively, they are definitely not the same.",
@@ -783,25 +799,97 @@
       "category": "Columns",
       "author": "Elena Vosnaki",
       "published": 1787576463
-    },
-    {
-      "title": "The Gerke Perfume Dynasty of the Russian Empire",
-      "link": "https://www.fragrantica.com/news/The-Gerke-Perfume-Dynasty-of-the-Russian-Empire-25923.html",
-      "description": "How a Personal Story Became a Life's Work: The story of a Purveyor to the Russian Imperial Court, in the words of their descendants.",
-      "category": "Vintages",
-      "author": "Alena Gerke",
-      "published": 1787569263
-    },
-    {
-      "title": "Rasasi Introduces Hawas Private Collection: Hawas Private Luceo, Hawas Private Terra, and Hawas Private Dulce",
-      "link": "https://www.fragrantica.com/news/Rasasi-Introduces-Hawas-Private-Collection-Hawas-Luceo-Hawas-Terra-and-Hawas-Dulce-25922.html",
-      "description": "Rasasi expands the Hawas universe with a new collection of three fragrances built around light, inner gravity and enduring grace.",
-      "category": "New Fragrances",
-      "author": "Igor Masyukov",
-      "published": 1787563700
     }
   ],
   "perfumes": [
+    {
+      "title": "The Dua Brand — Dua Molecule 01",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dua-Molecule-01-141403.html",
+      "description": "New perfume listing: Dua Molecule 01 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Dearest Fleur",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dearest-Fleur-141401.html",
+      "description": "New perfume listing: Dearest Fleur by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Sunset Envelope",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sunset-Envelope-141399.html",
+      "description": "New perfume listing: Sunset Envelope by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Rose Of Taif Heights",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rose-Of-Taif-Heights-141397.html",
+      "description": "New perfume listing: Rose Of Taif Heights by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "Khadlaj Perfumes — Sueño",
+      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Sueno-141396.html",
+      "description": "New perfume listing: Sueño by Khadlaj Perfumes.",
+      "category": "New Perfumes",
+      "author": "Khadlaj Perfumes",
+      "published": 1788554783
+    },
+    {
+      "title": "Rabanne — Fame Winter Crush",
+      "link": "https://www.fragrantica.com/perfume/Rabanne/Fame-Winter-Crush-141395.html",
+      "description": "New perfume listing: Fame Winter Crush by Rabanne.",
+      "category": "New Perfumes",
+      "author": "Rabanne",
+      "published": 1788554783
+    },
+    {
+      "title": "Acqua di Parma — Cedro Virtuoso",
+      "link": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Cedro-Virtuoso-141394.html",
+      "description": "New perfume listing: Cedro Virtuoso by Acqua di Parma.",
+      "category": "New Perfumes",
+      "author": "Acqua di Parma",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Bon Bon Dream",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Bon-Bon-Dream-141404.html",
+      "description": "New perfume listing: Bon Bon Dream by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Golden Spice Latte",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Golden-Spice-Latte-141402.html",
+      "description": "New perfume listing: Golden Spice Latte by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — White Tiger",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/White-Tiger-141400.html",
+      "description": "New perfume listing: White Tiger by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
+    {
+      "title": "The Dua Brand — Emerald Eyes Of Tiger",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Emerald-Eyes-Of-Tiger-141398.html",
+      "description": "New perfume listing: Emerald Eyes Of Tiger by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788554783
+    },
     {
       "title": "The Dua Brand — Exceptional Vetiver",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Exceptional-Vetiver-141392.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Vanilla Warmth Sweetness",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vanilla-Warmth-Sweetness-141249.html",
-      "description": "New perfume listing: Vanilla Warmth Sweetness by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — True Self Absolute",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/True-Self-Absolute-141247.html",
-      "description": "New perfume listing: True Self Absolute by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Liberated Couture Of Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Liberated-Couture-Of-Vanilla-141245.html",
-      "description": "New perfume listing: Liberated Couture Of Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Marshmallow Almond Veil",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Marshmallow-Almond-Veil-141243.html",
-      "description": "New perfume listing: Marshmallow Almond Veil by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Heart Of Rome Green",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Heart-Of-Rome-Green-141241.html",
-      "description": "New perfume listing: Heart Of Rome Green by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Sheer Beauty Suede Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sheer-Beauty-Suede-Vanilla-141239.html",
-      "description": "New perfume listing: Sheer Beauty Suede Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Miss Essence",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Miss-Essence-141237.html",
-      "description": "New perfume listing: Miss Essence by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Gardening Ritual",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Gardening-Ritual-141235.html",
-      "description": "New perfume listing: Gardening Ritual by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Elixir Of His Desire",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Elixir-Of-His-Desire-141233.html",
-      "description": "New perfume listing: Elixir Of His Desire by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Blue Craving",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Blue-Craving-141231.html",
-      "description": "New perfume listing: Blue Craving by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
-    },
-    {
-      "title": "The Dua Brand — Seeds Of Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Seeds-Of-Vanilla-141229.html",
-      "description": "New perfume listing: Seeds Of Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788469394
     }
   ]
 }
