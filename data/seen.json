@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Add or Take Away: How Chanel and Guerlain Update Their Classics",
+      "link": "https://www.fragrantica.com/news/Add-or-Take-Away-How-Chanel-and-Guerlain-Update-Their-Classics-26025.html",
+      "description": "Two legendary profiles, two attempts to bring them up to date. Which one works better?",
+      "category": "Video",
+      "author": "Columns",
+      "published": 1788578643
+    },
+    {
+      "title": "Rabanne Fame Winter Crush",
+      "link": "https://www.fragrantica.com/news/Rabanne-Fame-Winter-Crush-26024.html",
+      "description": "A collector's edition.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1788567843
+    },
+    {
+      "title": "Iris Debonair: Carefully Crafted, Yet Unsurprising",
+      "link": "https://www.fragrantica.com/news/Iris-Debonaire-Carefully-Crafted-Yet-Unsurprising-26023.html",
+      "description": "Creed’s new release is indeed beautiful, but a good scent gets ruined when a house thinks too highly of itself...",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1788555512
+    },
+    {
       "title": "Vintner's Daughter Introduces UNDERSTORY Vol. 4",
       "link": "https://www.fragrantica.com/news/Vintner-s-Daughter-Introduces-UNDERSTORY-Vol-4-26022.html",
       "description": "Includes a brief object lesson on the subjectivity of scent and skin chemistry",
@@ -775,33 +799,73 @@
       "category": "Fragrance Reviews",
       "author": "Nicola Thomis",
       "published": 1787602682
-    },
-    {
-      "title": "Revisiting the Luxurious Les Exclusifs de Chanel Eaux de Parfum Collection | Part 2",
-      "link": "https://www.fragrantica.com/news/Revisiting-the-Luxurious-Les-Exclusifs-de-Chanel-Eaux-de-Parfum-Collection-Part-2-25926.html",
-      "description": "We continue to analyze the luxurious collection that exalts and inspires the extrinsic characteristics of Gabrielle Chanel throughout her journey.",
-      "category": "Fragrance Reviews",
-      "author": "Jernê Knowles",
-      "published": 1787593023
-    },
-    {
-      "title": "April Aromatics Launches Strawberry Fields",
-      "link": "https://www.fragrantica.com/news/April-Aromatics-Launches-Strawberry-Fields-25925.html",
-      "description": "\"It evokes long summer days, sun-warmed strawberries, bare skin, fresh air and those carefree moments when the world seems a little sweeter.\"",
-      "category": "New Fragrances",
-      "author": "Giulietta Ptoyan",
-      "published": 1787583724
-    },
-    {
-      "title": "Ginepro di Sardegna (AdP) & Soul of my Soul (ELDO): More Alike than Not",
-      "link": "https://www.fragrantica.com/news/Ginepro-di-Sardegna-AdP-Soul-of-my-Soul-ELDO-More-Alike-than-Not-25924.html",
-      "description": "A substitute scent for a discontinued one. And proof you absolutely need to trust your nose.",
-      "category": "Columns",
-      "author": "Elena Vosnaki",
-      "published": 1787576463
     }
   ],
   "perfumes": [
+    {
+      "title": "The Dua Brand — Lemon Basil Fresh",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lemon-Basil-Fresh-141411.html",
+      "description": "New perfume listing: Lemon Basil Fresh by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Eccentric Vanilla",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Eccentric-Vanilla-141409.html",
+      "description": "New perfume listing: Eccentric Vanilla by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Origins Of Vanilla",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Origins-Of-Vanilla-141407.html",
+      "description": "New perfume listing: Origins Of Vanilla by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Crushed Berry Smoothie",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Crushed-Berry-Smoothie-141405.html",
+      "description": "New perfume listing: Crushed Berry Smoothie by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Memories In A Bottle",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Memories-In-A-Bottle-141412.html",
+      "description": "New perfume listing: Memories In A Bottle by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Exotic Vanillac Spring",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Exotic-Vanillac-Spring-141410.html",
+      "description": "New perfume listing: Exotic Vanillac Spring by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Chocolate Wafers & Coffee",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Chocolate-Wafers-Coffee-141408.html",
+      "description": "New perfume listing: Chocolate Wafers & Coffee by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
+    {
+      "title": "The Dua Brand — Caramelized Choco Biscuits",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Caramelized-Choco-Biscuits-141406.html",
+      "description": "New perfume listing: Caramelized Choco Biscuits by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788582672
+    },
     {
       "title": "The Dua Brand — Dua Molecule 01",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dua-Molecule-01-141403.html",
@@ -1534,70 +1598,6 @@
       "title": "The Dua Brand — Her Midnight Rose Musc",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Her-Midnight-Rose-Musc-141322.html",
       "description": "New perfume listing: Her Midnight Rose Musc by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Glorious Dreams",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Glorious-Dreams-141320.html",
-      "description": "New perfume listing: Glorious Dreams by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Dua-Tine 2024",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dua-Tine-2024-141318.html",
-      "description": "New perfume listing: Dua-Tine 2024 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Sweet Symphony",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sweet-Symphony-141316.html",
-      "description": "New perfume listing: Sweet Symphony by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Pure Nectar Of Casino Royale Nights",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pure-Nectar-Of-Casino-Royale-Nights-141314.html",
-      "description": "New perfume listing: Pure Nectar Of Casino Royale Nights by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Caramel Apple Turnovers",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Caramel-Apple-Turnovers-141312.html",
-      "description": "New perfume listing: Caramel Apple Turnovers by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Dust Of Moon",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dust-Of-Moon-141310.html",
-      "description": "New perfume listing: Dust Of Moon by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — Elixir Of His Guilt",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Elixir-Of-His-Guilt-141308.html",
-      "description": "New perfume listing: Elixir Of His Guilt by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788496520
-    },
-    {
-      "title": "The Dua Brand — The Heaven Of Fruity Sweetness",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Heaven-Of-Fruity-Sweetness-141306.html",
-      "description": "New perfume listing: The Heaven Of Fruity Sweetness by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788496520
