@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Perfumed Horoscope: September 7 - September 13",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-7-September-13-26033.html",
+      "description": "\"Two sextiles added to a trine.\"",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1788697983
+    },
+    {
       "title": "Odéon by Memo Paris, a Night in Paris",
       "link": "https://www.fragrantica.com/news/Odeon-by-Memo-Paris-a-Night-in-Paris-26032.html",
       "description": "A dramatic dark rose, signed by perfumer Aliénor Massenet.",
@@ -791,17 +799,97 @@
       "category": "Video",
       "author": "New Fragrances",
       "published": 1787665862
-    },
-    {
-      "title": "PITTI FRAGRANZE 24th Edition, Florence, September 11-13, 2026",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-24th-Edition-Florence-September-11-13-2026-25933.html",
-      "description": "The 24th edition of Pitti Fragranze will bring more than 260 international brands to Florence’s Stazione Leopolda, reaffirming the fair’s position as a key meeting point for artistic perfumery, independent beauty and contemporary olfactory culture.",
-      "category": "Art Books Events",
-      "author": "Sandra Raičević Petrović",
-      "published": 1787657762
     }
   ],
   "perfumes": [
+    {
+      "title": "Gnezdovje Parfumerie — Hay",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Hay-141492.html",
+      "description": "New perfume listing: Hay by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Frankincense",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Frankincense-141491.html",
+      "description": "New perfume listing: Frankincense by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Rosehip",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Rosehip-141490.html",
+      "description": "New perfume listing: Rosehip by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Cedar",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Cedar-141489.html",
+      "description": "New perfume listing: Cedar by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Tobacco",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Tobacco-141488.html",
+      "description": "New perfume listing: Tobacco by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Wormwood",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Wormwood-141487.html",
+      "description": "New perfume listing: Wormwood by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Tagetes",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Tagetes-141486.html",
+      "description": "New perfume listing: Tagetes by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "Gnezdovje Parfumerie — Krampusnacht",
+      "link": "https://www.fragrantica.com/perfume/Gnezdovje-Parfumerie/Krampusnacht-141485.html",
+      "description": "New perfume listing: Krampusnacht by Gnezdovje Parfumerie.",
+      "category": "New Perfumes",
+      "author": "Gnezdovje Parfumerie",
+      "published": 1788708518
+    },
+    {
+      "title": "The Dua Brand — County Of Miami-Dade",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/County-Of-Miami-Dade-141393.html",
+      "description": "New perfume listing: County Of Miami-Dade by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788708518
+    },
+    {
+      "title": "The Dua Brand — Mardi Gras Elixir",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mardi-Gras-Elixir-141391.html",
+      "description": "New perfume listing: Mardi Gras Elixir by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788708518
+    },
+    {
+      "title": "The Dua Brand — Cardamom Chai",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cardamom-Chai-141389.html",
+      "description": "New perfume listing: Cardamom Chai by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788708518
+    },
     {
       "title": "Bujairami — Oohh",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Oohh-141484.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788554783
-    },
-    {
-      "title": "The Dua Brand — White Tiger",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/White-Tiger-141400.html",
-      "description": "New perfume listing: White Tiger by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788554783
-    },
-    {
-      "title": "The Dua Brand — Emerald Eyes Of Tiger",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Emerald-Eyes-Of-Tiger-141398.html",
-      "description": "New perfume listing: Emerald Eyes Of Tiger by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788554783
-    },
-    {
-      "title": "The Dua Brand — Exceptional Vetiver",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Exceptional-Vetiver-141392.html",
-      "description": "New perfume listing: Exceptional Vetiver by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788538942
-    },
-    {
-      "title": "The Dua Brand — Decadent Amber",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Decadent-Amber-141390.html",
-      "description": "New perfume listing: Decadent Amber by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788538942
-    },
-    {
-      "title": "The Dua Brand — Crimson Apple Oud",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Crimson-Apple-Oud-141388.html",
-      "description": "New perfume listing: Crimson Apple Oud by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788538942
-    },
-    {
-      "title": "The Dua Brand — Attar Of Founding Father",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Attar-Of-Founding-Father-141386.html",
-      "description": "New perfume listing: Attar Of Founding Father by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788538942
-    },
-    {
-      "title": "Opal Perfumes — Illuminati Black",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Illuminati-Black-141385.html",
-      "description": "New perfume listing: Illuminati Black by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788538942
-    },
-    {
-      "title": "Opula Perfumes — Illuminati Red",
-      "link": "https://www.fragrantica.com/perfume/Opula-Perfumes/Illuminati-Red-141384.html",
-      "description": "New perfume listing: Illuminati Red by Opula Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opula Perfumes",
-      "published": 1788538942
-    },
-    {
-      "title": "Opal Perfumes — Oud Makha",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Oud-Makha-141383.html",
-      "description": "New perfume listing: Oud Makha by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788538942
-    },
-    {
-      "title": "Opal Perfumes — Splendid",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Splendid-141382.html",
-      "description": "New perfume listing: Splendid by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788538942
-    },
-    {
-      "title": "Opal Perfumes — Dhikrayat",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Dhikrayat-141381.html",
-      "description": "New perfume listing: Dhikrayat by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1788538942
     }
   ]
 }
