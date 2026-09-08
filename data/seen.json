@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Jean Paul Gaultier Brings Back Fleur du Mâle",
+      "link": "https://www.fragrantica.com/news/Jean-Paul-Gaultier-Brings-Back-Fleur-du-Male-26049.html",
+      "description": "Fleur du Mâle makes its long-awaited return.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1788899403
+    },
+    {
+      "title": "ACQUA DI PARMA Cedro Virtuoso",
+      "link": "https://www.fragrantica.com/news/ACQUA-DI-PARMA-Cedro-Virtuoso-26048.html",
+      "description": "Built around the contrasting facets of cedarwood and a distinctive hazelnut co-infusion.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1788895763
+    },
+    {
       "title": "Les Indemodables. Part I: Floral Fragrances",
       "link": "https://www.fragrantica.com/news/Les-Indemodables-Part-I-Floral-Fragrances-26047.html",
       "description": "A review of five Les Indemodables fragrances: Cuir de Chine, Fougere Emeraude, Iris Perle, Oranger Sirocco, and Rose de Jamal.",
@@ -783,25 +799,41 @@
       "category": "Best in Show",
       "author": "John Biebel,Elena Knezevic,Igor Masyukov,Sena Toprak",
       "published": 1787775665
-    },
-    {
-      "title": "Oppen's Hall of Beauty: An Unknown Fragrance, a Famous Scent",
-      "link": "https://www.fragrantica.com/news/Oppen-s-Hall-of-Beauty-An-Unknown-Fragrance-a-Famous-Scent-25949.html",
-      "description": "The Hall of Beauty fragrance of Bulgarian roses.",
-      "category": "Vintages",
-      "author": "Sergey Borisov",
-      "published": 1787771599
-    },
-    {
-      "title": "CHANEL'S \"MADEMOISELLE CRUSH ABSOLU\" THROUGH THE EYES OF JOE WRIGHT",
-      "link": "https://www.fragrantica.com/news/CHANEL-S-MADEMOISELLE-CRUSH-ABSOLUE-THROUGH-THE-EYES-OF-JOE-WRIGHT-25948.html",
-      "description": "A perfume commercial video has two tasks: to tell a good story and to evoke the desire to try the fragrance.",
-      "category": "Video",
-      "author": "Columns",
-      "published": 1787766218
     }
   ],
   "perfumes": [
+    {
+      "title": "L'Atelier Mobius 莫比乌斯 — Neige Dorée",
+      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Neige-Doree-142137.html",
+      "description": "New perfume listing: Neige Dorée by L'Atelier Mobius 莫比乌斯.",
+      "category": "New Perfumes",
+      "author": "L'Atelier Mobius 莫比乌斯",
+      "published": 1788901812
+    },
+    {
+      "title": "L'Atelier Mobius 莫比乌斯 — Mon Souvenir Précieux",
+      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Mon-Souvenir-Precieux-142136.html",
+      "description": "New perfume listing: Mon Souvenir Précieux by L'Atelier Mobius 莫比乌斯.",
+      "category": "New Perfumes",
+      "author": "L'Atelier Mobius 莫比乌斯",
+      "published": 1788901812
+    },
+    {
+      "title": "L'Atelier Mobius 莫比乌斯 — Passion Chypre",
+      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Passion-Chypre-142135.html",
+      "description": "New perfume listing: Passion Chypre by L'Atelier Mobius 莫比乌斯.",
+      "category": "New Perfumes",
+      "author": "L'Atelier Mobius 莫比乌斯",
+      "published": 1788901812
+    },
+    {
+      "title": "Written on Water — En Plein Air",
+      "link": "https://www.fragrantica.com/perfume/Written-on-Water/En-Plein-Air-142134.html",
+      "description": "New perfume listing: En Plein Air by Written on Water.",
+      "category": "New Perfumes",
+      "author": "Written on Water",
+      "published": 1788901812
+    },
     {
       "title": "Jean Paul Gaultier — Fleur du Mâle",
       "link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Fleur-du-Male-142131.html",
@@ -1566,38 +1598,6 @@
       "title": "The Dua Brand — Moonlit Jasmine & Spice",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Moonlit-Jasmine-Spice-141927.html",
       "description": "New perfume listing: Moonlit Jasmine & Spice by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Tart Juicy Berry Cocktail",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tart-Juicy-Berry-Cocktail-141925.html",
-      "description": "New perfume listing: Tart Juicy Berry Cocktail by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Unmistakably Sexy For Her",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Unmistakably-Sexy-For-Her-141923.html",
-      "description": "New perfume listing: Unmistakably Sexy For Her by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Floral Coconuts Of Maldives 20",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Coconuts-Of-Maldives-20-141921.html",
-      "description": "New perfume listing: Floral Coconuts Of Maldives 20 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Spicy Blossoms Of Marrakesh 24",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Spicy-Blossoms-Of-Marrakesh-24-141919.html",
-      "description": "New perfume listing: Spicy Blossoms Of Marrakesh 24 by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788842288
