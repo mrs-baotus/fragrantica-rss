@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Les Indemodables. Part I: Floral Fragrances",
+      "link": "https://www.fragrantica.com/news/Les-Indemodables-Part-I-Floral-Fragrances-26047.html",
+      "description": "A review of five Les Indemodables fragrances: Cuir de Chine, Fougere Emeraude, Iris Perle, Oranger Sirocco, and Rose de Jamal.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1788885003
+    },
+    {
+      "title": "Rituals Launches Nouwa Within the New Uukumwe Product Line",
+      "link": "https://www.fragrantica.com/news/Rituals-Launches-Nouwa-Within-the-New-Uukumwe-Product-Line-26046.html",
+      "description": "Uukumwe, meaning unity and togetherness, is a celebration of Namibian heritage and the power of collective care. The line was created in consultation with members of the Ovawambo community.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1788876192
+    },
+    {
       "title": "Why I Will Always Have L'Instant de Guerlain EDP in My Collection",
       "link": "https://www.fragrantica.com/news/Why-I-Will-Always-Have-L-Instant-de-Guerlain-EDP-in-My-Collection-26045.html",
       "description": "A beautiful classic that is highly underrated.",
@@ -783,25 +799,185 @@
       "category": "Video",
       "author": "Columns",
       "published": 1787766218
-    },
-    {
-      "title": "Valentino Vendetta Film, the Scents of Unstoppable Passion",
-      "link": "https://www.fragrantica.com/news/Valentino-Vendetta-Film-the-Scents-of-Unstoppable-Passion-25947.html",
-      "description": "Enjoy watching!",
-      "category": "Video",
-      "author": "Advertising Campaigns",
-      "published": 1787764309
-    },
-    {
-      "title": "Notre Flore Iris: Transparent Iris by L'Occitane en Provence",
-      "link": "https://www.fragrantica.com/news/Notre-Flore-Iris-Transparent-Iris-by-L-Occitane-en-Provence-25946.html",
-      "description": "The natural treasures of the Mediterranean coast",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1787758388
     }
   ],
   "perfumes": [
+    {
+      "title": "Jean Paul Gaultier — Fleur du Mâle",
+      "link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Fleur-du-Male-142131.html",
+      "description": "New perfume listing: Fleur du Mâle by Jean Paul Gaultier.",
+      "category": "New Perfumes",
+      "author": "Jean Paul Gaultier",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Rose D’Amour",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Rose-D-Amour-142129.html",
+      "description": "New perfume listing: Rose D’Amour by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Alexandra",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Alexandra-142128.html",
+      "description": "New perfume listing: Alexandra by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Hinoki Sublime",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Hinoki-Sublime-142127.html",
+      "description": "New perfume listing: Hinoki Sublime by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Osmanthus Crystal",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Osmanthus-Crystal-142126.html",
+      "description": "New perfume listing: Osmanthus Crystal by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Shanghai Jazz",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Shanghai-Jazz-142125.html",
+      "description": "New perfume listing: Shanghai Jazz by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "Federico Cantelli Exclusive Collection — Cuore Nero",
+      "link": "https://www.fragrantica.com/perfume/Federico-Cantelli-Exclusive-Collection/Cuore-Nero-142124.html",
+      "description": "New perfume listing: Cuore Nero by Federico Cantelli Exclusive Collection.",
+      "category": "New Perfumes",
+      "author": "Federico Cantelli Exclusive Collection",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Crystal Lace",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Crystal-Lace-142123.html",
+      "description": "New perfume listing: Crystal Lace by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "Federico Cantelli Exclusive Collection — Amarena Mia",
+      "link": "https://www.fragrantica.com/perfume/Federico-Cantelli-Exclusive-Collection/Amarena-Mia-142122.html",
+      "description": "New perfume listing: Amarena Mia by Federico Cantelli Exclusive Collection.",
+      "category": "New Perfumes",
+      "author": "Federico Cantelli Exclusive Collection",
+      "published": 1788885548
+    },
+    {
+      "title": "Adidas — Pure",
+      "link": "https://www.fragrantica.com/perfume/Adidas/Pure-142121.html",
+      "description": "New perfume listing: Pure by Adidas.",
+      "category": "New Perfumes",
+      "author": "Adidas",
+      "published": 1788885548
+    },
+    {
+      "title": "Spezieria di San Marco — Fennel Absolute",
+      "link": "https://www.fragrantica.com/perfume/Spezieria-di-San-Marco/Fennel-Absolute-142120.html",
+      "description": "New perfume listing: Fennel Absolute by Spezieria di San Marco.",
+      "category": "New Perfumes",
+      "author": "Spezieria di San Marco",
+      "published": 1788885548
+    },
+    {
+      "title": "Adidas — Core",
+      "link": "https://www.fragrantica.com/perfume/Adidas/Core-142119.html",
+      "description": "New perfume listing: Core by Adidas.",
+      "category": "New Perfumes",
+      "author": "Adidas",
+      "published": 1788885548
+    },
+    {
+      "title": "Ormaie — Rose Mosaïque",
+      "link": "https://www.fragrantica.com/perfume/Ormaie/Rose-Mosaique-142118.html",
+      "description": "New perfume listing: Rose Mosaïque by Ormaie.",
+      "category": "New Perfumes",
+      "author": "Ormaie",
+      "published": 1788885548
+    },
+    {
+      "title": "Ormaie — Bois Océan",
+      "link": "https://www.fragrantica.com/perfume/Ormaie/Bois-Ocean-142117.html",
+      "description": "New perfume listing: Bois Océan by Ormaie.",
+      "category": "New Perfumes",
+      "author": "Ormaie",
+      "published": 1788885548
+    },
+    {
+      "title": "Esprit — Delight",
+      "link": "https://www.fragrantica.com/perfume/Esprit/Delight-142116.html",
+      "description": "New perfume listing: Delight by Esprit.",
+      "category": "New Perfumes",
+      "author": "Esprit",
+      "published": 1788885548
+    },
+    {
+      "title": "Ormaie — Musc Miroir",
+      "link": "https://www.fragrantica.com/perfume/Ormaie/Musc-Miroir-142115.html",
+      "description": "New perfume listing: Musc Miroir by Ormaie.",
+      "category": "New Perfumes",
+      "author": "Ormaie",
+      "published": 1788885548
+    },
+    {
+      "title": "Esprit — Just Magnolia",
+      "link": "https://www.fragrantica.com/perfume/Esprit/Just-Magnolia-142114.html",
+      "description": "New perfume listing: Just Magnolia by Esprit.",
+      "category": "New Perfumes",
+      "author": "Esprit",
+      "published": 1788885548
+    },
+    {
+      "title": "Donna Karan — DKNY Women Skyline",
+      "link": "https://www.fragrantica.com/perfume/Donna-Karan/DKNY-Women-Skyline-142113.html",
+      "description": "New perfume listing: DKNY Women Skyline by Donna Karan.",
+      "category": "New Perfumes",
+      "author": "Donna Karan",
+      "published": 1788885548
+    },
+    {
+      "title": "Rituals — Uukumwe Fragrance mist",
+      "link": "https://www.fragrantica.com/perfume/Rituals/Uukumwe-Fragrance-mist-142112.html",
+      "description": "New perfume listing: Uukumwe Fragrance mist by Rituals.",
+      "category": "New Perfumes",
+      "author": "Rituals",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Kyoto Jazz",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Kyoto-Jazz-142133.html",
+      "description": "New perfume listing: Kyoto Jazz by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Chronic Tonic",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Chronic-Tonic-142132.html",
+      "description": "New perfume listing: Chronic Tonic by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
+    {
+      "title": "LAYR — Before Petrichor",
+      "link": "https://www.fragrantica.com/perfume/LAYR/Before-Petrichor-142130.html",
+      "description": "New perfume listing: Before Petrichor by LAYR.",
+      "category": "New Perfumes",
+      "author": "LAYR",
+      "published": 1788885548
+    },
     {
       "title": "Rituals — Nouwa",
       "link": "https://www.fragrantica.com/perfume/Rituals/Nouwa-142111.html",
@@ -1425,182 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Floral Coconut & Vanilla 21",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Coconut-Vanilla-21-141917.html",
-      "description": "New perfume listing: Floral Coconut & Vanilla 21 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Pink Pepper Candied Crystals 25",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pink-Pepper-Candied-Crystals-25-141915.html",
-      "description": "New perfume listing: Pink Pepper Candied Crystals 25 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Purity Of Jasmine",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Purity-Of-Jasmine-141783.html",
-      "description": "New perfume listing: Purity Of Jasmine by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Mango Passion Oudh",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mango-Passion-Oudh-141781.html",
-      "description": "New perfume listing: Mango Passion Oudh by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Maui POG Nectar",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Maui-POG-Nectar-141779.html",
-      "description": "New perfume listing: Maui POG Nectar by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Frozen Watermelon Punch",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Frozen-Watermelon-Punch-141777.html",
-      "description": "New perfume listing: Frozen Watermelon Punch by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "Hellenist — Éveil du Faune",
-      "link": "https://www.fragrantica.com/perfume/Hellenist/Eveil-du-Faune-141776.html",
-      "description": "New perfume listing: Éveil du Faune by Hellenist.",
-      "category": "New Perfumes",
-      "author": "Hellenist",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Soaring Through Vanilla Skyline",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Soaring-Through-Vanilla-Skyline-141774.html",
-      "description": "New perfume listing: Soaring Through Vanilla Skyline by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Rush Of Tropics",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rush-Of-Tropics-141772.html",
-      "description": "New perfume listing: Rush Of Tropics by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Duke Of The Wooden Realm",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Duke-Of-The-Wooden-Realm-141770.html",
-      "description": "New perfume listing: Duke Of The Wooden Realm by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Caramel Café Croissant",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Caramel-Cafe-Croissant-141768.html",
-      "description": "New perfume listing: Caramel Café Croissant by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "L'Eau Maliz — Viaggia Con Me",
-      "link": "https://www.fragrantica.com/perfume/L-Eau-Maliz/Viaggia-Con-Me-141767.html",
-      "description": "New perfume listing: Viaggia Con Me by L'Eau Maliz.",
-      "category": "New Perfumes",
-      "author": "L'Eau Maliz",
-      "published": 1788816707
-    },
-    {
-      "title": "L'Eau Maliz — Kyrios",
-      "link": "https://www.fragrantica.com/perfume/L-Eau-Maliz/Kyrios-141766.html",
-      "description": "New perfume listing: Kyrios by L'Eau Maliz.",
-      "category": "New Perfumes",
-      "author": "L'Eau Maliz",
-      "published": 1788816707
-    },
-    {
-      "title": "L'Eau Maliz — Danse Avec Moi",
-      "link": "https://www.fragrantica.com/perfume/L-Eau-Maliz/Danse-Avec-Moi-141765.html",
-      "description": "New perfume listing: Danse Avec Moi by L'Eau Maliz.",
-      "category": "New Perfumes",
-      "author": "L'Eau Maliz",
-      "published": 1788816707
-    },
-    {
-      "title": "L'Eau Maliz — Avanti Maestro",
-      "link": "https://www.fragrantica.com/perfume/L-Eau-Maliz/Avanti-Maestro-141764.html",
-      "description": "New perfume listing: Avanti Maestro by L'Eau Maliz.",
-      "category": "New Perfumes",
-      "author": "L'Eau Maliz",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — High Skies",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/High-Skies-141762.html",
-      "description": "New perfume listing: High Skies by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — City Noir",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/City-Noir-141760.html",
-      "description": "New perfume listing: City Noir by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Dua's Fall 2025",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dua-s-Fall-2025-141758.html",
-      "description": "New perfume listing: Dua's Fall 2025 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Verses In Bloom Essence",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Verses-In-Bloom-Essence-141756.html",
-      "description": "New perfume listing: Verses In Bloom Essence by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "Maison Farahat — Touch Oud",
-      "link": "https://www.fragrantica.com/perfume/Maison-Farahat/Touch-Oud-141755.html",
-      "description": "New perfume listing: Touch Oud by Maison Farahat.",
-      "category": "New Perfumes",
-      "author": "Maison Farahat",
-      "published": 1788816707
-    },
-    {
-      "title": "Maison Farahat — Cold Fire",
-      "link": "https://www.fragrantica.com/perfume/Maison-Farahat/Cold-Fire-141754.html",
-      "description": "New perfume listing: Cold Fire by Maison Farahat.",
-      "category": "New Perfumes",
-      "author": "Maison Farahat",
-      "published": 1788816707
-    },
-    {
-      "title": "Maison Farahat — Lúcida Absolut",
-      "link": "https://www.fragrantica.com/perfume/Maison-Farahat/Lucida-Absolut-141753.html",
-      "description": "New perfume listing: Lúcida Absolut by Maison Farahat.",
-      "category": "New Perfumes",
-      "author": "Maison Farahat",
-      "published": 1788816707
     }
   ]
 }
