@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "L'Ame Botanique — An Herbarium of Human Memory",
+      "link": "https://www.fragrantica.com/news/L-Ame-Botanique-An-Herbarium-of-Human-Memory-26044.html",
+      "description": "A young Taiwanese brand that became a personal discovery for Julia.",
+      "category": "Fragrance Reviews",
+      "author": "Julia Lukyanenko",
+      "published": 1788836405
+    },
+    {
+      "title": "Interview With The New Owners Of Harry Lehmann",
+      "link": "https://www.fragrantica.com/news/Interview-With-The-New-Owners-Of-Harry-Lehmann-26043.html",
+      "description": "Delightul fragrant stories from Berlin.",
+      "category": "Fragrantica",
+      "author": "Iulia Halatz",
+      "published": 1788822937
+    },
+    {
+      "title": "Hellenist Parfums unveils Éveil du Faune",
+      "link": "https://www.fragrantica.com/news/Hellenist-Parfums-unveils-Eveil-du-Faune-26042.html",
+      "description": "A new animalic gourmand perfume.",
+      "category": "New Fragrances",
+      "author": "Elena Knezevic",
+      "published": 1788819783
+    },
+    {
       "title": "The Good Things About Armani’s I Will As An Iced Mango Fahrenheit",
       "link": "https://www.fragrantica.com/news/The-Good-Things-About-Armani-s-I-Will-As-An-Iced-Mango-Fahrenheit-26041.html",
       "description": "And there are some",
@@ -775,33 +799,529 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1787751072
-    },
-    {
-      "title": "SUOYIN: The Search for the Hidden",
-      "link": "https://www.fragrantica.com/news/SUOYIN-The-Search-for-the-Hidden-25944.html",
-      "description": "\"To see a world in a grain of sand, and a heaven in a drop of perfume.\"",
-      "category": "Columns",
-      "author": "Andrei Lensky",
-      "published": 1787739903
-    },
-    {
-      "title": "Favourites From Korean Brand dosigoh",
-      "link": "https://www.fragrantica.com/news/Favourites-From-Korean-Brand-dosigoh-25943.html",
-      "description": "The brand formerly known as Concreted has renamed to dosigoh. Nicola explores her favourites from them.",
-      "category": "Niche Perfumery",
-      "author": "Nicola Thomis",
-      "published": 1787735222
-    },
-    {
-      "title": "Some Random Fragrances: A Brief Season on the Coast",
-      "link": "https://www.fragrantica.com/news/Some-Random-Fragrances-A-Brief-Season-on-the-Coast-25942.html",
-      "description": "When the place changes the way we perceive a perfume.",
-      "category": "Columns",
-      "author": "Jernê Knowles",
-      "published": 1787724002
     }
   ],
   "perfumes": [
+    {
+      "title": "Hinode — Blossy",
+      "link": "https://www.fragrantica.com/perfume/Hinode/Blossy-142096.html",
+      "description": "New perfume listing: Blossy by Hinode.",
+      "category": "New Perfumes",
+      "author": "Hinode",
+      "published": 1788842288
+    },
+    {
+      "title": "Benneviento — Verses No Eyes Recall",
+      "link": "https://www.fragrantica.com/perfume/Benneviento/Verses-No-Eyes-Recall-142094.html",
+      "description": "New perfume listing: Verses No Eyes Recall by Benneviento.",
+      "category": "New Perfumes",
+      "author": "Benneviento",
+      "published": 1788842288
+    },
+    {
+      "title": "Benneviento — Souls of Anarchy",
+      "link": "https://www.fragrantica.com/perfume/Benneviento/Souls-of-Anarchy-142093.html",
+      "description": "New perfume listing: Souls of Anarchy by Benneviento.",
+      "category": "New Perfumes",
+      "author": "Benneviento",
+      "published": 1788842288
+    },
+    {
+      "title": "Lua & Neve — Adamantine",
+      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Adamantine-142087.html",
+      "description": "New perfume listing: Adamantine by Lua & Neve.",
+      "category": "New Perfumes",
+      "author": "Lua & Neve",
+      "published": 1788842288
+    },
+    {
+      "title": "Lua & Neve — Toxicant Poison",
+      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Toxicant-Poison-142086.html",
+      "description": "New perfume listing: Toxicant Poison by Lua & Neve.",
+      "category": "New Perfumes",
+      "author": "Lua & Neve",
+      "published": 1788842288
+    },
+    {
+      "title": "Lua & Neve — Fashion",
+      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Fashion-142085.html",
+      "description": "New perfume listing: Fashion by Lua & Neve.",
+      "category": "New Perfumes",
+      "author": "Lua & Neve",
+      "published": 1788842288
+    },
+    {
+      "title": "Lua & Neve — Mon Golden",
+      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Mon-Golden-142084.html",
+      "description": "New perfume listing: Mon Golden by Lua & Neve.",
+      "category": "New Perfumes",
+      "author": "Lua & Neve",
+      "published": 1788842288
+    },
+    {
+      "title": "Hidrabene — Charm Way",
+      "link": "https://www.fragrantica.com/perfume/Hidrabene/Charm-Way-142083.html",
+      "description": "New perfume listing: Charm Way by Hidrabene.",
+      "category": "New Perfumes",
+      "author": "Hidrabene",
+      "published": 1788842288
+    },
+    {
+      "title": "Hidrabene — Fine Bloom",
+      "link": "https://www.fragrantica.com/perfume/Hidrabene/Fine-Bloom-142082.html",
+      "description": "New perfume listing: Fine Bloom by Hidrabene.",
+      "category": "New Perfumes",
+      "author": "Hidrabene",
+      "published": 1788842288
+    },
+    {
+      "title": "Hidrabene — Iconic Fame",
+      "link": "https://www.fragrantica.com/perfume/Hidrabene/Iconic-Fame-142081.html",
+      "description": "New perfume listing: Iconic Fame by Hidrabene.",
+      "category": "New Perfumes",
+      "author": "Hidrabene",
+      "published": 1788842288
+    },
+    {
+      "title": "Hidrabene — Velvet Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Hidrabene/Velvet-Vanilla-142080.html",
+      "description": "New perfume listing: Velvet Vanilla by Hidrabene.",
+      "category": "New Perfumes",
+      "author": "Hidrabene",
+      "published": 1788842288
+    },
+    {
+      "title": "Flavia — Icon Oud",
+      "link": "https://www.fragrantica.com/perfume/Flavia/Icon-Oud-142079.html",
+      "description": "New perfume listing: Icon Oud by Flavia.",
+      "category": "New Perfumes",
+      "author": "Flavia",
+      "published": 1788842288
+    },
+    {
+      "title": "Ajmal — Dame",
+      "link": "https://www.fragrantica.com/perfume/Ajmal/Dame-142078.html",
+      "description": "New perfume listing: Dame by Ajmal.",
+      "category": "New Perfumes",
+      "author": "Ajmal",
+      "published": 1788842288
+    },
+    {
+      "title": "Ajmal — D'light",
+      "link": "https://www.fragrantica.com/perfume/Ajmal/D-light-142077.html",
+      "description": "New perfume listing: D'light by Ajmal.",
+      "category": "New Perfumes",
+      "author": "Ajmal",
+      "published": 1788842288
+    },
+    {
+      "title": "Afnan — Faten White",
+      "link": "https://www.fragrantica.com/perfume/Afnan/Faten-White-142076.html",
+      "description": "New perfume listing: Faten White by Afnan.",
+      "category": "New Perfumes",
+      "author": "Afnan",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Crystalline Effect",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Crystalline-Effect-142073.html",
+      "description": "New perfume listing: Crystalline Effect by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Auric Blanc",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Auric-Blanc-142072.html",
+      "description": "New perfume listing: Auric Blanc by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Sun-Kissed Zesty Berry",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sun-Kissed-Zesty-Berry-142071.html",
+      "description": "New perfume listing: Sun-Kissed Zesty Berry by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Classic English Tea",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Classic-English-Tea-142070.html",
+      "description": "New perfume listing: Classic English Tea by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Celebrating Eid 2025",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Celebrating-Eid-2025-142069.html",
+      "description": "New perfume listing: Celebrating Eid 2025 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Banana Milkshake With Cookie Crumbles",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Banana-Milkshake-With-Cookie-Crumbles-142068.html",
+      "description": "New perfume listing: Banana Milkshake With Cookie Crumbles by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Princeless Princess' Lemon Pastry",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Princeless-Princess-Lemon-Pastry-142067.html",
+      "description": "New perfume listing: Princeless Princess' Lemon Pastry by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Proclaim",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Proclaim-142066.html",
+      "description": "New perfume listing: Proclaim by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Fleur Wild",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fleur-Wild-142065.html",
+      "description": "New perfume listing: Fleur Wild by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Error 432",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-432-142064.html",
+      "description": "New perfume listing: Error 432 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Error 431: Platinum",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-431-Platinum-142063.html",
+      "description": "New perfume listing: Error 431: Platinum by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Burst Of Bitter Fruit",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Burst-Of-Bitter-Fruit-142062.html",
+      "description": "New perfume listing: Burst Of Bitter Fruit by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Poseidon's Elixir 17X",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Poseidon-s-Elixir-17X-142061.html",
+      "description": "New perfume listing: Poseidon's Elixir 17X by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Italian Opera Femme",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Italian-Opera-Femme-142060.html",
+      "description": "New perfume listing: Italian Opera Femme by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Aromatic King's Leopard",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Aromatic-King-s-Leopard-142059.html",
+      "description": "New perfume listing: Aromatic King's Leopard by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Ethereal Sea",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Ethereal-Sea-142058.html",
+      "description": "New perfume listing: Ethereal Sea by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — His Blue Spirit",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/His-Blue-Spirit-142057.html",
+      "description": "New perfume listing: His Blue Spirit by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Leopard Gone Swimming",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leopard-Gone-Swimming-142056.html",
+      "description": "New perfume listing: Leopard Gone Swimming by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Leopard's Tux",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leopard-s-Tux-142055.html",
+      "description": "New perfume listing: Leopard's Tux by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Mystic Waters",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mystic-Waters-142054.html",
+      "description": "New perfume listing: Mystic Waters by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "Fueguia 1833 — Cristal del Iberá",
+      "link": "https://www.fragrantica.com/perfume/Fueguia-1833/Cristal-del-Ibera-142095.html",
+      "description": "New perfume listing: Cristal del Iberá by Fueguia 1833.",
+      "category": "New Perfumes",
+      "author": "Fueguia 1833",
+      "published": 1788842288
+    },
+    {
+      "title": "Henry Jacques — Decibelia",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Decibelia-142092.html",
+      "description": "New perfume listing: Decibelia by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1788842288
+    },
+    {
+      "title": "Henry Jacques — Symphony Men",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Symphony-Men-142091.html",
+      "description": "New perfume listing: Symphony Men by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1788842288
+    },
+    {
+      "title": "Henry Jacques — Ulysse Lady",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Ulysse-Lady-142090.html",
+      "description": "New perfume listing: Ulysse Lady by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1788842288
+    },
+    {
+      "title": "Henry Jacques — Musk Oil Quintessence",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Musk-Oil-Quintessence-142089.html",
+      "description": "New perfume listing: Musk Oil Quintessence by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1788842288
+    },
+    {
+      "title": "Henry Jacques — Magnolia",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Magnolia-142088.html",
+      "description": "New perfume listing: Magnolia by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1788842288
+    },
+    {
+      "title": "LTL Fragrances — The Baron",
+      "link": "https://www.fragrantica.com/perfume/LTL-Fragrances/The-Baron-142075.html",
+      "description": "New perfume listing: The Baron by LTL Fragrances.",
+      "category": "New Perfumes",
+      "author": "LTL Fragrances",
+      "published": 1788842288
+    },
+    {
+      "title": "Glenn Perri — Unpredictable",
+      "link": "https://www.fragrantica.com/perfume/Glenn-Perri/Unpredictable-142074.html",
+      "description": "New perfume listing: Unpredictable by Glenn Perri.",
+      "category": "New Perfumes",
+      "author": "Glenn Perri",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Azure Heart Of Chypre",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Azure-Heart-Of-Chypre-141957.html",
+      "description": "New perfume listing: Azure Heart Of Chypre by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Cardamom Infused Coffee",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cardamom-Infused-Coffee-141955.html",
+      "description": "New perfume listing: Cardamom Infused Coffee by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Candy-Coated Sweetness",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Candy-Coated-Sweetness-141953.html",
+      "description": "New perfume listing: Candy-Coated Sweetness by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Error 431",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-431-141951.html",
+      "description": "New perfume listing: Error 431 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Her Liberated Fiery Blooms",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Her-Liberated-Fiery-Blooms-141949.html",
+      "description": "New perfume listing: Her Liberated Fiery Blooms by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Journey To The East",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Journey-To-The-East-141947.html",
+      "description": "New perfume listing: Journey To The East by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Lemon Candy Of Capri 14",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lemon-Candy-Of-Capri-14-141945.html",
+      "description": "New perfume listing: Lemon Candy Of Capri 14 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Rose Potion 11",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rose-Potion-11-141943.html",
+      "description": "New perfume listing: Rose Potion 11 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Winter 2024",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Winter-2024-141941.html",
+      "description": "New perfume listing: Winter 2024 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — A DUA Christmas: 2024",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-DUA-Christmas-2024-141939.html",
+      "description": "New perfume listing: A DUA Christmas: 2024 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Fruity Overdose",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fruity-Overdose-141937.html",
+      "description": "New perfume listing: Fruity Overdose by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — #ThrowbackIntense",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/ThrowbackIntense-141935.html",
+      "description": "New perfume listing: #ThrowbackIntense by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Carnival Of Sparkling Citrus",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Carnival-Of-Sparkling-Citrus-141933.html",
+      "description": "New perfume listing: Carnival Of Sparkling Citrus by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Dark Flirty Temptation",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dark-Flirty-Temptation-141931.html",
+      "description": "New perfume listing: Dark Flirty Temptation by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Evening Of Cacao Temptation",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Evening-Of-Cacao-Temptation-141929.html",
+      "description": "New perfume listing: Evening Of Cacao Temptation by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Moonlit Jasmine & Spice",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Moonlit-Jasmine-Spice-141927.html",
+      "description": "New perfume listing: Moonlit Jasmine & Spice by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Tart Juicy Berry Cocktail",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tart-Juicy-Berry-Cocktail-141925.html",
+      "description": "New perfume listing: Tart Juicy Berry Cocktail by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Unmistakably Sexy For Her",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Unmistakably-Sexy-For-Her-141923.html",
+      "description": "New perfume listing: Unmistakably Sexy For Her by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Floral Coconuts Of Maldives 20",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Coconuts-Of-Maldives-20-141921.html",
+      "description": "New perfume listing: Floral Coconuts Of Maldives 20 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Spicy Blossoms Of Marrakesh 24",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Spicy-Blossoms-Of-Marrakesh-24-141919.html",
+      "description": "New perfume listing: Spicy Blossoms Of Marrakesh 24 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Floral Coconut & Vanilla 21",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Coconut-Vanilla-21-141917.html",
+      "description": "New perfume listing: Floral Coconut & Vanilla 21 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
+    {
+      "title": "The Dua Brand — Pink Pepper Candied Crystals 25",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pink-Pepper-Candied-Crystals-25-141915.html",
+      "description": "New perfume listing: Pink Pepper Candied Crystals 25 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1788842288
+    },
     {
       "title": "The Dua Brand — Purity Of Jasmine",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Purity-Of-Jasmine-141783.html",
@@ -1081,526 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Blueberry Fluffy Dream Cake",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Blueberry-Fluffy-Dream-Cake-141771.html",
-      "description": "New perfume listing: Blueberry Fluffy Dream Cake by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Paradise Scented Coconut",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Paradise-Scented-Coconut-141769.html",
-      "description": "New perfume listing: Paradise Scented Coconut by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Coconut Vanilla & Sandy Florals",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Coconut-Vanilla-Sandy-Florals-141763.html",
-      "description": "New perfume listing: Coconut Vanilla & Sandy Florals by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Miss Optimist",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Miss-Optimist-141761.html",
-      "description": "New perfume listing: Miss Optimist by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — The Glorious Tonka Beans",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Glorious-Tonka-Beans-141759.html",
-      "description": "New perfume listing: The Glorious Tonka Beans by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "The Dua Brand — Choco Cherry Crumble Cake",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Choco-Cherry-Crumble-Cake-141757.html",
-      "description": "New perfume listing: Choco Cherry Crumble Cake by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788816707
-    },
-    {
-      "title": "Meo Fusciuni — Amara Vita",
-      "link": "https://www.fragrantica.com/perfume/Meo-Fusciuni/Amara-Vita-141742.html",
-      "description": "New perfume listing: Amara Vita by Meo Fusciuni.",
-      "category": "New Perfumes",
-      "author": "Meo Fusciuni",
-      "published": 1788784479
-    },
-    {
-      "title": "Amer Perfumes — Alba Rosa",
-      "link": "https://www.fragrantica.com/perfume/Amer-Perfumes/Alba-Rosa-141741.html",
-      "description": "New perfume listing: Alba Rosa by Amer Perfumes.",
-      "category": "New Perfumes",
-      "author": "Amer Perfumes",
-      "published": 1788784479
-    },
-    {
-      "title": "Elixir Attar — One More Kiss",
-      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/One-More-Kiss-141739.html",
-      "description": "New perfume listing: One More Kiss by Elixir Attar.",
-      "category": "New Perfumes",
-      "author": "Elixir Attar",
-      "published": 1788784479
-    },
-    {
-      "title": "Laverne — Musk Sugar",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Musk-Sugar-141738.html",
-      "description": "New perfume listing: Musk Sugar by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1788784479
-    },
-    {
-      "title": "Laverne — Musk Powder",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Musk-Powder-141736.html",
-      "description": "New perfume listing: Musk Powder by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1788784479
-    },
-    {
-      "title": "Elixir Attar — Night in Transylvania",
-      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/Night-in-Transylvania-141740.html",
-      "description": "New perfume listing: Night in Transylvania by Elixir Attar.",
-      "category": "New Perfumes",
-      "author": "Elixir Attar",
-      "published": 1788784479
-    },
-    {
-      "title": "Namir Style & Scent — Namir",
-      "link": "https://www.fragrantica.com/perfume/Namir-Style-Scent/Namir-141737.html",
-      "description": "New perfume listing: Namir by Namir Style & Scent.",
-      "category": "New Perfumes",
-      "author": "Namir Style & Scent",
-      "published": 1788784479
-    },
-    {
-      "title": "The Dua Brand — Misty Lily",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Misty-Lily-141734.html",
-      "description": "New perfume listing: Misty Lily by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Jungle Delight",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Jungle-Delight-141732.html",
-      "description": "New perfume listing: Jungle Delight by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Bleu Portugal",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Bleu-Portugal-141729.html",
-      "description": "New perfume listing: Bleu Portugal by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Sweet Mango Rice",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sweet-Mango-Rice-141727.html",
-      "description": "New perfume listing: Sweet Mango Rice by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Sugared Coconut Dreamland",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sugared-Coconut-Dreamland-141725.html",
-      "description": "New perfume listing: Sugared Coconut Dreamland by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Secret Club 54",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Secret-Club-54-141723.html",
-      "description": "New perfume listing: Secret Club 54 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — His Perfect Date",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/His-Perfect-Date-141721.html",
-      "description": "New perfume listing: His Perfect Date by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Flutter Of Wings",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Flutter-Of-Wings-141719.html",
-      "description": "New perfume listing: Flutter Of Wings by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Oud Of The Kings",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Oud-Of-The-Kings-141717.html",
-      "description": "New perfume listing: Oud Of The Kings by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Insolent Oud",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Insolent-Oud-141715.html",
-      "description": "New perfume listing: Insolent Oud by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Singaporean Dessert Cafe",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Singaporean-Dessert-Cafe-141713.html",
-      "description": "New perfume listing: Singaporean Dessert Cafe by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Spiced Vanilla Milk",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Spiced-Vanilla-Milk-141711.html",
-      "description": "New perfume listing: Spiced Vanilla Milk by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Error 436",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-436-141709.html",
-      "description": "New perfume listing: Error 436 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — City Of Roses 26",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/City-Of-Roses-26-141707.html",
-      "description": "New perfume listing: City Of Roses 26 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Vetiver Vortex",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vetiver-Vortex-141705.html",
-      "description": "New perfume listing: Vetiver Vortex by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Sands Of Ceremony",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sands-Of-Ceremony-141704.html",
-      "description": "New perfume listing: Sands Of Ceremony by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Rose Paradise",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rose-Paradise-141702.html",
-      "description": "New perfume listing: Rose Paradise by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Queen Of Noon",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Queen-Of-Noon-141699.html",
-      "description": "New perfume listing: Queen Of Noon by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Midnight Stars",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Midnight-Stars-141697.html",
-      "description": "New perfume listing: Midnight Stars by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Clean Warmth",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Clean-Warmth-141695.html",
-      "description": "New perfume listing: Clean Warmth by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Rome For Him",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rome-For-Him-141693.html",
-      "description": "New perfume listing: Rome For Him by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Heart Of Rome Coral Fantasy",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Heart-Of-Rome-Coral-Fantasy-141691.html",
-      "description": "New perfume listing: Heart Of Rome Coral Fantasy by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Enchanting Starstruck",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Enchanting-Starstruck-141689.html",
-      "description": "New perfume listing: Enchanting Starstruck by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Guardian Of Honor",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Guardian-Of-Honor-141687.html",
-      "description": "New perfume listing: Guardian Of Honor by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Gardens Of Saba",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Gardens-Of-Saba-141685.html",
-      "description": "New perfume listing: Gardens Of Saba by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Confection Ecstasy",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Confection-Ecstasy-141683.html",
-      "description": "New perfume listing: Confection Ecstasy by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Artistic Grandeur",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Artistic-Grandeur-141681.html",
-      "description": "New perfume listing: Artistic Grandeur by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Red & Black Berries",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Red-Black-Berries-141679.html",
-      "description": "New perfume listing: Red & Black Berries by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Berry Reverie",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Berry-Reverie-141677.html",
-      "description": "New perfume listing: Berry Reverie by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Angel Leather",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Angel-Leather-141675.html",
-      "description": "New perfume listing: Angel Leather by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Amber Salt",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Amber-Salt-141673.html",
-      "description": "New perfume listing: Amber Salt by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Whitescape",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Whitescape-141671.html",
-      "description": "New perfume listing: Whitescape by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Ridotto Luxury",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Ridotto-Luxury-141669.html",
-      "description": "New perfume listing: Ridotto Luxury by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Platinum",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Platinum-141667.html",
-      "description": "New perfume listing: Platinum by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Matcha Ritual",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Matcha-Ritual-141665.html",
-      "description": "New perfume listing: Matcha Ritual by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Transport To The Sea",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Transport-To-The-Sea-141735.html",
-      "description": "New perfume listing: Transport To The Sea by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Southern Water",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Southern-Water-141733.html",
-      "description": "New perfume listing: Southern Water by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Magic Of Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Magic-Of-Vanilla-141731.html",
-      "description": "New perfume listing: Magic Of Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Duagasm 36",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Duagasm-36-141730.html",
-      "description": "New perfume listing: Duagasm 36 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Duagasm 19",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Duagasm-19-141728.html",
-      "description": "New perfume listing: Duagasm 19 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Sweet Burst Of Lychee 39",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sweet-Burst-Of-Lychee-39-141726.html",
-      "description": "New perfume listing: Sweet Burst Of Lychee 39 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Zesty Lemon Dream Cake",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Zesty-Lemon-Dream-Cake-141724.html",
-      "description": "New perfume listing: Zesty Lemon Dream Cake by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Lovely Blossom",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lovely-Blossom-141722.html",
-      "description": "New perfume listing: Lovely Blossom by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Cashmere Rose",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cashmere-Rose-141720.html",
-      "description": "New perfume listing: Cashmere Rose by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Classic Orange",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Classic-Orange-141718.html",
-      "description": "New perfume listing: Classic Orange by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Classic Pineapple",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Classic-Pineapple-141716.html",
-      "description": "New perfume listing: Classic Pineapple by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Azaadi 2024",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Azaadi-2024-141714.html",
-      "description": "New perfume listing: Azaadi 2024 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Leech",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leech-141712.html",
-      "description": "New perfume listing: Leech by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Strawberry Love Note",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Strawberry-Love-Note-141710.html",
-      "description": "New perfume listing: Strawberry Love Note by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Tonic Of Tonka",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tonic-Of-Tonka-141708.html",
-      "description": "New perfume listing: Tonic Of Tonka by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Radiant Mystery",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Radiant-Mystery-141706.html",
-      "description": "New perfume listing: Radiant Mystery by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
-    },
-    {
-      "title": "The Dua Brand — Blackberry Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Blackberry-Vanilla-141703.html",
-      "description": "New perfume listing: Blackberry Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788756213
     }
   ]
 }
