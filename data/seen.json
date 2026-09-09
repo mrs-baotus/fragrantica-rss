@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Ormaie Unveils Its New Les Facettes Collection",
+      "link": "https://www.fragrantica.com/news/Ormaie-Unveils-Its-New-Les-Facettes-Collection-26054.html",
+      "description": "Spotlight on the new Les Facettes collection by Ormaie.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1788962819
+    },
+    {
       "title": "Micodelirio Review: Gualtieri Once Again Proves He Wasn’t Born to Follow",
       "link": "https://www.fragrantica.com/news/Micodelirio-Review-Gualtieri-Once-Again-Proves-He-Wasn-t-Born-to-Follow-26053.html",
       "description": "It’s woody, earthy, and almost creepy…but Micodelirio is really just classic Nasomatto by the end of its wear.",
@@ -791,17 +799,89 @@
       "category": "Fragrance Reviews",
       "author": "Andrei Lensky",
       "published": 1787842713
-    },
-    {
-      "title": "Coco Mademoiselle Crush Absolu: Chanel Is Miles Ahead Of Everyone",
-      "link": "https://www.fragrantica.com/news/Coco-Mademoiselle-Crush-Absolu-Chanel-Is-Miles-Ahead-Of-Everyone-25954.html",
-      "description": "To a T",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1787835483
     }
   ],
   "perfumes": [
+    {
+      "title": "Opal Perfumes — Flora Queen",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Flora-Queen-142168.html",
+      "description": "New perfume listing: Flora Queen by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788971965
+    },
+    {
+      "title": "Opal Perfumes — Flora Orchid",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Flora-Orchid-142167.html",
+      "description": "New perfume listing: Flora Orchid by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788971965
+    },
+    {
+      "title": "Opal Perfumes — Blue Vert",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Blue-Vert-142166.html",
+      "description": "New perfume listing: Blue Vert by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788971965
+    },
+    {
+      "title": "Opal Perfumes — Opal Noir",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Opal-Noir-142165.html",
+      "description": "New perfume listing: Opal Noir by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788971965
+    },
+    {
+      "title": "d.grayi — Chanh",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Chanh-142164.html",
+      "description": "New perfume listing: Chanh by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1788971965
+    },
+    {
+      "title": "Mykonos — Constantine",
+      "link": "https://www.fragrantica.com/perfume/Mykonos/Constantine-142163.html",
+      "description": "New perfume listing: Constantine by Mykonos.",
+      "category": "New Perfumes",
+      "author": "Mykonos",
+      "published": 1788971965
+    },
+    {
+      "title": "Opal Perfumes — Kazem Kawa",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Kazem-Kawa-142162.html",
+      "description": "New perfume listing: Kazem Kawa by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1788971965
+    },
+    {
+      "title": "Ataraxia Perfumery — My Doll's Makeup",
+      "link": "https://www.fragrantica.com/perfume/Ataraxia-Perfumery/My-Doll-s-Makeup-142160.html",
+      "description": "New perfume listing: My Doll's Makeup by Ataraxia Perfumery.",
+      "category": "New Perfumes",
+      "author": "Ataraxia Perfumery",
+      "published": 1788971965
+    },
+    {
+      "title": "DeFacto — Mystic Bangkok",
+      "link": "https://www.fragrantica.com/perfume/DeFacto/Mystic-Bangkok-142169.html",
+      "description": "New perfume listing: Mystic Bangkok by DeFacto.",
+      "category": "New Perfumes",
+      "author": "DeFacto",
+      "published": 1788971965
+    },
+    {
+      "title": "Leland Francis — Rowdy Boy",
+      "link": "https://www.fragrantica.com/perfume/Leland-Francis/Rowdy-Boy-142161.html",
+      "description": "New perfume listing: Rowdy Boy by Leland Francis.",
+      "category": "New Perfumes",
+      "author": "Leland Francis",
+      "published": 1788971965
+    },
     {
       "title": "Bottega Verde — Lavanda",
       "link": "https://www.fragrantica.com/perfume/Bottega-Verde/Lavanda-142159.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Burst Of Bitter Fruit by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Poseidon's Elixir 17X",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Poseidon-s-Elixir-17X-142061.html",
-      "description": "New perfume listing: Poseidon's Elixir 17X by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Italian Opera Femme",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Italian-Opera-Femme-142060.html",
-      "description": "New perfume listing: Italian Opera Femme by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Aromatic King's Leopard",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Aromatic-King-s-Leopard-142059.html",
-      "description": "New perfume listing: Aromatic King's Leopard by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Ethereal Sea",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Ethereal-Sea-142058.html",
-      "description": "New perfume listing: Ethereal Sea by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — His Blue Spirit",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/His-Blue-Spirit-142057.html",
-      "description": "New perfume listing: His Blue Spirit by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Leopard Gone Swimming",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leopard-Gone-Swimming-142056.html",
-      "description": "New perfume listing: Leopard Gone Swimming by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Leopard's Tux",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leopard-s-Tux-142055.html",
-      "description": "New perfume listing: Leopard's Tux by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Mystic Waters",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Mystic-Waters-142054.html",
-      "description": "New perfume listing: Mystic Waters by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "Fueguia 1833 — Cristal del Iberá",
-      "link": "https://www.fragrantica.com/perfume/Fueguia-1833/Cristal-del-Ibera-142095.html",
-      "description": "New perfume listing: Cristal del Iberá by Fueguia 1833.",
-      "category": "New Perfumes",
-      "author": "Fueguia 1833",
-      "published": 1788842288
-    },
-    {
-      "title": "Henry Jacques — Decibelia",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Decibelia-142092.html",
-      "description": "New perfume listing: Decibelia by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
       "published": 1788842288
     }
   ]
