@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Hermia by Karen Timson",
+      "link": "https://www.fragrantica.com/news/Hermia-by-Karen-Timson-26056.html",
+      "description": "\"Take pains, be perfect.\"",
+      "category": "Fragrance Reviews",
+      "author": "Edie Smith",
+      "published": 1788984904
+    },
+    {
+      "title": "Cycling and Fragrance/ing",
+      "link": "https://www.fragrantica.com/news/Cycling-and-Fragrance-ing-26055.html",
+      "description": "Who said that sports and fragrances do not mix?",
+      "category": "Columns",
+      "author": "Iulia Halatz",
+      "published": 1788974163
+    },
+    {
       "title": "Ormaie Unveils Its New Les Facettes Collection",
       "link": "https://www.fragrantica.com/news/Ormaie-Unveils-Its-New-Les-Facettes-Collection-26054.html",
       "description": "Spotlight on the new Les Facettes collection by Ormaie.",
@@ -783,25 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Patric Rhys",
       "published": 1787856026
-    },
-    {
-      "title": "Pomelo: Father of Grapefruits and Grandfather of Lemons",
-      "link": "https://www.fragrantica.com/news/Pomelo-Father-of-Grapefruits-and-Grandfather-of-Lemons-25956.html",
-      "description": "A fragrance note on a grand scale: the aromatic substances of the world’s largest citrus fruit.",
-      "category": "Raw Materials",
-      "author": "Matvey Yudov",
-      "published": 1787850303
-    },
-    {
-      "title": "Willow Wave by SUOYIN: A Willow Branch at Parting",
-      "link": "https://www.fragrantica.com/news/Willow-Wave-by-SUOYIN-A-Willow-Branch-at-Parting-25955.html",
-      "description": "In the misty haze, the willows sway quietly, a thousand branches, like threads, gliding through the sunset light.",
-      "category": "Fragrance Reviews",
-      "author": "Andrei Lensky",
-      "published": 1787842713
     }
   ],
   "perfumes": [
+    {
+      "title": "Salvador Dali — Crazy Red",
+      "link": "https://www.fragrantica.com/perfume/Salvador-Dali/Crazy-Red-142174.html",
+      "description": "New perfume listing: Crazy Red by Salvador Dali.",
+      "category": "New Perfumes",
+      "author": "Salvador Dali",
+      "published": 1788987386
+    },
+    {
+      "title": "DeFacto — Warm Spicy",
+      "link": "https://www.fragrantica.com/perfume/DeFacto/Warm-Spicy-142173.html",
+      "description": "New perfume listing: Warm Spicy by DeFacto.",
+      "category": "New Perfumes",
+      "author": "DeFacto",
+      "published": 1788987386
+    },
+    {
+      "title": "DeFacto — Spicy Wood",
+      "link": "https://www.fragrantica.com/perfume/DeFacto/Spicy-Wood-142172.html",
+      "description": "New perfume listing: Spicy Wood by DeFacto.",
+      "category": "New Perfumes",
+      "author": "DeFacto",
+      "published": 1788987386
+    },
+    {
+      "title": "DeFacto — Rose Sparkle",
+      "link": "https://www.fragrantica.com/perfume/DeFacto/Rose-Sparkle-142171.html",
+      "description": "New perfume listing: Rose Sparkle by DeFacto.",
+      "category": "New Perfumes",
+      "author": "DeFacto",
+      "published": 1788987386
+    },
+    {
+      "title": "DeFacto — Lilac Pearl",
+      "link": "https://www.fragrantica.com/perfume/DeFacto/Lilac-Pearl-142170.html",
+      "description": "New perfume listing: Lilac Pearl by DeFacto.",
+      "category": "New Perfumes",
+      "author": "DeFacto",
+      "published": 1788987386
+    },
     {
       "title": "Opal Perfumes — Flora Queen",
       "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Flora-Queen-142168.html",
@@ -1558,46 +1598,6 @@
       "title": "The Dua Brand — Princeless Princess' Lemon Pastry",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Princeless-Princess-Lemon-Pastry-142067.html",
       "description": "New perfume listing: Princeless Princess' Lemon Pastry by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Proclaim",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Proclaim-142066.html",
-      "description": "New perfume listing: Proclaim by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Fleur Wild",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fleur-Wild-142065.html",
-      "description": "New perfume listing: Fleur Wild by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Error 432",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-432-142064.html",
-      "description": "New perfume listing: Error 432 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Error 431: Platinum",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Error-431-Platinum-142063.html",
-      "description": "New perfume listing: Error 431: Platinum by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Burst Of Bitter Fruit",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Burst-Of-Bitter-Fruit-142062.html",
-      "description": "New perfume listing: Burst Of Bitter Fruit by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788842288
