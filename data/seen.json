@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "L’Atelier Parfum Hot Splash: Starchy-Green Indian Dust Storm",
+      "link": "https://www.fragrantica.com/news/L-Atelier-Parfum-Hot-Splash-Starchy-Green-Indian-Dust-Storm-26052.html",
+      "description": "Hot flash, chypre shadow",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1788926403
+    },
+    {
+      "title": "What Fragrance I Choose When I Want to \"Smell Like Nothing\"",
+      "link": "https://www.fragrantica.com/news/What-Fragrance-I-Choose-When-I-Want-to-Smell-Like-Nothing-26051.html",
+      "description": "Do you ever get the mood to \"smell like nothing\"?",
+      "category": "Columns",
+      "author": "Alena Lavault",
+      "published": 1788915603
+    },
+    {
+      "title": "Thorns Become Roses by Nishane, Amor Vincit Omnia",
+      "link": "https://www.fragrantica.com/news/Thorns-Become-Roses-by-Nishane-Amor-Vincit-Omnia-26050.html",
+      "description": "A new perspective on the timeless note.",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1788904804
+    },
+    {
       "title": "Jean Paul Gaultier Brings Back Fleur du Mâle",
       "link": "https://www.fragrantica.com/news/Jean-Paul-Gaultier-Brings-Back-Fleur-du-Male-26049.html",
       "description": "Fleur du Mâle makes its long-awaited return.",
@@ -775,33 +799,81 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1787823185
-    },
-    {
-      "title": "'Cologne of the Moon' — Luminoir by Astre",
-      "link": "https://www.fragrantica.com/news/Cologne-of-the-Moon-Luminoir-by-Astre-25952.html",
-      "description": "This extrait has textures, temperatures, and plenty to love in the notes, too!",
-      "category": "Niche Perfumery",
-      "author": "Adam Forziati",
-      "published": 1787801643
-    },
-    {
-      "title": "Yawahada by J-Scent: Skin on Skin",
-      "link": "https://www.fragrantica.com/news/Yawahada-by-J-Scent-Skin-on-Skin-25951.html",
-      "description": "A novel that caused a stir, and a perfume inspired by it",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1787790062
-    },
-    {
-      "title": "BEST GOURMAND FRAGRANCES",
-      "link": "https://www.fragrantica.com/news/BEST-GOURMAND-25950.html",
-      "description": "Our editors' choices of best gourmand fragrances, established and new.",
-      "category": "Best in Show",
-      "author": "John Biebel,Elena Knezevic,Igor Masyukov,Sena Toprak",
-      "published": 1787775665
     }
   ],
   "perfumes": [
+    {
+      "title": "OXGN — 11:55 Infinite Women",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Infinite-Women-142146.html",
+      "description": "New perfume listing: 11:55 Infinite Women by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — 11:55 Infinite Men",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Infinite-Men-142145.html",
+      "description": "New perfume listing: 11:55 Infinite Men by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — 11:55 Women",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Women-142144.html",
+      "description": "New perfume listing: 11:55 Women by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — 11:55 Men",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Men-142143.html",
+      "description": "New perfume listing: 11:55 Men by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — 11:55 Men Bleach Limited Edition",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Men-Bleach-Limited-Edition-142142.html",
+      "description": "New perfume listing: 11:55 Men Bleach Limited Edition by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — 11:55 One Piece Limited Edition",
+      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-One-Piece-Limited-Edition-142141.html",
+      "description": "New perfume listing: 11:55 One Piece Limited Edition by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — Static Demon Slayer Edition",
+      "link": "https://www.fragrantica.com/perfume/OXGN/Static-Demon-Slayer-Edition-142140.html",
+      "description": "New perfume listing: Static Demon Slayer Edition by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — Arctic",
+      "link": "https://www.fragrantica.com/perfume/OXGN/Arctic-142139.html",
+      "description": "New perfume listing: Arctic by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
+    {
+      "title": "OXGN — Naked",
+      "link": "https://www.fragrantica.com/perfume/OXGN/Naked-142138.html",
+      "description": "New perfume listing: Naked by OXGN.",
+      "category": "New Perfumes",
+      "author": "OXGN",
+      "published": 1788929037
+    },
     {
       "title": "L'Atelier Mobius 莫比乌斯 — Neige Dorée",
       "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Neige-Doree-142137.html",
@@ -1526,78 +1598,6 @@
       "title": "The Dua Brand — Lemon Candy Of Capri 14",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lemon-Candy-Of-Capri-14-141945.html",
       "description": "New perfume listing: Lemon Candy Of Capri 14 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Rose Potion 11",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Rose-Potion-11-141943.html",
-      "description": "New perfume listing: Rose Potion 11 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Winter 2024",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Winter-2024-141941.html",
-      "description": "New perfume listing: Winter 2024 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — A DUA Christmas: 2024",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-DUA-Christmas-2024-141939.html",
-      "description": "New perfume listing: A DUA Christmas: 2024 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Fruity Overdose",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fruity-Overdose-141937.html",
-      "description": "New perfume listing: Fruity Overdose by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — #ThrowbackIntense",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/ThrowbackIntense-141935.html",
-      "description": "New perfume listing: #ThrowbackIntense by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Carnival Of Sparkling Citrus",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Carnival-Of-Sparkling-Citrus-141933.html",
-      "description": "New perfume listing: Carnival Of Sparkling Citrus by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Dark Flirty Temptation",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dark-Flirty-Temptation-141931.html",
-      "description": "New perfume listing: Dark Flirty Temptation by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Evening Of Cacao Temptation",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Evening-Of-Cacao-Temptation-141929.html",
-      "description": "New perfume listing: Evening Of Cacao Temptation by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1788842288
-    },
-    {
-      "title": "The Dua Brand — Moonlit Jasmine & Spice",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Moonlit-Jasmine-Spice-141927.html",
-      "description": "New perfume listing: Moonlit Jasmine & Spice by The Dua Brand.",
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1788842288
