@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Antonio Cristaudo at Pitti Fragranze: “We don't need another perfume, we need an idea”",
+      "link": "https://www.fragrantica.com/news/Antonio-Cristaudo-at-Pitti-Fragranze-We-don-t-need-another-perfume-we-need-an-idea-26064.html",
+      "description": "The interview with the Pitti Immagine's Commercial Director on the evolution of the Italian market, the selection of brands, and the philosophy behind the event.",
+      "category": "Interviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1789071303
+    },
+    {
+      "title": "Schwarzlose Berlin Announce BACHANAL",
+      "link": "https://www.fragrantica.com/news/Schwarzlose-Berlin-Announce-BACHANAL-26063.html",
+      "description": "Creamy-fresh pistachio",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1789066803
+    },
+    {
       "title": "YSL Muse - Inspiring Ink: Elegant but Still Quirky",
       "link": "https://www.fragrantica.com/news/YSL-Muse-Inspiring-Ink-Elegant-but-Still-Quirky-26062.html",
       "description": "One of the most interesting fragrances of last year passed under the radar for most of us.",
@@ -783,25 +799,25 @@
       "category": "Home Fragrances",
       "author": "Elena Knezevic",
       "published": 1787950920
-    },
-    {
-      "title": "Spiteful August Fragrances Review",
-      "link": "https://www.fragrantica.com/news/Spiteful-August-Fragrances-Review-25964.html",
-      "description": "An new indie fragrance brand from Spain.",
-      "category": "Fragrance Reviews",
-      "author": "Iulia Halatz",
-      "published": 1787943723
-    },
-    {
-      "title": "GUERLAIN L’Heure Bleue 2026",
-      "link": "https://www.fragrantica.com/news/GUERLAIN-L-Heure-Bleue-2026-25963.html",
-      "description": "Guerlain has launched its new L’Heure Bleue fragrance",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1787931084
     }
   ],
   "perfumes": [
+    {
+      "title": "Marc Gebauer — Red Sand",
+      "link": "https://www.fragrantica.com/perfume/Marc-Gebauer/Red-Sand-142208.html",
+      "description": "New perfume listing: Red Sand by Marc Gebauer.",
+      "category": "New Perfumes",
+      "author": "Marc Gebauer",
+      "published": 1789073573
+    },
+    {
+      "title": "The Merchant of Venice — Safran Lumiere",
+      "link": "https://www.fragrantica.com/perfume/The-Merchant-of-Venice/Safran-Lumiere-142207.html",
+      "description": "New perfume listing: Safran Lumiere by The Merchant of Venice.",
+      "category": "New Perfumes",
+      "author": "The Merchant of Venice",
+      "published": 1789073573
+    },
     {
       "title": "BMW Fragrances — Woodness",
       "link": "https://www.fragrantica.com/perfume/BMW-Fragrances/Woodness-142206.html",
@@ -1584,22 +1600,6 @@
       "description": "New perfume listing: Aquavibe Pineapple & Jasmine by Avon.",
       "category": "New Perfumes",
       "author": "Avon",
-      "published": 1788866450
-    },
-    {
-      "title": "Avon — Aquavibe Carambola & Orange Blossom",
-      "link": "https://www.fragrantica.com/perfume/Avon/Aquavibe-Carambola-Orange-Blossom-142107.html",
-      "description": "New perfume listing: Aquavibe Carambola & Orange Blossom by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1788866450
-    },
-    {
-      "title": "JMP Artisan Perfumes — Tropical Shake",
-      "link": "https://www.fragrantica.com/perfume/JMP-Artisan-Perfumes/Tropical-Shake-142106.html",
-      "description": "New perfume listing: Tropical Shake by JMP Artisan Perfumes.",
-      "category": "New Perfumes",
-      "author": "JMP Artisan Perfumes",
       "published": 1788866450
     }
   ]
