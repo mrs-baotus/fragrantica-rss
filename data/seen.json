@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Santa Eulalia Launches Heritas",
+      "link": "https://www.fragrantica.com/news/Santa-Eulalia-Launches-Heritas-26060.html",
+      "description": "To celebrate the brand's centenary",
+      "category": "New Fragrances",
+      "author": "Nicola Thomis",
+      "published": 1789038843
+    },
+    {
+      "title": "Bad Things Come in Threes",
+      "link": "https://www.fragrantica.com/news/Bad-Things-Come-in-Threes-26059.html",
+      "description": "Whole collections of pointless mediocrity or actively bad.",
+      "category": "Columns",
+      "author": "Edie Smith",
+      "published": 1789024804
+    },
+    {
       "title": "Bois Impérial by Essential Parfums: Hot Vetiver Tea With Aliens",
       "link": "https://www.fragrantica.com/news/Bois-Imperial-by-Essential-Parfums-Hot-Vetiver-Tea-With-Aliens-26058.html",
       "description": "Elena’s review intrigued me",
@@ -783,25 +799,105 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1787893985
-    },
-    {
-      "title": "Oud Liaisons: Woody Bliss Cloaked in a Dangerous Veneer",
-      "link": "https://www.fragrantica.com/news/Oud-Liaisons-Woody-Bliss-Cloaked-in-a-Dangerous-Veneer-25960.html",
-      "description": "For Adam, it's less \"Dangerous Liaisons\" and more \"The Tree of Life.\"",
-      "category": "Fragrance Reviews",
-      "author": "Adam Forziati",
-      "published": 1787882943
-    },
-    {
-      "title": "Flight to ALDEBARAN with Marc-Antoine BARROIS",
-      "link": "https://www.fragrantica.com/news/Flight-to-ALDEBARAN-with-Marc-Antoine-BARROIS-25959.html",
-      "description": "Heading to Aldebaran!",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1787872120
     }
   ],
   "perfumes": [
+    {
+      "title": "Burberry — Goddess Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Goddess-Hair-Mist-142202.html",
+      "description": "New perfume listing: Goddess Hair Mist by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1789039260
+    },
+    {
+      "title": "Flor de Mayo — Delizia Cinnamour",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Cinnamour-142201.html",
+      "description": "New perfume listing: Delizia Cinnamour by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1789039260
+    },
+    {
+      "title": "Adolfo Dominguez — Ambar Negro Elixir",
+      "link": "https://www.fragrantica.com/perfume/Adolfo-Dominguez/Ambar-Negro-Elixir-142200.html",
+      "description": "New perfume listing: Ambar Negro Elixir by Adolfo Dominguez.",
+      "category": "New Perfumes",
+      "author": "Adolfo Dominguez",
+      "published": 1789039260
+    },
+    {
+      "title": "Flor de Mayo — Delizia Kokoloko",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Kokoloko-142199.html",
+      "description": "New perfume listing: Delizia Kokoloko by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1789039260
+    },
+    {
+      "title": "Flor de Mayo — Delizia Peachplease",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Peachplease-142198.html",
+      "description": "New perfume listing: Delizia Peachplease by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1789039260
+    },
+    {
+      "title": "Flor de Mayo — Delizia Strawberry",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Strawberry-142197.html",
+      "description": "New perfume listing: Delizia Strawberry by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1789039260
+    },
+    {
+      "title": "Bujairami — Midnight Booz",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Midnight-Booz-142196.html",
+      "description": "New perfume listing: Midnight Booz by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789039260
+    },
+    {
+      "title": "Khadlaj Perfumes — Shiyaaka White",
+      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Shiyaaka-White-142195.html",
+      "description": "New perfume listing: Shiyaaka White by Khadlaj Perfumes.",
+      "category": "New Perfumes",
+      "author": "Khadlaj Perfumes",
+      "published": 1789039260
+    },
+    {
+      "title": "Bujairami — Unforgettable",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Unforgettable-142194.html",
+      "description": "New perfume listing: Unforgettable by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789039260
+    },
+    {
+      "title": "Indice Parfums — Dragon Skin",
+      "link": "https://www.fragrantica.com/perfume/Indice-Parfums/Dragon-Skin-142193.html",
+      "description": "New perfume listing: Dragon Skin by Indice Parfums.",
+      "category": "New Perfumes",
+      "author": "Indice Parfums",
+      "published": 1789039260
+    },
+    {
+      "title": "Amika — Aura",
+      "link": "https://www.fragrantica.com/perfume/Amika/Aura-142192.html",
+      "description": "New perfume listing: Aura by Amika.",
+      "category": "New Perfumes",
+      "author": "Amika",
+      "published": 1789039260
+    },
+    {
+      "title": "Santa Eulalia — Heritas",
+      "link": "https://www.fragrantica.com/perfume/Santa-Eulalia/Heritas-142191.html",
+      "description": "New perfume listing: Heritas by Santa Eulalia.",
+      "category": "New Perfumes",
+      "author": "Santa Eulalia",
+      "published": 1789039260
+    },
     {
       "title": "Pour Toi — Miere de Viespi",
       "link": "https://www.fragrantica.com/perfume/Pour-Toi/Miere-de-Viespi-142184.html",
@@ -1505,102 +1601,6 @@
       "category": "New Perfumes",
       "author": "Benneviento",
       "published": 1788866450
-    },
-    {
-      "title": "Benneviento — Destination Human Zoo",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Destination-Human-Zoo-142101.html",
-      "description": "New perfume listing: Destination Human Zoo by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788866450
-    },
-    {
-      "title": "Benneviento — Mourner's Path",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Mourner-s-Path-142100.html",
-      "description": "New perfume listing: Mourner's Path by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788866450
-    },
-    {
-      "title": "Benneviento — Skin Sonata",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Skin-Sonata-142099.html",
-      "description": "New perfume listing: Skin Sonata by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788866450
-    },
-    {
-      "title": "Benneviento — Celestine Mist",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Celestine-Mist-142098.html",
-      "description": "New perfume listing: Celestine Mist by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788866450
-    },
-    {
-      "title": "Benneviento — Before the First Step",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Before-the-First-Step-142097.html",
-      "description": "New perfume listing: Before the First Step by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788866450
-    },
-    {
-      "title": "Heretic Parfum — Lotusland x Heretic - Osmanthus",
-      "link": "https://www.fragrantica.com/perfume/Heretic-Parfum/Lotusland-x-Heretic-Osmanthus-142109.html",
-      "description": "New perfume listing: Lotusland x Heretic - Osmanthus by Heretic Parfum.",
-      "category": "New Perfumes",
-      "author": "Heretic Parfum",
-      "published": 1788866450
-    },
-    {
-      "title": "Hinode — Blossy",
-      "link": "https://www.fragrantica.com/perfume/Hinode/Blossy-142096.html",
-      "description": "New perfume listing: Blossy by Hinode.",
-      "category": "New Perfumes",
-      "author": "Hinode",
-      "published": 1788842288
-    },
-    {
-      "title": "Benneviento — Verses No Eyes Recall",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Verses-No-Eyes-Recall-142094.html",
-      "description": "New perfume listing: Verses No Eyes Recall by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788842288
-    },
-    {
-      "title": "Benneviento — Souls of Anarchy",
-      "link": "https://www.fragrantica.com/perfume/Benneviento/Souls-of-Anarchy-142093.html",
-      "description": "New perfume listing: Souls of Anarchy by Benneviento.",
-      "category": "New Perfumes",
-      "author": "Benneviento",
-      "published": 1788842288
-    },
-    {
-      "title": "Lua & Neve — Adamantine",
-      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Adamantine-142087.html",
-      "description": "New perfume listing: Adamantine by Lua & Neve.",
-      "category": "New Perfumes",
-      "author": "Lua & Neve",
-      "published": 1788842288
-    },
-    {
-      "title": "Lua & Neve — Toxicant Poison",
-      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Toxicant-Poison-142086.html",
-      "description": "New perfume listing: Toxicant Poison by Lua & Neve.",
-      "category": "New Perfumes",
-      "author": "Lua & Neve",
-      "published": 1788842288
-    },
-    {
-      "title": "Lua & Neve — Fashion",
-      "link": "https://www.fragrantica.com/perfume/Lua-Neve/Fashion-142085.html",
-      "description": "New perfume listing: Fashion by Lua & Neve.",
-      "category": "New Perfumes",
-      "author": "Lua & Neve",
-      "published": 1788842288
     }
   ]
 }
