@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Pitti Fragranze 2026 Highlights",
+      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Highlights-26069.html",
+      "description": "First news from Pitti Fragranze.",
+      "category": "Art Books Events",
+      "author": "Elena Knezevic",
+      "published": 1789139767
+    },
+    {
+      "title": "With Vanilla Aube Ormonde Jayne Paints a Softly Lit Masterpiece",
+      "link": "https://www.fragrantica.com/news/With-Vanilla-Aube-Ormonde-Jayne-Paints-a-Softly-Lit-Masterpiece-26068.html",
+      "description": "Vanilla wrapped in leather dreams and treasured glances. Warm, but never sweet — this isn't dessert but pure unadulterated desire. For when you want to be felt without being touched.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1789131244
+    },
+    {
       "title": "New L’Eau D’Issey Flankers: A Male Twilly & An Accidental Chanel",
       "link": "https://www.fragrantica.com/news/New-L-Eau-D-Issey-Flankers-A-Male-Twilly-An-Accidental-Chanel-26067.html",
       "description": "Aesthetic borrowing in the signature Issey style.",
@@ -783,25 +799,97 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1788022262
-    },
-    {
-      "title": "Dolce & Gabbana Your Devotion: A New Devotion to Milk and Vanilla",
-      "link": "https://www.fragrantica.com/news/Dolce-Gabbana-Your-Devotion-A-New-Devotion-to-Milk-and-Vanilla-25969.html",
-      "description": "Vanilla ice cream enters the Devotion world.",
-      "category": "Video",
-      "author": "Fragrance Reviews",
-      "published": 1788003663
-    },
-    {
-      "title": "Memoize London Launch Room Sprays",
-      "link": "https://www.fragrantica.com/news/Memoize-London-Launch-Room-Sprays-25968.html",
-      "description": "The brand brings three of its best-selling fragrances into the new format",
-      "category": "Scented Home & Garden",
-      "author": "Nicola Thomis",
-      "published": 1787991062
     }
   ],
   "perfumes": [
+    {
+      "title": "Olfattology — OT•Fougère",
+      "link": "https://www.fragrantica.com/perfume/Olfattology/OT-Fougere-142248.html",
+      "description": "New perfume listing: OT•Fougère by Olfattology.",
+      "category": "New Perfumes",
+      "author": "Olfattology",
+      "published": 1789144173
+    },
+    {
+      "title": "Mendittorosa — Re-Evolution",
+      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Re-Evolution-142247.html",
+      "description": "New perfume listing: Re-Evolution by Mendittorosa.",
+      "category": "New Perfumes",
+      "author": "Mendittorosa",
+      "published": 1789144173
+    },
+    {
+      "title": "Atelier Materi — Rose Palezia",
+      "link": "https://www.fragrantica.com/perfume/Atelier-Materi/Rose-Palezia-142246.html",
+      "description": "New perfume listing: Rose Palezia by Atelier Materi.",
+      "category": "New Perfumes",
+      "author": "Atelier Materi",
+      "published": 1789144173
+    },
+    {
+      "title": "Mendittorosa — Outopia",
+      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Outopia-142245.html",
+      "description": "New perfume listing: Outopia by Mendittorosa.",
+      "category": "New Perfumes",
+      "author": "Mendittorosa",
+      "published": 1789144173
+    },
+    {
+      "title": "Mendittorosa — Asoral",
+      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Asoral-142244.html",
+      "description": "New perfume listing: Asoral by Mendittorosa.",
+      "category": "New Perfumes",
+      "author": "Mendittorosa",
+      "published": 1789144173
+    },
+    {
+      "title": "English Laundry — Royal Charter",
+      "link": "https://www.fragrantica.com/perfume/English-Laundry/Royal-Charter-142243.html",
+      "description": "New perfume listing: Royal Charter by English Laundry.",
+      "category": "New Perfumes",
+      "author": "English Laundry",
+      "published": 1789144173
+    },
+    {
+      "title": "Mimani — Aqua Sorbet",
+      "link": "https://www.fragrantica.com/perfume/Mimani/Aqua-Sorbet-142240.html",
+      "description": "New perfume listing: Aqua Sorbet by Mimani.",
+      "category": "New Perfumes",
+      "author": "Mimani",
+      "published": 1789144173
+    },
+    {
+      "title": "Bath & Body Works — Oud Suede",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Oud-Suede-142239.html",
+      "description": "New perfume listing: Oud Suede by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1789144173
+    },
+    {
+      "title": "Bath & Body Works — Oud Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Oud-Vanilla-142238.html",
+      "description": "New perfume listing: Oud Vanilla by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1789144173
+    },
+    {
+      "title": "Opal Perfumes — Malaya",
+      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Malaya-142242.html",
+      "description": "New perfume listing: Malaya by Opal Perfumes.",
+      "category": "New Perfumes",
+      "author": "Opal Perfumes",
+      "published": 1789144173
+    },
+    {
+      "title": "Bujairami — Ruthless Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ruthless-Vanilla-142241.html",
+      "description": "New perfume listing: Ruthless Vanilla by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789144173
+    },
     {
       "title": "Lorenzo Villoresi — Vol d’Abaris",
       "link": "https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vol-d-Abaris-142237.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "Feel Oud",
       "published": 1788953078
-    },
-    {
-      "title": "Feel Oud — Mysory Lotus",
-      "link": "https://www.fragrantica.com/perfume/Feel-Oud/Mysory-Lotus-142147.html",
-      "description": "New perfume listing: Mysory Lotus by Feel Oud.",
-      "category": "New Perfumes",
-      "author": "Feel Oud",
-      "published": 1788953078
-    },
-    {
-      "title": "OXGN — 11:55 Infinite Women",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Infinite-Women-142146.html",
-      "description": "New perfume listing: 11:55 Infinite Women by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — 11:55 Infinite Men",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Infinite-Men-142145.html",
-      "description": "New perfume listing: 11:55 Infinite Men by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — 11:55 Women",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Women-142144.html",
-      "description": "New perfume listing: 11:55 Women by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — 11:55 Men",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Men-142143.html",
-      "description": "New perfume listing: 11:55 Men by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — 11:55 Men Bleach Limited Edition",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-Men-Bleach-Limited-Edition-142142.html",
-      "description": "New perfume listing: 11:55 Men Bleach Limited Edition by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — 11:55 One Piece Limited Edition",
-      "link": "https://www.fragrantica.com/perfume/OXGN/11-55-One-Piece-Limited-Edition-142141.html",
-      "description": "New perfume listing: 11:55 One Piece Limited Edition by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — Static Demon Slayer Edition",
-      "link": "https://www.fragrantica.com/perfume/OXGN/Static-Demon-Slayer-Edition-142140.html",
-      "description": "New perfume listing: Static Demon Slayer Edition by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — Arctic",
-      "link": "https://www.fragrantica.com/perfume/OXGN/Arctic-142139.html",
-      "description": "New perfume listing: Arctic by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "OXGN — Naked",
-      "link": "https://www.fragrantica.com/perfume/OXGN/Naked-142138.html",
-      "description": "New perfume listing: Naked by OXGN.",
-      "category": "New Perfumes",
-      "author": "OXGN",
-      "published": 1788929037
-    },
-    {
-      "title": "L'Atelier Mobius 莫比乌斯 — Neige Dorée",
-      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Neige-Doree-142137.html",
-      "description": "New perfume listing: Neige Dorée by L'Atelier Mobius 莫比乌斯.",
-      "category": "New Perfumes",
-      "author": "L'Atelier Mobius 莫比乌斯",
-      "published": 1788901812
     }
   ]
 }
