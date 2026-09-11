@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "A Busy Fall Season for Maison Crivelli",
+      "link": "https://www.fragrantica.com/news/A-Busy-Fall-Season-for-Maison-Crivelli-26070.html",
+      "description": "September promises to be a busy month for the brand: the launch of a new release and the opening of its first global boutique.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1789154344
+    },
+    {
       "title": "Pitti Fragranze 2026 Highlights",
       "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Highlights-26069.html",
       "description": "First news from Pitti Fragranze.",
@@ -11,7 +19,7 @@
     {
       "title": "With Vanilla Aube Ormonde Jayne Paints a Softly Lit Masterpiece",
       "link": "https://www.fragrantica.com/news/With-Vanilla-Aube-Ormonde-Jayne-Paints-a-Softly-Lit-Masterpiece-26068.html",
-      "description": "Vanilla wrapped in leather dreams and treasured glances. Warm, but never sweet — this isn't dessert but pure unadulterated desire. For when you want to be felt without being touched.",
+      "description": "Vanilla wrapped in leather dreams and treasured glances. Not dessert but unadulterated desire. For when you want to be felt without being touched. Plus 10% OFF for our readers.",
       "category": "Fragrance Reviews",
       "author": "Elena Vosnaki",
       "published": 1789131244
@@ -791,17 +799,89 @@
       "category": "Home Fragrances",
       "author": "Elena Knezevic",
       "published": 1788030831
-    },
-    {
-      "title": "Dior’s Sauvage Extrait: Rockstar Solar Civet With Extra Reverb",
-      "link": "https://www.fragrantica.com/news/Dior-s-Sauvage-Extrait-Rockstar-Solar-Civet-With-Extra-Reverb-25970.html",
-      "description": "Brilliant!",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1788022262
     }
   ],
   "perfumes": [
+    {
+      "title": "Avec Creations — Blu Portofino",
+      "link": "https://www.fragrantica.com/perfume/Avec-Creations/Blu-Portofino-142251.html",
+      "description": "New perfume listing: Blu Portofino by Avec Creations.",
+      "category": "New Perfumes",
+      "author": "Avec Creations",
+      "published": 1789160323
+    },
+    {
+      "title": "Victoria Beckham Beauty — Hotel Portofino",
+      "link": "https://www.fragrantica.com/perfume/Victoria-Beckham-Beauty/Hotel-Portofino-142250.html",
+      "description": "New perfume listing: Hotel Portofino by Victoria Beckham Beauty.",
+      "category": "New Perfumes",
+      "author": "Victoria Beckham Beauty",
+      "published": 1789160323
+    },
+    {
+      "title": "Bois 1920 — Musk 1920",
+      "link": "https://www.fragrantica.com/perfume/Bois-1920/Musk-1920-142249.html",
+      "description": "New perfume listing: Musk 1920 by Bois 1920.",
+      "category": "New Perfumes",
+      "author": "Bois 1920",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — We're Not Telling You!",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/We-re-Not-Telling-You-142258.html",
+      "description": "New perfume listing: We're Not Telling You! by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — The Real You",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Real-You-142257.html",
+      "description": "New perfume listing: The Real You by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — Regal Homage",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Regal-Homage-142256.html",
+      "description": "New perfume listing: Regal Homage by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — Not Your Basic Beach Scent",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Not-Your-Basic-Beach-Scent-142255.html",
+      "description": "New perfume listing: Not Your Basic Beach Scent by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — Joyful You",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Joyful-You-142254.html",
+      "description": "New perfume listing: Joyful You by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "The Dua Brand — A Piece Of Your Heart",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-Piece-Of-Your-Heart-142253.html",
+      "description": "New perfume listing: A Piece Of Your Heart by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1789160323
+    },
+    {
+      "title": "Jovan — Black Orchid",
+      "link": "https://www.fragrantica.com/perfume/Jovan/Black-Orchid-142252.html",
+      "description": "New perfume listing: Black Orchid by Jovan.",
+      "category": "New Perfumes",
+      "author": "Jovan",
+      "published": 1789160323
+    },
     {
       "title": "Olfattology — OT•Fougère",
       "link": "https://www.fragrantica.com/perfume/Olfattology/OT-Fougere-142248.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Tabacco e Cashmere by Gabor Cosmetics.",
       "category": "New Perfumes",
       "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Gabor Cosmetics — Latte Crema",
-      "link": "https://www.fragrantica.com/perfume/Gabor-Cosmetics/Latte-Crema-142157.html",
-      "description": "New perfume listing: Latte Crema by Gabor Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Gabor Cosmetics — Fiori di Cotone",
-      "link": "https://www.fragrantica.com/perfume/Gabor-Cosmetics/Fiori-di-Cotone-142156.html",
-      "description": "New perfume listing: Fiori di Cotone by Gabor Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Gabor Cosmetics — Caramello e Pistacchio",
-      "link": "https://www.fragrantica.com/perfume/Gabor-Cosmetics/Caramello-e-Pistacchio-142155.html",
-      "description": "New perfume listing: Caramello e Pistacchio by Gabor Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Gabor Cosmetics — Fiori Bianchi, Muschio e Ambra",
-      "link": "https://www.fragrantica.com/perfume/Gabor-Cosmetics/Fiori-Bianchi-Muschio-e-Ambra-142154.html",
-      "description": "New perfume listing: Fiori Bianchi, Muschio e Ambra by Gabor Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Gabor Cosmetics — Acqua di Sale",
-      "link": "https://www.fragrantica.com/perfume/Gabor-Cosmetics/Acqua-di-Sale-142153.html",
-      "description": "New perfume listing: Acqua di Sale by Gabor Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Gabor Cosmetics",
-      "published": 1788953078
-    },
-    {
-      "title": "Écume d'Arcachon — Territoire des Sables",
-      "link": "https://www.fragrantica.com/perfume/Ecume-d-Arcachon/Territoire-des-Sables-142152.html",
-      "description": "New perfume listing: Territoire des Sables by Écume d'Arcachon.",
-      "category": "New Perfumes",
-      "author": "Écume d'Arcachon",
-      "published": 1788953078
-    },
-    {
-      "title": "Écume d'Arcachon — Dune Océane",
-      "link": "https://www.fragrantica.com/perfume/Ecume-d-Arcachon/Dune-Oceane-142151.html",
-      "description": "New perfume listing: Dune Océane by Écume d'Arcachon.",
-      "category": "New Perfumes",
-      "author": "Écume d'Arcachon",
-      "published": 1788953078
-    },
-    {
-      "title": "Écume d'Arcachon — Botanique Elixir",
-      "link": "https://www.fragrantica.com/perfume/Ecume-d-Arcachon/Botanique-Elixir-142150.html",
-      "description": "New perfume listing: Botanique Elixir by Écume d'Arcachon.",
-      "category": "New Perfumes",
-      "author": "Écume d'Arcachon",
-      "published": 1788953078
-    },
-    {
-      "title": "Écume d'Arcachon — Écume d'Arcachon",
-      "link": "https://www.fragrantica.com/perfume/Ecume-d-Arcachon/Ecume-d-Arcachon-142149.html",
-      "description": "New perfume listing: Écume d'Arcachon by Écume d'Arcachon.",
-      "category": "New Perfumes",
-      "author": "Écume d'Arcachon",
-      "published": 1788953078
-    },
-    {
-      "title": "Feel Oud — Santal Champaka",
-      "link": "https://www.fragrantica.com/perfume/Feel-Oud/Santal-Champaka-142148.html",
-      "description": "New perfume listing: Santal Champaka by Feel Oud.",
-      "category": "New Perfumes",
-      "author": "Feel Oud",
       "published": 1788953078
     }
   ]
