@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Olfattology OT•Fougère",
+      "link": "https://www.fragrantica.com/news/Olfattology-OT-Fougere-26076.html",
+      "description": "New launch in Florence!",
+      "category": "Niche Perfumes",
+      "author": "Sandra Raičević Petrović",
+      "published": 1789207563
+    },
+    {
+      "title": "BOIS 1920 Musk1920",
+      "link": "https://www.fragrantica.com/news/BOIS-1920-Musk1920-26075.html",
+      "description": "An ode to musk and the second skin scent.",
+      "category": "Niche Perfumes",
+      "author": "Sandra Raičević Petrović",
+      "published": 1789203963
+    },
+    {
+      "title": "Altamura by L'Entropiste: Orange and White",
+      "link": "https://www.fragrantica.com/news/Altamura-by-L-Entropiste-Orange-and-White-26074.html",
+      "description": "Dance while you're young.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1789199223
+    },
+    {
+      "title": "PITTI FRAGRANZE: Highlights of the First Day",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-Highlights-of-the-First-Day-26073.html",
+      "description": "Iulia shares her first impressions of Pitti Fragranze.",
+      "category": "Art Books Events",
+      "author": "Iulia Halatz",
+      "published": 1789187883
+    },
+    {
       "title": "Country Editions by Gissah: Black and White",
       "link": "https://www.fragrantica.com/news/Country-Editions-by-Gissah-Black-and-White-26072.html",
       "description": "Emarati Imperial and Omani Imperial",
@@ -767,38 +799,6 @@
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1788089642
-    },
-    {
-      "title": "Musk Couture From Maksim Perfume: Chocolate Leather, Mouldy Peach",
-      "link": "https://www.fragrantica.com/news/Musk-Couture-From-Maksim-Perfume-Chocolate-Leather-Mouldy-Peach-25976.html",
-      "description": "Musc Ravageur 2.0",
-      "category": "Niche Perfumery",
-      "author": "Eddie Bulliqi",
-      "published": 1788078002
-    },
-    {
-      "title": "RABANNE Million Red For Her Parfum",
-      "link": "https://www.fragrantica.com/news/RABANNE-Million-Red-For-Her-Parfum-25975.html",
-      "description": "Dense, cohesive and beautifully harmonised.",
-      "category": "Fragrance Reviews",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788057784
-    },
-    {
-      "title": "OTTO KERN Gentleman's Code: Gold and Copper",
-      "link": "https://www.fragrantica.com/news/OTTO-KERN-Gentleman-s-Code-Gold-and-Copper-25974.html",
-      "description": "Two new creations for the Gentleman's Code line.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788049563
-    },
-    {
-      "title": "Liberation of Flowers by Entrepreneur Sima Sistani",
-      "link": "https://www.fragrantica.com/news/Liberation-of-Flowers-by-Entrepreneur-Sima-Sistani-25973.html",
-      "description": "With Liberation of Flowers, entrepreneur Sima Sistani ventures into niche perfume territory.",
-      "category": "New Fragrances",
-      "author": "Elena Knezevic",
-      "published": 1788045991
     }
   ],
   "perfumes": [
