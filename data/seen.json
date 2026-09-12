@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Melodie de L'Amour Parfums Dusita: Perfume for a Femme Fatale",
+      "link": "https://www.fragrantica.com/news/Melodie-de-L-Amour-Parfums-Dusita-Perfume-for-a-Femme-Fatale-26078.html",
+      "description": "My favorite Parfums Dusita perfume from the brand’s ten years of existence.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1789226521
+    },
+    {
+      "title": "Lorenzo Villoresi Vol D’Abaris Presentation",
+      "link": "https://www.fragrantica.com/news/Lorenzo-Villoresi-Vol-D-Abaris-Presentation-26077.html",
+      "description": "Sunny vanilla in sunny Florence",
+      "category": "Art Books Events",
+      "author": "Elena Knezevic,Viktoria Vlasova",
+      "published": 1789214201
+    },
+    {
       "title": "Olfattology OT•Fougère",
       "link": "https://www.fragrantica.com/news/Olfattology-OT-Fougere-26076.html",
       "description": "New launch in Florence!",
@@ -783,25 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1788104103
-    },
-    {
-      "title": "Rouge Bunny Rouge: A Review of All Eight Fragrances",
-      "link": "https://www.fragrantica.com/news/Rouge-Bunny-Rouge-A-Review-of-All-Eight-Fragrances-25978.html",
-      "description": "The Italian reincarnation of a British bunny.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1788095403
-    },
-    {
-      "title": "Perfumed Horoscope: August 31 - September 6",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-August-31-September-6-25977.html",
-      "description": "This week brings some serious cleanup after the lunar eclipse this past weekend.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1788089642
     }
   ],
   "perfumes": [
+    {
+      "title": "D:SOL MMXVI — Azuris",
+      "link": "https://www.fragrantica.com/perfume/D-SOL-MMXVI/Azuris-142339.html",
+      "description": "New perfume listing: Azuris by D:SOL MMXVI.",
+      "category": "New Perfumes",
+      "author": "D:SOL MMXVI",
+      "published": 1789227167
+    },
+    {
+      "title": "Francesca dell'Oro — Filigrane",
+      "link": "https://www.fragrantica.com/perfume/Francesca-dell-Oro/Filigrane-142338.html",
+      "description": "New perfume listing: Filigrane by Francesca dell'Oro.",
+      "category": "New Perfumes",
+      "author": "Francesca dell'Oro",
+      "published": 1789227167
+    },
+    {
+      "title": "Michele Marin Essenza — E13 Voile Blanc",
+      "link": "https://www.fragrantica.com/perfume/Michele-Marin-Essenza/E13-Voile-Blanc-142337.html",
+      "description": "New perfume listing: E13 Voile Blanc by Michele Marin Essenza.",
+      "category": "New Perfumes",
+      "author": "Michele Marin Essenza",
+      "published": 1789227167
+    },
+    {
+      "title": "Maison Tahité – Officine Creative Profumi — Vanifigue",
+      "link": "https://www.fragrantica.com/perfume/Maison-Tahite-Officine-Creative-Profumi/Vanifigue-142336.html",
+      "description": "New perfume listing: Vanifigue by Maison Tahité – Officine Creative Profumi.",
+      "category": "New Perfumes",
+      "author": "Maison Tahité – Officine Creative Profumi",
+      "published": 1789227167
+    },
+    {
+      "title": "Laboratorio Olfattivo — Bagage à main",
+      "link": "https://www.fragrantica.com/perfume/Laboratorio-Olfattivo/Bagage-a-main-142335.html",
+      "description": "New perfume listing: Bagage à main by Laboratorio Olfattivo.",
+      "category": "New Perfumes",
+      "author": "Laboratorio Olfattivo",
+      "published": 1789227167
+    },
     {
       "title": "Fable & Mane — Madurai Jasmine",
       "link": "https://www.fragrantica.com/perfume/Fable-Mane/Madurai-Jasmine-142333.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Midnight Booz by Bujairami.",
       "category": "New Perfumes",
       "author": "Bujairami",
-      "published": 1789039260
-    },
-    {
-      "title": "Khadlaj Perfumes — Shiyaaka White",
-      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Shiyaaka-White-142195.html",
-      "description": "New perfume listing: Shiyaaka White by Khadlaj Perfumes.",
-      "category": "New Perfumes",
-      "author": "Khadlaj Perfumes",
-      "published": 1789039260
-    },
-    {
-      "title": "Bujairami — Unforgettable",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Unforgettable-142194.html",
-      "description": "New perfume listing: Unforgettable by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789039260
-    },
-    {
-      "title": "Indice Parfums — Dragon Skin",
-      "link": "https://www.fragrantica.com/perfume/Indice-Parfums/Dragon-Skin-142193.html",
-      "description": "New perfume listing: Dragon Skin by Indice Parfums.",
-      "category": "New Perfumes",
-      "author": "Indice Parfums",
-      "published": 1789039260
-    },
-    {
-      "title": "Amika — Aura",
-      "link": "https://www.fragrantica.com/perfume/Amika/Aura-142192.html",
-      "description": "New perfume listing: Aura by Amika.",
-      "category": "New Perfumes",
-      "author": "Amika",
-      "published": 1789039260
-    },
-    {
-      "title": "Santa Eulalia — Heritas",
-      "link": "https://www.fragrantica.com/perfume/Santa-Eulalia/Heritas-142191.html",
-      "description": "New perfume listing: Heritas by Santa Eulalia.",
-      "category": "New Perfumes",
-      "author": "Santa Eulalia",
       "published": 1789039260
     }
   ]
