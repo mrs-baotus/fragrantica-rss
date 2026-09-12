@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 2026: Punch-Drunk Pineapple Upper Cut From Frapin",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Punch-Drunk-Pineapple-Upper-Cut-From-Frapin-26080.html",
+      "description": "Orchid Man The Last Fight.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1789242122
+    },
+    {
+      "title": "PITTI Fragranze Day 2: The Sacred and the Profane",
+      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-Day-2-The-Sacred-and-the-Profane-26079.html",
+      "description": "Bonkers bananas, to serious sandalwood, via the Med, and a fantasy orchid!",
+      "category": "Art Books Events",
+      "author": "Nicola Thomis",
+      "published": 1789232523
+    },
+    {
       "title": "Melodie de L'Amour Parfums Dusita: Perfume for a Femme Fatale",
       "link": "https://www.fragrantica.com/news/Melodie-de-L-Amour-Parfums-Dusita-Perfume-for-a-Femme-Fatale-26078.html",
       "description": "My favorite Parfums Dusita perfume from the brand’s ten years of existence.",
@@ -783,25 +799,89 @@
       "category": "Columns",
       "author": "Dr Ruqayya Abba Tofa",
       "published": 1788123341
-    },
-    {
-      "title": "L'Heure Bleue 2026 Guerlain Review",
-      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-2026-Guerlain-Review-25980.html",
-      "description": "Strolling through evening Paris along the Seine.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1788113577
-    },
-    {
-      "title": "Colosseum by Christian Provenzano Parfums: Colossal Longevity",
-      "link": "https://www.fragrantica.com/news/Colosseum-by-Christian-Provenzano-Parfums-Colossal-Longevity-25979.html",
-      "description": "Juicy citruses, freshwater aquatics, hemp-like greenery, and vetiver smokiness from Christian Provenzano.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1788104103
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Dark Specter",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Dark-Specter-142349.html",
+      "description": "New perfume listing: Dark Specter by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789245245
+    },
+    {
+      "title": "Boy Smells — Citrush",
+      "link": "https://www.fragrantica.com/perfume/Boy-Smells/Citrush-142348.html",
+      "description": "New perfume listing: Citrush by Boy Smells.",
+      "category": "New Perfumes",
+      "author": "Boy Smells",
+      "published": 1789245245
+    },
+    {
+      "title": "Amaran — Voca Pink",
+      "link": "https://www.fragrantica.com/perfume/Amaran/Voca-Pink-142347.html",
+      "description": "New perfume listing: Voca Pink by Amaran.",
+      "category": "New Perfumes",
+      "author": "Amaran",
+      "published": 1789245245
+    },
+    {
+      "title": "Junaid Perfumes — Amethyst",
+      "link": "https://www.fragrantica.com/perfume/Junaid-Perfumes/Amethyst-142346.html",
+      "description": "New perfume listing: Amethyst by Junaid Perfumes.",
+      "category": "New Perfumes",
+      "author": "Junaid Perfumes",
+      "published": 1789245245
+    },
+    {
+      "title": "Bath House — Laurel",
+      "link": "https://www.fragrantica.com/perfume/Bath-House/Laurel-142345.html",
+      "description": "New perfume listing: Laurel by Bath House.",
+      "category": "New Perfumes",
+      "author": "Bath House",
+      "published": 1789245245
+    },
+    {
+      "title": "James Heeley — Chiris",
+      "link": "https://www.fragrantica.com/perfume/James-Heeley/Chiris-142342.html",
+      "description": "New perfume listing: Chiris by James Heeley.",
+      "category": "New Perfumes",
+      "author": "James Heeley",
+      "published": 1789245245
+    },
+    {
+      "title": "Coreterno — Café Mémoire",
+      "link": "https://www.fragrantica.com/perfume/Coreterno/Cafe-Memoire-142341.html",
+      "description": "New perfume listing: Café Mémoire by Coreterno.",
+      "category": "New Perfumes",
+      "author": "Coreterno",
+      "published": 1789245245
+    },
+    {
+      "title": "Voskanian Parfums — Absolute Horizon",
+      "link": "https://www.fragrantica.com/perfume/Voskanian-Parfums/Absolute-Horizon-142340.html",
+      "description": "New perfume listing: Absolute Horizon by Voskanian Parfums.",
+      "category": "New Perfumes",
+      "author": "Voskanian Parfums",
+      "published": 1789245245
+    },
+    {
+      "title": "Body Fantasies — Daydream Darling",
+      "link": "https://www.fragrantica.com/perfume/Body-Fantasies/Daydream-Darling-142344.html",
+      "description": "New perfume listing: Daydream Darling by Body Fantasies.",
+      "category": "New Perfumes",
+      "author": "Body Fantasies",
+      "published": 1789245245
+    },
+    {
+      "title": "Body Fantasies — Sweet Primrose Kiss",
+      "link": "https://www.fragrantica.com/perfume/Body-Fantasies/Sweet-Primrose-Kiss-142343.html",
+      "description": "New perfume listing: Sweet Primrose Kiss by Body Fantasies.",
+      "category": "New Perfumes",
+      "author": "Body Fantasies",
+      "published": 1789245245
+    },
     {
       "title": "D:SOL MMXVI — Azuris",
       "link": "https://www.fragrantica.com/perfume/D-SOL-MMXVI/Azuris-142339.html",
@@ -1521,86 +1601,6 @@
       "category": "New Perfumes",
       "author": "BMW Fragrances",
       "published": 1789057504
-    },
-    {
-      "title": "BMW Fragrances — Mineralmood",
-      "link": "https://www.fragrantica.com/perfume/BMW-Fragrances/Mineralmood-142205.html",
-      "description": "New perfume listing: Mineralmood by BMW Fragrances.",
-      "category": "New Perfumes",
-      "author": "BMW Fragrances",
-      "published": 1789057504
-    },
-    {
-      "title": "Gianluca Gariboldi — Oraméda",
-      "link": "https://www.fragrantica.com/perfume/Gianluca-Gariboldi/Orameda-142204.html",
-      "description": "New perfume listing: Oraméda by Gianluca Gariboldi.",
-      "category": "New Perfumes",
-      "author": "Gianluca Gariboldi",
-      "published": 1789057504
-    },
-    {
-      "title": "La Fleur by Livvy — Kupaloke (2026 Edition)",
-      "link": "https://www.fragrantica.com/perfume/La-Fleur-by-Livvy/Kupaloke-2026-Edition-142203.html",
-      "description": "New perfume listing: Kupaloke (2026 Edition) by La Fleur by Livvy.",
-      "category": "New Perfumes",
-      "author": "La Fleur by Livvy",
-      "published": 1789057504
-    },
-    {
-      "title": "Burberry — Goddess Hair Mist",
-      "link": "https://www.fragrantica.com/perfume/Burberry/Goddess-Hair-Mist-142202.html",
-      "description": "New perfume listing: Goddess Hair Mist by Burberry.",
-      "category": "New Perfumes",
-      "author": "Burberry",
-      "published": 1789039260
-    },
-    {
-      "title": "Flor de Mayo — Delizia Cinnamour",
-      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Cinnamour-142201.html",
-      "description": "New perfume listing: Delizia Cinnamour by Flor de Mayo.",
-      "category": "New Perfumes",
-      "author": "Flor de Mayo",
-      "published": 1789039260
-    },
-    {
-      "title": "Adolfo Dominguez — Ambar Negro Elixir",
-      "link": "https://www.fragrantica.com/perfume/Adolfo-Dominguez/Ambar-Negro-Elixir-142200.html",
-      "description": "New perfume listing: Ambar Negro Elixir by Adolfo Dominguez.",
-      "category": "New Perfumes",
-      "author": "Adolfo Dominguez",
-      "published": 1789039260
-    },
-    {
-      "title": "Flor de Mayo — Delizia Kokoloko",
-      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Kokoloko-142199.html",
-      "description": "New perfume listing: Delizia Kokoloko by Flor de Mayo.",
-      "category": "New Perfumes",
-      "author": "Flor de Mayo",
-      "published": 1789039260
-    },
-    {
-      "title": "Flor de Mayo — Delizia Peachplease",
-      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Peachplease-142198.html",
-      "description": "New perfume listing: Delizia Peachplease by Flor de Mayo.",
-      "category": "New Perfumes",
-      "author": "Flor de Mayo",
-      "published": 1789039260
-    },
-    {
-      "title": "Flor de Mayo — Delizia Strawberry",
-      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Delizia-Strawberry-142197.html",
-      "description": "New perfume listing: Delizia Strawberry by Flor de Mayo.",
-      "category": "New Perfumes",
-      "author": "Flor de Mayo",
-      "published": 1789039260
-    },
-    {
-      "title": "Bujairami — Midnight Booz",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Midnight-Booz-142196.html",
-      "description": "New perfume listing: Midnight Booz by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789039260
     }
   ]
 }
