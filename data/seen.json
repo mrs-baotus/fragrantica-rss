@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 2026: Michele Marin Launches E13",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Michele-Marin-Launches-E13-26086.html",
+      "description": "“Incense in ecstasy.”",
+      "category": "Art Books Events",
+      "author": "Eddie Bulliqi",
+      "published": 1789314303
+    },
+    {
       "title": "Inkera by Ricardo Ramos & the Cultivation of Vanilla in Colombia",
       "link": "https://www.fragrantica.com/news/Inkera-by-Ricardo-Ramos-the-Cultivation-of-Vanilla-in-Colombia-26085.html",
       "description": "A quite different niche interpretation of vanilla launches on 09/14. Elena Vosnaki has tried it and is enthused.",
@@ -791,17 +799,137 @@
       "category": "Fragrance Reviews",
       "author": "Beth Butterfield",
       "published": 1788211802
-    },
-    {
-      "title": "SOD Mallo: Learning Decay the Proper Way!",
-      "link": "https://www.fragrantica.com/news/SOD-Mallo-Learning-Decay-the-Proper-Way-25986.html",
-      "description": "Students Of Decay, abbreviated as SOD.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1788202263
     }
   ],
   "perfumes": [
+    {
+      "title": "Gisou — Honey Infused Hair Perfume Wildflower",
+      "link": "https://www.fragrantica.com/perfume/Gisou/Honey-Infused-Hair-Perfume-Wildflower-142382.html",
+      "description": "New perfume listing: Honey Infused Hair Perfume Wildflower by Gisou.",
+      "category": "New Perfumes",
+      "author": "Gisou",
+      "published": 1789316314
+    },
+    {
+      "title": "NEOM Wellbeing — Sparkling Joy Essential Oil Blend",
+      "link": "https://www.fragrantica.com/perfume/NEOM-Wellbeing/Sparkling-Joy-Essential-Oil-Blend-142395.html",
+      "description": "New perfume listing: Sparkling Joy Essential Oil Blend by NEOM Wellbeing.",
+      "category": "New Perfumes",
+      "author": "NEOM Wellbeing",
+      "published": 1789316314
+    },
+    {
+      "title": "NEOM Wellbeing — Perfect Peace Essential Oil Blend",
+      "link": "https://www.fragrantica.com/perfume/NEOM-Wellbeing/Perfect-Peace-Essential-Oil-Blend-142394.html",
+      "description": "New perfume listing: Perfect Peace Essential Oil Blend by NEOM Wellbeing.",
+      "category": "New Perfumes",
+      "author": "NEOM Wellbeing",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Cotton Flower Scented Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Cotton-Flower-Scented-Body-Mist-142393.html",
+      "description": "New perfume listing: Cotton Flower Scented Body Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Coconut Scented Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Coconut-Scented-Body-Mist-142392.html",
+      "description": "New perfume listing: Coconut Scented Body Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Bamboo + Rose Body & Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Bamboo-Rose-Body-Hair-Mist-142391.html",
+      "description": "New perfume listing: Bamboo + Rose Body & Hair Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Monoi Scented Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Monoi-Scented-Body-Mist-142390.html",
+      "description": "New perfume listing: Monoi Scented Body Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Argan Scented Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Argan-Scented-Body-Mist-142389.html",
+      "description": "New perfume listing: Argan Scented Body Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Cherry Blossom Scented Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Cherry-Blossom-Scented-Body-Mist-142388.html",
+      "description": "New perfume listing: Cherry Blossom Scented Body Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Monoi + Bergamot Body & Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Monoi-Bergamot-Body-Hair-Mist-142387.html",
+      "description": "New perfume listing: Monoi + Bergamot Body & Hair Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Cherry +Whipped Cream Body & Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Cherry-Whipped-Cream-Body-Hair-Mist-142386.html",
+      "description": "New perfume listing: Cherry +Whipped Cream Body & Hair Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Peony + Ginger Body & Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Peony-Ginger-Body-Hair-Mist-142385.html",
+      "description": "New perfume listing: Peony + Ginger Body & Hair Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Sephora — Vanilla + Almond Milk Body & Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Sephora/Vanilla-Almond-Milk-Body-Hair-Mist-142384.html",
+      "description": "New perfume listing: Vanilla + Almond Milk Body & Hair Mist by Sephora.",
+      "category": "New Perfumes",
+      "author": "Sephora",
+      "published": 1789316314
+    },
+    {
+      "title": "Gisou — Honey Infused Hair Perfume Lavender Berry",
+      "link": "https://www.fragrantica.com/perfume/Gisou/Honey-Infused-Hair-Perfume-Lavender-Berry-142383.html",
+      "description": "New perfume listing: Honey Infused Hair Perfume Lavender Berry by Gisou.",
+      "category": "New Perfumes",
+      "author": "Gisou",
+      "published": 1789316314
+    },
+    {
+      "title": "Acqua di Parma — Colonia Essenza",
+      "link": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Colonia-Essenza-142381.html",
+      "description": "New perfume listing: Colonia Essenza by Acqua di Parma.",
+      "category": "New Perfumes",
+      "author": "Acqua di Parma",
+      "published": 1789316314
+    },
+    {
+      "title": "Thameen — Red Carved Oud",
+      "link": "https://www.fragrantica.com/perfume/Thameen/Red-Carved-Oud-142380.html",
+      "description": "New perfume listing: Red Carved Oud by Thameen.",
+      "category": "New Perfumes",
+      "author": "Thameen",
+      "published": 1789316314
+    },
     {
       "title": "Room 1015 — Kokoa Bang",
       "link": "https://www.fragrantica.com/perfume/Room-1015/Kokoa-Bang-142378.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1789160323
-    },
-    {
-      "title": "The Dua Brand — Not Your Basic Beach Scent",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Not-Your-Basic-Beach-Scent-142255.html",
-      "description": "New perfume listing: Not Your Basic Beach Scent by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789160323
-    },
-    {
-      "title": "The Dua Brand — Joyful You",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Joyful-You-142254.html",
-      "description": "New perfume listing: Joyful You by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789160323
-    },
-    {
-      "title": "The Dua Brand — A Piece Of Your Heart",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-Piece-Of-Your-Heart-142253.html",
-      "description": "New perfume listing: A Piece Of Your Heart by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789160323
-    },
-    {
-      "title": "Jovan — Black Orchid",
-      "link": "https://www.fragrantica.com/perfume/Jovan/Black-Orchid-142252.html",
-      "description": "New perfume listing: Black Orchid by Jovan.",
-      "category": "New Perfumes",
-      "author": "Jovan",
-      "published": 1789160323
-    },
-    {
-      "title": "Olfattology — OT•Fougère",
-      "link": "https://www.fragrantica.com/perfume/Olfattology/OT-Fougere-142248.html",
-      "description": "New perfume listing: OT•Fougère by Olfattology.",
-      "category": "New Perfumes",
-      "author": "Olfattology",
-      "published": 1789144173
-    },
-    {
-      "title": "Mendittorosa — Re-Evolution",
-      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Re-Evolution-142247.html",
-      "description": "New perfume listing: Re-Evolution by Mendittorosa.",
-      "category": "New Perfumes",
-      "author": "Mendittorosa",
-      "published": 1789144173
-    },
-    {
-      "title": "Atelier Materi — Rose Palezia",
-      "link": "https://www.fragrantica.com/perfume/Atelier-Materi/Rose-Palezia-142246.html",
-      "description": "New perfume listing: Rose Palezia by Atelier Materi.",
-      "category": "New Perfumes",
-      "author": "Atelier Materi",
-      "published": 1789144173
-    },
-    {
-      "title": "Mendittorosa — Outopia",
-      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Outopia-142245.html",
-      "description": "New perfume listing: Outopia by Mendittorosa.",
-      "category": "New Perfumes",
-      "author": "Mendittorosa",
-      "published": 1789144173
-    },
-    {
-      "title": "Mendittorosa — Asoral",
-      "link": "https://www.fragrantica.com/perfume/Mendittorosa/Asoral-142244.html",
-      "description": "New perfume listing: Asoral by Mendittorosa.",
-      "category": "New Perfumes",
-      "author": "Mendittorosa",
-      "published": 1789144173
-    },
-    {
-      "title": "English Laundry — Royal Charter",
-      "link": "https://www.fragrantica.com/perfume/English-Laundry/Royal-Charter-142243.html",
-      "description": "New perfume listing: Royal Charter by English Laundry.",
-      "category": "New Perfumes",
-      "author": "English Laundry",
-      "published": 1789144173
-    },
-    {
-      "title": "Mimani — Aqua Sorbet",
-      "link": "https://www.fragrantica.com/perfume/Mimani/Aqua-Sorbet-142240.html",
-      "description": "New perfume listing: Aqua Sorbet by Mimani.",
-      "category": "New Perfumes",
-      "author": "Mimani",
-      "published": 1789144173
-    },
-    {
-      "title": "Bath & Body Works — Oud Suede",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Oud-Suede-142239.html",
-      "description": "New perfume listing: Oud Suede by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1789144173
-    },
-    {
-      "title": "Bath & Body Works — Oud Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Oud-Vanilla-142238.html",
-      "description": "New perfume listing: Oud Vanilla by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1789144173
-    },
-    {
-      "title": "Opal Perfumes — Malaya",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Malaya-142242.html",
-      "description": "New perfume listing: Malaya by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1789144173
-    },
-    {
-      "title": "Bujairami — Ruthless Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Ruthless-Vanilla-142241.html",
-      "description": "New perfume listing: Ruthless Vanilla by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789144173
-    },
-    {
-      "title": "Lorenzo Villoresi — Vol d’Abaris",
-      "link": "https://www.fragrantica.com/perfume/Lorenzo-Villoresi/Vol-d-Abaris-142237.html",
-      "description": "New perfume listing: Vol d’Abaris by Lorenzo Villoresi.",
-      "category": "New Perfumes",
-      "author": "Lorenzo Villoresi",
-      "published": 1789125800
     }
   ]
 }
