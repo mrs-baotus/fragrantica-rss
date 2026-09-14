@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Perfumed Horoscope: September 14 - September 21",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-14-September-21-26090.html",
+      "description": "Whatever we wrote last week about your hidden powers and them being ready to come out, this week that stands even more strongly.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1789353483
+    },
+    {
+      "title": "The Lutfah Line of the Arabiyat Prestige Collection",
+      "link": "https://www.fragrantica.com/news/The-Lutfah-Line-of-the-Arabiyat-Prestige-Collection-26089.html",
+      "description": "Any bestseller must and will be copied.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1789342743
+    },
+    {
       "title": "Final Thoughts (For Now) On PITTI Fragranze",
       "link": "https://www.fragrantica.com/news/Final-Thoughts-For-Now-On-PITTI-Fragranze-26088.html",
       "description": "Day Three of the event brought some unexpected surprises.",
@@ -783,25 +799,113 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1788256983
-    },
-    {
-      "title": "Eliksiro Jeroboam: A Love Potion",
-      "link": "https://www.fragrantica.com/news/Eliksiro-Jeroboam-A-Love-Potion-25990.html",
-      "description": "A tired, but still effective bait for buyers.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1788244204
-    },
-    {
-      "title": "A Care Line For Babies and a Fragrance for Caretakers: Tiny Rituals Eau Parfumée",
-      "link": "https://www.fragrantica.com/news/A-Care-Line-For-Babies-and-a-Fragrance-for-Caretakers-Tiny-Rituals-Eau-Parfumee-25989.html",
-      "description": "An alcohol-free water-based formula.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1788233825
     }
   ],
   "perfumes": [
+    {
+      "title": "Juice Amass — Aprium Butter",
+      "link": "https://www.fragrantica.com/perfume/Juice-Amass/Aprium-Butter-142446.html",
+      "description": "New perfume listing: Aprium Butter by Juice Amass.",
+      "category": "New Perfumes",
+      "author": "Juice Amass",
+      "published": 1789361913
+    },
+    {
+      "title": "Nuancielo — Angels Lux",
+      "link": "https://www.fragrantica.com/perfume/Nuancielo/Angels-Lux-142445.html",
+      "description": "New perfume listing: Angels Lux by Nuancielo.",
+      "category": "New Perfumes",
+      "author": "Nuancielo",
+      "published": 1789361913
+    },
+    {
+      "title": "Kinana — Nakhon",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Nakhon-142443.html",
+      "description": "New perfume listing: Nakhon by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1789361913
+    },
+    {
+      "title": "Synisca — CHUKKA",
+      "link": "https://www.fragrantica.com/perfume/Synisca/CHUKKA-142442.html",
+      "description": "New perfume listing: CHUKKA by Synisca.",
+      "category": "New Perfumes",
+      "author": "Synisca",
+      "published": 1789361913
+    },
+    {
+      "title": "Synisca — NINETEENTH HOLE",
+      "link": "https://www.fragrantica.com/perfume/Synisca/NINETEENTH-HOLE-142441.html",
+      "description": "New perfume listing: NINETEENTH HOLE by Synisca.",
+      "category": "New Perfumes",
+      "author": "Synisca",
+      "published": 1789361913
+    },
+    {
+      "title": "Synisca — DEUCE",
+      "link": "https://www.fragrantica.com/perfume/Synisca/DEUCE-142440.html",
+      "description": "New perfume listing: DEUCE by Synisca.",
+      "category": "New Perfumes",
+      "author": "Synisca",
+      "published": 1789361913
+    },
+    {
+      "title": "Synisca — DAWN EIGHT",
+      "link": "https://www.fragrantica.com/perfume/Synisca/DAWN-EIGHT-142439.html",
+      "description": "New perfume listing: DAWN EIGHT by Synisca.",
+      "category": "New Perfumes",
+      "author": "Synisca",
+      "published": 1789361913
+    },
+    {
+      "title": "Latimah — 'Urayb",
+      "link": "https://www.fragrantica.com/perfume/Latimah/Urayb-142436.html",
+      "description": "New perfume listing: 'Urayb by Latimah.",
+      "category": "New Perfumes",
+      "author": "Latimah",
+      "published": 1789361913
+    },
+    {
+      "title": "CoSTUME NATIONAL — Universal Vanilla",
+      "link": "https://www.fragrantica.com/perfume/CoSTUME-NATIONAL/Universal-Vanilla-142434.html",
+      "description": "New perfume listing: Universal Vanilla by CoSTUME NATIONAL.",
+      "category": "New Perfumes",
+      "author": "CoSTUME NATIONAL",
+      "published": 1789361913
+    },
+    {
+      "title": "Acorelle — Be Positive - Fleur d'Oranger",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Be-Positive-Fleur-d-Oranger-142444.html",
+      "description": "New perfume listing: Be Positive - Fleur d'Oranger by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789361913
+    },
+    {
+      "title": "Acorelle — Be Positive - Fleur de Cerisier",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Be-Positive-Fleur-de-Cerisier-142438.html",
+      "description": "New perfume listing: Be Positive - Fleur de Cerisier by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789361913
+    },
+    {
+      "title": "Primark — Wild Azalea",
+      "link": "https://www.fragrantica.com/perfume/Primark/Wild-Azalea-142437.html",
+      "description": "New perfume listing: Wild Azalea by Primark.",
+      "category": "New Perfumes",
+      "author": "Primark",
+      "published": 1789361913
+    },
+    {
+      "title": "label.m — Hair Perfume",
+      "link": "https://www.fragrantica.com/perfume/label-m/Hair-Perfume-142435.html",
+      "description": "New perfume listing: Hair Perfume by label.m.",
+      "category": "New Perfumes",
+      "author": "label.m",
+      "published": 1789361913
+    },
     {
       "title": "Ruka — Joburg Spritz",
       "link": "https://www.fragrantica.com/perfume/Ruka/Joburg-Spritz-142433.html",
@@ -1497,110 +1601,6 @@
       "category": "New Perfumes",
       "author": "Amaran",
       "published": 1789245245
-    },
-    {
-      "title": "Junaid Perfumes — Amethyst",
-      "link": "https://www.fragrantica.com/perfume/Junaid-Perfumes/Amethyst-142346.html",
-      "description": "New perfume listing: Amethyst by Junaid Perfumes.",
-      "category": "New Perfumes",
-      "author": "Junaid Perfumes",
-      "published": 1789245245
-    },
-    {
-      "title": "Bath House — Laurel",
-      "link": "https://www.fragrantica.com/perfume/Bath-House/Laurel-142345.html",
-      "description": "New perfume listing: Laurel by Bath House.",
-      "category": "New Perfumes",
-      "author": "Bath House",
-      "published": 1789245245
-    },
-    {
-      "title": "James Heeley — Chiris",
-      "link": "https://www.fragrantica.com/perfume/James-Heeley/Chiris-142342.html",
-      "description": "New perfume listing: Chiris by James Heeley.",
-      "category": "New Perfumes",
-      "author": "James Heeley",
-      "published": 1789245245
-    },
-    {
-      "title": "Coreterno — Café Mémoire",
-      "link": "https://www.fragrantica.com/perfume/Coreterno/Cafe-Memoire-142341.html",
-      "description": "New perfume listing: Café Mémoire by Coreterno.",
-      "category": "New Perfumes",
-      "author": "Coreterno",
-      "published": 1789245245
-    },
-    {
-      "title": "Voskanian Parfums — Absolute Horizon",
-      "link": "https://www.fragrantica.com/perfume/Voskanian-Parfums/Absolute-Horizon-142340.html",
-      "description": "New perfume listing: Absolute Horizon by Voskanian Parfums.",
-      "category": "New Perfumes",
-      "author": "Voskanian Parfums",
-      "published": 1789245245
-    },
-    {
-      "title": "Body Fantasies — Daydream Darling",
-      "link": "https://www.fragrantica.com/perfume/Body-Fantasies/Daydream-Darling-142344.html",
-      "description": "New perfume listing: Daydream Darling by Body Fantasies.",
-      "category": "New Perfumes",
-      "author": "Body Fantasies",
-      "published": 1789245245
-    },
-    {
-      "title": "Body Fantasies — Sweet Primrose Kiss",
-      "link": "https://www.fragrantica.com/perfume/Body-Fantasies/Sweet-Primrose-Kiss-142343.html",
-      "description": "New perfume listing: Sweet Primrose Kiss by Body Fantasies.",
-      "category": "New Perfumes",
-      "author": "Body Fantasies",
-      "published": 1789245245
-    },
-    {
-      "title": "D:SOL MMXVI — Azuris",
-      "link": "https://www.fragrantica.com/perfume/D-SOL-MMXVI/Azuris-142339.html",
-      "description": "New perfume listing: Azuris by D:SOL MMXVI.",
-      "category": "New Perfumes",
-      "author": "D:SOL MMXVI",
-      "published": 1789227167
-    },
-    {
-      "title": "Francesca dell'Oro — Filigrane",
-      "link": "https://www.fragrantica.com/perfume/Francesca-dell-Oro/Filigrane-142338.html",
-      "description": "New perfume listing: Filigrane by Francesca dell'Oro.",
-      "category": "New Perfumes",
-      "author": "Francesca dell'Oro",
-      "published": 1789227167
-    },
-    {
-      "title": "Michele Marin Essenza — E13 Voile Blanc",
-      "link": "https://www.fragrantica.com/perfume/Michele-Marin-Essenza/E13-Voile-Blanc-142337.html",
-      "description": "New perfume listing: E13 Voile Blanc by Michele Marin Essenza.",
-      "category": "New Perfumes",
-      "author": "Michele Marin Essenza",
-      "published": 1789227167
-    },
-    {
-      "title": "Maison Tahité – Officine Creative Profumi — Vanifigue",
-      "link": "https://www.fragrantica.com/perfume/Maison-Tahite-Officine-Creative-Profumi/Vanifigue-142336.html",
-      "description": "New perfume listing: Vanifigue by Maison Tahité – Officine Creative Profumi.",
-      "category": "New Perfumes",
-      "author": "Maison Tahité – Officine Creative Profumi",
-      "published": 1789227167
-    },
-    {
-      "title": "Laboratorio Olfattivo — Bagage à main",
-      "link": "https://www.fragrantica.com/perfume/Laboratorio-Olfattivo/Bagage-a-main-142335.html",
-      "description": "New perfume listing: Bagage à main by Laboratorio Olfattivo.",
-      "category": "New Perfumes",
-      "author": "Laboratorio Olfattivo",
-      "published": 1789227167
-    },
-    {
-      "title": "Fable & Mane — Madurai Jasmine",
-      "link": "https://www.fragrantica.com/perfume/Fable-Mane/Madurai-Jasmine-142333.html",
-      "description": "New perfume listing: Madurai Jasmine by Fable & Mane.",
-      "category": "New Perfumes",
-      "author": "Fable & Mane",
-      "published": 1789187790
     }
   ]
 }
