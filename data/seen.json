@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "ŚASVA Showcases the Sweetness of India at PITTI Fragranze",
+      "link": "https://www.fragrantica.com/news/SASVA-Showcases-the-Sweetness-of-India-at-PITTI-Fragranze-26095.html",
+      "description": "The brand launches the Gourmand Bazaar collection",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1789417802
+    },
+    {
+      "title": "Bans for 2026–2030: Which Materials Could Disappear in the Coming Years?",
+      "link": "https://www.fragrantica.com/news/Bans-for-2026-2030-Which-Materials-Could-Disappear-in-the-Coming-Years-26094.html",
+      "description": "What should we expect from the 53rd amendment — and will perfumery die?",
+      "category": "Columns",
+      "author": "Matvey Yudov",
+      "published": 1789407904
+    },
+    {
+      "title": "Brach's First-Ever Fragrance: Ode to Candy Corn",
+      "link": "https://www.fragrantica.com/news/Brach-s-First-Ever-Fragrance-Ode-to-Candy-Corn-26093.html",
+      "description": "Feeling corny?!",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1789402504
+    },
+    {
+      "title": "Pitti Fragranze 2026: Ten Brands to Keep an Eye On",
+      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Ten-Brands-to-Keep-an-Eye-On-26092.html",
+      "description": "New names and those worth knowing.",
+      "category": "Art Books Events",
+      "author": "Giulietta Ptoyan",
+      "published": 1789395004
+    },
+    {
       "title": "New Suk-Jai Fragrance: SIAM 1928 X Bar B Q Plaza Collaboration",
       "link": "https://www.fragrantica.com/news/New-Suk-Jai-Fragrance-SIAM-1928-X-Bar-B-Q-Plaza-Collaboration-26091.html",
       "description": "The aroma of happiness whilst sharing a tabletop grill.",
@@ -11,7 +43,7 @@
     {
       "title": "Perfumed Horoscope: September 14 - September 21",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-14-September-21-26090.html",
-      "description": "Whatever we wrote last week about your hidden powers and them being ready to come out, this week that stands even more strongly.",
+      "description": "Whatever we wrote last week about your hidden powers and them being ready to come out, this week that stands even...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1789353483
@@ -767,41 +799,161 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1788287403
-    },
-    {
-      "title": "What We Do Is Secret Studio Particulier",
-      "link": "https://www.fragrantica.com/news/What-We-Do-Is-Secret-Studio-Particulier-25995.html",
-      "description": "Rather than referencing a physical space, Studio Particulier captures its atmosphere, translating the quiet intensity of artistic creation into scent.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788280203
-    },
-    {
-      "title": "Jo Malone London x WildWash Dog Shampoo",
-      "link": "https://www.fragrantica.com/news/Jo-Malone-London-x-WildWash-Dog-Shampoo-25994.html",
-      "description": "What smells delicious and looks divine?",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1788277749
-    },
-    {
-      "title": "L’OBJET Presents Two Novelties + US GIVEAWAY",
-      "link": "https://www.fragrantica.com/news/L-OBJET-Presents-Two-Novelties-US-GIVEAWAY-25993.html",
-      "description": "Two visions of California by Cécile Zarokian — plus a chance to win full-size bottles for Fragrantica readers.",
-      "category": "New Fragrances",
-      "author": "Giulietta Ptoyan",
-      "published": 1788270770
-    },
-    {
-      "title": "Creed Presents Iris Debonair",
-      "link": "https://www.fragrantica.com/news/Creed-Presents-Iris-Debonair-25992.html",
-      "description": "A tribute to fashion designer Charles Creed, amidst tones of lavender, iris, and wormwood",
-      "category": "Fragrance News",
-      "author": "Giulietta Ptoyan",
-      "published": 1788267910
     }
   ],
   "perfumes": [
+    {
+      "title": "Mirror — Invasion Boreal",
+      "link": "https://www.fragrantica.com/perfume/Mirror/Invasion-Boreal-142521.html",
+      "description": "New perfume listing: Invasion Boreal by Mirror.",
+      "category": "New Perfumes",
+      "author": "Mirror",
+      "published": 1789422622
+    },
+    {
+      "title": "Mirror — Hades",
+      "link": "https://www.fragrantica.com/perfume/Mirror/Hades-142520.html",
+      "description": "New perfume listing: Hades by Mirror.",
+      "category": "New Perfumes",
+      "author": "Mirror",
+      "published": 1789422622
+    },
+    {
+      "title": "SALT & STONE — Ambrette & Pear",
+      "link": "https://www.fragrantica.com/perfume/SALT-STONE/Ambrette-Pear-142519.html",
+      "description": "New perfume listing: Ambrette & Pear by SALT & STONE.",
+      "category": "New Perfumes",
+      "author": "SALT & STONE",
+      "published": 1789422622
+    },
+    {
+      "title": "Ajmal — Magnolia Dreams",
+      "link": "https://www.fragrantica.com/perfume/Ajmal/Magnolia-Dreams-142518.html",
+      "description": "New perfume listing: Magnolia Dreams by Ajmal.",
+      "category": "New Perfumes",
+      "author": "Ajmal",
+      "published": 1789422622
+    },
+    {
+      "title": "Bath & Body Works — Soft Oud",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Soft-Oud-142517.html",
+      "description": "New perfume listing: Soft Oud by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1789422622
+    },
+    {
+      "title": "Shiro — Kacha",
+      "link": "https://www.fragrantica.com/perfume/Shiro/Kacha-142515.html",
+      "description": "New perfume listing: Kacha by Shiro.",
+      "category": "New Perfumes",
+      "author": "Shiro",
+      "published": 1789422622
+    },
+    {
+      "title": "Parfums Elite — Noirspritz",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Elite/Noirspritz-142514.html",
+      "description": "New perfume listing: Noirspritz by Parfums Elite.",
+      "category": "New Perfumes",
+      "author": "Parfums Elite",
+      "published": 1789422622
+    },
+    {
+      "title": "Shiro — Hanacha",
+      "link": "https://www.fragrantica.com/perfume/Shiro/Hanacha-142513.html",
+      "description": "New perfume listing: Hanacha by Shiro.",
+      "category": "New Perfumes",
+      "author": "Shiro",
+      "published": 1789422622
+    },
+    {
+      "title": "Parfums Elite — CosmoPride",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Elite/CosmoPride-142512.html",
+      "description": "New perfume listing: CosmoPride by Parfums Elite.",
+      "category": "New Perfumes",
+      "author": "Parfums Elite",
+      "published": 1789422622
+    },
+    {
+      "title": "d.grayi — Tomacco",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Tomacco-142511.html",
+      "description": "New perfume listing: Tomacco by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1789422622
+    },
+    {
+      "title": "Parfums Elite — Allinclusive",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Elite/Allinclusive-142510.html",
+      "description": "New perfume listing: Allinclusive by Parfums Elite.",
+      "category": "New Perfumes",
+      "author": "Parfums Elite",
+      "published": 1789422622
+    },
+    {
+      "title": "Parfums Elite — Glowtonic",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Elite/Glowtonic-142509.html",
+      "description": "New perfume listing: Glowtonic by Parfums Elite.",
+      "category": "New Perfumes",
+      "author": "Parfums Elite",
+      "published": 1789422622
+    },
+    {
+      "title": "Replay — Marble Aura Man",
+      "link": "https://www.fragrantica.com/perfume/Replay/Marble-Aura-Man-142508.html",
+      "description": "New perfume listing: Marble Aura Man by Replay.",
+      "category": "New Perfumes",
+      "author": "Replay",
+      "published": 1789422622
+    },
+    {
+      "title": "Replay — Marble Aura Woman",
+      "link": "https://www.fragrantica.com/perfume/Replay/Marble-Aura-Woman-142507.html",
+      "description": "New perfume listing: Marble Aura Woman by Replay.",
+      "category": "New Perfumes",
+      "author": "Replay",
+      "published": 1789422622
+    },
+    {
+      "title": "Roccobarocco — Pompei Eterna",
+      "link": "https://www.fragrantica.com/perfume/Roccobarocco/Pompei-Eterna-142506.html",
+      "description": "New perfume listing: Pompei Eterna by Roccobarocco.",
+      "category": "New Perfumes",
+      "author": "Roccobarocco",
+      "published": 1789422622
+    },
+    {
+      "title": "John Richmond — Hardcore Religion To Dancebeat",
+      "link": "https://www.fragrantica.com/perfume/John-Richmond/Hardcore-Religion-To-Dancebeat-142505.html",
+      "description": "New perfume listing: Hardcore Religion To Dancebeat by John Richmond.",
+      "category": "New Perfumes",
+      "author": "John Richmond",
+      "published": 1789422622
+    },
+    {
+      "title": "Brach's — Ode to Candy Corn",
+      "link": "https://www.fragrantica.com/perfume/Brach-s/Ode-to-Candy-Corn-142504.html",
+      "description": "New perfume listing: Ode to Candy Corn by Brach's.",
+      "category": "New Perfumes",
+      "author": "Brach's",
+      "published": 1789422622
+    },
+    {
+      "title": "Acorelle — Be Positive - Cédrat",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Be-Positive-Cedrat-142522.html",
+      "description": "New perfume listing: Be Positive - Cédrat by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789422622
+    },
+    {
+      "title": "Bershka — Life Isn't Perfect But Your Fragrance Can Be",
+      "link": "https://www.fragrantica.com/perfume/Bershka/Life-Isn-t-Perfect-But-Your-Fragrance-Can-Be-142516.html",
+      "description": "New perfume listing: Life Isn't Perfect But Your Fragrance Can Be by Bershka.",
+      "category": "New Perfumes",
+      "author": "Bershka",
+      "published": 1789422622
+    },
     {
       "title": "Out Off Cage — Smoky Mess",
       "link": "https://www.fragrantica.com/perfume/Out-Off-Cage/Smoky-Mess-142501.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "Christian Louboutin",
       "published": 1789332663
-    },
-    {
-      "title": "Tauer Perfumes — Geranium Absolue",
-      "link": "https://www.fragrantica.com/perfume/Tauer-Perfumes/Geranium-Absolue-142411.html",
-      "description": "New perfume listing: Geranium Absolue by Tauer Perfumes.",
-      "category": "New Perfumes",
-      "author": "Tauer Perfumes",
-      "published": 1789332663
-    },
-    {
-      "title": "Kajal — Kajal V",
-      "link": "https://www.fragrantica.com/perfume/Kajal/Kajal-V-142410.html",
-      "description": "New perfume listing: Kajal V by Kajal.",
-      "category": "New Perfumes",
-      "author": "Kajal",
-      "published": 1789332663
-    },
-    {
-      "title": "Lancel — Elles Signature Édition Luxe",
-      "link": "https://www.fragrantica.com/perfume/Lancel/Elles-Signature-Edition-Luxe-142409.html",
-      "description": "New perfume listing: Elles Signature Édition Luxe by Lancel.",
-      "category": "New Perfumes",
-      "author": "Lancel",
-      "published": 1789332663
-    },
-    {
-      "title": "Lancel — Elles",
-      "link": "https://www.fragrantica.com/perfume/Lancel/Elles-142408.html",
-      "description": "New perfume listing: Elles by Lancel.",
-      "category": "New Perfumes",
-      "author": "Lancel",
-      "published": 1789332663
-    },
-    {
-      "title": "Naseem — Aurora",
-      "link": "https://www.fragrantica.com/perfume/Naseem/Aurora-142406.html",
-      "description": "New perfume listing: Aurora by Naseem.",
-      "category": "New Perfumes",
-      "author": "Naseem",
-      "published": 1789332663
-    },
-    {
-      "title": "Opal Perfumes — Opal Club",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/Opal-Club-142405.html",
-      "description": "New perfume listing: Opal Club by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1789332663
-    },
-    {
-      "title": "Opal Perfumes — G Con",
-      "link": "https://www.fragrantica.com/perfume/Opal-Perfumes/G-Con-142404.html",
-      "description": "New perfume listing: G Con by Opal Perfumes.",
-      "category": "New Perfumes",
-      "author": "Opal Perfumes",
-      "published": 1789332663
-    },
-    {
-      "title": "MCoBeauty — South of the Sahara",
-      "link": "https://www.fragrantica.com/perfume/MCoBeauty/South-of-the-Sahara-142402.html",
-      "description": "New perfume listing: South of the Sahara by MCoBeauty.",
-      "category": "New Perfumes",
-      "author": "MCoBeauty",
-      "published": 1789332663
-    },
-    {
-      "title": "Maison Francis Kurkdjian — Gentle Fluidity Gold Scented Hair Mist",
-      "link": "https://www.fragrantica.com/perfume/Maison-Francis-Kurkdjian/Gentle-Fluidity-Gold-Scented-Hair-Mist-142401.html",
-      "description": "New perfume listing: Gentle Fluidity Gold Scented Hair Mist by Maison Francis Kurkdjian.",
-      "category": "New Perfumes",
-      "author": "Maison Francis Kurkdjian",
-      "published": 1789332663
-    },
-    {
-      "title": "Eredi Zucca — Ventuno",
-      "link": "https://www.fragrantica.com/perfume/Eredi-Zucca/Ventuno-142399.html",
-      "description": "New perfume listing: Ventuno by Eredi Zucca.",
-      "category": "New Perfumes",
-      "author": "Eredi Zucca",
-      "published": 1789332663
-    },
-    {
-      "title": "Eredi Zucca — Santo",
-      "link": "https://www.fragrantica.com/perfume/Eredi-Zucca/Santo-142398.html",
-      "description": "New perfume listing: Santo by Eredi Zucca.",
-      "category": "New Perfumes",
-      "author": "Eredi Zucca",
-      "published": 1789332663
-    },
-    {
-      "title": "Walter's — Golden Child",
-      "link": "https://www.fragrantica.com/perfume/Walter-s/Golden-Child-142397.html",
-      "description": "New perfume listing: Golden Child by Walter's.",
-      "category": "New Perfumes",
-      "author": "Walter's",
-      "published": 1789332663
-    },
-    {
-      "title": "FUMparFUM — Touching Hinoki",
-      "link": "https://www.fragrantica.com/perfume/FUMparFUM/Touching-Hinoki-142396.html",
-      "description": "New perfume listing: Touching Hinoki by FUMparFUM.",
-      "category": "New Perfumes",
-      "author": "FUMparFUM",
-      "published": 1789332663
-    },
-    {
-      "title": "Trudon — Deux",
-      "link": "https://www.fragrantica.com/perfume/Trudon/Deux-142430.html",
-      "description": "New perfume listing: Deux by Trudon.",
-      "category": "New Perfumes",
-      "author": "Trudon",
-      "published": 1789332663
-    },
-    {
-      "title": "DXL — Zephyrwood",
-      "link": "https://www.fragrantica.com/perfume/DXL/Zephyrwood-142407.html",
-      "description": "New perfume listing: Zephyrwood by DXL.",
-      "category": "New Perfumes",
-      "author": "DXL",
-      "published": 1789332663
-    },
-    {
-      "title": "Victoria's Secret — Golden Bloom",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Golden-Bloom-142403.html",
-      "description": "New perfume listing: Golden Bloom by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1789332663
-    },
-    {
-      "title": "Loewe — Un Paseo Por Madrid Rosaleda",
-      "link": "https://www.fragrantica.com/perfume/Loewe/Un-Paseo-Por-Madrid-Rosaleda-142400.html",
-      "description": "New perfume listing: Un Paseo Por Madrid Rosaleda by Loewe.",
-      "category": "New Perfumes",
-      "author": "Loewe",
-      "published": 1789332663
-    },
-    {
-      "title": "Gisou — Honey Infused Hair Perfume Wildflower",
-      "link": "https://www.fragrantica.com/perfume/Gisou/Honey-Infused-Hair-Perfume-Wildflower-142382.html",
-      "description": "New perfume listing: Honey Infused Hair Perfume Wildflower by Gisou.",
-      "category": "New Perfumes",
-      "author": "Gisou",
-      "published": 1789316314
-    },
-    {
-      "title": "NEOM Wellbeing — Sparkling Joy Essential Oil Blend",
-      "link": "https://www.fragrantica.com/perfume/NEOM-Wellbeing/Sparkling-Joy-Essential-Oil-Blend-142395.html",
-      "description": "New perfume listing: Sparkling Joy Essential Oil Blend by NEOM Wellbeing.",
-      "category": "New Perfumes",
-      "author": "NEOM Wellbeing",
-      "published": 1789316314
     }
   ]
 }
