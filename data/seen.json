@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Fall-Winter Desserts from Theodoros Kalotinis: Apple Pie, Hazelnut Praline and Gingerbread Dough",
+      "link": "https://www.fragrantica.com/news/Fall-Winter-Desserts-from-Theodoros-Kalotinis-Apple-Pie-Hazelnut-Praline-and-Gingerbread-Dough-26098.html",
+      "description": "Cozy, warm, and very high in calories.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1789441203
+    },
+    {
+      "title": "Goldfield & Banks Invites Us to Discover Sunset Hour's New Edition",
+      "link": "https://www.fragrantica.com/news/Goldfield-Banks-Invites-Us-to-Discover-Sunset-Hour-s-New-Edition-26097.html",
+      "description": "For the upcoming Fall season, Goldfield & Banks invites us to rediscover Sunset Hour with the Dark Peach edition.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1789430403
+    },
+    {
+      "title": "Ylem Launches the New Fragrance NGC 6302 at Pitti Fragrance",
+      "link": "https://www.fragrantica.com/news/Ylem-Launches-the-New-Fragrance-NGC-6302-at-Pitti-Fragrance-26096.html",
+      "description": "Brutal stellar winds of 250,000 degrees C of heat with freezing water ice crystals that survive in the deep shadows of its dense dust belt.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1789423203
+    },
+    {
       "title": "ŚASVA Showcases the Sweetness of India at PITTI Fragranze",
       "link": "https://www.fragrantica.com/news/SASVA-Showcases-the-Sweetness-of-India-at-PITTI-Fragranze-26095.html",
       "description": "The brand launches the Gourmand Bazaar collection",
@@ -775,33 +799,161 @@
       "category": "Best in Show",
       "author": "Sophie Normand,Nicola Thomis,Miguel Matos,Viktoria Vlasova",
       "published": 1788305500
-    },
-    {
-      "title": "Bond No9 The Scent Of Peace For All",
-      "link": "https://www.fragrantica.com/news/Bond-No9-The-Scent-Of-Peace-For-All-25998.html",
-      "description": "An invitation to embrace serenity.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788299283
-    },
-    {
-      "title": "Amouage Introduces Decision 42 and Overture 41",
-      "link": "https://www.fragrantica.com/news/Amouage-Introduces-Decision-42-and-Overture-41-25997.html",
-      "description": "Two new Exceptional Extraits from Amouage, inspired by a juniper tree struck by lightning and a young singer who becomes an operatic diva.",
-      "category": "New Fragrances",
-      "author": "Igor Masyukov",
-      "published": 1788292030
-    },
-    {
-      "title": "Floraïku Paris Announced the New Eau de Parfum: Birdwatcher",
-      "link": "https://www.fragrantica.com/news/Floraiku-Paris-Announced-the-New-Eau-de-Parfum-Birdwatcher-25996.html",
-      "description": "Created by perfumer Sophie Labbé, inspired by bird murmurations, and launching September 1st.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1788287403
     }
   ],
   "perfumes": [
+    {
+      "title": "UNDER THE PERGOLA — Julgi",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Julgi-142537.html",
+      "description": "New perfume listing: Julgi by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — Deokum",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Deokum-142536.html",
+      "description": "New perfume listing: Deokum by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — Solong",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Solong-142535.html",
+      "description": "New perfume listing: Solong by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — FILTER",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/FILTER-142534.html",
+      "description": "New perfume listing: FILTER by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "Bujairami — Amaretto",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Amaretto-142533.html",
+      "description": "New perfume listing: Amaretto by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789448164
+    },
+    {
+      "title": "Asad Siddiki — Cosmic",
+      "link": "https://www.fragrantica.com/perfume/Asad-Siddiki/Cosmic-142532.html",
+      "description": "New perfume listing: Cosmic by Asad Siddiki.",
+      "category": "New Perfumes",
+      "author": "Asad Siddiki",
+      "published": 1789448164
+    },
+    {
+      "title": "Bujairami — Peach Mist",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Peach-Mist-142531.html",
+      "description": "New perfume listing: Peach Mist by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789448164
+    },
+    {
+      "title": "Solonoi — Dark Tuberosa",
+      "link": "https://www.fragrantica.com/perfume/Solonoi/Dark-Tuberosa-142530.html",
+      "description": "New perfume listing: Dark Tuberosa by Solonoi.",
+      "category": "New Perfumes",
+      "author": "Solonoi",
+      "published": 1789448164
+    },
+    {
+      "title": "Bujairami — Why Not Me",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Why-Not-Me-142529.html",
+      "description": "New perfume listing: Why Not Me by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789448164
+    },
+    {
+      "title": "Bujairami — Ya Layli",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ya-Layli-142528.html",
+      "description": "New perfume listing: Ya Layli by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — MU:GOO",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/MU-GOO-142541.html",
+      "description": "New perfume listing: MU:GOO by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — Mystic Allure",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Mystic-Allure-142540.html",
+      "description": "New perfume listing: Mystic Allure by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — SOMTEOL. Y",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/SOMTEOL-Y-142539.html",
+      "description": "New perfume listing: SOMTEOL. Y by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "UNDER THE PERGOLA — SOMTEOL. W",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/SOMTEOL-W-142538.html",
+      "description": "New perfume listing: SOMTEOL. W by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1789448164
+    },
+    {
+      "title": "Written on Water — Reflets Verts",
+      "link": "https://www.fragrantica.com/perfume/Written-on-Water/Reflets-Verts-142527.html",
+      "description": "New perfume listing: Reflets Verts by Written on Water.",
+      "category": "New Perfumes",
+      "author": "Written on Water",
+      "published": 1789448164
+    },
+    {
+      "title": "Written on Water — Ondine",
+      "link": "https://www.fragrantica.com/perfume/Written-on-Water/Ondine-142526.html",
+      "description": "New perfume listing: Ondine by Written on Water.",
+      "category": "New Perfumes",
+      "author": "Written on Water",
+      "published": 1789448164
+    },
+    {
+      "title": "Acorelle — Fleurs de Cerisier",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Fleurs-de-Cerisier-142525.html",
+      "description": "New perfume listing: Fleurs de Cerisier by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789448164
+    },
+    {
+      "title": "Acorelle — Be Positive - Thé Blanc",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Be-Positive-The-Blanc-142524.html",
+      "description": "New perfume listing: Be Positive - Thé Blanc by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789448164
+    },
+    {
+      "title": "Acorelle — Be Positive - Vanille",
+      "link": "https://www.fragrantica.com/perfume/Acorelle/Be-Positive-Vanille-142523.html",
+      "description": "New perfume listing: Be Positive - Vanille by Acorelle.",
+      "category": "New Perfumes",
+      "author": "Acorelle",
+      "published": 1789448164
+    },
     {
       "title": "Mirror — Invasion Boreal",
       "link": "https://www.fragrantica.com/perfume/Mirror/Invasion-Boreal-142521.html",
@@ -1448,158 +1600,6 @@
       "description": "New perfume listing: Dakar Night by Ruka.",
       "category": "New Perfumes",
       "author": "Ruka",
-      "published": 1789332663
-    },
-    {
-      "title": "Ruka — Coconilla",
-      "link": "https://www.fragrantica.com/perfume/Ruka/Coconilla-142431.html",
-      "description": "New perfume listing: Coconilla by Ruka.",
-      "category": "New Perfumes",
-      "author": "Ruka",
-      "published": 1789332663
-    },
-    {
-      "title": "The White Company — Santa Fe",
-      "link": "https://www.fragrantica.com/perfume/The-White-Company/Santa-Fe-142429.html",
-      "description": "New perfume listing: Santa Fe by The White Company.",
-      "category": "New Perfumes",
-      "author": "The White Company",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Imagine The Eagle Has Landed",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Imagine-The-Eagle-Has-Landed-142428.html",
-      "description": "New perfume listing: Imagine The Eagle Has Landed by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Peachy Glow Addiction",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Peachy-Glow-Addiction-142427.html",
-      "description": "New perfume listing: Peachy Glow Addiction by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Magnetic Cherry",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Magnetic-Cherry-142426.html",
-      "description": "New perfume listing: Magnetic Cherry by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Infused Chai Santal",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Infused-Chai-Santal-142425.html",
-      "description": "New perfume listing: Infused Chai Santal by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Fireside Vanilla Bourbon",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Fireside-Vanilla-Bourbon-142424.html",
-      "description": "New perfume listing: Fireside Vanilla Bourbon by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Dark Roast Leather",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dark-Roast-Leather-142423.html",
-      "description": "New perfume listing: Dark Roast Leather by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — The Obsidian Stone",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Obsidian-Stone-142422.html",
-      "description": "New perfume listing: The Obsidian Stone by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Tea By The Sea",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tea-By-The-Sea-142421.html",
-      "description": "New perfume listing: Tea By The Sea by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Inspired By Ink",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Inspired-By-Ink-142420.html",
-      "description": "New perfume listing: Inspired By Ink by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Honeyed Smoke",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Honeyed-Smoke-142419.html",
-      "description": "New perfume listing: Honeyed Smoke by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Dubai Blend 3",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dubai-Blend-3-142418.html",
-      "description": "New perfume listing: Dubai Blend 3 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Botanical Martini",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Botanical-Martini-142417.html",
-      "description": "New perfume listing: Botanical Martini by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Bouquet of Crimson Cherries",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Bouquet-of-Crimson-Cherries-142416.html",
-      "description": "New perfume listing: Bouquet of Crimson Cherries by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "The Dua Brand — Creamy Coffee & Sweets",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Creamy-Coffee-Sweets-142415.html",
-      "description": "New perfume listing: Creamy Coffee & Sweets by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1789332663
-    },
-    {
-      "title": "Ylem Parfums — NGC 6302",
-      "link": "https://www.fragrantica.com/perfume/Ylem-Parfums/NGC-6302-142414.html",
-      "description": "New perfume listing: NGC 6302 by Ylem Parfums.",
-      "category": "New Perfumes",
-      "author": "Ylem Parfums",
-      "published": 1789332663
-    },
-    {
-      "title": "Filippo Sorcinelli — Vulnus",
-      "link": "https://www.fragrantica.com/perfume/Filippo-Sorcinelli/Vulnus-142413.html",
-      "description": "New perfume listing: Vulnus by Filippo Sorcinelli.",
-      "category": "New Perfumes",
-      "author": "Filippo Sorcinelli",
-      "published": 1789332663
-    },
-    {
-      "title": "Christian Louboutin — Cuir Fétiche L'Extrait",
-      "link": "https://www.fragrantica.com/perfume/Christian-Louboutin/Cuir-Fetiche-L-Extrait-142412.html",
-      "description": "New perfume listing: Cuir Fétiche L'Extrait by Christian Louboutin.",
-      "category": "New Perfumes",
-      "author": "Christian Louboutin",
       "published": 1789332663
     }
   ]
