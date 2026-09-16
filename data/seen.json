@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Tommy Hilfiger Freedom Eau de Parfum 2026",
+      "link": "https://www.fragrantica.com/news/Tommy-Hilfiger-Freedom-Eau-de-Parfum-2026-26111.html",
+      "description": "Tommy Hilfiger introduces Freedom, fronted by Camila Cabello.",
+      "category": "Video",
+      "author": "New Fragrances",
+      "published": 1789586582
+    },
+    {
+      "title": "D'Orsay brings a touch of sensuality to the new season with Vanilla Affair",
+      "link": "https://www.fragrantica.com/news/D-Orsay-brings-a-touch-of-sensuality-to-the-new-season-with-Vanilla-Affair-26110.html",
+      "description": "D'Orsay enriches its Extraits collection with Vanilla Affair, one of my favorites for the new season.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1789578004
+    },
+    {
       "title": "PITTI FRAGRANZE 2026: Kajal Introduces KAJAL V",
       "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Kajal-Introduces-KAJAL-V-26109.html",
       "description": "Kajal launched its latest creation in the Arqam Collection.",
@@ -783,25 +799,113 @@
       "category": "Columns",
       "author": "Adam Forziati",
       "published": 1788430862
-    },
-    {
-      "title": "I Regret It, Your Honor!",
-      "link": "https://www.fragrantica.com/news/I-Regret-It-Your-Honor-26011.html",
-      "description": "Coco Mademoiselle and Crush Absolu: From a familiar opening to an unexpected disappointment…",
-      "category": "Fragrance Reviews",
-      "author": "Sena Toprak",
-      "published": 1788416403
-    },
-    {
-      "title": "KHAMRAH WAHA Lattafa Perfumes: Unisex? My Nose Says Otherwise",
-      "link": "https://www.fragrantica.com/news/KHAMRAH-WAHA-Lattafa-Perfumes-Unisex-My-Nose-Says-Otherwise-26010.html",
-      "description": "A fresh, juicy, and lightly spiced composition in which citrus and juniper blend with crisp cucumber, woody notes, and a subtle hint of vanilla.",
-      "category": "Fragrance Reviews",
-      "author": "Markéta Rybínová",
-      "published": 1788406082
     }
   ],
   "perfumes": [
+    {
+      "title": "Duke Cannon — Mulligan",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Mulligan-142731.html",
+      "description": "New perfume listing: Mulligan by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789593571
+    },
+    {
+      "title": "Beyoncé — Temple Oud Hair Perfume",
+      "link": "https://www.fragrantica.com/perfume/Beyonce/Temple-Oud-Hair-Perfume-142730.html",
+      "description": "New perfume listing: Temple Oud Hair Perfume by Beyoncé.",
+      "category": "New Perfumes",
+      "author": "Beyoncé",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Vintage Mystique",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Vintage-Mystique-142729.html",
+      "description": "New perfume listing: Vintage Mystique by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Gourmet Féerique",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Gourmet-Feerique-142728.html",
+      "description": "New perfume listing: Gourmet Féerique by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Rythme Soleil",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Rythme-Soleil-142727.html",
+      "description": "New perfume listing: Rythme Soleil by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Ombre Florale",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Ombre-Florale-142726.html",
+      "description": "New perfume listing: Ombre Florale by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Musique de Provence",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Musique-de-Provence-142725.html",
+      "description": "New perfume listing: Musique de Provence by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Sillage Monaco",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Sillage-Monaco-142724.html",
+      "description": "New perfume listing: Sillage Monaco by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Villa Rouge",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Villa-Rouge-142723.html",
+      "description": "New perfume listing: Villa Rouge by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Chère Nice",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Chere-Nice-142722.html",
+      "description": "New perfume listing: Chère Nice by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Phéromone Française",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Pheromone-Francaise-142721.html",
+      "description": "New perfume listing: Phéromone Française by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "Parfumerie de Château — Petit Cannes",
+      "link": "https://www.fragrantica.com/perfume/Parfumerie-de-Chateau/Petit-Cannes-142720.html",
+      "description": "New perfume listing: Petit Cannes by Parfumerie de Château.",
+      "category": "New Perfumes",
+      "author": "Parfumerie de Château",
+      "published": 1789593571
+    },
+    {
+      "title": "PREparfumer — Essence Sauvage",
+      "link": "https://www.fragrantica.com/perfume/PREparfumer/Essence-Sauvage-142719.html",
+      "description": "New perfume listing: Essence Sauvage by PREparfumer.",
+      "category": "New Perfumes",
+      "author": "PREparfumer",
+      "published": 1789593571
+    },
     {
       "title": "Zaharoff — Signature Seraphim Ra",
       "link": "https://www.fragrantica.com/perfume/Zaharoff/Signature-Seraphim-Ra-142718.html",
@@ -1496,110 +1600,6 @@
       "description": "New perfume listing: Emerald by Chateau Les Parfums.",
       "category": "New Perfumes",
       "author": "Chateau Les Parfums",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Zafferano",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Zafferano-142606.html",
-      "description": "New perfume listing: Zafferano by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Spiga 48",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Spiga-48-142605.html",
-      "description": "New perfume listing: Spiga 48 by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Oud Milano",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Oud-Milano-142604.html",
-      "description": "New perfume listing: Oud Milano by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Camara Perfumes — Seniorita Dream Girl Serina",
-      "link": "https://www.fragrantica.com/perfume/Camara-Perfumes/Seniorita-Dream-Girl-Serina-142603.html",
-      "description": "New perfume listing: Seniorita Dream Girl Serina by Camara Perfumes.",
-      "category": "New Perfumes",
-      "author": "Camara Perfumes",
-      "published": 1789507336
-    },
-    {
-      "title": "Oakcha — Bare Confection",
-      "link": "https://www.fragrantica.com/perfume/Oakcha/Bare-Confection-142602.html",
-      "description": "New perfume listing: Bare Confection by Oakcha.",
-      "category": "New Perfumes",
-      "author": "Oakcha",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Aurora",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Aurora-142601.html",
-      "description": "New perfume listing: Aurora by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Lake & Skye — 222",
-      "link": "https://www.fragrantica.com/perfume/Lake-Skye/222-142600.html",
-      "description": "New perfume listing: 222 by Lake & Skye.",
-      "category": "New Perfumes",
-      "author": "Lake & Skye",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Perseus",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Perseus-142599.html",
-      "description": "New perfume listing: Perseus by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "The Good Scent — Cosmic Jasmine",
-      "link": "https://www.fragrantica.com/perfume/The-Good-Scent/Cosmic-Jasmine-142598.html",
-      "description": "New perfume listing: Cosmic Jasmine by The Good Scent.",
-      "category": "New Perfumes",
-      "author": "The Good Scent",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Atlas",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Atlas-142597.html",
-      "description": "New perfume listing: Atlas by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Bharara — Rey de Reyes Orange",
-      "link": "https://www.fragrantica.com/perfume/Bharara/Rey-de-Reyes-Orange-142596.html",
-      "description": "New perfume listing: Rey de Reyes Orange by Bharara.",
-      "category": "New Perfumes",
-      "author": "Bharara",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Celeste",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Celeste-142595.html",
-      "description": "New perfume listing: Celeste by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
-      "published": 1789507336
-    },
-    {
-      "title": "Christopher — Nebbia",
-      "link": "https://www.fragrantica.com/perfume/Christopher/Nebbia-142594.html",
-      "description": "New perfume listing: Nebbia by Christopher.",
-      "category": "New Perfumes",
-      "author": "Christopher",
       "published": 1789507336
     }
   ]
