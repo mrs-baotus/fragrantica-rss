@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 2026: Paradise In Gangwon by Organ Tale",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Paradise-In-Gangwon-by-Organ-Tale-26114.html",
+      "description": "A fruity floral worth dissecting",
+      "category": "New Fragrances",
+      "author": "Eddie Bulliqi",
+      "published": 1789617304
+    },
+    {
+      "title": "Kleopatra by anti Review",
+      "link": "https://www.fragrantica.com/news/Kleopatra-by-anti-Review-26113.html",
+      "description": "Taking a milk bath like Cleopatra.",
+      "category": "Art Books Events",
+      "author": "Elena Knezevic",
+      "published": 1789606493
+    },
+    {
+      "title": "PITTI FRAGRAZE 2026: Antonio Alessandria Offers a Preview of His New Creation, Aporia",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRAZE-2026-Antonio-Alessandria-Offers-a-Preview-of-His-New-Creation-Aporia-26112.html",
+      "description": "Antonio Alessandria provides a preview and insight into his new creation at Pitti Fragranze, which will officially launch in two months.",
+      "category": "Art Books Events",
+      "author": "Iulia Halatz",
+      "published": 1789596003
+    },
+    {
       "title": "Tommy Hilfiger Freedom Eau de Parfum 2026",
       "link": "https://www.fragrantica.com/news/Tommy-Hilfiger-Freedom-Eau-de-Parfum-2026-26111.html",
       "description": "Tommy Hilfiger introduces Freedom, fronted by Camila Cabello.",
@@ -775,33 +799,161 @@
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1788456437
-    },
-    {
-      "title": "Mock Orange: Not Jasmine and Not Lilac",
-      "link": "https://www.fragrantica.com/news/Mock-Orange-Not-Jasmine-and-Not-Lilac-26014.html",
-      "description": "Jasmine, mock orange, seringa/syringa, and other words that can occasionally cause confusion.",
-      "category": "Raw Materials",
-      "author": "Matvey Yudov",
-      "published": 1788451324
-    },
-    {
-      "title": "Dutch Store HEMA and Bram Niessink of Fugazzi Continue Perfume Collaboration",
-      "link": "https://www.fragrantica.com/news/Dutch-Store-HEMA-and-Bram-Niessink-of-Fugazzi-Continue-Perfume-Collaboration-26013.html",
-      "description": "A new line of eight compositions, available only at selected HEMA stores in Europe.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1788442803
-    },
-    {
-      "title": "A Few More Before Summer Ends (and Fragrances to Hasten Fall)",
-      "link": "https://www.fragrantica.com/news/A-Few-More-Before-Summer-Ends-and-Fragrances-to-Hasten-Fall-26012.html",
-      "description": "This summer child is finding acceptance of the season’s end in anticipating autumnal fragrances.",
-      "category": "Columns",
-      "author": "Adam Forziati",
-      "published": 1788430862
     }
   ],
   "perfumes": [
+    {
+      "title": "Selcouth — TobaccoHolic Intense",
+      "link": "https://www.fragrantica.com/perfume/Selcouth/TobaccoHolic-Intense-142739.html",
+      "description": "New perfume listing: TobaccoHolic Intense by Selcouth.",
+      "category": "New Perfumes",
+      "author": "Selcouth",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Seawolf",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Seawolf-142735.html",
+      "description": "New perfume listing: Seawolf by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Palomino",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Palomino-142734.html",
+      "description": "New perfume listing: Palomino by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Sandalwood",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Sandalwood-142733.html",
+      "description": "New perfume listing: Sandalwood by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Deep Space",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Deep-Space-142732.html",
+      "description": "New perfume listing: Deep Space by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Chai Kulfi",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Chai-Kulfi-142750.html",
+      "description": "New perfume listing: Chai Kulfi by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Vanilla Volcano",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Vanilla-Volcano-142749.html",
+      "description": "New perfume listing: Vanilla Volcano by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Tipsy Tarantula",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Tipsy-Tarantula-142748.html",
+      "description": "New perfume listing: Tipsy Tarantula by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — One Night in Kashmir",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/One-Night-in-Kashmir-142747.html",
+      "description": "New perfume listing: One Night in Kashmir by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Hakuna Matata",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Hakuna-Matata-142746.html",
+      "description": "New perfume listing: Hakuna Matata by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — WTH!",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/WTH-142745.html",
+      "description": "New perfume listing: WTH! by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Bengal Tiger",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Bengal-Tiger-142744.html",
+      "description": "New perfume listing: Bengal Tiger by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Smoud Oud",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Smoud-Oud-142743.html",
+      "description": "New perfume listing: Smoud Oud by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Arabian Sea",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Arabian-Sea-142742.html",
+      "description": "New perfume listing: Arabian Sea by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Huron",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Huron-142741.html",
+      "description": "New perfume listing: Huron by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "nXn Perfumes — Green Mango",
+      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Green-Mango-142740.html",
+      "description": "New perfume listing: Green Mango by nXn Perfumes.",
+      "category": "New Perfumes",
+      "author": "nXn Perfumes",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Midway",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Midway-142738.html",
+      "description": "New perfume listing: Midway by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Buck Moon",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Buck-Moon-142737.html",
+      "description": "New perfume listing: Buck Moon by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
+    {
+      "title": "Duke Cannon — Sawtooth",
+      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Sawtooth-142736.html",
+      "description": "New perfume listing: Sawtooth by Duke Cannon.",
+      "category": "New Perfumes",
+      "author": "Duke Cannon",
+      "published": 1789620872
+    },
     {
       "title": "Duke Cannon — Mulligan",
       "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Mulligan-142731.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "UNDER THE PERGOLA",
       "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — D.V",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/D-V-142634.html",
-      "description": "New perfume listing: D.V by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — UU",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/UU-142633.html",
-      "description": "New perfume listing: UU by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — Divine",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Divine-142632.html",
-      "description": "New perfume listing: Divine by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — Trace",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Trace-142631.html",
-      "description": "New perfume listing: Trace by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — Pavilion",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Pavilion-142630.html",
-      "description": "New perfume listing: Pavilion by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "O Te Rā — Te Whitinga",
-      "link": "https://www.fragrantica.com/perfume/O-Te-Ra/Te-Whitinga-142629.html",
-      "description": "New perfume listing: Te Whitinga by O Te Rā.",
-      "category": "New Perfumes",
-      "author": "O Te Rā",
-      "published": 1789534231
-    },
-    {
-      "title": "O Te Rā — Te Pō",
-      "link": "https://www.fragrantica.com/perfume/O-Te-Ra/Te-Po-142628.html",
-      "description": "New perfume listing: Te Pō by O Te Rā.",
-      "category": "New Perfumes",
-      "author": "O Te Rā",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Sweet Aura",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Sweet-Aura-142627.html",
-      "description": "New perfume listing: Sweet Aura by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Secret Maze",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Secret-Maze-142626.html",
-      "description": "New perfume listing: Secret Maze by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Sacred Island",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Sacred-Island-142625.html",
-      "description": "New perfume listing: Sacred Island by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Savanna Heat",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Savanna-Heat-142624.html",
-      "description": "New perfume listing: Savanna Heat by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Hidden Hibiscus",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Hidden-Hibiscus-142623.html",
-      "description": "New perfume listing: Hidden Hibiscus by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "The 7 Virtues — Amber Orchid",
-      "link": "https://www.fragrantica.com/perfume/The-7-Virtues/Amber-Orchid-142622.html",
-      "description": "New perfume listing: Amber Orchid by The 7 Virtues.",
-      "category": "New Perfumes",
-      "author": "The 7 Virtues",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Ivory Muse",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Ivory-Muse-142621.html",
-      "description": "New perfume listing: Ivory Muse by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "House of Thêom — Fine Layers",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Fine-Layers-142620.html",
-      "description": "New perfume listing: Fine Layers by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1789534231
-    },
-    {
-      "title": "J-Scent — Handkerchief",
-      "link": "https://www.fragrantica.com/perfume/J-Scent/Handkerchief-142619.html",
-      "description": "New perfume listing: Handkerchief by J-Scent.",
-      "category": "New Perfumes",
-      "author": "J-Scent",
-      "published": 1789534231
-    },
-    {
-      "title": "Bujairami — Mad Love",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Mad-Love-142618.html",
-      "description": "New perfume listing: Mad Love by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789507336
-    },
-    {
-      "title": "Bujairami — The Rock Powerfully",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/The-Rock-Powerfully-142617.html",
-      "description": "New perfume listing: The Rock Powerfully by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789507336
-    },
-    {
-      "title": "Chateau Les Parfums — Emerald",
-      "link": "https://www.fragrantica.com/perfume/Chateau-Les-Parfums/Emerald-142610.html",
-      "description": "New perfume listing: Emerald by Chateau Les Parfums.",
-      "category": "New Perfumes",
-      "author": "Chateau Les Parfums",
-      "published": 1789507336
     }
   ]
 }
