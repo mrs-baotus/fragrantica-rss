@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Atkinsons: Sadness and Disappointment",
+      "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
+      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum Blend, Spice Of London.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1789644423
+    },
+    {
+      "title": "PITTI Fragranze 2026: Azuris by D:Sol Launches",
+      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-2026-Azuris-by-D-Sol-Launches-26116.html",
+      "description": "Azure plus iris equals Azuris",
+      "category": "Niche Perfumery",
+      "author": "Nicola Thomis",
+      "published": 1789638903
+    },
+    {
+      "title": "Beyoncé's Hair Care Brand Cécred Launched a Hair Perfume: Temple Oud",
+      "link": "https://www.fragrantica.com/news/Beyonce-s-Hair-Care-Brand-Cecred-Launched-a-Hair-Perfume-Temple-Oud-26115.html",
+      "description": "\"A rich, woody, floral hair perfume that refreshes and scents the hair with a long-lasting scent.\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1789628102
+    },
+    {
       "title": "PITTI FRAGRANZE 2026: Paradise In Gangwon by Organ Tale",
       "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Paradise-In-Gangwon-by-Organ-Tale-26114.html",
       "description": "A fruity floral worth dissecting",
@@ -775,33 +799,49 @@
       "category": "Vintage Fragrances",
       "author": "Sergey Borisov",
       "published": 1788486722
-    },
-    {
-      "title": "L'Heure Bleue 2026: Nostalgia Isn't What It Used to Be",
-      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-2026-Nostalgia-Isn-t-What-It-Used-to-Be-26017.html",
-      "description": "A reinterpretation that could have been called L'Heure Dorée (the golden hour).",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1788467851
-    },
-    {
-      "title": "BEST GOURMAND FRAGRANCES Part 4",
-      "link": "https://www.fragrantica.com/news/BEST-GOURMAND-FRAGRANCES-Part-4-26016.html",
-      "description": "Dark gourmand fragrances with chocolate and liqueur, spices and roses, and a jam-slathered baguette.",
-      "category": "Best in Show",
-      "author": "Nayeli Cano,Jernê Knowles,Galina Anni,Lucia Remigi",
-      "published": 1788458769
-    },
-    {
-      "title": "Three Cocktails by Kilian: Sparkling Royal, Midnight Espresso, and Piña Paraíso",
-      "link": "https://www.fragrantica.com/news/Three-Cocktails-by-Kilian-Sparkling-Royal-Midnight-Espresso-and-Pina-Paraiso-26015.html",
-      "description": "For lovers of sweet fragrances inspired by alcoholic drinks.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1788456437
     }
   ],
   "perfumes": [
+    {
+      "title": "Acute — PineHappy",
+      "link": "https://www.fragrantica.com/perfume/Acute/PineHappy-142755.html",
+      "description": "New perfume listing: PineHappy by Acute.",
+      "category": "New Perfumes",
+      "author": "Acute",
+      "published": 1789645380
+    },
+    {
+      "title": "Acute — PlumTastic",
+      "link": "https://www.fragrantica.com/perfume/Acute/PlumTastic-142754.html",
+      "description": "New perfume listing: PlumTastic by Acute.",
+      "category": "New Perfumes",
+      "author": "Acute",
+      "published": 1789645380
+    },
+    {
+      "title": "Acute — Tea Amo",
+      "link": "https://www.fragrantica.com/perfume/Acute/Tea-Amo-142753.html",
+      "description": "New perfume listing: Tea Amo by Acute.",
+      "category": "New Perfumes",
+      "author": "Acute",
+      "published": 1789645380
+    },
+    {
+      "title": "Caprianna Parfums — Incendio",
+      "link": "https://www.fragrantica.com/perfume/Caprianna-Parfums/Incendio-142752.html",
+      "description": "New perfume listing: Incendio by Caprianna Parfums.",
+      "category": "New Perfumes",
+      "author": "Caprianna Parfums",
+      "published": 1789645380
+    },
+    {
+      "title": "Caprianna Parfums — Pure Blue",
+      "link": "https://www.fragrantica.com/perfume/Caprianna-Parfums/Pure-Blue-142751.html",
+      "description": "New perfume listing: Pure Blue by Caprianna Parfums.",
+      "category": "New Perfumes",
+      "author": "Caprianna Parfums",
+      "published": 1789645380
+    },
     {
       "title": "Selcouth — TobaccoHolic Intense",
       "link": "https://www.fragrantica.com/perfume/Selcouth/TobaccoHolic-Intense-142739.html",
@@ -1558,46 +1598,6 @@
       "title": "UNDER THE PERGOLA — Ch.r",
       "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Ch-r-142640.html",
       "description": "New perfume listing: Ch.r by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — T.Y",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/T-Y-142639.html",
-      "description": "New perfume listing: T.Y by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — O.T",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/O-T-142638.html",
-      "description": "New perfume listing: O.T by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "O Te Rā — Te Poupoutanga",
-      "link": "https://www.fragrantica.com/perfume/O-Te-Ra/Te-Poupoutanga-142637.html",
-      "description": "New perfume listing: Te Poupoutanga by O Te Rā.",
-      "category": "New Perfumes",
-      "author": "O Te Rā",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — P.D",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/P-D-142636.html",
-      "description": "New perfume listing: P.D by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — R.S",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/R-S-142635.html",
-      "description": "New perfume listing: R.S by UNDER THE PERGOLA.",
       "category": "New Perfumes",
       "author": "UNDER THE PERGOLA",
       "published": 1789534231
