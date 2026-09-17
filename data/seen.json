@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Ciao, the New Release by Lumi Presented at Pitti Fragranze",
+      "link": "https://www.fragrantica.com/news/Ciao-the-New-Release-by-Lumi-Presented-at-Pitti-Fragranze-26119.html",
+      "description": "A delicate and powdery perfume telling the story of its creators' meeting.",
+      "category": "Art Books Events",
+      "author": "Giulietta Ptoyan",
+      "published": 1789662844
+    },
+    {
+      "title": "Villa Primerose Atelier des Ors: Pink Champagne with Rose Petals",
+      "link": "https://www.fragrantica.com/news/Villa-Primerose-Atelier-des-Ors-Pink-Champagne-with-Rose-Petals-26118.html",
+      "description": "Raise your goblets to the Grasse perfumers and glovers!",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1789654986
+    },
+    {
       "title": "Atkinsons: Sadness and Disappointment",
       "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
       "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum Blend, Spice Of London.",
@@ -783,25 +799,113 @@
       "category": "Columns",
       "author": "Dr Ruqayya Abba Tofa",
       "published": 1788525363
-    },
-    {
-      "title": "Rahasya Launches Nomadic Jasmine",
-      "link": "https://www.fragrantica.com/news/Rahasya-Launches-Nomadic-Jasmine-26019.html",
-      "description": "A delicate, surprisingly cool take on jasmine",
-      "category": "New Fragrances",
-      "author": "Nicola Thomis",
-      "published": 1788509582
-    },
-    {
-      "title": "Land Of Warriors by The Vagabond Prince: Like a Father's Belt",
-      "link": "https://www.fragrantica.com/news/Land-Of-Warriors-by-The-Vagabond-Prince-Like-a-Father-s-Belt-26018.html",
-      "description": "This father's belt is sorely missed these days!",
-      "category": "Vintage Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1788486722
     }
   ],
   "perfumes": [
+    {
+      "title": "A. Berger Parfums — Connexion",
+      "link": "https://www.fragrantica.com/perfume/A-Berger-Parfums/Connexion-142768.html",
+      "description": "New perfume listing: Connexion by A. Berger Parfums.",
+      "category": "New Perfumes",
+      "author": "A. Berger Parfums",
+      "published": 1789664439
+    },
+    {
+      "title": "Emil Elise — Electric Pulse",
+      "link": "https://www.fragrantica.com/perfume/Emil-Elise/Electric-Pulse-142767.html",
+      "description": "New perfume listing: Electric Pulse by Emil Elise.",
+      "category": "New Perfumes",
+      "author": "Emil Elise",
+      "published": 1789664439
+    },
+    {
+      "title": "L'Occitane en Provence — Noisetier Crémeux",
+      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Noisetier-Cremeux-142766.html",
+      "description": "New perfume listing: Noisetier Crémeux by L'Occitane en Provence.",
+      "category": "New Perfumes",
+      "author": "L'Occitane en Provence",
+      "published": 1789664439
+    },
+    {
+      "title": "L'Occitane en Provence — Safran Boisé",
+      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Safran-Boise-142765.html",
+      "description": "New perfume listing: Safran Boisé by L'Occitane en Provence.",
+      "category": "New Perfumes",
+      "author": "L'Occitane en Provence",
+      "published": 1789664439
+    },
+    {
+      "title": "L'Occitane en Provence — Chêne Minéral",
+      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Chene-Mineral-142764.html",
+      "description": "New perfume listing: Chêne Minéral by L'Occitane en Provence.",
+      "category": "New Perfumes",
+      "author": "L'Occitane en Provence",
+      "published": 1789664439
+    },
+    {
+      "title": "LoveShackFancy — Just a Girl",
+      "link": "https://www.fragrantica.com/perfume/LoveShackFancy/Just-a-Girl-142763.html",
+      "description": "New perfume listing: Just a Girl by LoveShackFancy.",
+      "category": "New Perfumes",
+      "author": "LoveShackFancy",
+      "published": 1789664439
+    },
+    {
+      "title": "Sora Dora — Gladiator Ultimus",
+      "link": "https://www.fragrantica.com/perfume/Sora-Dora/Gladiator-Ultimus-142762.html",
+      "description": "New perfume listing: Gladiator Ultimus by Sora Dora.",
+      "category": "New Perfumes",
+      "author": "Sora Dora",
+      "published": 1789664439
+    },
+    {
+      "title": "Oriflame — Possess Intense Man",
+      "link": "https://www.fragrantica.com/perfume/Oriflame/Possess-Intense-Man-142761.html",
+      "description": "New perfume listing: Possess Intense Man by Oriflame.",
+      "category": "New Perfumes",
+      "author": "Oriflame",
+      "published": 1789664439
+    },
+    {
+      "title": "Comme des Garcons — Tears",
+      "link": "https://www.fragrantica.com/perfume/Comme-des-Garcons/Tears-142760.html",
+      "description": "New perfume listing: Tears by Comme des Garcons.",
+      "category": "New Perfumes",
+      "author": "Comme des Garcons",
+      "published": 1789664439
+    },
+    {
+      "title": "Oriflame — Possess Intense",
+      "link": "https://www.fragrantica.com/perfume/Oriflame/Possess-Intense-142759.html",
+      "description": "New perfume listing: Possess Intense by Oriflame.",
+      "category": "New Perfumes",
+      "author": "Oriflame",
+      "published": 1789664439
+    },
+    {
+      "title": "Ellis Brooklyn — Miss Amber",
+      "link": "https://www.fragrantica.com/perfume/Ellis-Brooklyn/Miss-Amber-142758.html",
+      "description": "New perfume listing: Miss Amber by Ellis Brooklyn.",
+      "category": "New Perfumes",
+      "author": "Ellis Brooklyn",
+      "published": 1789664439
+    },
+    {
+      "title": "PREparfumer — Citron Sublime",
+      "link": "https://www.fragrantica.com/perfume/PREparfumer/Citron-Sublime-142757.html",
+      "description": "New perfume listing: Citron Sublime by PREparfumer.",
+      "category": "New Perfumes",
+      "author": "PREparfumer",
+      "published": 1789664439
+    },
+    {
+      "title": "PREparfumer — Elixir de Mirage",
+      "link": "https://www.fragrantica.com/perfume/PREparfumer/Elixir-de-Mirage-142756.html",
+      "description": "New perfume listing: Elixir de Mirage by PREparfumer.",
+      "category": "New Perfumes",
+      "author": "PREparfumer",
+      "published": 1789664439
+    },
     {
       "title": "Acute — PineHappy",
       "link": "https://www.fragrantica.com/perfume/Acute/PineHappy-142755.html",
@@ -1497,110 +1601,6 @@
       "category": "New Perfumes",
       "author": "ALREHAB PERFUMES",
       "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Soft Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Soft-Concentrated-Perfume-Oil-142670.html",
-      "description": "New perfume listing: Soft Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Silver Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Silver-Concentrated-Perfume-Oil-142669.html",
-      "description": "New perfume listing: Silver Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Secret Man Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Secret-Man-Concentrated-Perfume-Oil-142668.html",
-      "description": "New perfume listing: Secret Man Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Red Rose Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Red-Rose-Concentrated-Perfume-Oil-142667.html",
-      "description": "New perfume listing: Red Rose Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Rasha Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Rasha-Concentrated-Perfume-Oil-142666.html",
-      "description": "New perfume listing: Rasha Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Randa Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Randa-Concentrated-Perfume-Oil-142665.html",
-      "description": "New perfume listing: Randa Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Officer",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Officer-142664.html",
-      "description": "New perfume listing: Officer by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Officer Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Officer-Concentrated-Perfume-Oil-142663.html",
-      "description": "New perfume listing: Officer Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Noble",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Noble-142662.html",
-      "description": "New perfume listing: Noble by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "Arabiyat Prestige — Swar Serpentine",
-      "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Swar-Serpentine-142643.html",
-      "description": "New perfume listing: Swar Serpentine by Arabiyat Prestige.",
-      "category": "New Perfumes",
-      "author": "Arabiyat Prestige",
-      "published": 1789534231
-    },
-    {
-      "title": "Arabiyat Prestige — Marwa Extrait",
-      "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Marwa-Extrait-142642.html",
-      "description": "New perfume listing: Marwa Extrait by Arabiyat Prestige.",
-      "category": "New Perfumes",
-      "author": "Arabiyat Prestige",
-      "published": 1789534231
-    },
-    {
-      "title": "O Te Rā — Te Tōnga",
-      "link": "https://www.fragrantica.com/perfume/O-Te-Ra/Te-Tonga-142641.html",
-      "description": "New perfume listing: Te Tōnga by O Te Rā.",
-      "category": "New Perfumes",
-      "author": "O Te Rā",
-      "published": 1789534231
-    },
-    {
-      "title": "UNDER THE PERGOLA — Ch.r",
-      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/Ch-r-142640.html",
-      "description": "New perfume listing: Ch.r by UNDER THE PERGOLA.",
-      "category": "New Perfumes",
-      "author": "UNDER THE PERGOLA",
-      "published": 1789534231
     }
   ]
 }
