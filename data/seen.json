@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Ateeq Nusuk: An Old Idea, a New Embodiment",
+      "link": "https://www.fragrantica.com/news/Ateeq-Nusuk-An-Old-Idea-a-New-Embodiment-26120.html",
+      "description": "For lovers of honey tobacco in hookah.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1789674122
+    },
+    {
       "title": "Ciao, the New Release by Lumi Presented at Pitti Fragranze",
       "link": "https://www.fragrantica.com/news/Ciao-the-New-Release-by-Lumi-Presented-at-Pitti-Fragranze-26119.html",
       "description": "A delicate and powdery perfume telling the story of its creators' meeting.",
@@ -791,17 +799,73 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1788539556
-    },
-    {
-      "title": "My Thoughts on Power of You and Ana Abiyedh Passion",
-      "link": "https://www.fragrantica.com/news/My-Thoughts-on-Power-of-You-and-Ana-Abiyedh-Passion-26020.html",
-      "description": "Based on my experience, testing the two extensively, they are definitely not the same.",
-      "category": "Columns",
-      "author": "Dr Ruqayya Abba Tofa",
-      "published": 1788525363
     }
   ],
   "perfumes": [
+    {
+      "title": "DedCool — Mocha Magic",
+      "link": "https://www.fragrantica.com/perfume/DedCool/Mocha-Magic-142776.html",
+      "description": "New perfume listing: Mocha Magic by DedCool.",
+      "category": "New Perfumes",
+      "author": "DedCool",
+      "published": 1789680214
+    },
+    {
+      "title": "Henry Rose — Rhu Berry",
+      "link": "https://www.fragrantica.com/perfume/Henry-Rose/Rhu-Berry-142775.html",
+      "description": "New perfume listing: Rhu Berry by Henry Rose.",
+      "category": "New Perfumes",
+      "author": "Henry Rose",
+      "published": 1789680214
+    },
+    {
+      "title": "Sentire — Songe de Narcisse",
+      "link": "https://www.fragrantica.com/perfume/Sentire/Songe-de-Narcisse-142774.html",
+      "description": "New perfume listing: Songe de Narcisse by Sentire.",
+      "category": "New Perfumes",
+      "author": "Sentire",
+      "published": 1789680214
+    },
+    {
+      "title": "Sentire — Stardust Narcissus",
+      "link": "https://www.fragrantica.com/perfume/Sentire/Stardust-Narcissus-142773.html",
+      "description": "New perfume listing: Stardust Narcissus by Sentire.",
+      "category": "New Perfumes",
+      "author": "Sentire",
+      "published": 1789680214
+    },
+    {
+      "title": "Naseem — Divine",
+      "link": "https://www.fragrantica.com/perfume/Naseem/Divine-142772.html",
+      "description": "New perfume listing: Divine by Naseem.",
+      "category": "New Perfumes",
+      "author": "Naseem",
+      "published": 1789680214
+    },
+    {
+      "title": "Bath & Body Works — Juicy Fig",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Juicy-Fig-142770.html",
+      "description": "New perfume listing: Juicy Fig by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1789680214
+    },
+    {
+      "title": "Abaton — Beyond The Cloud",
+      "link": "https://www.fragrantica.com/perfume/Abaton/Beyond-The-Cloud-142769.html",
+      "description": "New perfume listing: Beyond The Cloud by Abaton.",
+      "category": "New Perfumes",
+      "author": "Abaton",
+      "published": 1789680214
+    },
+    {
+      "title": "Lartedelsentire — Opus 5",
+      "link": "https://www.fragrantica.com/perfume/Lartedelsentire/Opus-5-142771.html",
+      "description": "New perfume listing: Opus 5 by Lartedelsentire.",
+      "category": "New Perfumes",
+      "author": "Lartedelsentire",
+      "published": 1789680214
+    },
     {
       "title": "A. Berger Parfums — Connexion",
       "link": "https://www.fragrantica.com/perfume/A-Berger-Parfums/Connexion-142768.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Artistic Perfumery CL-02 by Armaf.",
       "category": "New Perfumes",
       "author": "Armaf",
-      "published": 1789558565
-    },
-    {
-      "title": "Armaf — Artistic Perfumery CL-01",
-      "link": "https://www.fragrantica.com/perfume/Armaf/Artistic-Perfumery-CL-01-142678.html",
-      "description": "New perfume listing: Artistic Perfumery CL-01 by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — White Full Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/White-Full-Concentrated-Perfume-Oil-142677.html",
-      "description": "New perfume listing: White Full Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — VIP Blend Oud",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/VIP-Blend-Oud-142676.html",
-      "description": "New perfume listing: VIP Blend Oud by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — VIP Blend Amber",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/VIP-Blend-Amber-142675.html",
-      "description": "New perfume listing: VIP Blend Amber by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Vanilla Coffee",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Vanilla-Coffee-142674.html",
-      "description": "New perfume listing: Vanilla Coffee by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — VIP Black",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/VIP-Black-142673.html",
-      "description": "New perfume listing: VIP Black by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Tobacco Signature Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Tobacco-Signature-Concentrated-Perfume-Oil-142672.html",
-      "description": "New perfume listing: Tobacco Signature Concentrated Perfume Oil by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1789558565
-    },
-    {
-      "title": "ALREHAB PERFUMES — Taj Al Ameer",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Taj-Al-Ameer-142671.html",
-      "description": "New perfume listing: Taj Al Ameer by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
       "published": 1789558565
     }
   ]
