@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "PITTI FRAGRANZE 2026: The Future Is Vanilla",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-The-Future-Is-Vanilla-26127.html",
+      "description": "Iulia shares her discoveries of sweet fragrances from the vanilla trend at Pitti Fragranze 2026.",
+      "category": "Art Books Events",
+      "author": "Iulia Halatz",
+      "published": 1789760883
+    },
+    {
       "title": "Oud: The Mirror of the Land",
       "link": "https://www.fragrantica.com/news/Oud-The-Mirror-of-the-Land-26126.html",
       "description": "Why oud from Laos smells different from oud from India: a comprehensive guide to natural oud oils.",
@@ -75,7 +83,7 @@
     {
       "title": "Atkinsons: Sadness and Disappointment",
       "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
-      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum Blend, Spice Of London.",
+      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum...",
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1789644423
@@ -791,17 +799,201 @@
       "category": "New Fragrances",
       "author": "Sergey Borisov",
       "published": 1788618363
-    },
-    {
-      "title": "UNE NUIT NOMADE Shade Of Blue",
-      "link": "https://www.fragrantica.com/news/UNE-NUIT-NOMADE-Shade-Of-Blue-26027.html",
-      "description": "A lavender-themed fragrance from Une Nuit Nomade.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788611103
     }
   ],
   "perfumes": [
+    {
+      "title": "Mondepars — Nero",
+      "link": "https://www.fragrantica.com/perfume/Mondepars/Nero-142859.html",
+      "description": "New perfume listing: Nero by Mondepars.",
+      "category": "New Perfumes",
+      "author": "Mondepars",
+      "published": 1789764901
+    },
+    {
+      "title": "Mondepars — Kyoto",
+      "link": "https://www.fragrantica.com/perfume/Mondepars/Kyoto-142858.html",
+      "description": "New perfume listing: Kyoto by Mondepars.",
+      "category": "New Perfumes",
+      "author": "Mondepars",
+      "published": 1789764901
+    },
+    {
+      "title": "Mondepars — Rosalee",
+      "link": "https://www.fragrantica.com/perfume/Mondepars/Rosalee-142857.html",
+      "description": "New perfume listing: Rosalee by Mondepars.",
+      "category": "New Perfumes",
+      "author": "Mondepars",
+      "published": 1789764901
+    },
+    {
+      "title": "Salon de Nevaeh — Tuberose Ash",
+      "link": "https://www.fragrantica.com/perfume/Salon-de-Nevaeh/Tuberose-Ash-142856.html",
+      "description": "New perfume listing: Tuberose Ash by Salon de Nevaeh.",
+      "category": "New Perfumes",
+      "author": "Salon de Nevaeh",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Tofy Milky Vanilla",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Tofy-Milky-Vanilla-142855.html",
+      "description": "New perfume listing: Tofy Milky Vanilla by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Soleil Swing",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Soleil-Swing-142854.html",
+      "description": "New perfume listing: Soleil Swing by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Recif Bleu",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Recif-Bleu-142853.html",
+      "description": "New perfume listing: Recif Bleu by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Clarte du Soir",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Clarte-du-Soir-142852.html",
+      "description": "New perfume listing: Clarte du Soir by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Son Reve",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Son-Reve-142851.html",
+      "description": "New perfume listing: Son Reve by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Rose Frenzy",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Rose-Frenzy-142850.html",
+      "description": "New perfume listing: Rose Frenzy by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Rose Chaos",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Rose-Chaos-142849.html",
+      "description": "New perfume listing: Rose Chaos by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Tasmir Le Bleu",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Tasmir-Le-Bleu-142846.html",
+      "description": "New perfume listing: Tasmir Le Bleu by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "Salon de Nevaeh — Hazel Noir",
+      "link": "https://www.fragrantica.com/perfume/Salon-de-Nevaeh/Hazel-Noir-142845.html",
+      "description": "New perfume listing: Hazel Noir by Salon de Nevaeh.",
+      "category": "New Perfumes",
+      "author": "Salon de Nevaeh",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Tasmir Le Blanc",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Tasmir-Le-Blanc-142844.html",
+      "description": "New perfume listing: Tasmir Le Blanc by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Serenade Reve",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Serenade-Reve-142843.html",
+      "description": "New perfume listing: Serenade Reve by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Dame de Paris",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Dame-de-Paris-142841.html",
+      "description": "New perfume listing: Dame de Paris by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Noctis Amber",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Noctis-Amber-142840.html",
+      "description": "New perfume listing: Noctis Amber by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Citadel Chrome",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Citadel-Chrome-142839.html",
+      "description": "New perfume listing: Citadel Chrome by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "L'Affair — Citadel Carbon",
+      "link": "https://www.fragrantica.com/perfume/L-Affair/Citadel-Carbon-142837.html",
+      "description": "New perfume listing: Citadel Carbon by L'Affair.",
+      "category": "New Perfumes",
+      "author": "L'Affair",
+      "published": 1789764901
+    },
+    {
+      "title": "GAZE — Red Mercury",
+      "link": "https://www.fragrantica.com/perfume/GAZE/Red-Mercury-142848.html",
+      "description": "New perfume listing: Red Mercury by GAZE.",
+      "category": "New Perfumes",
+      "author": "GAZE",
+      "published": 1789764901
+    },
+    {
+      "title": "GAZE — Angel Dust",
+      "link": "https://www.fragrantica.com/perfume/GAZE/Angel-Dust-142847.html",
+      "description": "New perfume listing: Angel Dust by GAZE.",
+      "category": "New Perfumes",
+      "author": "GAZE",
+      "published": 1789764901
+    },
+    {
+      "title": "GAZE — Nafta",
+      "link": "https://www.fragrantica.com/perfume/GAZE/Nafta-142842.html",
+      "description": "New perfume listing: Nafta by GAZE.",
+      "category": "New Perfumes",
+      "author": "GAZE",
+      "published": 1789764901
+    },
+    {
+      "title": "Mea — Sweet orchid",
+      "link": "https://www.fragrantica.com/perfume/Mea/Sweet-orchid-142838.html",
+      "description": "New perfume listing: Sweet orchid by Mea.",
+      "category": "New Perfumes",
+      "author": "Mea",
+      "published": 1789764901
+    },
+    {
+      "title": "Mea — Wish Island",
+      "link": "https://www.fragrantica.com/perfume/Mea/Wish-Island-142836.html",
+      "description": "New perfume listing: Wish Island by Mea.",
+      "category": "New Perfumes",
+      "author": "Mea",
+      "published": 1789764901
+    },
     {
       "title": "L'Affair — Citadel Aurum",
       "link": "https://www.fragrantica.com/perfume/L-Affair/Citadel-Aurum-142834.html",
@@ -1409,198 +1601,6 @@
       "category": "New Perfumes",
       "author": "Oriflame",
       "published": 1789664439
-    },
-    {
-      "title": "Ellis Brooklyn — Miss Amber",
-      "link": "https://www.fragrantica.com/perfume/Ellis-Brooklyn/Miss-Amber-142758.html",
-      "description": "New perfume listing: Miss Amber by Ellis Brooklyn.",
-      "category": "New Perfumes",
-      "author": "Ellis Brooklyn",
-      "published": 1789664439
-    },
-    {
-      "title": "PREparfumer — Citron Sublime",
-      "link": "https://www.fragrantica.com/perfume/PREparfumer/Citron-Sublime-142757.html",
-      "description": "New perfume listing: Citron Sublime by PREparfumer.",
-      "category": "New Perfumes",
-      "author": "PREparfumer",
-      "published": 1789664439
-    },
-    {
-      "title": "PREparfumer — Elixir de Mirage",
-      "link": "https://www.fragrantica.com/perfume/PREparfumer/Elixir-de-Mirage-142756.html",
-      "description": "New perfume listing: Elixir de Mirage by PREparfumer.",
-      "category": "New Perfumes",
-      "author": "PREparfumer",
-      "published": 1789664439
-    },
-    {
-      "title": "Acute — PineHappy",
-      "link": "https://www.fragrantica.com/perfume/Acute/PineHappy-142755.html",
-      "description": "New perfume listing: PineHappy by Acute.",
-      "category": "New Perfumes",
-      "author": "Acute",
-      "published": 1789645380
-    },
-    {
-      "title": "Acute — PlumTastic",
-      "link": "https://www.fragrantica.com/perfume/Acute/PlumTastic-142754.html",
-      "description": "New perfume listing: PlumTastic by Acute.",
-      "category": "New Perfumes",
-      "author": "Acute",
-      "published": 1789645380
-    },
-    {
-      "title": "Acute — Tea Amo",
-      "link": "https://www.fragrantica.com/perfume/Acute/Tea-Amo-142753.html",
-      "description": "New perfume listing: Tea Amo by Acute.",
-      "category": "New Perfumes",
-      "author": "Acute",
-      "published": 1789645380
-    },
-    {
-      "title": "Caprianna Parfums — Incendio",
-      "link": "https://www.fragrantica.com/perfume/Caprianna-Parfums/Incendio-142752.html",
-      "description": "New perfume listing: Incendio by Caprianna Parfums.",
-      "category": "New Perfumes",
-      "author": "Caprianna Parfums",
-      "published": 1789645380
-    },
-    {
-      "title": "Caprianna Parfums — Pure Blue",
-      "link": "https://www.fragrantica.com/perfume/Caprianna-Parfums/Pure-Blue-142751.html",
-      "description": "New perfume listing: Pure Blue by Caprianna Parfums.",
-      "category": "New Perfumes",
-      "author": "Caprianna Parfums",
-      "published": 1789645380
-    },
-    {
-      "title": "Selcouth — TobaccoHolic Intense",
-      "link": "https://www.fragrantica.com/perfume/Selcouth/TobaccoHolic-Intense-142739.html",
-      "description": "New perfume listing: TobaccoHolic Intense by Selcouth.",
-      "category": "New Perfumes",
-      "author": "Selcouth",
-      "published": 1789620872
-    },
-    {
-      "title": "Duke Cannon — Seawolf",
-      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Seawolf-142735.html",
-      "description": "New perfume listing: Seawolf by Duke Cannon.",
-      "category": "New Perfumes",
-      "author": "Duke Cannon",
-      "published": 1789620872
-    },
-    {
-      "title": "Duke Cannon — Palomino",
-      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Palomino-142734.html",
-      "description": "New perfume listing: Palomino by Duke Cannon.",
-      "category": "New Perfumes",
-      "author": "Duke Cannon",
-      "published": 1789620872
-    },
-    {
-      "title": "Duke Cannon — Sandalwood",
-      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Sandalwood-142733.html",
-      "description": "New perfume listing: Sandalwood by Duke Cannon.",
-      "category": "New Perfumes",
-      "author": "Duke Cannon",
-      "published": 1789620872
-    },
-    {
-      "title": "Duke Cannon — Deep Space",
-      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Deep-Space-142732.html",
-      "description": "New perfume listing: Deep Space by Duke Cannon.",
-      "category": "New Perfumes",
-      "author": "Duke Cannon",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Chai Kulfi",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Chai-Kulfi-142750.html",
-      "description": "New perfume listing: Chai Kulfi by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Vanilla Volcano",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Vanilla-Volcano-142749.html",
-      "description": "New perfume listing: Vanilla Volcano by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Tipsy Tarantula",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Tipsy-Tarantula-142748.html",
-      "description": "New perfume listing: Tipsy Tarantula by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — One Night in Kashmir",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/One-Night-in-Kashmir-142747.html",
-      "description": "New perfume listing: One Night in Kashmir by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Hakuna Matata",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Hakuna-Matata-142746.html",
-      "description": "New perfume listing: Hakuna Matata by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — WTH!",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/WTH-142745.html",
-      "description": "New perfume listing: WTH! by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Bengal Tiger",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Bengal-Tiger-142744.html",
-      "description": "New perfume listing: Bengal Tiger by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Smoud Oud",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Smoud-Oud-142743.html",
-      "description": "New perfume listing: Smoud Oud by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Arabian Sea",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Arabian-Sea-142742.html",
-      "description": "New perfume listing: Arabian Sea by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
-    },
-    {
-      "title": "Duke Cannon — Huron",
-      "link": "https://www.fragrantica.com/perfume/Duke-Cannon/Huron-142741.html",
-      "description": "New perfume listing: Huron by Duke Cannon.",
-      "category": "New Perfumes",
-      "author": "Duke Cannon",
-      "published": 1789620872
-    },
-    {
-      "title": "nXn Perfumes — Green Mango",
-      "link": "https://www.fragrantica.com/perfume/nXn-Perfumes/Green-Mango-142740.html",
-      "description": "New perfume listing: Green Mango by nXn Perfumes.",
-      "category": "New Perfumes",
-      "author": "nXn Perfumes",
-      "published": 1789620872
     }
   ]
 }
