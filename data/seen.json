@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "PITTI Fragranze 2026: The Olymra Brand Made an Impression",
+      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-2026-The-Olymra-Brand-Made-an-Impression-26124.html",
+      "description": "One of the highlights of the exhibition is a solidly built scientific project, translated into art.",
+      "category": "Niche Perfumery",
+      "author": "Elena Vosnaki",
+      "published": 1789710243
+    },
+    {
       "title": "Apples In The Snow: Freeze and Freeze in Flames by Riiffs",
       "link": "https://www.fragrantica.com/news/Apples-In-The-Snow-Freeze-and-Freeze-in-Flames-by-Riiffs-26123.html",
       "description": "Red apples in white snow, what do we do with them?",
@@ -791,17 +799,65 @@
       "category": "Video",
       "author": "Columns",
       "published": 1788578643
-    },
-    {
-      "title": "Rabanne Fame Winter Crush",
-      "link": "https://www.fragrantica.com/news/Rabanne-Fame-Winter-Crush-26024.html",
-      "description": "A collector's edition.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788567843
     }
   ],
   "perfumes": [
+    {
+      "title": "WA:IT — MA",
+      "link": "https://www.fragrantica.com/perfume/WA-IT/MA-142798.html",
+      "description": "New perfume listing: MA by WA:IT.",
+      "category": "New Perfumes",
+      "author": "WA:IT",
+      "published": 1789730190
+    },
+    {
+      "title": "Xyrena — Mallrats",
+      "link": "https://www.fragrantica.com/perfume/Xyrena/Mallrats-142796.html",
+      "description": "New perfume listing: Mallrats by Xyrena.",
+      "category": "New Perfumes",
+      "author": "Xyrena",
+      "published": 1789730190
+    },
+    {
+      "title": "La Fleur by Livvy — Green Silk No. 8",
+      "link": "https://www.fragrantica.com/perfume/La-Fleur-by-Livvy/Green-Silk-No-8-142795.html",
+      "description": "New perfume listing: Green Silk No. 8 by La Fleur by Livvy.",
+      "category": "New Perfumes",
+      "author": "La Fleur by Livvy",
+      "published": 1789730190
+    },
+    {
+      "title": "AMEHA Paris — Ambre Opale",
+      "link": "https://www.fragrantica.com/perfume/AMEHA-Paris/Ambre-Opale-142794.html",
+      "description": "New perfume listing: Ambre Opale by AMEHA Paris.",
+      "category": "New Perfumes",
+      "author": "AMEHA Paris",
+      "published": 1789730190
+    },
+    {
+      "title": "AMEHA Paris — Diamant Blanc",
+      "link": "https://www.fragrantica.com/perfume/AMEHA-Paris/Diamant-Blanc-142793.html",
+      "description": "New perfume listing: Diamant Blanc by AMEHA Paris.",
+      "category": "New Perfumes",
+      "author": "AMEHA Paris",
+      "published": 1789730190
+    },
+    {
+      "title": "Siordia Parfums — Arwen",
+      "link": "https://www.fragrantica.com/perfume/Siordia-Parfums/Arwen-142792.html",
+      "description": "New perfume listing: Arwen by Siordia Parfums.",
+      "category": "New Perfumes",
+      "author": "Siordia Parfums",
+      "published": 1789730190
+    },
+    {
+      "title": "Mith — Polite",
+      "link": "https://www.fragrantica.com/perfume/Mith/Polite-142791.html",
+      "description": "New perfume listing: Polite by Mith.",
+      "category": "New Perfumes",
+      "author": "Mith",
+      "published": 1789730190
+    },
     {
       "title": "Normal Estate — Forest in a Vase",
       "link": "https://www.fragrantica.com/perfume/Normal-Estate/Forest-in-a-Vase-142790.html",
@@ -1545,62 +1601,6 @@
       "category": "New Perfumes",
       "author": "Jeanne Arthes",
       "published": 1789577838
-    },
-    {
-      "title": "Jeanne Arthes — Sultane Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Patchouli-142697.html",
-      "description": "New perfume listing: Sultane Patchouli by Jeanne Arthes.",
-      "category": "New Perfumes",
-      "author": "Jeanne Arthes",
-      "published": 1789577838
-    },
-    {
-      "title": "Jeanne Arthes — Sultane Oud",
-      "link": "https://www.fragrantica.com/perfume/Jeanne-Arthes/Sultane-Oud-142696.html",
-      "description": "New perfume listing: Sultane Oud by Jeanne Arthes.",
-      "category": "New Perfumes",
-      "author": "Jeanne Arthes",
-      "published": 1789577838
-    },
-    {
-      "title": "Black Paw — Osmanthus",
-      "link": "https://www.fragrantica.com/perfume/Black-Paw/Osmanthus-142695.html",
-      "description": "New perfume listing: Osmanthus by Black Paw.",
-      "category": "New Perfumes",
-      "author": "Black Paw",
-      "published": 1789577838
-    },
-    {
-      "title": "Parfums de Coeur — Bod Man Uppercut",
-      "link": "https://www.fragrantica.com/perfume/Parfums-de-Coeur/Bod-Man-Uppercut-142694.html",
-      "description": "New perfume listing: Bod Man Uppercut by Parfums de Coeur.",
-      "category": "New Perfumes",
-      "author": "Parfums de Coeur",
-      "published": 1789577838
-    },
-    {
-      "title": "Parfums de Coeur — Bod Man Dark Ice",
-      "link": "https://www.fragrantica.com/perfume/Parfums-de-Coeur/Bod-Man-Dark-Ice-142693.html",
-      "description": "New perfume listing: Bod Man Dark Ice by Parfums de Coeur.",
-      "category": "New Perfumes",
-      "author": "Parfums de Coeur",
-      "published": 1789577838
-    },
-    {
-      "title": "Parfums de Coeur — Bod Man Fresh Guy",
-      "link": "https://www.fragrantica.com/perfume/Parfums-de-Coeur/Bod-Man-Fresh-Guy-142692.html",
-      "description": "New perfume listing: Bod Man Fresh Guy by Parfums de Coeur.",
-      "category": "New Perfumes",
-      "author": "Parfums de Coeur",
-      "published": 1789577838
-    },
-    {
-      "title": "Aroma Concepts — Pearfect Match",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Pearfect-Match-142645.html",
-      "description": "New perfume listing: Pearfect Match by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1789558565
     }
   ]
 }
