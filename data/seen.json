@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "25 Days of Byredo: The Ultimate Advent Calendar for Fragrance Lovers",
+      "link": "https://www.fragrantica.com/news/25-Days-of-Byredo-The-Ultimate-Advent-Calendar-for-Fragrance-Lovers-26132.html",
+      "description": "The Byredo Advent Calendar returns for 2026",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1789832103
+    },
+    {
+      "title": "Botanicae Expressions: Untranslatable Words for Feelings",
+      "link": "https://www.fragrantica.com/news/Botanicae-Expressions-Untranslatable-Words-for-Feelings-26131.html",
+      "description": "Feelings need no translation, but now they have fragrances. Meraki and Saudade are two creations from Botanicae Expressions dedicated to the passion for creativity and the gentle glow of nostalgia.",
+      "category": "Fragrance Reviews",
+      "author": "Matvey Yudov",
+      "published": 1789820645
+    },
+    {
       "title": "Pitti Fragranze 2026: Florentine Sunsets",
       "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Florentine-Sunsets-26130.html",
       "description": "Florentine Sunsets Captured in Scent.",
@@ -107,7 +123,7 @@
     {
       "title": "Atkinsons: Sadness and Disappointment",
       "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
-      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum Blend, Spice Of London.",
+      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum...",
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1789644423
@@ -783,25 +799,121 @@
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1788697983
-    },
-    {
-      "title": "Odéon by Memo Paris, a Night in Paris",
-      "link": "https://www.fragrantica.com/news/Odeon-by-Memo-Paris-a-Night-in-Paris-26032.html",
-      "description": "A dramatic dark rose, signed by perfumer Aliénor Massenet.",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1788667503
-    },
-    {
-      "title": "The Road to Hell: Another Look at Amber-Woods",
-      "link": "https://www.fragrantica.com/news/The-Road-to-Hell-Another-Look-at-Amber-Woods-26031.html",
-      "description": "Modern steroidal superambers, new musks, and the systemic problems of contemporary perfumery.",
-      "category": "Raw Materials",
-      "author": "Matvey Yudov",
-      "published": 1788652444
     }
   ],
   "perfumes": [
+    {
+      "title": "Antonio Banderas — Her Secret Privé",
+      "link": "https://www.fragrantica.com/perfume/Antonio-Banderas/Her-Secret-Prive-142900.html",
+      "description": "New perfume listing: Her Secret Privé by Antonio Banderas.",
+      "category": "New Perfumes",
+      "author": "Antonio Banderas",
+      "published": 1789833231
+    },
+    {
+      "title": "Contrapposto — Musc Pétille",
+      "link": "https://www.fragrantica.com/perfume/Contrapposto/Musc-Petille-142899.html",
+      "description": "New perfume listing: Musc Pétille by Contrapposto.",
+      "category": "New Perfumes",
+      "author": "Contrapposto",
+      "published": 1789833231
+    },
+    {
+      "title": "Contrapposto — Melting Flowers",
+      "link": "https://www.fragrantica.com/perfume/Contrapposto/Melting-Flowers-142898.html",
+      "description": "New perfume listing: Melting Flowers by Contrapposto.",
+      "category": "New Perfumes",
+      "author": "Contrapposto",
+      "published": 1789833231
+    },
+    {
+      "title": "Contrapposto — Lubanite",
+      "link": "https://www.fragrantica.com/perfume/Contrapposto/Lubanite-142897.html",
+      "description": "New perfume listing: Lubanite by Contrapposto.",
+      "category": "New Perfumes",
+      "author": "Contrapposto",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Forever and Ever (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Forever-and-Ever-2026-142896.html",
+      "description": "New perfume listing: Forever and Ever (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Higher Energy (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Higher-Energy-2026-142895.html",
+      "description": "New perfume listing: Higher Energy (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "ORACULUM — Mio Dio",
+      "link": "https://www.fragrantica.com/perfume/ORACULUM/Mio-Dio-142894.html",
+      "description": "New perfume listing: Mio Dio by ORACULUM.",
+      "category": "New Perfumes",
+      "author": "ORACULUM",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Higher (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Higher-2026-142893.html",
+      "description": "New perfume listing: Higher (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Dune Pour Homme (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Dune-Pour-Homme-2026-142892.html",
+      "description": "New perfume listing: Dune Pour Homme (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Artificium — MELANIA",
+      "link": "https://www.fragrantica.com/perfume/Artificium/MELANIA-142891.html",
+      "description": "New perfume listing: MELANIA by Artificium.",
+      "category": "New Perfumes",
+      "author": "Artificium",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Dolce Vita (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Dolce-Vita-2026-142890.html",
+      "description": "New perfume listing: Dolce Vita (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Dune (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Dune-2026-142889.html",
+      "description": "New perfume listing: Dune (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Jules (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Jules-2026-142888.html",
+      "description": "New perfume listing: Jules (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
+    {
+      "title": "Dior — Dioressence (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Dioressence-2026-142887.html",
+      "description": "New perfume listing: Dioressence (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789833231
+    },
     {
       "title": "Belnu — Vanilla Bouclé",
       "link": "https://www.fragrantica.com/perfume/Belnu/Vanilla-Boucle-142886.html",
@@ -1489,118 +1601,6 @@
       "category": "New Perfumes",
       "author": "Thơmore",
       "published": 1789748684
-    },
-    {
-      "title": "Thơmore — Bánh trôi nước",
-      "link": "https://www.fragrantica.com/perfume/Thomore/Banh-troi-nuoc-142808.html",
-      "description": "New perfume listing: Bánh trôi nước by Thơmore.",
-      "category": "New Perfumes",
-      "author": "Thơmore",
-      "published": 1789748684
-    },
-    {
-      "title": "Ahmed Al Maghribi — Arwa",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Arwa-142803.html",
-      "description": "New perfume listing: Arwa by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1789748684
-    },
-    {
-      "title": "WA:IT — MA",
-      "link": "https://www.fragrantica.com/perfume/WA-IT/MA-142798.html",
-      "description": "New perfume listing: MA by WA:IT.",
-      "category": "New Perfumes",
-      "author": "WA:IT",
-      "published": 1789730190
-    },
-    {
-      "title": "Xyrena — Mallrats",
-      "link": "https://www.fragrantica.com/perfume/Xyrena/Mallrats-142796.html",
-      "description": "New perfume listing: Mallrats by Xyrena.",
-      "category": "New Perfumes",
-      "author": "Xyrena",
-      "published": 1789730190
-    },
-    {
-      "title": "La Fleur by Livvy — Green Silk No. 8",
-      "link": "https://www.fragrantica.com/perfume/La-Fleur-by-Livvy/Green-Silk-No-8-142795.html",
-      "description": "New perfume listing: Green Silk No. 8 by La Fleur by Livvy.",
-      "category": "New Perfumes",
-      "author": "La Fleur by Livvy",
-      "published": 1789730190
-    },
-    {
-      "title": "AMEHA Paris — Ambre Opale",
-      "link": "https://www.fragrantica.com/perfume/AMEHA-Paris/Ambre-Opale-142794.html",
-      "description": "New perfume listing: Ambre Opale by AMEHA Paris.",
-      "category": "New Perfumes",
-      "author": "AMEHA Paris",
-      "published": 1789730190
-    },
-    {
-      "title": "AMEHA Paris — Diamant Blanc",
-      "link": "https://www.fragrantica.com/perfume/AMEHA-Paris/Diamant-Blanc-142793.html",
-      "description": "New perfume listing: Diamant Blanc by AMEHA Paris.",
-      "category": "New Perfumes",
-      "author": "AMEHA Paris",
-      "published": 1789730190
-    },
-    {
-      "title": "Siordia Parfums — Arwen",
-      "link": "https://www.fragrantica.com/perfume/Siordia-Parfums/Arwen-142792.html",
-      "description": "New perfume listing: Arwen by Siordia Parfums.",
-      "category": "New Perfumes",
-      "author": "Siordia Parfums",
-      "published": 1789730190
-    },
-    {
-      "title": "Mith — Polite",
-      "link": "https://www.fragrantica.com/perfume/Mith/Polite-142791.html",
-      "description": "New perfume listing: Polite by Mith.",
-      "category": "New Perfumes",
-      "author": "Mith",
-      "published": 1789730190
-    },
-    {
-      "title": "Normal Estate — Forest in a Vase",
-      "link": "https://www.fragrantica.com/perfume/Normal-Estate/Forest-in-a-Vase-142790.html",
-      "description": "New perfume listing: Forest in a Vase by Normal Estate.",
-      "category": "New Perfumes",
-      "author": "Normal Estate",
-      "published": 1789706702
-    },
-    {
-      "title": "Sorce — Song of a Siren",
-      "link": "https://www.fragrantica.com/perfume/Sorce/Song-of-a-Siren-142789.html",
-      "description": "New perfume listing: Song of a Siren by Sorce.",
-      "category": "New Perfumes",
-      "author": "Sorce",
-      "published": 1789706702
-    },
-    {
-      "title": "Sorce — Poisonous Roots",
-      "link": "https://www.fragrantica.com/perfume/Sorce/Poisonous-Roots-142788.html",
-      "description": "New perfume listing: Poisonous Roots by Sorce.",
-      "category": "New Perfumes",
-      "author": "Sorce",
-      "published": 1789706702
-    },
-    {
-      "title": "Normal Estate — Reflection in a Blue Glass",
-      "link": "https://www.fragrantica.com/perfume/Normal-Estate/Reflection-in-a-Blue-Glass-142787.html",
-      "description": "New perfume listing: Reflection in a Blue Glass by Normal Estate.",
-      "category": "New Perfumes",
-      "author": "Normal Estate",
-      "published": 1789706702
-    },
-    {
-      "title": "Sorce — Lady of Steel",
-      "link": "https://www.fragrantica.com/perfume/Sorce/Lady-of-Steel-142786.html",
-      "description": "New perfume listing: Lady of Steel by Sorce.",
-      "category": "New Perfumes",
-      "author": "Sorce",
-      "published": 1789706702
     }
   ]
 }
