@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Pitti Finds: Handle With Care by Sanya",
+      "link": "https://www.fragrantica.com/news/Pitti-Finds-Handle-With-Care-by-Sanya-26129.html",
+      "description": "A spicy-milky scent of jasmine and hay.",
+      "category": "Columns",
+      "author": "Eddie Bulliqi",
+      "published": 1789781764
+    },
+    {
+      "title": "WA:IT Presents MA: A Perfume of Space",
+      "link": "https://www.fragrantica.com/news/WA-IT-Presents-MA-A-Perfume-of-Space-26128.html",
+      "description": "Delicate and powdery, it conveys the concept of taking a pause through notes of lavender, hinoki, and white musk.",
+      "category": "Niche Fragrances",
+      "author": "Giulietta Ptoyan",
+      "published": 1789770844
+    },
+    {
       "title": "PITTI FRAGRANZE 2026: The Future Is Vanilla",
       "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-The-Future-Is-Vanilla-26127.html",
       "description": "Iulia shares her discoveries of sweet fragrances from the vanilla trend at Pitti Fragranze 2026.",
@@ -783,25 +799,161 @@
       "category": "Fragrance Reviews",
       "author": "Sophie Normand",
       "published": 1788642723
-    },
-    {
-      "title": "FABBRICA DELLA MUSA Obsidian Gold",
-      "link": "https://www.fragrantica.com/news/FABBRICA-DELLA-MUSA-Obsidian-Gold-26029.html",
-      "description": "The deep matte black finish reflects the quiet power of volcanic stone, while delicate golden veins recall precious minerals revealed by time and nature.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1788630842
-    },
-    {
-      "title": "Felicity Extreme and Valhalla Extreme: New Fragrances from Paradis Des Sens",
-      "link": "https://www.fragrantica.com/news/Felicity-Extreme-and-Valhalla-Extreme-New-Fragrances-from-Paradis-Des-Sens-26028.html",
-      "description": "The Overdrive Collection - pure perfumes only!",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1788618363
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Arizona",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Arizona-142878.html",
+      "description": "New perfume listing: Arizona by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Arabian Brew",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Arabian-Brew-142876.html",
+      "description": "New perfume listing: Arabian Brew by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aquaman",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aquaman-142875.html",
+      "description": "New perfume listing: Aquaman by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Arabian Love",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Arabian-Love-142874.html",
+      "description": "New perfume listing: Arabian Love by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aqua Rush",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aqua-Rush-142871.html",
+      "description": "New perfume listing: Aqua Rush by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Amplify",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Amplify-142869.html",
+      "description": "New perfume listing: Amplify by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Amber Grove",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Amber-Grove-142866.html",
+      "description": "New perfume listing: Amber Grove by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Klaudyna Hebda Nature — Wet Lilac",
+      "link": "https://www.fragrantica.com/perfume/Klaudyna-Hebda-Nature/Wet-Lilac-142863.html",
+      "description": "New perfume listing: Wet Lilac by Klaudyna Hebda Nature.",
+      "category": "New Perfumes",
+      "author": "Klaudyna Hebda Nature",
+      "published": 1789792737
+    },
+    {
+      "title": "Klaudyna Hebda Nature — Sea Paradox",
+      "link": "https://www.fragrantica.com/perfume/Klaudyna-Hebda-Nature/Sea-Paradox-142862.html",
+      "description": "New perfume listing: Sea Paradox by Klaudyna Hebda Nature.",
+      "category": "New Perfumes",
+      "author": "Klaudyna Hebda Nature",
+      "published": 1789792737
+    },
+    {
+      "title": "Klaudyna Hebda Nature — Flower Paradox",
+      "link": "https://www.fragrantica.com/perfume/Klaudyna-Hebda-Nature/Flower-Paradox-142861.html",
+      "description": "New perfume listing: Flower Paradox by Klaudyna Hebda Nature.",
+      "category": "New Perfumes",
+      "author": "Klaudyna Hebda Nature",
+      "published": 1789792737
+    },
+    {
+      "title": "Salon de Nevaeh — Garnet Nectar",
+      "link": "https://www.fragrantica.com/perfume/Salon-de-Nevaeh/Garnet-Nectar-142860.html",
+      "description": "New perfume listing: Garnet Nectar by Salon de Nevaeh.",
+      "category": "New Perfumes",
+      "author": "Salon de Nevaeh",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Arabian Gold",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Arabian-Gold-142877.html",
+      "description": "New perfume listing: Arabian Gold by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aquafina",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aquafina-142873.html",
+      "description": "New perfume listing: Aquafina by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aqua Pure",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aqua-Pure-142872.html",
+      "description": "New perfume listing: Aqua Pure by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aqua Infinite",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aqua-Infinite-142870.html",
+      "description": "New perfume listing: Aqua Infinite by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aoud Mineral",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aoud-Mineral-142868.html",
+      "description": "New perfume listing: Aoud Mineral by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Amber Floweret",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Amber-Floweret-142867.html",
+      "description": "New perfume listing: Amber Floweret by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Amoura",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Amoura-142865.html",
+      "description": "New perfume listing: Amoura by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
+    {
+      "title": "Bujairami — Aqua Prevail",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Aqua-Prevail-142864.html",
+      "description": "New perfume listing: Aqua Prevail by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1789792737
+    },
     {
       "title": "Mondepars — Nero",
       "link": "https://www.fragrantica.com/perfume/Mondepars/Nero-142859.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "Enrico Buccella",
       "published": 1789706702
-    },
-    {
-      "title": "Enrico Buccella — Macaron",
-      "link": "https://www.fragrantica.com/perfume/Enrico-Buccella/Macaron-142781.html",
-      "description": "New perfume listing: Macaron by Enrico Buccella.",
-      "category": "New Perfumes",
-      "author": "Enrico Buccella",
-      "published": 1789706702
-    },
-    {
-      "title": "DedCool — Mocha Magic",
-      "link": "https://www.fragrantica.com/perfume/DedCool/Mocha-Magic-142776.html",
-      "description": "New perfume listing: Mocha Magic by DedCool.",
-      "category": "New Perfumes",
-      "author": "DedCool",
-      "published": 1789680214
-    },
-    {
-      "title": "Henry Rose — Rhu Berry",
-      "link": "https://www.fragrantica.com/perfume/Henry-Rose/Rhu-Berry-142775.html",
-      "description": "New perfume listing: Rhu Berry by Henry Rose.",
-      "category": "New Perfumes",
-      "author": "Henry Rose",
-      "published": 1789680214
-    },
-    {
-      "title": "Sentire — Songe de Narcisse",
-      "link": "https://www.fragrantica.com/perfume/Sentire/Songe-de-Narcisse-142774.html",
-      "description": "New perfume listing: Songe de Narcisse by Sentire.",
-      "category": "New Perfumes",
-      "author": "Sentire",
-      "published": 1789680214
-    },
-    {
-      "title": "Sentire — Stardust Narcissus",
-      "link": "https://www.fragrantica.com/perfume/Sentire/Stardust-Narcissus-142773.html",
-      "description": "New perfume listing: Stardust Narcissus by Sentire.",
-      "category": "New Perfumes",
-      "author": "Sentire",
-      "published": 1789680214
-    },
-    {
-      "title": "Naseem — Divine",
-      "link": "https://www.fragrantica.com/perfume/Naseem/Divine-142772.html",
-      "description": "New perfume listing: Divine by Naseem.",
-      "category": "New Perfumes",
-      "author": "Naseem",
-      "published": 1789680214
-    },
-    {
-      "title": "Bath & Body Works — Juicy Fig",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Juicy-Fig-142770.html",
-      "description": "New perfume listing: Juicy Fig by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1789680214
-    },
-    {
-      "title": "Abaton — Beyond The Cloud",
-      "link": "https://www.fragrantica.com/perfume/Abaton/Beyond-The-Cloud-142769.html",
-      "description": "New perfume listing: Beyond The Cloud by Abaton.",
-      "category": "New Perfumes",
-      "author": "Abaton",
-      "published": 1789680214
-    },
-    {
-      "title": "Lartedelsentire — Opus 5",
-      "link": "https://www.fragrantica.com/perfume/Lartedelsentire/Opus-5-142771.html",
-      "description": "New perfume listing: Opus 5 by Lartedelsentire.",
-      "category": "New Perfumes",
-      "author": "Lartedelsentire",
-      "published": 1789680214
-    },
-    {
-      "title": "A. Berger Parfums — Connexion",
-      "link": "https://www.fragrantica.com/perfume/A-Berger-Parfums/Connexion-142768.html",
-      "description": "New perfume listing: Connexion by A. Berger Parfums.",
-      "category": "New Perfumes",
-      "author": "A. Berger Parfums",
-      "published": 1789664439
-    },
-    {
-      "title": "Emil Elise — Electric Pulse",
-      "link": "https://www.fragrantica.com/perfume/Emil-Elise/Electric-Pulse-142767.html",
-      "description": "New perfume listing: Electric Pulse by Emil Elise.",
-      "category": "New Perfumes",
-      "author": "Emil Elise",
-      "published": 1789664439
-    },
-    {
-      "title": "L'Occitane en Provence — Noisetier Crémeux",
-      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Noisetier-Cremeux-142766.html",
-      "description": "New perfume listing: Noisetier Crémeux by L'Occitane en Provence.",
-      "category": "New Perfumes",
-      "author": "L'Occitane en Provence",
-      "published": 1789664439
-    },
-    {
-      "title": "L'Occitane en Provence — Safran Boisé",
-      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Safran-Boise-142765.html",
-      "description": "New perfume listing: Safran Boisé by L'Occitane en Provence.",
-      "category": "New Perfumes",
-      "author": "L'Occitane en Provence",
-      "published": 1789664439
-    },
-    {
-      "title": "L'Occitane en Provence — Chêne Minéral",
-      "link": "https://www.fragrantica.com/perfume/L-Occitane-en-Provence/Chene-Mineral-142764.html",
-      "description": "New perfume listing: Chêne Minéral by L'Occitane en Provence.",
-      "category": "New Perfumes",
-      "author": "L'Occitane en Provence",
-      "published": 1789664439
-    },
-    {
-      "title": "LoveShackFancy — Just a Girl",
-      "link": "https://www.fragrantica.com/perfume/LoveShackFancy/Just-a-Girl-142763.html",
-      "description": "New perfume listing: Just a Girl by LoveShackFancy.",
-      "category": "New Perfumes",
-      "author": "LoveShackFancy",
-      "published": 1789664439
-    },
-    {
-      "title": "Sora Dora — Gladiator Ultimus",
-      "link": "https://www.fragrantica.com/perfume/Sora-Dora/Gladiator-Ultimus-142762.html",
-      "description": "New perfume listing: Gladiator Ultimus by Sora Dora.",
-      "category": "New Perfumes",
-      "author": "Sora Dora",
-      "published": 1789664439
-    },
-    {
-      "title": "Oriflame — Possess Intense Man",
-      "link": "https://www.fragrantica.com/perfume/Oriflame/Possess-Intense-Man-142761.html",
-      "description": "New perfume listing: Possess Intense Man by Oriflame.",
-      "category": "New Perfumes",
-      "author": "Oriflame",
-      "published": 1789664439
-    },
-    {
-      "title": "Comme des Garcons — Tears",
-      "link": "https://www.fragrantica.com/perfume/Comme-des-Garcons/Tears-142760.html",
-      "description": "New perfume listing: Tears by Comme des Garcons.",
-      "category": "New Perfumes",
-      "author": "Comme des Garcons",
-      "published": 1789664439
-    },
-    {
-      "title": "Oriflame — Possess Intense",
-      "link": "https://www.fragrantica.com/perfume/Oriflame/Possess-Intense-142759.html",
-      "description": "New perfume listing: Possess Intense by Oriflame.",
-      "category": "New Perfumes",
-      "author": "Oriflame",
-      "published": 1789664439
     }
   ]
 }
