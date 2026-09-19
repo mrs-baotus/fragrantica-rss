@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Pitti Fragranze 2026: Florentine Sunsets",
+      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Florentine-Sunsets-26130.html",
+      "description": "Florentine Sunsets Captured in Scent.",
+      "category": "Columns",
+      "author": "Viktoria Vlasova",
+      "published": 1789794483
+    },
+    {
       "title": "Pitti Finds: Handle With Care by Sanya",
       "link": "https://www.fragrantica.com/news/Pitti-Finds-Handle-With-Care-by-Sanya-26129.html",
       "description": "A spicy-milky scent of jasmine and hay.",
@@ -99,7 +107,7 @@
     {
       "title": "Atkinsons: Sadness and Disappointment",
       "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
-      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum...",
+      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum Blend, Spice Of London.",
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1789644423
@@ -791,17 +799,73 @@
       "category": "Raw Materials",
       "author": "Matvey Yudov",
       "published": 1788652444
-    },
-    {
-      "title": "With Dafnéïs, Isabelle Larignon Bottles Metamorphosis",
-      "link": "https://www.fragrantica.com/news/With-Dafneis-Isabelle-Larignon-Bottles-Metamorphosis-26030.html",
-      "description": "A new release to discover this coming October 26th.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1788642723
     }
   ],
   "perfumes": [
+    {
+      "title": "Belnu — Vanilla Bouclé",
+      "link": "https://www.fragrantica.com/perfume/Belnu/Vanilla-Boucle-142886.html",
+      "description": "New perfume listing: Vanilla Bouclé by Belnu.",
+      "category": "New Perfumes",
+      "author": "Belnu",
+      "published": 1789815652
+    },
+    {
+      "title": "Belnu — Still Bloom",
+      "link": "https://www.fragrantica.com/perfume/Belnu/Still-Bloom-142885.html",
+      "description": "New perfume listing: Still Bloom by Belnu.",
+      "category": "New Perfumes",
+      "author": "Belnu",
+      "published": 1789815652
+    },
+    {
+      "title": "Dior — Diorella (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Diorella-2026-142884.html",
+      "description": "New perfume listing: Diorella (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789815652
+    },
+    {
+      "title": "Dior — Diorling (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Diorling-2026-142883.html",
+      "description": "New perfume listing: Diorling (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789815652
+    },
+    {
+      "title": "Dior — Diorissimo (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Diorissimo-2026-142882.html",
+      "description": "New perfume listing: Diorissimo (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789815652
+    },
+    {
+      "title": "Dior — Eau Fraîche (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Eau-Fraiche-2026-142881.html",
+      "description": "New perfume listing: Eau Fraîche (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789815652
+    },
+    {
+      "title": "Dior — Diorama (2026)",
+      "link": "https://www.fragrantica.com/perfume/Dior/Diorama-2026-142880.html",
+      "description": "New perfume listing: Diorama (2026) by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1789815652
+    },
+    {
+      "title": "Fenty — Lil Miss Wonderful",
+      "link": "https://www.fragrantica.com/perfume/Fenty/Lil-Miss-Wonderful-142879.html",
+      "description": "New perfume listing: Lil Miss Wonderful by Fenty.",
+      "category": "New Perfumes",
+      "author": "Fenty",
+      "published": 1789815652
+    },
     {
       "title": "Bujairami — Arizona",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Arizona-142878.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Lady of Steel by Sorce.",
       "category": "New Perfumes",
       "author": "Sorce",
-      "published": 1789706702
-    },
-    {
-      "title": "Kinana — Viet",
-      "link": "https://www.fragrantica.com/perfume/Kinana/Viet-142785.html",
-      "description": "New perfume listing: Viet by Kinana.",
-      "category": "New Perfumes",
-      "author": "Kinana",
-      "published": 1789706702
-    },
-    {
-      "title": "Enrico Buccella — Miserere",
-      "link": "https://www.fragrantica.com/perfume/Enrico-Buccella/Miserere-142784.html",
-      "description": "New perfume listing: Miserere by Enrico Buccella.",
-      "category": "New Perfumes",
-      "author": "Enrico Buccella",
-      "published": 1789706702
-    },
-    {
-      "title": "Enrico Buccella — US Since 1986",
-      "link": "https://www.fragrantica.com/perfume/Enrico-Buccella/US-Since-1986-142783.html",
-      "description": "New perfume listing: US Since 1986 by Enrico Buccella.",
-      "category": "New Perfumes",
-      "author": "Enrico Buccella",
-      "published": 1789706702
-    },
-    {
-      "title": "Enrico Buccella — Fico e Vaniglia",
-      "link": "https://www.fragrantica.com/perfume/Enrico-Buccella/Fico-e-Vaniglia-142780.html",
-      "description": "New perfume listing: Fico e Vaniglia by Enrico Buccella.",
-      "category": "New Perfumes",
-      "author": "Enrico Buccella",
-      "published": 1789706702
-    },
-    {
-      "title": "Gritti — Yasuni Amber",
-      "link": "https://www.fragrantica.com/perfume/Gritti/Yasuni-Amber-142779.html",
-      "description": "New perfume listing: Yasuni Amber by Gritti.",
-      "category": "New Perfumes",
-      "author": "Gritti",
-      "published": 1789706702
-    },
-    {
-      "title": "Carthusia — Intenso di Nero",
-      "link": "https://www.fragrantica.com/perfume/Carthusia/Intenso-di-Nero-142778.html",
-      "description": "New perfume listing: Intenso di Nero by Carthusia.",
-      "category": "New Perfumes",
-      "author": "Carthusia",
-      "published": 1789706702
-    },
-    {
-      "title": "Rocco d'Orazio — Non Ti Scordar Di Me",
-      "link": "https://www.fragrantica.com/perfume/Rocco-d-Orazio/Non-Ti-Scordar-Di-Me-142777.html",
-      "description": "New perfume listing: Non Ti Scordar Di Me by Rocco d'Orazio.",
-      "category": "New Perfumes",
-      "author": "Rocco d'Orazio",
-      "published": 1789706702
-    },
-    {
-      "title": "Enrico Buccella — Blue Java",
-      "link": "https://www.fragrantica.com/perfume/Enrico-Buccella/Blue-Java-142782.html",
-      "description": "New perfume listing: Blue Java by Enrico Buccella.",
-      "category": "New Perfumes",
-      "author": "Enrico Buccella",
       "published": 1789706702
     }
   ]
