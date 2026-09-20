@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Les Indemodables. Part II: Warm and Gourmand Fragrances",
+      "link": "https://www.fragrantica.com/news/Les-Indemodables-Part-II-Warm-and-Gourmand-Fragrances-26140.html",
+      "description": "A review of four more Les Indemodables fragrances: Immortelle Solaire, Cafe Arabesque, Patchouli Noisette, and Oriental Velours.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1789911663
+    },
+    {
       "title": "Balqis Reine de Saba: A Pearl of Perfumery",
       "link": "https://www.fragrantica.com/news/Balqis-Reine-de-Saba-A-Pearl-of-Perfumery-26139.html",
       "description": "The scent of cleanliness and prosperity.",
@@ -791,17 +799,153 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1788809403
-    },
-    {
-      "title": "Happy Labor Day!",
-      "link": "https://www.fragrantica.com/news/Happy-Labor-Day-26040.html",
-      "description": "The Americans are holiday-ing again",
-      "category": "Art Books Events",
-      "author": "Beth Butterfield",
-      "published": 1788798604
     }
   ],
   "perfumes": [
+    {
+      "title": "Brasco — Brasa",
+      "link": "https://www.fragrantica.com/perfume/Brasco/Brasa-142976.html",
+      "description": "New perfume listing: Brasa by Brasco.",
+      "category": "New Perfumes",
+      "author": "Brasco",
+      "published": 1789920463
+    },
+    {
+      "title": "Brasco — Nosso Wood",
+      "link": "https://www.fragrantica.com/perfume/Brasco/Nosso-Wood-142972.html",
+      "description": "New perfume listing: Nosso Wood by Brasco.",
+      "category": "New Perfumes",
+      "author": "Brasco",
+      "published": 1789920463
+    },
+    {
+      "title": "Brasco — Pomar",
+      "link": "https://www.fragrantica.com/perfume/Brasco/Pomar-142970.html",
+      "description": "New perfume listing: Pomar by Brasco.",
+      "category": "New Perfumes",
+      "author": "Brasco",
+      "published": 1789920463
+    },
+    {
+      "title": "Brasco — Dueto",
+      "link": "https://www.fragrantica.com/perfume/Brasco/Dueto-142967.html",
+      "description": "New perfume listing: Dueto by Brasco.",
+      "category": "New Perfumes",
+      "author": "Brasco",
+      "published": 1789920463
+    },
+    {
+      "title": "Gale Hayman — Delicious Warm Mixed Berry Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Warm-Mixed-Berry-Body-Mist-142980.html",
+      "description": "New perfume listing: Delicious Warm Mixed Berry Body Mist by Gale Hayman.",
+      "category": "New Perfumes",
+      "author": "Gale Hayman",
+      "published": 1789920463
+    },
+    {
+      "title": "Gale Hayman — Delicious Mad About Mango Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Mad-About-Mango-Body-Mist-142979.html",
+      "description": "New perfume listing: Delicious Mad About Mango Body Mist by Gale Hayman.",
+      "category": "New Perfumes",
+      "author": "Gale Hayman",
+      "published": 1789920463
+    },
+    {
+      "title": "Gale Hayman — Delicious Cool Caribbean Coconut Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-Cool-Caribbean-Coconut-Body-Mist-142978.html",
+      "description": "New perfume listing: Delicious Cool Caribbean Coconut Body Mist by Gale Hayman.",
+      "category": "New Perfumes",
+      "author": "Gale Hayman",
+      "published": 1789920463
+    },
+    {
+      "title": "Gale Hayman — Delicious All American Apple Body Mist",
+      "link": "https://www.fragrantica.com/perfume/Gale-Hayman/Delicious-All-American-Apple-Body-Mist-142977.html",
+      "description": "New perfume listing: Delicious All American Apple Body Mist by Gale Hayman.",
+      "category": "New Perfumes",
+      "author": "Gale Hayman",
+      "published": 1789920463
+    },
+    {
+      "title": "Mykonos — Mayfair",
+      "link": "https://www.fragrantica.com/perfume/Mykonos/Mayfair-142975.html",
+      "description": "New perfume listing: Mayfair by Mykonos.",
+      "category": "New Perfumes",
+      "author": "Mykonos",
+      "published": 1789920463
+    },
+    {
+      "title": "Police — Gentleman",
+      "link": "https://www.fragrantica.com/perfume/Police/Gentleman-142974.html",
+      "description": "New perfume listing: Gentleman by Police.",
+      "category": "New Perfumes",
+      "author": "Police",
+      "published": 1789920463
+    },
+    {
+      "title": "Pacifica — Big Waves Coconut, Vanilla and Sea Salt Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Pacifica/Big-Waves-Coconut-Vanilla-and-Sea-Salt-Hair-Mist-142973.html",
+      "description": "New perfume listing: Big Waves Coconut, Vanilla and Sea Salt Hair Mist by Pacifica.",
+      "category": "New Perfumes",
+      "author": "Pacifica",
+      "published": 1789920463
+    },
+    {
+      "title": "Montale — So Amber",
+      "link": "https://www.fragrantica.com/perfume/Montale/So-Amber-142971.html",
+      "description": "New perfume listing: So Amber by Montale.",
+      "category": "New Perfumes",
+      "author": "Montale",
+      "published": 1789920463
+    },
+    {
+      "title": "Lattafa Perfumes — Simply Oud",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Simply-Oud-142969.html",
+      "description": "New perfume listing: Simply Oud by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1789920463
+    },
+    {
+      "title": "RAVE — Rave Nora",
+      "link": "https://www.fragrantica.com/perfume/RAVE/Rave-Nora-142968.html",
+      "description": "New perfume listing: Rave Nora by RAVE.",
+      "category": "New Perfumes",
+      "author": "RAVE",
+      "published": 1789920463
+    },
+    {
+      "title": "Lattafa Perfumes — Musk Al Aroos",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Musk-Al-Aroos-142966.html",
+      "description": "New perfume listing: Musk Al Aroos by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1789920463
+    },
+    {
+      "title": "Geparlys Parfums — Si Belle",
+      "link": "https://www.fragrantica.com/perfume/Geparlys-Parfums/Si-Belle-142965.html",
+      "description": "New perfume listing: Si Belle by Geparlys Parfums.",
+      "category": "New Perfumes",
+      "author": "Geparlys Parfums",
+      "published": 1789920463
+    },
+    {
+      "title": "Geparlys Parfums — Be Seduced",
+      "link": "https://www.fragrantica.com/perfume/Geparlys-Parfums/Be-Seduced-142964.html",
+      "description": "New perfume listing: Be Seduced by Geparlys Parfums.",
+      "category": "New Perfumes",
+      "author": "Geparlys Parfums",
+      "published": 1789920463
+    },
+    {
+      "title": "Disney — Moana",
+      "link": "https://www.fragrantica.com/perfume/Disney/Moana-142963.html",
+      "description": "New perfume listing: Moana by Disney.",
+      "category": "New Perfumes",
+      "author": "Disney",
+      "published": 1789920463
+    },
     {
       "title": "Cinojad — Mu Ye Cang Xia",
       "link": "https://www.fragrantica.com/perfume/Cinojad/Mu-Ye-Cang-Xia-142962.html",
@@ -1457,150 +1601,6 @@
       "category": "New Perfumes",
       "author": "ORACULUM",
       "published": 1789833231
-    },
-    {
-      "title": "Dior — Higher (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Higher-2026-142893.html",
-      "description": "New perfume listing: Higher (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Dior — Dune Pour Homme (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Dune-Pour-Homme-2026-142892.html",
-      "description": "New perfume listing: Dune Pour Homme (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Artificium — MELANIA",
-      "link": "https://www.fragrantica.com/perfume/Artificium/MELANIA-142891.html",
-      "description": "New perfume listing: MELANIA by Artificium.",
-      "category": "New Perfumes",
-      "author": "Artificium",
-      "published": 1789833231
-    },
-    {
-      "title": "Dior — Dolce Vita (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Dolce-Vita-2026-142890.html",
-      "description": "New perfume listing: Dolce Vita (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Dior — Dune (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Dune-2026-142889.html",
-      "description": "New perfume listing: Dune (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Dior — Jules (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Jules-2026-142888.html",
-      "description": "New perfume listing: Jules (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Dior — Dioressence (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Dioressence-2026-142887.html",
-      "description": "New perfume listing: Dioressence (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789833231
-    },
-    {
-      "title": "Belnu — Vanilla Bouclé",
-      "link": "https://www.fragrantica.com/perfume/Belnu/Vanilla-Boucle-142886.html",
-      "description": "New perfume listing: Vanilla Bouclé by Belnu.",
-      "category": "New Perfumes",
-      "author": "Belnu",
-      "published": 1789815652
-    },
-    {
-      "title": "Belnu — Still Bloom",
-      "link": "https://www.fragrantica.com/perfume/Belnu/Still-Bloom-142885.html",
-      "description": "New perfume listing: Still Bloom by Belnu.",
-      "category": "New Perfumes",
-      "author": "Belnu",
-      "published": 1789815652
-    },
-    {
-      "title": "Dior — Diorella (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Diorella-2026-142884.html",
-      "description": "New perfume listing: Diorella (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789815652
-    },
-    {
-      "title": "Dior — Diorling (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Diorling-2026-142883.html",
-      "description": "New perfume listing: Diorling (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789815652
-    },
-    {
-      "title": "Dior — Diorissimo (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Diorissimo-2026-142882.html",
-      "description": "New perfume listing: Diorissimo (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789815652
-    },
-    {
-      "title": "Dior — Eau Fraîche (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Eau-Fraiche-2026-142881.html",
-      "description": "New perfume listing: Eau Fraîche (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789815652
-    },
-    {
-      "title": "Dior — Diorama (2026)",
-      "link": "https://www.fragrantica.com/perfume/Dior/Diorama-2026-142880.html",
-      "description": "New perfume listing: Diorama (2026) by Dior.",
-      "category": "New Perfumes",
-      "author": "Dior",
-      "published": 1789815652
-    },
-    {
-      "title": "Fenty — Lil Miss Wonderful",
-      "link": "https://www.fragrantica.com/perfume/Fenty/Lil-Miss-Wonderful-142879.html",
-      "description": "New perfume listing: Lil Miss Wonderful by Fenty.",
-      "category": "New Perfumes",
-      "author": "Fenty",
-      "published": 1789815652
-    },
-    {
-      "title": "Bujairami — Arizona",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Arizona-142878.html",
-      "description": "New perfume listing: Arizona by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789792737
-    },
-    {
-      "title": "Bujairami — Arabian Brew",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Arabian-Brew-142876.html",
-      "description": "New perfume listing: Arabian Brew by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789792737
-    },
-    {
-      "title": "Bujairami — Aquaman",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Aquaman-142875.html",
-      "description": "New perfume listing: Aquaman by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1789792737
     }
   ]
 }
