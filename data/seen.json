@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Auguste Michel – A Legend of Soviet Perfumery. Part 8. The TeZhE Era",
+      "link": "https://www.fragrantica.com/news/Auguste-Michel-A-Legend-of-Soviet-Perfumery-Part-8-The-TeZhE-Era-26145.html",
+      "description": "These are the fragrances of the first Soviet perfumer that can be confirmed, with reasonable certainty, as his own creations.",
+      "category": "Vintages",
+      "author": "Viktoria Vlasova",
+      "published": 1789950781
+    },
+    {
+      "title": "PITTI FRAGRANZE 2026: Cra-yon Launches Young Air",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Cra-yon-Launches-Young-Air-26144.html",
+      "description": "Tam Dao in complication",
+      "category": "New Fragrances",
+      "author": "Eddie Bulliqi",
+      "published": 1789948469
+    },
+    {
+      "title": "Pecan Butter Cookie: What Arabiyat Sugar Made From Flour, Nuts, and Sugar",
+      "link": "https://www.fragrantica.com/news/Pecan-Butter-Cookie-What-Arabiyat-Sugar-Made-From-Flour-Nuts-and-Sugar-26143.html",
+      "description": "An American treat from an Arabic brand.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1789941903
+    },
+    {
       "title": "Obart Fragrance Primer P3 - Another Broken Promise On My Skin",
       "link": "https://www.fragrantica.com/news/Obart-Fragrance-Primer-P3-Another-Broken-Promise-On-My-Skin-26142.html",
       "description": "A moisturizing fluid is never a bad idea, but does it really amplify scent?",
@@ -775,33 +799,129 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1788876192
-    },
-    {
-      "title": "Why I Will Always Have L'Instant de Guerlain EDP in My Collection",
-      "link": "https://www.fragrantica.com/news/Why-I-Will-Always-Have-L-Instant-de-Guerlain-EDP-in-My-Collection-26045.html",
-      "description": "A beautiful classic that is highly underrated.",
-      "category": "Columns",
-      "author": "Dr Ruqayya Abba Tofa",
-      "published": 1788862863
-    },
-    {
-      "title": "L'Ame Botanique — An Herbarium of Human Memory",
-      "link": "https://www.fragrantica.com/news/L-Ame-Botanique-An-Herbarium-of-Human-Memory-26044.html",
-      "description": "A young Taiwanese brand that became a personal discovery for Julia.",
-      "category": "Fragrance Reviews",
-      "author": "Julia Lukyanenko",
-      "published": 1788836405
-    },
-    {
-      "title": "Interview With The New Owners Of Harry Lehmann",
-      "link": "https://www.fragrantica.com/news/Interview-With-The-New-Owners-Of-Harry-Lehmann-26043.html",
-      "description": "Delightul fragrant stories from Berlin.",
-      "category": "Fragrantica",
-      "author": "Iulia Halatz",
-      "published": 1788822937
     }
   ],
   "perfumes": [
+    {
+      "title": "Niccolo Pasqualetti — Blue Andara",
+      "link": "https://www.fragrantica.com/perfume/Niccolo-Pasqualetti/Blue-Andara-143017.html",
+      "description": "New perfume listing: Blue Andara by Niccolo Pasqualetti.",
+      "category": "New Perfumes",
+      "author": "Niccolo Pasqualetti",
+      "published": 1789966657
+    },
+    {
+      "title": "Niccolo Pasqualetti — White Andara",
+      "link": "https://www.fragrantica.com/perfume/Niccolo-Pasqualetti/White-Andara-143016.html",
+      "description": "New perfume listing: White Andara by Niccolo Pasqualetti.",
+      "category": "New Perfumes",
+      "author": "Niccolo Pasqualetti",
+      "published": 1789966657
+    },
+    {
+      "title": "ALMA — Freyja",
+      "link": "https://www.fragrantica.com/perfume/ALMA/Freyja-143015.html",
+      "description": "New perfume listing: Freyja by ALMA.",
+      "category": "New Perfumes",
+      "author": "ALMA",
+      "published": 1789966657
+    },
+    {
+      "title": "ALMA — Kukuri",
+      "link": "https://www.fragrantica.com/perfume/ALMA/Kukuri-143014.html",
+      "description": "New perfume listing: Kukuri by ALMA.",
+      "category": "New Perfumes",
+      "author": "ALMA",
+      "published": 1789966657
+    },
+    {
+      "title": "Niccolo Pasqualetti — Red Andara",
+      "link": "https://www.fragrantica.com/perfume/Niccolo-Pasqualetti/Red-Andara-143008.html",
+      "description": "New perfume listing: Red Andara by Niccolo Pasqualetti.",
+      "category": "New Perfumes",
+      "author": "Niccolo Pasqualetti",
+      "published": 1789966657
+    },
+    {
+      "title": "Syrok — Desert Iris",
+      "link": "https://www.fragrantica.com/perfume/Syrok/Desert-Iris-143003.html",
+      "description": "New perfume listing: Desert Iris by Syrok.",
+      "category": "New Perfumes",
+      "author": "Syrok",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — ТЭЖЭ (TEZHE or TEJE)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/TEZE-TEZHE-or-TEJE-143013.html",
+      "description": "New perfume listing: ТЭЖЭ (TEZHE or TEJE) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Любит не любит (Loves Me, Loves Me Not)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Lubit-ne-lubit-Loves-Me-Loves-Me-Not-143012.html",
+      "description": "New perfume listing: Любит не любит (Loves Me, Loves Me Not) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Среди лип (Among the Lindens)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Sredi-lip-Among-the-Lindens-143011.html",
+      "description": "New perfume listing: Среди лип (Among the Lindens) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Сада-Якко (Sada-Yakko)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Sada-Akko-Sada-Yakko-143010.html",
+      "description": "New perfume listing: Сада-Якко (Sada-Yakko) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Праздник цветов (Festival of Flowers)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Prazdnik-cvetov-Festival-of-Flowers-143009.html",
+      "description": "New perfume listing: Праздник цветов (Festival of Flowers) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Саида (Saida)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Saida-Saida-143007.html",
+      "description": "New perfume listing: Саида (Saida) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Москвичка (Moscow Woman)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Moskvicka-Moscow-Woman-143006.html",
+      "description": "New perfume listing: Москвичка (Moscow Woman) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Идеалъ (Ideal)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Ideal-Ideal-143005.html",
+      "description": "New perfume listing: Идеалъ (Ideal) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
+    {
+      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Джиоконда (Gioconda)",
+      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Dziokonda-Gioconda-143004.html",
+      "description": "New perfume listing: Джиоконда (Gioconda) by Новая Заря (Novaya Zarya – The New Dawn).",
+      "category": "New Perfumes",
+      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
+      "published": 1789966657
+    },
     {
       "title": "Syrok — Camel Cassata",
       "link": "https://www.fragrantica.com/perfume/Syrok/Camel-Cassata-143000.html",
@@ -1481,126 +1601,6 @@
       "category": "New Perfumes",
       "author": "Новая Заря (Novaya Zarya – The New Dawn)",
       "published": 1789880101
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Крымская фиалка (Crimean Violet)",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Krymskaa-fialka-Crimean-Violet-142921.html",
-      "description": "New perfume listing: Крымская фиалка (Crimean Violet) by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1789880101
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Крымская роза (Crimean Rose)",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Krymskaa-roza-Crimean-Rose-142920.html",
-      "description": "New perfume listing: Крымская роза (Crimean Rose) by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Alluring Dawn",
-      "link": "https://www.fragrantica.com/perfume/Mea/Alluring-Dawn-142835.html",
-      "description": "New perfume listing: Alluring Dawn by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Dearest Dream",
-      "link": "https://www.fragrantica.com/perfume/Mea/Dearest-Dream-142833.html",
-      "description": "New perfume listing: Dearest Dream by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Tonka oracle",
-      "link": "https://www.fragrantica.com/perfume/Mea/Tonka-oracle-142831.html",
-      "description": "New perfume listing: Tonka oracle by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Melting caramel",
-      "link": "https://www.fragrantica.com/perfume/Mea/Melting-caramel-142828.html",
-      "description": "New perfume listing: Melting caramel by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Honey moon",
-      "link": "https://www.fragrantica.com/perfume/Mea/Honey-moon-142827.html",
-      "description": "New perfume listing: Honey moon by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "Mea — Celestial iris",
-      "link": "https://www.fragrantica.com/perfume/Mea/Celestial-iris-142826.html",
-      "description": "New perfume listing: Celestial iris by Mea.",
-      "category": "New Perfumes",
-      "author": "Mea",
-      "published": 1789880101
-    },
-    {
-      "title": "TERRES DORÉES — Musc Rouge",
-      "link": "https://www.fragrantica.com/perfume/TERRES-DOREES/Musc-Rouge-142822.html",
-      "description": "New perfume listing: Musc Rouge by TERRES DORÉES.",
-      "category": "New Perfumes",
-      "author": "TERRES DORÉES",
-      "published": 1789880101
-    },
-    {
-      "title": "The Act — ХХ",
-      "link": "https://www.fragrantica.com/perfume/The-Act/HH-142821.html",
-      "description": "New perfume listing: ХХ by The Act.",
-      "category": "New Perfumes",
-      "author": "The Act",
-      "published": 1789880101
-    },
-    {
-      "title": "The Act — БАБА",
-      "link": "https://www.fragrantica.com/perfume/The-Act/BABA-142820.html",
-      "description": "New perfume listing: БАБА by The Act.",
-      "category": "New Perfumes",
-      "author": "The Act",
-      "published": 1789880101
-    },
-    {
-      "title": "The Act — COSAQUE",
-      "link": "https://www.fragrantica.com/perfume/The-Act/COSAQUE-142818.html",
-      "description": "New perfume listing: COSAQUE by The Act.",
-      "category": "New Perfumes",
-      "author": "The Act",
-      "published": 1789880101
-    },
-    {
-      "title": "Noyz — Loose Ends",
-      "link": "https://www.fragrantica.com/perfume/Noyz/Loose-Ends-142918.html",
-      "description": "New perfume listing: Loose Ends by Noyz.",
-      "category": "New Perfumes",
-      "author": "Noyz",
-      "published": 1789850506
-    },
-    {
-      "title": "Sentire — Iris Céleste",
-      "link": "https://www.fragrantica.com/perfume/Sentire/Iris-Celeste-142917.html",
-      "description": "New perfume listing: Iris Céleste by Sentire.",
-      "category": "New Perfumes",
-      "author": "Sentire",
-      "published": 1789850506
-    },
-    {
-      "title": "Sentire — Gilded Labdanum",
-      "link": "https://www.fragrantica.com/perfume/Sentire/Gilded-Labdanum-142916.html",
-      "description": "New perfume listing: Gilded Labdanum by Sentire.",
-      "category": "New Perfumes",
-      "author": "Sentire",
-      "published": 1789850506
     }
   ]
 }
