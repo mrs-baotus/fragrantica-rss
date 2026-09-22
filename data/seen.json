@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "The Second Touch of Toouch: Naughty Paper",
+      "link": "https://www.fragrantica.com/news/The-Second-Touch-of-Toouch-Naughty-Paper-26155.html",
+      "description": "Can paper be naughty?",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1790051403
+    },
+    {
+      "title": "Dolce&Gabbana By Woman Re-Edition & By Man Re-Edition 1997 Review",
+      "link": "https://www.fragrantica.com/news/Dolce-Gabbana-By-Woman-Re-Edition-By-Man-Re-Edition-1997-Review-26154.html",
+      "description": "Animal prints in the era of sterile unisex minimalism!",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1790041654
+    },
+    {
+      "title": "Amara Vita by Meo Fusciuni: Love Will Tear Us Apart",
+      "link": "https://www.fragrantica.com/news/Amara-Vita-by-Meo-Fusciuni-Love-Will-Tear-Us-Apart-26153.html",
+      "description": "Chocolate for broken hearts: Meo Fusciuni's first gourmand, presented at Pitti Fragranze, as seen by Giulietta",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1790037083
+    },
+    {
+      "title": "Sasha Meneghel's Brand Mondepars Launches Three Fragrances",
+      "link": "https://www.fragrantica.com/news/Sasha-Meneghel-s-Brand-Mondepars-Launches-Three-Fragrances-26152.html",
+      "description": "Beyond fashion, the brand now engages with candles and fine fragrances as well.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1790029803
+    },
+    {
       "title": "L'Orchestre Parfum Explores the Death Metal Genre With Heavy Bubblegum",
       "link": "https://www.fragrantica.com/news/L-Orchestre-Parfum-Explores-the-Death-Metal-Genre-With-Heavy-Bubblegum-26151.html",
       "description": "Whiffs of chewing gum against a backdrop of death metal: introducing Heavy Bubblegum, the 15th opus from L'Orchestre Parfum.",
@@ -767,41 +799,89 @@
       "category": "Fragrance Reviews",
       "author": "Edie Smith",
       "published": 1788984904
-    },
-    {
-      "title": "Cycling and Fragrance/ing",
-      "link": "https://www.fragrantica.com/news/Cycling-and-Fragrance-ing-26055.html",
-      "description": "Who said that sports and fragrances do not mix?",
-      "category": "Columns",
-      "author": "Iulia Halatz",
-      "published": 1788974163
-    },
-    {
-      "title": "Ormaie Unveils Its New Les Facettes Collection",
-      "link": "https://www.fragrantica.com/news/Ormaie-Unveils-Its-New-Les-Facettes-Collection-26054.html",
-      "description": "Spotlight on the new Les Facettes collection by Ormaie.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1788962819
-    },
-    {
-      "title": "Micodelirio Review: Gualtieri Once Again Proves He Wasn’t Born to Follow",
-      "link": "https://www.fragrantica.com/news/Micodelirio-Review-Gualtieri-Once-Again-Proves-He-Wasn-t-Born-to-Follow-26053.html",
-      "description": "It’s woody, earthy, and almost creepy…but Micodelirio is really just classic Nasomatto by the end of its wear.",
-      "category": "Fragrance Reviews",
-      "author": "Adam Forziati",
-      "published": 1788939002
-    },
-    {
-      "title": "L’Atelier Parfum Hot Splash: Starchy-Green Indian Dust Storm",
-      "link": "https://www.fragrantica.com/news/L-Atelier-Parfum-Hot-Splash-Starchy-Green-Indian-Dust-Storm-26052.html",
-      "description": "Hot flash, chypre shadow",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1788926403
     }
   ],
   "perfumes": [
+    {
+      "title": "Clean — Dark Cherry [Intense]",
+      "link": "https://www.fragrantica.com/perfume/Clean/Dark-Cherry-Intense-143131.html",
+      "description": "New perfume listing: Dark Cherry [Intense] by Clean.",
+      "category": "New Perfumes",
+      "author": "Clean",
+      "published": 1790053090
+    },
+    {
+      "title": "V Canto — Arkano del Matto",
+      "link": "https://www.fragrantica.com/perfume/V-Canto/Arkano-del-Matto-143130.html",
+      "description": "New perfume listing: Arkano del Matto by V Canto.",
+      "category": "New Perfumes",
+      "author": "V Canto",
+      "published": 1790053090
+    },
+    {
+      "title": "V Canto — Arkano della Morte",
+      "link": "https://www.fragrantica.com/perfume/V-Canto/Arkano-della-Morte-143129.html",
+      "description": "New perfume listing: Arkano della Morte by V Canto.",
+      "category": "New Perfumes",
+      "author": "V Canto",
+      "published": 1790053090
+    },
+    {
+      "title": "Memo Paris — Sky Paris Sky",
+      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Sky-Paris-Sky-143128.html",
+      "description": "New perfume listing: Sky Paris Sky by Memo Paris.",
+      "category": "New Perfumes",
+      "author": "Memo Paris",
+      "published": 1790053090
+    },
+    {
+      "title": "Tiziana Terenzi — Scorpio",
+      "link": "https://www.fragrantica.com/perfume/Tiziana-Terenzi/Scorpio-143127.html",
+      "description": "New perfume listing: Scorpio by Tiziana Terenzi.",
+      "category": "New Perfumes",
+      "author": "Tiziana Terenzi",
+      "published": 1790053090
+    },
+    {
+      "title": "Secret Man — Vert Man",
+      "link": "https://www.fragrantica.com/perfume/Secret-Man/Vert-Man-143126.html",
+      "description": "New perfume listing: Vert Man by Secret Man.",
+      "category": "New Perfumes",
+      "author": "Secret Man",
+      "published": 1790053090
+    },
+    {
+      "title": "Secret Man — Brave Man",
+      "link": "https://www.fragrantica.com/perfume/Secret-Man/Brave-Man-143125.html",
+      "description": "New perfume listing: Brave Man by Secret Man.",
+      "category": "New Perfumes",
+      "author": "Secret Man",
+      "published": 1790053090
+    },
+    {
+      "title": "Secret Man — The Secret Code",
+      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-143124.html",
+      "description": "New perfume listing: The Secret Code by Secret Man.",
+      "category": "New Perfumes",
+      "author": "Secret Man",
+      "published": 1790053090
+    },
+    {
+      "title": "Secret Man — The Secret Code II",
+      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-II-143123.html",
+      "description": "New perfume listing: The Secret Code II by Secret Man.",
+      "category": "New Perfumes",
+      "author": "Secret Man",
+      "published": 1790053090
+    },
+    {
+      "title": "Secret Man — The Secret Code III",
+      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-III-143122.html",
+      "description": "New perfume listing: The Secret Code III by Secret Man.",
+      "category": "New Perfumes",
+      "author": "Secret Man",
+      "published": 1790053090
+    },
     {
       "title": "L’Occitane Au Brésil — Caju Eau de Parfum",
       "link": "https://www.fragrantica.com/perfume/L-Occitane-Au-Bresil/Caju-Eau-de-Parfum-143121.html",
@@ -1521,86 +1601,6 @@
       "category": "New Perfumes",
       "author": "Boshara",
       "published": 1789995009
-    },
-    {
-      "title": "Boshara — Pink Shadow",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Pink-Shadow-143036.html",
-      "description": "New perfume listing: Pink Shadow by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Milano",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Milano-143035.html",
-      "description": "New perfume listing: Milano by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Knight",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Knight-143033.html",
-      "description": "New perfume listing: Knight by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Golden Shadow",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Golden-Shadow-143030.html",
-      "description": "New perfume listing: Golden Shadow by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Giovanna",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Giovanna-143029.html",
-      "description": "New perfume listing: Giovanna by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Ginova",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Ginova-143028.html",
-      "description": "New perfume listing: Ginova by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Carmelo",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Carmelo-143022.html",
-      "description": "New perfume listing: Carmelo by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Boshara — Alora",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alora-143020.html",
-      "description": "New perfume listing: Alora by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1789995009
-    },
-    {
-      "title": "Niccolo Pasqualetti — Blue Andara",
-      "link": "https://www.fragrantica.com/perfume/Niccolo-Pasqualetti/Blue-Andara-143017.html",
-      "description": "New perfume listing: Blue Andara by Niccolo Pasqualetti.",
-      "category": "New Perfumes",
-      "author": "Niccolo Pasqualetti",
-      "published": 1789966657
-    },
-    {
-      "title": "Niccolo Pasqualetti — White Andara",
-      "link": "https://www.fragrantica.com/perfume/Niccolo-Pasqualetti/White-Andara-143016.html",
-      "description": "New perfume listing: White Andara by Niccolo Pasqualetti.",
-      "category": "New Perfumes",
-      "author": "Niccolo Pasqualetti",
-      "published": 1789966657
     }
   ]
 }
