@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "L'Heure Bleue: 1912 vs. 2026",
+      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-1912-vs-2026-26164.html",
+      "description": "Digging up the past in light of an iconic bottle’s uncertain future that certainly deserves better...",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1790137642
+    },
+    {
+      "title": "Christian Provenzano Extrait de Parfums: Oriental Scale and European Precision",
+      "link": "https://www.fragrantica.com/news/Christian-Provenzano-Extrait-de-Parfums-Oriental-Scale-and-European-Precision-26163.html",
+      "description": "These fragrances are created for those for whom merely smelling nice is not enough—they need an olfactory signature for the entire day. Christian Provenzano Parfums is heavy artillery, where impressive density conceals the meticulous work of a...",
+      "category": "Fragrance Reviews",
+      "author": "Matvey Yudov",
+      "published": 1790121338
+    },
+    {
+      "title": "More Incredibly Textural Perfumes",
+      "link": "https://www.fragrantica.com/news/More-Incredibly-Textural-Perfumes-26162.html",
+      "description": "Two engaging fragrances, rich in texture.",
+      "category": "Columns",
+      "author": "Adam Forziati",
+      "published": 1790116203
+    },
+    {
       "title": "Why so many re-releases?",
       "link": "https://www.fragrantica.com/news/Why-so-many-re-releases-26161.html",
       "description": "A thought about sudden nostalgia.",
@@ -775,33 +799,25 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1789081203
-    },
-    {
-      "title": "Antonio Cristaudo at Pitti Fragranze: “We don't need another perfume, we need an idea”",
-      "link": "https://www.fragrantica.com/news/Antonio-Cristaudo-at-Pitti-Fragranze-We-don-t-need-another-perfume-we-need-an-idea-26064.html",
-      "description": "The interview with the Pitti Immagine's Commercial Director on the evolution of the Italian market, the selection of brands, and the philosophy behind the event.",
-      "category": "Interviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1789071303
-    },
-    {
-      "title": "Schwarzlose Berlin Announce BACHANAL",
-      "link": "https://www.fragrantica.com/news/Schwarzlose-Berlin-Announce-BACHANAL-26063.html",
-      "description": "Creamy-fresh pistachio",
-      "category": "Niche Perfumery",
-      "author": "Nicola Thomis",
-      "published": 1789066803
-    },
-    {
-      "title": "YSL Muse - Inspiring Ink: Elegant but Still Quirky",
-      "link": "https://www.fragrantica.com/news/YSL-Muse-Inspiring-Ink-Elegant-but-Still-Quirky-26062.html",
-      "description": "One of the most interesting fragrances of last year passed under the radar for most of us.",
-      "category": "Fragrance Reviews",
-      "author": "Miguel Matos",
-      "published": 1789054321
     }
   ],
   "perfumes": [
+    {
+      "title": "Shirin Beauty — Milky Mango Matcha Latte Kiss",
+      "link": "https://www.fragrantica.com/perfume/Shirin-Beauty/Milky-Mango-Matcha-Latte-Kiss-143177.html",
+      "description": "New perfume listing: Milky Mango Matcha Latte Kiss by Shirin Beauty.",
+      "category": "New Perfumes",
+      "author": "Shirin Beauty",
+      "published": 1790138780
+    },
+    {
+      "title": "Bruno Banani — Blossom Diaries",
+      "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Blossom-Diaries-143176.html",
+      "description": "New perfume listing: Blossom Diaries by Bruno Banani.",
+      "category": "New Perfumes",
+      "author": "Bruno Banani",
+      "published": 1790138780
+    },
     {
       "title": "Bruno Banani — Oud Seduce",
       "link": "https://www.fragrantica.com/perfume/Bruno-Banani/Oud-Seduce-143175.html",
@@ -1582,22 +1598,6 @@
       "title": "OBART — Le Smoking",
       "link": "https://www.fragrantica.com/perfume/OBART/Le-Smoking-143103.html",
       "description": "New perfume listing: Le Smoking by OBART.",
-      "category": "New Perfumes",
-      "author": "OBART",
-      "published": 1790027948
-    },
-    {
-      "title": "OBART — Le Cleaning",
-      "link": "https://www.fragrantica.com/perfume/OBART/Le-Cleaning-143102.html",
-      "description": "New perfume listing: Le Cleaning by OBART.",
-      "category": "New Perfumes",
-      "author": "OBART",
-      "published": 1790027948
-    },
-    {
-      "title": "OBART — Caramel Couture",
-      "link": "https://www.fragrantica.com/perfume/OBART/Caramel-Couture-143101.html",
-      "description": "New perfume listing: Caramel Couture by OBART.",
       "category": "New Perfumes",
       "author": "OBART",
       "published": 1790027948
