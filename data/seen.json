@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Pitti Finds: Mountain Within, The Best Kuoca Scent",
+      "link": "https://www.fragrantica.com/news/Pitti-Finds-Mountain-Within-The-Best-Kuoca-Scent-26171.html",
+      "description": "Could be a best-seller",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1790199004
+    },
+    {
+      "title": "Lorenzo Villoresi's New Vol D'Abaris USA GIVEAWAY",
+      "link": "https://www.fragrantica.com/news/Lorenzo-Villoresi-s-New-Vol-D-Abaris-USA-GIVEAWAY-26170.html",
+      "description": "We have 5 samples and a 50ml perfume bottle for you!",
+      "category": "Fragrantica",
+      "author": "Elena Knezevic",
+      "published": 1790196168
+    },
+    {
+      "title": "PITTI FRAGRANZE 2026: Akro Launches Heat, A Chili-Inspired Fragrance",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Akro-Launches-Heat-A-Chili-Inspired-Fragrance-26169.html",
+      "description": "Nice idea, disappointing aesthetic.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1790188203
+    },
+    {
       "title": "Clean Reserve Launch Dark Cherry Intense",
       "link": "https://www.fragrantica.com/news/Clean-Reserve-Launch-Dark-Cherry-Intense-26168.html",
       "description": "The scent invites customers to imagine Whipped Cherry after dark",
@@ -775,33 +799,57 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1789175163
-    },
-    {
-      "title": "PITTI Fragranze - First Impressions",
-      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-First-Impressions-26071.html",
-      "description": "Some thoughts on themes from the first day of the show",
-      "category": "Art Books Events",
-      "author": "Nicola Thomis",
-      "published": 1789164783
-    },
-    {
-      "title": "A Busy Fall Season for Maison Crivelli",
-      "link": "https://www.fragrantica.com/news/A-Busy-Fall-Season-for-Maison-Crivelli-26070.html",
-      "description": "September promises to be a busy month for the brand: the launch of a new release and the opening of its first global boutique.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1789154344
-    },
-    {
-      "title": "Pitti Fragranze 2026 Highlights",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Highlights-26069.html",
-      "description": "First news from Pitti Fragranze.",
-      "category": "Art Books Events",
-      "author": "Elena Knezevic",
-      "published": 1789139767
     }
   ],
   "perfumes": [
+    {
+      "title": "Lost Tribe — Dark Shadows",
+      "link": "https://www.fragrantica.com/perfume/Lost-Tribe/Dark-Shadows-143198.html",
+      "description": "New perfume listing: Dark Shadows by Lost Tribe.",
+      "category": "New Perfumes",
+      "author": "Lost Tribe",
+      "published": 1790199052
+    },
+    {
+      "title": "La Maison de Janus — Whisper",
+      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Whisper-143197.html",
+      "description": "New perfume listing: Whisper by La Maison de Janus.",
+      "category": "New Perfumes",
+      "author": "La Maison de Janus",
+      "published": 1790199052
+    },
+    {
+      "title": "La Maison de Janus — Muse",
+      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Muse-143196.html",
+      "description": "New perfume listing: Muse by La Maison de Janus.",
+      "category": "New Perfumes",
+      "author": "La Maison de Janus",
+      "published": 1790199052
+    },
+    {
+      "title": "La Maison de Janus — Path",
+      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Path-143195.html",
+      "description": "New perfume listing: Path by La Maison de Janus.",
+      "category": "New Perfumes",
+      "author": "La Maison de Janus",
+      "published": 1790199052
+    },
+    {
+      "title": "La Maison de Janus — Pure",
+      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Pure-143194.html",
+      "description": "New perfume listing: Pure by La Maison de Janus.",
+      "category": "New Perfumes",
+      "author": "La Maison de Janus",
+      "published": 1790199052
+    },
+    {
+      "title": "La Maison de Janus — Origin",
+      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Origin-143193.html",
+      "description": "New perfume listing: Origin by La Maison de Janus.",
+      "category": "New Perfumes",
+      "author": "La Maison de Janus",
+      "published": 1790199052
+    },
     {
       "title": "GLOB — Vedracera",
       "link": "https://www.fragrantica.com/perfume/GLOB/Vedracera-143192.html",
@@ -1553,54 +1601,6 @@
       "category": "New Perfumes",
       "author": "Secret Man",
       "published": 1790053090
-    },
-    {
-      "title": "Secret Man — The Secret Code",
-      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-143124.html",
-      "description": "New perfume listing: The Secret Code by Secret Man.",
-      "category": "New Perfumes",
-      "author": "Secret Man",
-      "published": 1790053090
-    },
-    {
-      "title": "Secret Man — The Secret Code II",
-      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-II-143123.html",
-      "description": "New perfume listing: The Secret Code II by Secret Man.",
-      "category": "New Perfumes",
-      "author": "Secret Man",
-      "published": 1790053090
-    },
-    {
-      "title": "Secret Man — The Secret Code III",
-      "link": "https://www.fragrantica.com/perfume/Secret-Man/The-Secret-Code-III-143122.html",
-      "description": "New perfume listing: The Secret Code III by Secret Man.",
-      "category": "New Perfumes",
-      "author": "Secret Man",
-      "published": 1790053090
-    },
-    {
-      "title": "L’Occitane Au Brésil — Caju Eau de Parfum",
-      "link": "https://www.fragrantica.com/perfume/L-Occitane-Au-Bresil/Caju-Eau-de-Parfum-143121.html",
-      "description": "New perfume listing: Caju Eau de Parfum by L’Occitane Au Brésil.",
-      "category": "New Perfumes",
-      "author": "L’Occitane Au Brésil",
-      "published": 1790027948
-    },
-    {
-      "title": "Ohana Kameala — Romantic Alpha",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Romantic-Alpha-143120.html",
-      "description": "New perfume listing: Romantic Alpha by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1790027948
-    },
-    {
-      "title": "Perfumistta — Flor de Framboesa",
-      "link": "https://www.fragrantica.com/perfume/Perfumistta/Flor-de-Framboesa-143119.html",
-      "description": "New perfume listing: Flor de Framboesa by Perfumistta.",
-      "category": "New Perfumes",
-      "author": "Perfumistta",
-      "published": 1790027948
     }
   ]
 }
