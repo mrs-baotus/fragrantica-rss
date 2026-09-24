@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Stardust, The New Perfume by Afnan",
+      "link": "https://www.fragrantica.com/news/Stardust-The-New-Perfume-by-Afnan-26176.html",
+      "description": "Made to shine. Designed to last.",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1790265904
+    },
+    {
+      "title": "Karmic Hues Crimson Goddess & Steel Scarlet",
+      "link": "https://www.fragrantica.com/news/Karmic-Hues-Crimson-Goddess-Steel-Scarlet-26175.html",
+      "description": "Dense paintings of highly natural compositions with bold strokes.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1790254683
+    },
+    {
       "title": "Agar Fougère Elixir Attar: A Classic With A Twist",
       "link": "https://www.fragrantica.com/news/Agar-Fougere-Elixir-Attar-A-Classic-With-A-Twist-26174.html",
       "description": "A classic fougere fragrance with an oriental twist",
@@ -783,25 +799,113 @@
       "category": "Art Books Events",
       "author": "Elena Knezevic,Viktoria Vlasova",
       "published": 1789214201
-    },
-    {
-      "title": "Olfattology OT•Fougère",
-      "link": "https://www.fragrantica.com/news/Olfattology-OT-Fougere-26076.html",
-      "description": "New launch in Florence!",
-      "category": "Niche Perfumes",
-      "author": "Sandra Raičević Petrović",
-      "published": 1789207563
-    },
-    {
-      "title": "BOIS 1920 Musk1920",
-      "link": "https://www.fragrantica.com/news/BOIS-1920-Musk1920-26075.html",
-      "description": "An ode to musk and the second skin scent.",
-      "category": "Niche Perfumes",
-      "author": "Sandra Raičević Petrović",
-      "published": 1789203963
     }
   ],
   "perfumes": [
+    {
+      "title": "Yodeyma — Tayda",
+      "link": "https://www.fragrantica.com/perfume/Yodeyma/Tayda-143232.html",
+      "description": "New perfume listing: Tayda by Yodeyma.",
+      "category": "New Perfumes",
+      "author": "Yodeyma",
+      "published": 1790269952
+    },
+    {
+      "title": "Yodeyma — Vália",
+      "link": "https://www.fragrantica.com/perfume/Yodeyma/Valia-143231.html",
+      "description": "New perfume listing: Vália by Yodeyma.",
+      "category": "New Perfumes",
+      "author": "Yodeyma",
+      "published": 1790269952
+    },
+    {
+      "title": "Alviero Martini — Timeless",
+      "link": "https://www.fragrantica.com/perfume/Alviero-Martini/Timeless-143234.html",
+      "description": "New perfume listing: Timeless by Alviero Martini.",
+      "category": "New Perfumes",
+      "author": "Alviero Martini",
+      "published": 1790269952
+    },
+    {
+      "title": "Quello Sbagliato — Vespro",
+      "link": "https://www.fragrantica.com/perfume/Quello-Sbagliato/Vespro-143233.html",
+      "description": "New perfume listing: Vespro by Quello Sbagliato.",
+      "category": "New Perfumes",
+      "author": "Quello Sbagliato",
+      "published": 1790269952
+    },
+    {
+      "title": "Katana Parfums — Jardin Kitayama",
+      "link": "https://www.fragrantica.com/perfume/Katana-Parfums/Jardin-Kitayama-143230.html",
+      "description": "New perfume listing: Jardin Kitayama by Katana Parfums.",
+      "category": "New Perfumes",
+      "author": "Katana Parfums",
+      "published": 1790269952
+    },
+    {
+      "title": "Katana Parfums — Symphonie de Vanille",
+      "link": "https://www.fragrantica.com/perfume/Katana-Parfums/Symphonie-de-Vanille-143229.html",
+      "description": "New perfume listing: Symphonie de Vanille by Katana Parfums.",
+      "category": "New Perfumes",
+      "author": "Katana Parfums",
+      "published": 1790269952
+    },
+    {
+      "title": "Katana Parfums — Tabac Mystique",
+      "link": "https://www.fragrantica.com/perfume/Katana-Parfums/Tabac-Mystique-143228.html",
+      "description": "New perfume listing: Tabac Mystique by Katana Parfums.",
+      "category": "New Perfumes",
+      "author": "Katana Parfums",
+      "published": 1790269952
+    },
+    {
+      "title": "Katana Parfums — Oud Chaotique",
+      "link": "https://www.fragrantica.com/perfume/Katana-Parfums/Oud-Chaotique-143227.html",
+      "description": "New perfume listing: Oud Chaotique by Katana Parfums.",
+      "category": "New Perfumes",
+      "author": "Katana Parfums",
+      "published": 1790269952
+    },
+    {
+      "title": "Prada — Infusion de Cèdre",
+      "link": "https://www.fragrantica.com/perfume/Prada/Infusion-de-Cedre-143226.html",
+      "description": "New perfume listing: Infusion de Cèdre by Prada.",
+      "category": "New Perfumes",
+      "author": "Prada",
+      "published": 1790269952
+    },
+    {
+      "title": "MORANO — Nashrawan Green",
+      "link": "https://www.fragrantica.com/perfume/MORANO/Nashrawan-Green-143153.html",
+      "description": "New perfume listing: Nashrawan Green by MORANO.",
+      "category": "New Perfumes",
+      "author": "MORANO",
+      "published": 1790269952
+    },
+    {
+      "title": "MORANO — Allaithe Blue",
+      "link": "https://www.fragrantica.com/perfume/MORANO/Allaithe-Blue-143152.html",
+      "description": "New perfume listing: Allaithe Blue by MORANO.",
+      "category": "New Perfumes",
+      "author": "MORANO",
+      "published": 1790269952
+    },
+    {
+      "title": "MORANO — ALLAITHE Green",
+      "link": "https://www.fragrantica.com/perfume/MORANO/ALLAITHE-Green-143151.html",
+      "description": "New perfume listing: ALLAITHE Green by MORANO.",
+      "category": "New Perfumes",
+      "author": "MORANO",
+      "published": 1790269952
+    },
+    {
+      "title": "Bujairami — Artistic Lady",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Artistic-Lady-143133.html",
+      "description": "New perfume listing: Artistic Lady by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1790269952
+    },
     {
       "title": "Santimento — The Tear",
       "link": "https://www.fragrantica.com/perfume/Santimento/The-Tear-143225.html",
@@ -1497,110 +1601,6 @@
       "category": "New Perfumes",
       "author": "Zimaya",
       "published": 1790096284
-    },
-    {
-      "title": "Boshara — Secrets",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Secrets-143051.html",
-      "description": "New perfume listing: Secrets by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790096284
-    },
-    {
-      "title": "Boshara — Oud Desire",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Oud-Desire-143049.html",
-      "description": "New perfume listing: Oud Desire by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790096284
-    },
-    {
-      "title": "Boshara — Veronica",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Veronica-143041.html",
-      "description": "New perfume listing: Veronica by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790096284
-    },
-    {
-      "title": "Boshara — Ronda",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Ronda-143038.html",
-      "description": "New perfume listing: Ronda by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790096284
-    },
-    {
-      "title": "Esas Beauty — Gravity",
-      "link": "https://www.fragrantica.com/perfume/Esas-Beauty/Gravity-143161.html",
-      "description": "New perfume listing: Gravity by Esas Beauty.",
-      "category": "New Perfumes",
-      "author": "Esas Beauty",
-      "published": 1790077213
-    },
-    {
-      "title": "Vacanza — Portofino",
-      "link": "https://www.fragrantica.com/perfume/Vacanza/Portofino-143160.html",
-      "description": "New perfume listing: Portofino by Vacanza.",
-      "category": "New Perfumes",
-      "author": "Vacanza",
-      "published": 1790077213
-    },
-    {
-      "title": "Lovery — Pure Pink Poppy and Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Lovery/Pure-Pink-Poppy-and-Vanilla-143159.html",
-      "description": "New perfume listing: Pure Pink Poppy and Vanilla by Lovery.",
-      "category": "New Perfumes",
-      "author": "Lovery",
-      "published": 1790077213
-    },
-    {
-      "title": "Nette — Mr. Cloud",
-      "link": "https://www.fragrantica.com/perfume/Nette/Mr-Cloud-143158.html",
-      "description": "New perfume listing: Mr. Cloud by Nette.",
-      "category": "New Perfumes",
-      "author": "Nette",
-      "published": 1790077213
-    },
-    {
-      "title": "Régime des Fleurs — Dark Subtle Teas",
-      "link": "https://www.fragrantica.com/perfume/Regime-des-Fleurs/Dark-Subtle-Teas-143157.html",
-      "description": "New perfume listing: Dark Subtle Teas by Régime des Fleurs.",
-      "category": "New Perfumes",
-      "author": "Régime des Fleurs",
-      "published": 1790077213
-    },
-    {
-      "title": "ZANNIS — AEON",
-      "link": "https://www.fragrantica.com/perfume/ZANNIS/AEON-143156.html",
-      "description": "New perfume listing: AEON by ZANNIS.",
-      "category": "New Perfumes",
-      "author": "ZANNIS",
-      "published": 1790077213
-    },
-    {
-      "title": "ZANNIS — AXIOS",
-      "link": "https://www.fragrantica.com/perfume/ZANNIS/AXIOS-143155.html",
-      "description": "New perfume listing: AXIOS by ZANNIS.",
-      "category": "New Perfumes",
-      "author": "ZANNIS",
-      "published": 1790077213
-    },
-    {
-      "title": "MORANO — Nashrawan Blue",
-      "link": "https://www.fragrantica.com/perfume/MORANO/Nashrawan-Blue-143154.html",
-      "description": "New perfume listing: Nashrawan Blue by MORANO.",
-      "category": "New Perfumes",
-      "author": "MORANO",
-      "published": 1790077213
-    },
-    {
-      "title": "Cottee — 007 Singapore",
-      "link": "https://www.fragrantica.com/perfume/Cottee/007-Singapore-143150.html",
-      "description": "New perfume listing: 007 Singapore by Cottee.",
-      "category": "New Perfumes",
-      "author": "Cottee",
-      "published": 1790077213
     }
   ]
 }
