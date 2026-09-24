@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "The Perfumes We Want to Wear This Autumn: Part 2",
+      "link": "https://www.fragrantica.com/news/The-Perfumes-We-Want-to-Wear-This-Autumn-Part-2-26173.html",
+      "description": "In our ongoing series, four more of Fragrantica's writers tell us about the perfumes that they will be wearing this autumn.",
+      "category": "Best in Show",
+      "author": "Sena Toprak,Adam Forziati,Julia Lukyanenko,John Biebel",
+      "published": 1790222283
+    },
+    {
+      "title": "Recent Middle Eastern Releases - My Thoughts, Part 5",
+      "link": "https://www.fragrantica.com/news/Recent-Middle-Eastern-Releases-My-Thoughts-Part-5-26172.html",
+      "description": "After sampling yet another batch of recent launches, I’m back with the fifth installment of my ongoing exploration.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1790211303
+    },
+    {
       "title": "Pitti Finds: Mountain Within, The Best Kuoca Scent",
       "link": "https://www.fragrantica.com/news/Pitti-Finds-Mountain-Within-The-Best-Kuoca-Scent-26171.html",
       "description": "Could be a best-seller",
@@ -783,25 +799,17 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1789199223
-    },
-    {
-      "title": "PITTI FRAGRANZE: Highlights of the First Day",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-Highlights-of-the-First-Day-26073.html",
-      "description": "Iulia shares her first impressions of Pitti Fragranze.",
-      "category": "Art Books Events",
-      "author": "Iulia Halatz",
-      "published": 1789187883
-    },
-    {
-      "title": "Country Editions by Gissah: Black and White",
-      "link": "https://www.fragrantica.com/news/Country-Editions-by-Gissah-Black-and-White-26072.html",
-      "description": "Emarati Imperial and Omani Imperial",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1789175163
     }
   ],
   "perfumes": [
+    {
+      "title": "Reef Perfumes — Pearl Musk",
+      "link": "https://www.fragrantica.com/perfume/Reef-Perfumes/Pearl-Musk-143199.html",
+      "description": "New perfume listing: Pearl Musk by Reef Perfumes.",
+      "category": "New Perfumes",
+      "author": "Reef Perfumes",
+      "published": 1790225570
+    },
     {
       "title": "Lost Tribe — Dark Shadows",
       "link": "https://www.fragrantica.com/perfume/Lost-Tribe/Dark-Shadows-143198.html",
@@ -1590,14 +1598,6 @@
       "title": "Secret Man — Vert Man",
       "link": "https://www.fragrantica.com/perfume/Secret-Man/Vert-Man-143126.html",
       "description": "New perfume listing: Vert Man by Secret Man.",
-      "category": "New Perfumes",
-      "author": "Secret Man",
-      "published": 1790053090
-    },
-    {
-      "title": "Secret Man — Brave Man",
-      "link": "https://www.fragrantica.com/perfume/Secret-Man/Brave-Man-143125.html",
-      "description": "New perfume listing: Brave Man by Secret Man.",
       "category": "New Perfumes",
       "author": "Secret Man",
       "published": 1790053090
