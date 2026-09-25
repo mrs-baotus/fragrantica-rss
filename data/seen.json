@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Pitti Fragranze 2026, Narcissistic Iris by La Serra",
+      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Narcissistic-Iris-by-La-Serra-26187.html",
+      "description": "The temple of the self, imagined by perfumer Frank Voelkl and recounted through the smoke of resins, iris, and narcissus.",
+      "category": "Niche Fragrances",
+      "author": "Giulietta Ptoyan",
+      "published": 1790371301
+    },
+    {
+      "title": "Joseph Quartana: I'm Grateful To Have The Creative Freedom",
+      "link": "https://www.fragrantica.com/news/Joseph-Quartana-I-m-Grateful-To-Have-The-Creative-Freedom-26186.html",
+      "description": "Interview with Parfums Quartana owner after 10 years of development.",
+      "category": "Interviews",
+      "author": "Sergey Borisov",
+      "published": 1790363524
+    },
+    {
       "title": "Pitti Fragranze 2026: Vol d’Abaris, A Remarkable Niche Vanilla Perfume",
       "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Vol-d-Abaris-A-Remarkable-Niche-Vanilla-Perfume-26185.html",
       "description": "Tangy, tannic, jammy, and powdery",
@@ -783,25 +799,17 @@
       "category": "Art Books Events",
       "author": "Nicola Thomis",
       "published": 1789331883
-    },
-    {
-      "title": "The Silence of Transparent Fragrances",
-      "link": "https://www.fragrantica.com/news/The-Silence-of-Transparent-Fragrances-26087.html",
-      "description": "Iso E Super, Cashmeran, Ambroxan, Aldehydes and the poetry of \"non-scents\".",
-      "category": "Columns",
-      "author": "Jernê Knowles",
-      "published": 1789324863
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Michele Marin Launches E13",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Michele-Marin-Launches-E13-26086.html",
-      "description": "“Incense in ecstasy.”",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1789314303
     }
   ],
   "perfumes": [
+    {
+      "title": "Inspires — Sicilian Noir",
+      "link": "https://www.fragrantica.com/perfume/Inspires/Sicilian-Noir-143299.html",
+      "description": "New perfume listing: Sicilian Noir by Inspires.",
+      "category": "New Perfumes",
+      "author": "Inspires",
+      "published": 1790372147
+    },
     {
       "title": "Phenom — Crème d’Aquilaria",
       "link": "https://www.fragrantica.com/perfume/Phenom/Creme-d-Aquilaria-143298.html",
@@ -1590,14 +1598,6 @@
       "title": "La Maison de Janus — Path / Presence",
       "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Path-Presence-143195.html",
       "description": "New perfume listing: Path / Presence by La Maison de Janus.",
-      "category": "New Perfumes",
-      "author": "La Maison de Janus",
-      "published": 1790250483
-    },
-    {
-      "title": "La Maison de Janus — Pure / Flow",
-      "link": "https://www.fragrantica.com/perfume/La-Maison-de-Janus/Pure-Flow-143194.html",
-      "description": "New perfume listing: Pure / Flow by La Maison de Janus.",
       "category": "New Perfumes",
       "author": "La Maison de Janus",
       "published": 1790250483
