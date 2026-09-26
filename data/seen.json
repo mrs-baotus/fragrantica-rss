@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Introducing Belnu and Its Two New Fragrances",
+      "link": "https://www.fragrantica.com/news/Introducing-Belnu-and-Its-Two-New-Fragrances-26189.html",
+      "description": "Fine fragrances crafted around core essential oils, chosen for their mood-enhancing qualities.",
+      "category": "Niche Perfumery",
+      "author": "Bella van der Weerd",
+      "published": 1790399584
+    },
+    {
       "title": "Brazil Has a Scent: Meet Brasco",
       "link": "https://www.fragrantica.com/news/Brazil-Has-a-Scent-Meet-Brasco-26188.html",
       "description": "A new Brazilian house seeks its identity not in the country as seen from the outside, but in the one lived every day.",
@@ -791,14 +799,6 @@
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1789353483
-    },
-    {
-      "title": "The Lutfah Line of the Arabiyat Prestige Collection",
-      "link": "https://www.fragrantica.com/news/The-Lutfah-Line-of-the-Arabiyat-Prestige-Collection-26089.html",
-      "description": "Any bestseller must and will be copied.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1789342743
     }
   ],
   "perfumes": [
