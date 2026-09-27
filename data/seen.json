@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "J-Scent Profound Sacred Animal: A Profoundly Animal Floral-Cereal Scent",
+      "link": "https://www.fragrantica.com/news/J-Scent-Profound-Sacred-Animal-A-Profoundly-Animal-Floral-Cereal-Scent-26200.html",
+      "description": "I can’t get enough of this perfume.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1790538483
+    },
+    {
+      "title": "Cannes 2026: Liquides Imaginaires Morning Star",
+      "link": "https://www.fragrantica.com/news/Cannes-2026-Liquides-Imaginaires-Morning-Star-26199.html",
+      "description": "Liquides Imaginaires presented its latest fragrance, Morning Star, which promises to be the new star of the collection.",
+      "category": "Niche Perfumery",
+      "author": "Sanja Pekić",
+      "published": 1790528403
+    },
+    {
       "title": "Cannes 2026: Sarah Baker Year XOXO",
       "link": "https://www.fragrantica.com/news/Cannes-2026-Sarah-Baker-Year-XOXO-26198.html",
       "description": "Sarah Baker just presented Year XOXO, the third and final fragrance in the brand’s Vanilla Trilogy created with perfumer Margaux Le Paih-Guérin.",
@@ -783,25 +799,193 @@
       "category": "New Fragrances",
       "author": "Eddie Bulliqi",
       "published": 1789491708
-    },
-    {
-      "title": "Ormonde Jayne VANILLA AUBE North America/UK/EU Giveaway",
-      "link": "https://www.fragrantica.com/news/Ormonde-Jayne-VANILLA-AUBE-North-America-UK-EU-Giveaway-26100.html",
-      "description": "Three bottles up for grabs!",
-      "category": "Art Books Events",
-      "author": "Beth Butterfield",
-      "published": 1789475905
-    },
-    {
-      "title": "La’dor Santorini: A New Fragrance From Laverne + GCC Giveaway",
-      "link": "https://www.fragrantica.com/news/La-dor-Santorini-A-New-Fragrance-From-Laverne-GCC-Giveaway-26099.html",
-      "description": "A new tropical cocktail from Laverne",
-      "category": "New Fragrances",
-      "author": "Rouu Abd El-Latif",
-      "published": 1789452004
     }
   ],
   "perfumes": [
+    {
+      "title": "We Pink — Macchiato",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Macchiato-143423.html",
+      "description": "New perfume listing: Macchiato by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Framboesa Musk",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Framboesa-Musk-143420.html",
+      "description": "New perfume listing: Framboesa Musk by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Capuccino Mocha",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Capuccino-Mocha-143419.html",
+      "description": "New perfume listing: Capuccino Mocha by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Maracujá Muguet",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Maracuja-Muguet-143418.html",
+      "description": "New perfume listing: Maracujá Muguet by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Vanilla Oud",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Vanilla-Oud-143417.html",
+      "description": "New perfume listing: Vanilla Oud by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Lotus Garden",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Lotus-Garden-143416.html",
+      "description": "New perfume listing: Lotus Garden by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Summer Pear",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Summer-Pear-143415.html",
+      "description": "New perfume listing: Summer Pear by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "L’envie Parfums — Vanilla Bloom",
+      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Vanilla-Bloom-143414.html",
+      "description": "New perfume listing: Vanilla Bloom by L’envie Parfums.",
+      "category": "New Perfumes",
+      "author": "L’envie Parfums",
+      "published": 1790544097
+    },
+    {
+      "title": "Al Wataniah — Sabah Al Ward Delilah",
+      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Sabah-Al-Ward-Delilah-143413.html",
+      "description": "New perfume listing: Sabah Al Ward Delilah by Al Wataniah.",
+      "category": "New Perfumes",
+      "author": "Al Wataniah",
+      "published": 1790544097
+    },
+    {
+      "title": "OGLIARI — Paradiso Nero",
+      "link": "https://www.fragrantica.com/perfume/OGLIARI/Paradiso-Nero-143412.html",
+      "description": "New perfume listing: Paradiso Nero by OGLIARI.",
+      "category": "New Perfumes",
+      "author": "OGLIARI",
+      "published": 1790544097
+    },
+    {
+      "title": "BYNOMADS — Fragmento",
+      "link": "https://www.fragrantica.com/perfume/BYNOMADS/Fragmento-143411.html",
+      "description": "New perfume listing: Fragmento by BYNOMADS.",
+      "category": "New Perfumes",
+      "author": "BYNOMADS",
+      "published": 1790544097
+    },
+    {
+      "title": "OGLIARI — Plastic Soul",
+      "link": "https://www.fragrantica.com/perfume/OGLIARI/Plastic-Soul-143410.html",
+      "description": "New perfume listing: Plastic Soul by OGLIARI.",
+      "category": "New Perfumes",
+      "author": "OGLIARI",
+      "published": 1790544097
+    },
+    {
+      "title": "Fueguia 1833 — Águas de Marzo",
+      "link": "https://www.fragrantica.com/perfume/Fueguia-1833/Aguas-de-Marzo-143408.html",
+      "description": "New perfume listing: Águas de Marzo by Fueguia 1833.",
+      "category": "New Perfumes",
+      "author": "Fueguia 1833",
+      "published": 1790544097
+    },
+    {
+      "title": "Ricca — Flor Rosa Branca",
+      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Rosa-Branca-143407.html",
+      "description": "New perfume listing: Flor Rosa Branca by Ricca.",
+      "category": "New Perfumes",
+      "author": "Ricca",
+      "published": 1790544097
+    },
+    {
+      "title": "Ricca — Flor Peônia",
+      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Peonia-143406.html",
+      "description": "New perfume listing: Flor Peônia by Ricca.",
+      "category": "New Perfumes",
+      "author": "Ricca",
+      "published": 1790544097
+    },
+    {
+      "title": "Ricca — Flor Gardênia",
+      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Gardenia-143405.html",
+      "description": "New perfume listing: Flor Gardênia by Ricca.",
+      "category": "New Perfumes",
+      "author": "Ricca",
+      "published": 1790544097
+    },
+    {
+      "title": "Al Wataniah — Al Andalus Granada",
+      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Al-Andalus-Granada-143422.html",
+      "description": "New perfume listing: Al Andalus Granada by Al Wataniah.",
+      "category": "New Perfumes",
+      "author": "Al Wataniah",
+      "published": 1790544097
+    },
+    {
+      "title": "Paris Elysees — Bois d'Elysées",
+      "link": "https://www.fragrantica.com/perfume/Paris-Elysees/Bois-d-Elysees-143421.html",
+      "description": "New perfume listing: Bois d'Elysées by Paris Elysees.",
+      "category": "New Perfumes",
+      "author": "Paris Elysees",
+      "published": 1790544097
+    },
+    {
+      "title": "La Rive — Colossus",
+      "link": "https://www.fragrantica.com/perfume/La-Rive/Colossus-143409.html",
+      "description": "New perfume listing: Colossus by La Rive.",
+      "category": "New Perfumes",
+      "author": "La Rive",
+      "published": 1790544097
+    },
+    {
+      "title": "Ohana Kameala — Romantic Duo",
+      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Romantic-Duo-143327.html",
+      "description": "New perfume listing: Romantic Duo by Ohana Kameala.",
+      "category": "New Perfumes",
+      "author": "Ohana Kameala",
+      "published": 1790544097
+    },
+    {
+      "title": "Alkemia Perfumes — Pumpkin Alchemy",
+      "link": "https://www.fragrantica.com/perfume/Alkemia-Perfumes/Pumpkin-Alchemy-143326.html",
+      "description": "New perfume listing: Pumpkin Alchemy by Alkemia Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alkemia Perfumes",
+      "published": 1790544097
+    },
+    {
+      "title": "Alkemia Perfumes — Carmilla",
+      "link": "https://www.fragrantica.com/perfume/Alkemia-Perfumes/Carmilla-143325.html",
+      "description": "New perfume listing: Carmilla by Alkemia Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alkemia Perfumes",
+      "published": 1790544097
+    },
+    {
+      "title": "AZZA Parfums — Shout Absolu",
+      "link": "https://www.fragrantica.com/perfume/AZZA-Parfums/Shout-Absolu-143308.html",
+      "description": "New perfume listing: Shout Absolu by AZZA Parfums.",
+      "category": "New Perfumes",
+      "author": "AZZA Parfums",
+      "published": 1790544097
+    },
     {
       "title": "Ricca — Go! Ricca Sunny",
       "link": "https://www.fragrantica.com/perfume/Ricca/Go-Ricca-Sunny-143404.html",
@@ -1417,190 +1601,6 @@
       "category": "New Perfumes",
       "author": "Zhiwuzhi 挚物志",
       "published": 1790457087
-    },
-    {
-      "title": "Zhiwuzhi 挚物志 — Kunlun Realm 昆仑墟",
-      "link": "https://www.fragrantica.com/perfume/Zhiwuzhi-zhi-wu-zhi/Kunlun-Realm-kun-lun-xu-143245.html",
-      "description": "New perfume listing: Kunlun Realm 昆仑墟 by Zhiwuzhi 挚物志.",
-      "category": "New Perfumes",
-      "author": "Zhiwuzhi 挚物志",
-      "published": 1790457087
-    },
-    {
-      "title": "Zhiwuzhi 挚物志 — Abode of Brahma 梵天境",
-      "link": "https://www.fragrantica.com/perfume/Zhiwuzhi-zhi-wu-zhi/Abode-of-Brahma-fan-tian-jing-143244.html",
-      "description": "New perfume listing: Abode of Brahma 梵天境 by Zhiwuzhi 挚物志.",
-      "category": "New Perfumes",
-      "author": "Zhiwuzhi 挚物志",
-      "published": 1790457087
-    },
-    {
-      "title": "The Dua Brand — Maple Pancakes",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Maple-Pancakes-143350.html",
-      "description": "New perfume listing: Maple Pancakes by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Daylight Drift",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Daylight-Drift-143349.html",
-      "description": "New perfume listing: Daylight Drift by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Sweet Mischief Elixir",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sweet-Mischief-Elixir-143348.html",
-      "description": "New perfume listing: Sweet Mischief Elixir by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Cocoa Pear Midnight",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cocoa-Pear-Midnight-143347.html",
-      "description": "New perfume listing: Cocoa Pear Midnight by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Tobacco Smoke",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tobacco-Smoke-143346.html",
-      "description": "New perfume listing: Tobacco Smoke by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Art Of Vanilla",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Art-Of-Vanilla-143345.html",
-      "description": "New perfume listing: Art Of Vanilla by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Tonka Reverie",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tonka-Reverie-143344.html",
-      "description": "New perfume listing: Tonka Reverie by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "The Dua Brand — Lemon On Cloud Nine",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lemon-On-Cloud-Nine-143343.html",
-      "description": "New perfume listing: Lemon On Cloud Nine by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790439877
-    },
-    {
-      "title": "Day Three — Desert Fire",
-      "link": "https://www.fragrantica.com/perfume/Day-Three/Desert-Fire-143342.html",
-      "description": "New perfume listing: Desert Fire by Day Three.",
-      "category": "New Perfumes",
-      "author": "Day Three",
-      "published": 1790439877
-    },
-    {
-      "title": "L'Erbolario — Giglio Lily",
-      "link": "https://www.fragrantica.com/perfume/L-Erbolario/Giglio-Lily-143341.html",
-      "description": "New perfume listing: Giglio Lily by L'Erbolario.",
-      "category": "New Perfumes",
-      "author": "L'Erbolario",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — The Queen Joanna",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/The-Queen-Joanna-143340.html",
-      "description": "New perfume listing: The Queen Joanna by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Beyond Borders 无界",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Beyond-Borders-wu-jie-143339.html",
-      "description": "New perfume listing: Beyond Borders 无界 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — SELF-JOY 自悦",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/SELF-JOY-zi-yue-143338.html",
-      "description": "New perfume listing: SELF-JOY 自悦 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Ink Dance 水墨舞",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Ink-Dance-shui-mo-wu-143337.html",
-      "description": "New perfume listing: Ink Dance 水墨舞 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Tea Break 茶歇",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Tea-Break-cha-xie-143336.html",
-      "description": "New perfume listing: Tea Break 茶歇 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Glazed Light 琉璃光",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Glazed-Light-liu-li-guang-143335.html",
-      "description": "New perfume listing: Glazed Light 琉璃光 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Atop the Clouds 云端",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Atop-the-Clouds-yun-duan-143334.html",
-      "description": "New perfume listing: Atop the Clouds 云端 by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "The Fragrance Academy — Rouge Magnifique",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Academy/Rouge-Magnifique-143333.html",
-      "description": "New perfume listing: Rouge Magnifique by The Fragrance Academy.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Academy",
-      "published": 1790398774
-    },
-    {
-      "title": "Brand Collection — Chance Purple",
-      "link": "https://www.fragrantica.com/perfume/Brand-Collection/Chance-Purple-143332.html",
-      "description": "New perfume listing: Chance Purple by Brand Collection.",
-      "category": "New Perfumes",
-      "author": "Brand Collection",
-      "published": 1790398774
-    },
-    {
-      "title": "Brand Collection — Rosy Glow",
-      "link": "https://www.fragrantica.com/perfume/Brand-Collection/Rosy-Glow-143331.html",
-      "description": "New perfume listing: Rosy Glow by Brand Collection.",
-      "category": "New Perfumes",
-      "author": "Brand Collection",
-      "published": 1790398774
-    },
-    {
-      "title": "Brand Collection — Dedication",
-      "link": "https://www.fragrantica.com/perfume/Brand-Collection/Dedication-143330.html",
-      "description": "New perfume listing: Dedication by Brand Collection.",
-      "category": "New Perfumes",
-      "author": "Brand Collection",
-      "published": 1790398774
     }
   ]
 }
