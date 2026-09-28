@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Review of the Vintage Perfume Rose Rouge Shiseido",
+      "link": "https://www.fragrantica.com/news/Review-of-the-Vintage-Perfume-Rose-Rouge-Shiseido-26208.html",
+      "description": "The red rose—an emblem of love?",
+      "category": "Vintage Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1790634603
+    },
+    {
+      "title": "Flowers Are Watching Us by dsm-firmenich at Beautyworld Middle East 2026",
+      "link": "https://www.fragrantica.com/news/Flowers-Are-Watching-Us-by-dsm-firmenich-at-Beautyworld-Middle-East-2026-26207.html",
+      "description": "An immersive exploration of the future of florals in perfumery",
+      "category": "Мероприятия Art Books",
+      "author": "Dariia Fessalonika",
+      "published": 1790623083
+    },
+    {
+      "title": "American Brand Free Yourself Expands Elements Collection",
+      "link": "https://www.fragrantica.com/news/American-Brand-Free-Yourself-Expands-Elements-Collection-26206.html",
+      "description": "The new scents are called Aether and Numinous",
+      "category": "New Fragrances",
+      "author": "Eddie Bulliqi",
+      "published": 1790609404
+    },
+    {
       "title": "New Brand Synisca Launches",
       "link": "https://www.fragrantica.com/news/New-Brand-Synisca-Launches-26205.html",
       "description": "Scents inspired by the emotion of sport",
@@ -775,33 +799,73 @@
       "category": "New Fragrances",
       "author": "Iulia Halatz",
       "published": 1789569005
-    },
-    {
-      "title": "Tuberose on My Windowsill",
-      "link": "https://www.fragrantica.com/news/Tuberose-on-My-Windowsill-26108.html",
-      "description": "The story of my tuberoses: in literature, in perfumes, and in a pot. Which perfumes most authentically convey the aroma of a real tuberose?",
-      "category": "Columns",
-      "author": "Elena Prokofeva",
-      "published": 1789557302
-    },
-    {
-      "title": "Notes Shanghai 2026 Autumn Edition: Another Way",
-      "link": "https://www.fragrantica.com/news/Notes-Shanghai-2026-Autumn-Edition-Another-Way-26107.html",
-      "description": "The autumn edition of Notes Shanghai will take place in Shanghai from October 14 to 17, 2026, featuring more than 200 niche fragrance brands, eight...",
-      "category": "Events",
-      "author": "Igor Masyukov",
-      "published": 1789546503
-    },
-    {
-      "title": "Middle Eastern Perfume Oils I Love: Al Rehab",
-      "link": "https://www.fragrantica.com/news/Middle-Eastern-Perfume-Oils-I-Love-Al-Rehab-26106.html",
-      "description": "I mainly use them to layer with other scents, but they also smell amazing on their own.",
-      "category": "Columns",
-      "author": "Dr Ruqayya Abba Tofa",
-      "published": 1789535703
     }
   ],
   "perfumes": [
+    {
+      "title": "Pana Dora — Skara",
+      "link": "https://www.fragrantica.com/perfume/Pana-Dora/Skara-143466.html",
+      "description": "New perfume listing: Skara by Pana Dora.",
+      "category": "New Perfumes",
+      "author": "Pana Dora",
+      "published": 1790637440
+    },
+    {
+      "title": "Soul Artisan — Juice Revelry",
+      "link": "https://www.fragrantica.com/perfume/Soul-Artisan/Juice-Revelry-143473.html",
+      "description": "New perfume listing: Juice Revelry by Soul Artisan.",
+      "category": "New Perfumes",
+      "author": "Soul Artisan",
+      "published": 1790637440
+    },
+    {
+      "title": "Soul Artisan — Iced Mint Tea",
+      "link": "https://www.fragrantica.com/perfume/Soul-Artisan/Iced-Mint-Tea-143472.html",
+      "description": "New perfume listing: Iced Mint Tea by Soul Artisan.",
+      "category": "New Perfumes",
+      "author": "Soul Artisan",
+      "published": 1790637440
+    },
+    {
+      "title": "Cottee — 008 Jeju Island",
+      "link": "https://www.fragrantica.com/perfume/Cottee/008-Jeju-Island-143471.html",
+      "description": "New perfume listing: 008 Jeju Island by Cottee.",
+      "category": "New Perfumes",
+      "author": "Cottee",
+      "published": 1790637440
+    },
+    {
+      "title": "Cottee — 006 Tokyo",
+      "link": "https://www.fragrantica.com/perfume/Cottee/006-Tokyo-143470.html",
+      "description": "New perfume listing: 006 Tokyo by Cottee.",
+      "category": "New Perfumes",
+      "author": "Cottee",
+      "published": 1790637440
+    },
+    {
+      "title": "Cottee — 001 Tana Island",
+      "link": "https://www.fragrantica.com/perfume/Cottee/001-Tana-Island-143469.html",
+      "description": "New perfume listing: 001 Tana Island by Cottee.",
+      "category": "New Perfumes",
+      "author": "Cottee",
+      "published": 1790637440
+    },
+    {
+      "title": "Cottee — 003 Bangkok",
+      "link": "https://www.fragrantica.com/perfume/Cottee/003-Bangkok-143468.html",
+      "description": "New perfume listing: 003 Bangkok by Cottee.",
+      "category": "New Perfumes",
+      "author": "Cottee",
+      "published": 1790637440
+    },
+    {
+      "title": "Cottee — 004 Shanghai",
+      "link": "https://www.fragrantica.com/perfume/Cottee/004-Shanghai-143467.html",
+      "description": "New perfume listing: 004 Shanghai by Cottee.",
+      "category": "New Perfumes",
+      "author": "Cottee",
+      "published": 1790637440
+    },
     {
       "title": "Imrasasi by Rasasi — Hawas Crystelle",
       "link": "https://www.fragrantica.com/perfume/Imrasasi-by-Rasasi/Hawas-Crystelle-143465.html",
@@ -1537,70 +1601,6 @@
       "category": "New Perfumes",
       "author": "Forfolks",
       "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Morning",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Morning-143379.html",
-      "description": "New perfume listing: Morning by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Философия 5:00 (Philosophy 5:00)",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Filosofia-5-00-Philosophy-5-00-143378.html",
-      "description": "New perfume listing: Философия 5:00 (Philosophy 5:00) by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Unfold",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Unfold-143377.html",
-      "description": "New perfume listing: Unfold by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Maison Alhambra — Very Velvet Aqua",
-      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Very-Velvet-Aqua-143375.html",
-      "description": "New perfume listing: Very Velvet Aqua by Maison Alhambra.",
-      "category": "New Perfumes",
-      "author": "Maison Alhambra",
-      "published": 1790528326
-    },
-    {
-      "title": "The Fragrance Kitchen — THE PERFECTION",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Kitchen/THE-PERFECTION-143374.html",
-      "description": "New perfume listing: THE PERFECTION by The Fragrance Kitchen.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Kitchen",
-      "published": 1790528326
-    },
-    {
-      "title": "The Fragrance Kitchen — No. 8 Remix",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Kitchen/No-8-Remix-143373.html",
-      "description": "New perfume listing: No. 8 Remix by The Fragrance Kitchen.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Kitchen",
-      "published": 1790528326
-    },
-    {
-      "title": "The Fragrance Kitchen — ABDULRASHID",
-      "link": "https://www.fragrantica.com/perfume/The-Fragrance-Kitchen/ABDULRASHID-143372.html",
-      "description": "New perfume listing: ABDULRASHID by The Fragrance Kitchen.",
-      "category": "New Perfumes",
-      "author": "The Fragrance Kitchen",
-      "published": 1790528326
-    },
-    {
-      "title": "Les Liquides Imaginaires — Morning Star",
-      "link": "https://www.fragrantica.com/perfume/Les-Liquides-Imaginaires/Morning-Star-143370.html",
-      "description": "New perfume listing: Morning Star by Les Liquides Imaginaires.",
-      "category": "New Perfumes",
-      "author": "Les Liquides Imaginaires",
-      "published": 1790510664
     }
   ]
 }
