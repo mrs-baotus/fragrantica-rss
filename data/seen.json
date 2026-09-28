@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Assaf's Strike Black: The New Aventus Absolu",
+      "link": "https://www.fragrantica.com/news/Assaf-s-Strike-Black-The-New-Aventus-Absolu-26203.html",
+      "description": "Inspired by an oil company operating in the desert.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1790567283
+    },
+    {
+      "title": "Review of the New Diorella & Dioressence (2026)",
+      "link": "https://www.fragrantica.com/news/Review-of-the-New-Diorella-Dioressence-2026-26202.html",
+      "description": "An inspiring collection.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1790556508
+    },
+    {
+      "title": "Perfumed Horoscope: September 28 - October 4",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-28-October-4-26201.html",
+      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square, tensely engaging the warrior (Mars), secrets (Venus in Scorpio), and the boiler room (Pluto).",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1790549523
+    },
+    {
       "title": "J-Scent Profound Sacred Animal: A Profoundly Animal Floral-Cereal Scent",
       "link": "https://www.fragrantica.com/news/J-Scent-Profound-Sacred-Animal-A-Profoundly-Animal-Floral-Cereal-Scent-26200.html",
       "description": "I can’t get enough of this perfume.",
@@ -775,33 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1789514596
-    },
-    {
-      "title": "Northern Love Frederic Malle Editions de Parfums: An Autumn Dream",
-      "link": "https://www.fragrantica.com/news/Northern-Love-Frederic-Malle-Editions-de-Parfums-An-Autumn-Dream-26103.html",
-      "description": "Sandalwood, milk, and salty skin.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1789507334
-    },
-    {
-      "title": "Kuoca, the Fine Dining Folks",
-      "link": "https://www.fragrantica.com/news/Kuoca-the-Fine-Dining-Folks-26102.html",
-      "description": "A new brand and Giulietta's great discovery at the latest Pitti Fragranze.",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1789503064
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Tauer Perfumes Launches Geranium Absolue",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Tauer-Perfumes-Launches-Geranium-Absolue-26101.html",
-      "description": "An outlier example",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1789491708
     }
   ],
   "perfumes": [
+    {
+      "title": "NBDY — Prima Facie",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Prima-Facie-143426.html",
+      "description": "New perfume listing: Prima Facie by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1790573138
+    },
+    {
+      "title": "NBDY — Qismet",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Qismet-143425.html",
+      "description": "New perfume listing: Qismet by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1790573138
+    },
+    {
+      "title": "NBDY — Carte Blanche",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Carte-Blanche-143424.html",
+      "description": "New perfume listing: Carte Blanche by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1790573138
+    },
     {
       "title": "We Pink — Macchiato",
       "link": "https://www.fragrantica.com/perfume/We-Pink/Macchiato-143423.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Midnight Legacy by Eden Legacy.",
       "category": "New Perfumes",
       "author": "Eden Legacy",
-      "published": 1790457087
-    },
-    {
-      "title": "BaoBath — Amber Tuberose & Cashmere",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Amber-Tuberose-Cashmere-143353.html",
-      "description": "New perfume listing: Amber Tuberose & Cashmere by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1790457087
-    },
-    {
-      "title": "Zhiwuzhi 挚物志 — Beyond Lethe 不忘川",
-      "link": "https://www.fragrantica.com/perfume/Zhiwuzhi-zhi-wu-zhi/Beyond-Lethe-bu-wang-chuan-143247.html",
-      "description": "New perfume listing: Beyond Lethe 不忘川 by Zhiwuzhi 挚物志.",
-      "category": "New Perfumes",
-      "author": "Zhiwuzhi 挚物志",
-      "published": 1790457087
-    },
-    {
-      "title": "Zhiwuzhi 挚物志 — Datura 曼陀罗",
-      "link": "https://www.fragrantica.com/perfume/Zhiwuzhi-zhi-wu-zhi/Datura-man-tuo-luo-143246.html",
-      "description": "New perfume listing: Datura 曼陀罗 by Zhiwuzhi 挚物志.",
-      "category": "New Perfumes",
-      "author": "Zhiwuzhi 挚物志",
       "published": 1790457087
     }
   ]
