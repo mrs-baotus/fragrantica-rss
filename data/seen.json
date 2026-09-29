@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "The Mystery Touch in Oud Immortelle by Manos Gerakinis",
+      "link": "https://www.fragrantica.com/news/The-Mystery-Touch-in-Oud-Immortelle-by-Manos-Gerakinis-26214.html",
+      "description": "What happens when mystery is involved in a beloved genre?",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1790715603
+    },
+    {
+      "title": "Fil d’Or No. 3 by Laurent Mazzone: Perfume Cashmere",
+      "link": "https://www.fragrantica.com/news/Fil-d-Or-No-3-by-Laurent-Mazzone-Perfume-Cashmere-26213.html",
+      "description": "What should a fragrance for the first cold days smell like?",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1790705932
+    },
+    {
+      "title": "Zurafa by Serge Lutens: Dandies Twelve Centuries Ago",
+      "link": "https://www.fragrantica.com/news/Zurafa-by-Serge-Lutens-Dandies-Twelve-Centuries-Ago-26212.html",
+      "description": "There is nothing more fascinating than exploring history through the prism of perfumery.",
+      "category": "Fragrance Reviews",
+      "author": "Galina Anni",
+      "published": 1790695743
+    },
+    {
+      "title": "004 Shanghai by Cottee: A City of Their Own",
+      "link": "https://www.fragrantica.com/news/004-Shanghai-by-Cottee-A-City-of-Their-Own-26211.html",
+      "description": "The better you know a city, the harder it is to tell its story. Cottee pieces together its Shanghai from fragments of memory.",
+      "category": "Fragrance Reviews",
+      "author": "Andrei Lensky",
+      "published": 1790686863
+    },
+    {
       "title": "Two Unusual Tabacs for Autumn",
       "link": "https://www.fragrantica.com/news/Two-Unusual-Tabacs-for-Autumn-26210.html",
       "description": "Tired of tobacco and vanilla?",
@@ -75,7 +107,7 @@
     {
       "title": "Perfumed Horoscope: September 28 - October 4",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-28-October-4-26201.html",
-      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square, tensely engaging the warrior (Mars), secrets (Venus in Scorpio), and the boiler room (Pluto).",
+      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square, tensely engaging the warrior...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1790549523
@@ -767,41 +799,529 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1789628102
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Paradise In Gangwon by Organ Tale",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Paradise-In-Gangwon-by-Organ-Tale-26114.html",
-      "description": "A fruity floral worth dissecting",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1789617304
-    },
-    {
-      "title": "Kleopatra by anti Review",
-      "link": "https://www.fragrantica.com/news/Kleopatra-by-anti-Review-26113.html",
-      "description": "Taking a milk bath like Cleopatra.",
-      "category": "Art Books Events",
-      "author": "Elena Knezevic",
-      "published": 1789606493
-    },
-    {
-      "title": "PITTI FRAGRAZE 2026: Antonio Alessandria Offers a Preview of His New Creation, Aporia",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRAZE-2026-Antonio-Alessandria-Offers-a-Preview-of-His-New-Creation-Aporia-26112.html",
-      "description": "Antonio Alessandria provides a preview and insight into his new creation at Pitti Fragranze, which will officially launch in two months.",
-      "category": "Art Books Events",
-      "author": "Iulia Halatz",
-      "published": 1789596003
-    },
-    {
-      "title": "Tommy Hilfiger Freedom Eau de Parfum 2026",
-      "link": "https://www.fragrantica.com/news/Tommy-Hilfiger-Freedom-Eau-de-Parfum-2026-26111.html",
-      "description": "Tommy Hilfiger introduces Freedom, fronted by Camila Cabello.",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1789586582
     }
   ],
   "perfumes": [
+    {
+      "title": "Monsieur Arsène — Roi du Hoggar",
+      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Roi-du-Hoggar-143581.html",
+      "description": "New perfume listing: Roi du Hoggar by Monsieur Arsène.",
+      "category": "New Perfumes",
+      "author": "Monsieur Arsène",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Valerian",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Valerian-143562.html",
+      "description": "New perfume listing: Valerian by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Trajan",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Trajan-143561.html",
+      "description": "New perfume listing: Trajan by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Octavius",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Octavius-143558.html",
+      "description": "New perfume listing: Octavius by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Justinian",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Justinian-143556.html",
+      "description": "New perfume listing: Justinian by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — JULIUS",
+      "link": "https://www.fragrantica.com/perfume/Boshara/JULIUS-143555.html",
+      "description": "New perfume listing: JULIUS by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Hadrian",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Hadrian-143554.html",
+      "description": "New perfume listing: Hadrian by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — GRATIAN",
+      "link": "https://www.fragrantica.com/perfume/Boshara/GRATIAN-143553.html",
+      "description": "New perfume listing: GRATIAN by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Gordian",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Gordian-143552.html",
+      "description": "New perfume listing: Gordian by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Clodius",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Clodius-143551.html",
+      "description": "New perfume listing: Clodius by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Antonius",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Antonius-143550.html",
+      "description": "New perfume listing: Antonius by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — WEDJAT",
+      "link": "https://www.fragrantica.com/perfume/Boshara/WEDJAT-143548.html",
+      "description": "New perfume listing: WEDJAT by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Sacred Fire",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Sacred-Fire-143547.html",
+      "description": "New perfume listing: Sacred Fire by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Ramses II",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Ramses-II-143546.html",
+      "description": "New perfume listing: Ramses II by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Nefertiti",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Nefertiti-143545.html",
+      "description": "New perfume listing: Nefertiti by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Magic Amulet",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Magic-Amulet-143544.html",
+      "description": "New perfume listing: Magic Amulet by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — KINGTUT",
+      "link": "https://www.fragrantica.com/perfume/Boshara/KINGTUT-143543.html",
+      "description": "New perfume listing: KINGTUT by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — CLEO VII",
+      "link": "https://www.fragrantica.com/perfume/Boshara/CLEO-VII-143542.html",
+      "description": "New perfume listing: CLEO VII by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Ancient Spire",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Ancient-Spire-143541.html",
+      "description": "New perfume listing: Ancient Spire by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Victorious",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Victorious-143540.html",
+      "description": "New perfume listing: Victorious by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Majestic",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Majestic-143537.html",
+      "description": "New perfume listing: Majestic by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Highness",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Highness-143536.html",
+      "description": "New perfume listing: Highness by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Gardenia",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Gardenia-143534.html",
+      "description": "New perfume listing: Gardenia by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Celestia",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Celestia-143532.html",
+      "description": "New perfume listing: Celestia by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Cascadia Breeze",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Cascadia-Breeze-143531.html",
+      "description": "New perfume listing: Cascadia Breeze by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Galimard — Ciel Ardent",
+      "link": "https://www.fragrantica.com/perfume/Galimard/Ciel-Ardent-143529.html",
+      "description": "New perfume listing: Ciel Ardent by Galimard.",
+      "category": "New Perfumes",
+      "author": "Galimard",
+      "published": 1790720185
+    },
+    {
+      "title": "Cellorne — Vanilla Ash",
+      "link": "https://www.fragrantica.com/perfume/Cellorne/Vanilla-Ash-143528.html",
+      "description": "New perfume listing: Vanilla Ash by Cellorne.",
+      "category": "New Perfumes",
+      "author": "Cellorne",
+      "published": 1790720185
+    },
+    {
+      "title": "Mandarina Duck — Life is a journey for him",
+      "link": "https://www.fragrantica.com/perfume/Mandarina-Duck/Life-is-a-journey-for-him-143527.html",
+      "description": "New perfume listing: Life is a journey for him by Mandarina Duck.",
+      "category": "New Perfumes",
+      "author": "Mandarina Duck",
+      "published": 1790720185
+    },
+    {
+      "title": "Mandarina Duck — Life is a journey for her",
+      "link": "https://www.fragrantica.com/perfume/Mandarina-Duck/Life-is-a-journey-for-her-143526.html",
+      "description": "New perfume listing: Life is a journey for her by Mandarina Duck.",
+      "category": "New Perfumes",
+      "author": "Mandarina Duck",
+      "published": 1790720185
+    },
+    {
+      "title": "Grande — Cookie Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Grande/Cookie-Extrait-de-Parfum-143511.html",
+      "description": "New perfume listing: Cookie Extrait de Parfum by Grande.",
+      "category": "New Perfumes",
+      "author": "Grande",
+      "published": 1790720185
+    },
+    {
+      "title": "Grande — Karak & Shisha Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Grande/Karak-Shisha-Extrait-de-Parfum-143510.html",
+      "description": "New perfume listing: Karak & Shisha Extrait de Parfum by Grande.",
+      "category": "New Perfumes",
+      "author": "Grande",
+      "published": 1790720185
+    },
+    {
+      "title": "Tesori d'Oriente — Sunrise in Copacabana - Cocco & Frangipani",
+      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Sunrise-in-Copacabana-Cocco-Frangipani-143509.html",
+      "description": "New perfume listing: Sunrise in Copacabana - Cocco & Frangipani by Tesori d'Oriente.",
+      "category": "New Perfumes",
+      "author": "Tesori d'Oriente",
+      "published": 1790720185
+    },
+    {
+      "title": "Grande — Vanilla Ash Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Grande/Vanilla-Ash-Extrait-de-Parfum-143508.html",
+      "description": "New perfume listing: Vanilla Ash Extrait de Parfum by Grande.",
+      "category": "New Perfumes",
+      "author": "Grande",
+      "published": 1790720185
+    },
+    {
+      "title": "Tesori d'Oriente — Passion Island - Vaniglia & Fiori di Sale",
+      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Passion-Island-Vaniglia-Fiori-di-Sale-143507.html",
+      "description": "New perfume listing: Passion Island - Vaniglia & Fiori di Sale by Tesori d'Oriente.",
+      "category": "New Perfumes",
+      "author": "Tesori d'Oriente",
+      "published": 1790720185
+    },
+    {
+      "title": "Tesori d'Oriente — Sunset in Hawaii - Ibisco & Peonia",
+      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Sunset-in-Hawaii-Ibisco-Peonia-143506.html",
+      "description": "New perfume listing: Sunset in Hawaii - Ibisco & Peonia by Tesori d'Oriente.",
+      "category": "New Perfumes",
+      "author": "Tesori d'Oriente",
+      "published": 1790720185
+    },
+    {
+      "title": "Dossier — Gourmand Latte",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Gourmand-Latte-143584.html",
+      "description": "New perfume listing: Gourmand Latte by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1790720185
+    },
+    {
+      "title": "Dossier — Musky Another",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Musky-Another-143583.html",
+      "description": "New perfume listing: Musky Another by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1790720185
+    },
+    {
+      "title": "Dossier — Musky Orris",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Musky-Orris-143582.html",
+      "description": "New perfume listing: Musky Orris by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1790720185
+    },
+    {
+      "title": "Monsieur Arsène — 1873 Vetiver",
+      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/1873-Vetiver-143580.html",
+      "description": "New perfume listing: 1873 Vetiver by Monsieur Arsène.",
+      "category": "New Perfumes",
+      "author": "Monsieur Arsène",
+      "published": 1790720185
+    },
+    {
+      "title": "Monsieur Arsène — Galant",
+      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Galant-143579.html",
+      "description": "New perfume listing: Galant by Monsieur Arsène.",
+      "category": "New Perfumes",
+      "author": "Monsieur Arsène",
+      "published": 1790720185
+    },
+    {
+      "title": "Monsieur Arsène — Bois de Barbarie",
+      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Bois-de-Barbarie-143578.html",
+      "description": "New perfume listing: Bois de Barbarie by Monsieur Arsène.",
+      "category": "New Perfumes",
+      "author": "Monsieur Arsène",
+      "published": 1790720185
+    },
+    {
+      "title": "Monsieur Arsène — Arsène",
+      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Arsene-143577.html",
+      "description": "New perfume listing: Arsène by Monsieur Arsène.",
+      "category": "New Perfumes",
+      "author": "Monsieur Arsène",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Ice",
+      "link": "https://www.fragrantica.com/perfume/La-French/Ice-143576.html",
+      "description": "New perfume listing: Ice by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Café Rose",
+      "link": "https://www.fragrantica.com/perfume/La-French/Cafe-Rose-143575.html",
+      "description": "New perfume listing: Café Rose by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Mystic Oud",
+      "link": "https://www.fragrantica.com/perfume/La-French/Mystic-Oud-143574.html",
+      "description": "New perfume listing: Mystic Oud by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Smoky Vanilla",
+      "link": "https://www.fragrantica.com/perfume/La-French/Smoky-Vanilla-143573.html",
+      "description": "New perfume listing: Smoky Vanilla by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Rebel",
+      "link": "https://www.fragrantica.com/perfume/La-French/Rebel-143572.html",
+      "description": "New perfume listing: Rebel by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Nautical Noir",
+      "link": "https://www.fragrantica.com/perfume/La-French/Nautical-Noir-143571.html",
+      "description": "New perfume listing: Nautical Noir by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Timeless Homme",
+      "link": "https://www.fragrantica.com/perfume/La-French/Timeless-Homme-143570.html",
+      "description": "New perfume listing: Timeless Homme by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Control",
+      "link": "https://www.fragrantica.com/perfume/La-French/Control-143569.html",
+      "description": "New perfume listing: Control by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Pitch",
+      "link": "https://www.fragrantica.com/perfume/La-French/Pitch-143568.html",
+      "description": "New perfume listing: Pitch by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Timeless Femme",
+      "link": "https://www.fragrantica.com/perfume/La-French/Timeless-Femme-143567.html",
+      "description": "New perfume listing: Timeless Femme by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Sun Kissed",
+      "link": "https://www.fragrantica.com/perfume/La-French/Sun-Kissed-143566.html",
+      "description": "New perfume listing: Sun Kissed by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Luxure Oudh",
+      "link": "https://www.fragrantica.com/perfume/La-French/Luxure-Oudh-143565.html",
+      "description": "New perfume listing: Luxure Oudh by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Party",
+      "link": "https://www.fragrantica.com/perfume/La-French/Party-143564.html",
+      "description": "New perfume listing: Party by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "La'French — Cuddle",
+      "link": "https://www.fragrantica.com/perfume/La-French/Cuddle-143563.html",
+      "description": "New perfume listing: Cuddle by La'French.",
+      "category": "New Perfumes",
+      "author": "La'French",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Titus",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Titus-143560.html",
+      "description": "New perfume listing: Titus by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Rictus",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Rictus-143559.html",
+      "description": "New perfume listing: Rictus by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — NERON",
+      "link": "https://www.fragrantica.com/perfume/Boshara/NERON-143557.html",
+      "description": "New perfume listing: NERON by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Alexander II",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Alexander-II-143549.html",
+      "description": "New perfume listing: Alexander II by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Stardust",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Stardust-143539.html",
+      "description": "New perfume listing: Stardust by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — MALAKY",
+      "link": "https://www.fragrantica.com/perfume/Boshara/MALAKY-143538.html",
+      "description": "New perfume listing: MALAKY by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Golden",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Golden-143535.html",
+      "description": "New perfume listing: Golden by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Boshara — Crystal",
+      "link": "https://www.fragrantica.com/perfume/Boshara/Crystal-143533.html",
+      "description": "New perfume listing: Crystal by Boshara.",
+      "category": "New Perfumes",
+      "author": "Boshara",
+      "published": 1790720185
+    },
+    {
+      "title": "Riiffs Perfumes — Veloce",
+      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Veloce-143530.html",
+      "description": "New perfume listing: Veloce by Riiffs Perfumes.",
+      "category": "New Perfumes",
+      "author": "Riiffs Perfumes",
+      "published": 1790720185
+    },
     {
       "title": "Hello Stranger — Mango Please",
       "link": "https://www.fragrantica.com/perfume/Hello-Stranger/Mango-Please-143499.html",
@@ -1081,526 +1601,6 @@
       "category": "New Perfumes",
       "author": "Imrasasi by Rasasi",
       "published": 1790603843
-    },
-    {
-      "title": "Imrasasi by Rasasi — Hawas Blanche",
-      "link": "https://www.fragrantica.com/perfume/Imrasasi-by-Rasasi/Hawas-Blanche-143464.html",
-      "description": "New perfume listing: Hawas Blanche by Imrasasi by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Imrasasi by Rasasi",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Oud Symphony",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Oud-Symphony-143463.html",
-      "description": "New perfume listing: Oud Symphony by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Exotic Dance",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Exotic-Dance-143462.html",
-      "description": "New perfume listing: Exotic Dance by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Pink Cashmere",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Pink-Cashmere-143461.html",
-      "description": "New perfume listing: Pink Cashmere by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Lady in Red",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Lady-in-Red-143460.html",
-      "description": "New perfume listing: Lady in Red by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Blue Moon",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Blue-Moon-143459.html",
-      "description": "New perfume listing: Blue Moon by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Flower Wood",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Flower-Wood-143458.html",
-      "description": "New perfume listing: Flower Wood by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Vanilla Vibes",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Vanilla-Vibes-143457.html",
-      "description": "New perfume listing: Vanilla Vibes by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Cherry Blossom",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Cherry-Blossom-143456.html",
-      "description": "New perfume listing: Cherry Blossom by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Love in Portofino",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Love-in-Portofino-143455.html",
-      "description": "New perfume listing: Love in Portofino by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Sweet Tobacco",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Sweet-Tobacco-143454.html",
-      "description": "New perfume listing: Sweet Tobacco by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "George Mové — Serenity",
-      "link": "https://www.fragrantica.com/perfume/George-Move/Serenity-143453.html",
-      "description": "New perfume listing: Serenity by George Mové.",
-      "category": "New Perfumes",
-      "author": "George Mové",
-      "published": 1790603843
-    },
-    {
-      "title": "Nuages — Nourela",
-      "link": "https://www.fragrantica.com/perfume/Nuages/Nourela-143452.html",
-      "description": "New perfume listing: Nourela by Nuages.",
-      "category": "New Perfumes",
-      "author": "Nuages",
-      "published": 1790603843
-    },
-    {
-      "title": "Hajri — Amur bin Nasser Anniversary Edition",
-      "link": "https://www.fragrantica.com/perfume/Hajri/Amur-bin-Nasser-Anniversary-Edition-143436.html",
-      "description": "New perfume listing: Amur bin Nasser Anniversary Edition by Hajri.",
-      "category": "New Perfumes",
-      "author": "Hajri",
-      "published": 1790603843
-    },
-    {
-      "title": "Mad Parfumeur — Bruno Gold Overdose",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Bruno-Gold-Overdose-143435.html",
-      "description": "New perfume listing: Bruno Gold Overdose by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1790603843
-    },
-    {
-      "title": "Reinvented — Lunar Reverie",
-      "link": "https://www.fragrantica.com/perfume/Reinvented/Lunar-Reverie-143430.html",
-      "description": "New perfume listing: Lunar Reverie by Reinvented.",
-      "category": "New Perfumes",
-      "author": "Reinvented",
-      "published": 1790603843
-    },
-    {
-      "title": "Sospiro Perfumes — Vibrato Nero",
-      "link": "https://www.fragrantica.com/perfume/Sospiro-Perfumes/Vibrato-Nero-143429.html",
-      "description": "New perfume listing: Vibrato Nero by Sospiro Perfumes.",
-      "category": "New Perfumes",
-      "author": "Sospiro Perfumes",
-      "published": 1790603843
-    },
-    {
-      "title": "Sospiro Perfumes — Bianco Canto",
-      "link": "https://www.fragrantica.com/perfume/Sospiro-Perfumes/Bianco-Canto-143428.html",
-      "description": "New perfume listing: Bianco Canto by Sospiro Perfumes.",
-      "category": "New Perfumes",
-      "author": "Sospiro Perfumes",
-      "published": 1790603843
-    },
-    {
-      "title": "Anomalia Paris — Matcha Woodoo",
-      "link": "https://www.fragrantica.com/perfume/Anomalia-Paris/Matcha-Woodoo-143427.html",
-      "description": "New perfume listing: Matcha Woodoo by Anomalia Paris.",
-      "category": "New Perfumes",
-      "author": "Anomalia Paris",
-      "published": 1790603843
-    },
-    {
-      "title": "Being Frenshe — Matcha Me",
-      "link": "https://www.fragrantica.com/perfume/Being-Frenshe/Matcha-Me-143451.html",
-      "description": "New perfume listing: Matcha Me by Being Frenshe.",
-      "category": "New Perfumes",
-      "author": "Being Frenshe",
-      "published": 1790603843
-    },
-    {
-      "title": "Loui Martin — Odyssey Mango",
-      "link": "https://www.fragrantica.com/perfume/Loui-Martin/Odyssey-Mango-143450.html",
-      "description": "New perfume listing: Odyssey Mango by Loui Martin.",
-      "category": "New Perfumes",
-      "author": "Loui Martin",
-      "published": 1790603843
-    },
-    {
-      "title": "Loui Martin — Sweet Peach",
-      "link": "https://www.fragrantica.com/perfume/Loui-Martin/Sweet-Peach-143449.html",
-      "description": "New perfume listing: Sweet Peach by Loui Martin.",
-      "category": "New Perfumes",
-      "author": "Loui Martin",
-      "published": 1790603843
-    },
-    {
-      "title": "Loui Martin — Musk Noemie",
-      "link": "https://www.fragrantica.com/perfume/Loui-Martin/Musk-Noemie-143448.html",
-      "description": "New perfume listing: Musk Noemie by Loui Martin.",
-      "category": "New Perfumes",
-      "author": "Loui Martin",
-      "published": 1790603843
-    },
-    {
-      "title": "Cofinluxe — Taxi Gold",
-      "link": "https://www.fragrantica.com/perfume/Cofinluxe/Taxi-Gold-143447.html",
-      "description": "New perfume listing: Taxi Gold by Cofinluxe.",
-      "category": "New Perfumes",
-      "author": "Cofinluxe",
-      "published": 1790603843
-    },
-    {
-      "title": "Cofinluxe — Taxi Blue",
-      "link": "https://www.fragrantica.com/perfume/Cofinluxe/Taxi-Blue-143446.html",
-      "description": "New perfume listing: Taxi Blue by Cofinluxe.",
-      "category": "New Perfumes",
-      "author": "Cofinluxe",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Rossoveleno",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Rossoveleno-143445.html",
-      "description": "New perfume listing: Rossoveleno by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Nero",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Nero-143444.html",
-      "description": "New perfume listing: Nero by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Rossomare",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Rossomare-143443.html",
-      "description": "New perfume listing: Rossomare by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Incanto di Bell",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Incanto-di-Bell-143442.html",
-      "description": "New perfume listing: Incanto di Bell by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Rosaspina",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Rosaspina-143441.html",
-      "description": "New perfume listing: Rosaspina by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Nectar Rose Elixir",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Nectar-Rose-Elixir-143440.html",
-      "description": "New perfume listing: Nectar Rose Elixir by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Biancoveleno",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Biancoveleno-143439.html",
-      "description": "New perfume listing: Biancoveleno by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Giardino di Jasmine",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Giardino-di-Jasmine-143438.html",
-      "description": "New perfume listing: Giardino di Jasmine by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Pink Babol — Pink Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Pink-Babol/Pink-Vanilla-143437.html",
-      "description": "New perfume listing: Pink Vanilla by Pink Babol.",
-      "category": "New Perfumes",
-      "author": "Pink Babol",
-      "published": 1790603843
-    },
-    {
-      "title": "Hekayat Attar — Honeyash",
-      "link": "https://www.fragrantica.com/perfume/Hekayat-Attar/Honeyash-143434.html",
-      "description": "New perfume listing: Honeyash by Hekayat Attar.",
-      "category": "New Perfumes",
-      "author": "Hekayat Attar",
-      "published": 1790603843
-    },
-    {
-      "title": "Aroma Concepts — Unsung",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Unsung-143433.html",
-      "description": "New perfume listing: Unsung by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1790603843
-    },
-    {
-      "title": "David Walker — Burgundy Walls 1982",
-      "link": "https://www.fragrantica.com/perfume/David-Walker/Burgundy-Walls-1982-143432.html",
-      "description": "New perfume listing: Burgundy Walls 1982 by David Walker.",
-      "category": "New Perfumes",
-      "author": "David Walker",
-      "published": 1790603843
-    },
-    {
-      "title": "Parfumane — Topaz",
-      "link": "https://www.fragrantica.com/perfume/Parfumane/Topaz-143431.html",
-      "description": "New perfume listing: Topaz by Parfumane.",
-      "category": "New Perfumes",
-      "author": "Parfumane",
-      "published": 1790603843
-    },
-    {
-      "title": "NBDY — Prima Facie",
-      "link": "https://www.fragrantica.com/perfume/NBDY/Prima-Facie-143426.html",
-      "description": "New perfume listing: Prima Facie by NBDY.",
-      "category": "New Perfumes",
-      "author": "NBDY",
-      "published": 1790573138
-    },
-    {
-      "title": "NBDY — Qismet",
-      "link": "https://www.fragrantica.com/perfume/NBDY/Qismet-143425.html",
-      "description": "New perfume listing: Qismet by NBDY.",
-      "category": "New Perfumes",
-      "author": "NBDY",
-      "published": 1790573138
-    },
-    {
-      "title": "NBDY — Carte Blanche",
-      "link": "https://www.fragrantica.com/perfume/NBDY/Carte-Blanche-143424.html",
-      "description": "New perfume listing: Carte Blanche by NBDY.",
-      "category": "New Perfumes",
-      "author": "NBDY",
-      "published": 1790573138
-    },
-    {
-      "title": "We Pink — Macchiato",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Macchiato-143423.html",
-      "description": "New perfume listing: Macchiato by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Framboesa Musk",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Framboesa-Musk-143420.html",
-      "description": "New perfume listing: Framboesa Musk by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Capuccino Mocha",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Capuccino-Mocha-143419.html",
-      "description": "New perfume listing: Capuccino Mocha by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Maracujá Muguet",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Maracuja-Muguet-143418.html",
-      "description": "New perfume listing: Maracujá Muguet by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Vanilla Oud",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Vanilla-Oud-143417.html",
-      "description": "New perfume listing: Vanilla Oud by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Lotus Garden",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Lotus-Garden-143416.html",
-      "description": "New perfume listing: Lotus Garden by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Summer Pear",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Summer-Pear-143415.html",
-      "description": "New perfume listing: Summer Pear by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "L’envie Parfums — Vanilla Bloom",
-      "link": "https://www.fragrantica.com/perfume/L-envie-Parfums/Vanilla-Bloom-143414.html",
-      "description": "New perfume listing: Vanilla Bloom by L’envie Parfums.",
-      "category": "New Perfumes",
-      "author": "L’envie Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "Al Wataniah — Sabah Al Ward Delilah",
-      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Sabah-Al-Ward-Delilah-143413.html",
-      "description": "New perfume listing: Sabah Al Ward Delilah by Al Wataniah.",
-      "category": "New Perfumes",
-      "author": "Al Wataniah",
-      "published": 1790544097
-    },
-    {
-      "title": "OGLIARI — Paradiso Nero",
-      "link": "https://www.fragrantica.com/perfume/OGLIARI/Paradiso-Nero-143412.html",
-      "description": "New perfume listing: Paradiso Nero by OGLIARI.",
-      "category": "New Perfumes",
-      "author": "OGLIARI",
-      "published": 1790544097
-    },
-    {
-      "title": "BYNOMADS — Fragmento",
-      "link": "https://www.fragrantica.com/perfume/BYNOMADS/Fragmento-143411.html",
-      "description": "New perfume listing: Fragmento by BYNOMADS.",
-      "category": "New Perfumes",
-      "author": "BYNOMADS",
-      "published": 1790544097
-    },
-    {
-      "title": "OGLIARI — Plastic Soul",
-      "link": "https://www.fragrantica.com/perfume/OGLIARI/Plastic-Soul-143410.html",
-      "description": "New perfume listing: Plastic Soul by OGLIARI.",
-      "category": "New Perfumes",
-      "author": "OGLIARI",
-      "published": 1790544097
-    },
-    {
-      "title": "Fueguia 1833 — Águas de Marzo",
-      "link": "https://www.fragrantica.com/perfume/Fueguia-1833/Aguas-de-Marzo-143408.html",
-      "description": "New perfume listing: Águas de Marzo by Fueguia 1833.",
-      "category": "New Perfumes",
-      "author": "Fueguia 1833",
-      "published": 1790544097
-    },
-    {
-      "title": "Ricca — Flor Rosa Branca",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Rosa-Branca-143407.html",
-      "description": "New perfume listing: Flor Rosa Branca by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790544097
-    },
-    {
-      "title": "Ricca — Flor Peônia",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Peonia-143406.html",
-      "description": "New perfume listing: Flor Peônia by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790544097
-    },
-    {
-      "title": "Ricca — Flor Gardênia",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Flor-Gardenia-143405.html",
-      "description": "New perfume listing: Flor Gardênia by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790544097
-    },
-    {
-      "title": "Al Wataniah — Al Andalus Granada",
-      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Al-Andalus-Granada-143422.html",
-      "description": "New perfume listing: Al Andalus Granada by Al Wataniah.",
-      "category": "New Perfumes",
-      "author": "Al Wataniah",
-      "published": 1790544097
-    },
-    {
-      "title": "Paris Elysees — Bois d'Elysées",
-      "link": "https://www.fragrantica.com/perfume/Paris-Elysees/Bois-d-Elysees-143421.html",
-      "description": "New perfume listing: Bois d'Elysées by Paris Elysees.",
-      "category": "New Perfumes",
-      "author": "Paris Elysees",
-      "published": 1790544097
-    },
-    {
-      "title": "La Rive — Colossus",
-      "link": "https://www.fragrantica.com/perfume/La-Rive/Colossus-143409.html",
-      "description": "New perfume listing: Colossus by La Rive.",
-      "category": "New Perfumes",
-      "author": "La Rive",
-      "published": 1790544097
-    },
-    {
-      "title": "Ohana Kameala — Romantic Duo",
-      "link": "https://www.fragrantica.com/perfume/Ohana-Kameala/Romantic-Duo-143327.html",
-      "description": "New perfume listing: Romantic Duo by Ohana Kameala.",
-      "category": "New Perfumes",
-      "author": "Ohana Kameala",
-      "published": 1790544097
-    },
-    {
-      "title": "Alkemia Perfumes — Pumpkin Alchemy",
-      "link": "https://www.fragrantica.com/perfume/Alkemia-Perfumes/Pumpkin-Alchemy-143326.html",
-      "description": "New perfume listing: Pumpkin Alchemy by Alkemia Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alkemia Perfumes",
-      "published": 1790544097
-    },
-    {
-      "title": "Alkemia Perfumes — Carmilla",
-      "link": "https://www.fragrantica.com/perfume/Alkemia-Perfumes/Carmilla-143325.html",
-      "description": "New perfume listing: Carmilla by Alkemia Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alkemia Perfumes",
-      "published": 1790544097
-    },
-    {
-      "title": "AZZA Parfums — Shout Absolu",
-      "link": "https://www.fragrantica.com/perfume/AZZA-Parfums/Shout-Absolu-143308.html",
-      "description": "New perfume listing: Shout Absolu by AZZA Parfums.",
-      "category": "New Perfumes",
-      "author": "AZZA Parfums",
-      "published": 1790544097
-    },
-    {
-      "title": "Ricca — Go! Ricca Sunny",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Go-Ricca-Sunny-143404.html",
-      "description": "New perfume listing: Go! Ricca Sunny by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790528326
     }
   ]
 }
