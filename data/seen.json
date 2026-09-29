@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Two Unusual Tabacs for Autumn",
+      "link": "https://www.fragrantica.com/news/Two-Unusual-Tabacs-for-Autumn-26210.html",
+      "description": "Tired of tobacco and vanilla?",
+      "category": "Niche Perfumery",
+      "author": "Adam Forziati",
+      "published": 1790683202
+    },
+    {
       "title": "Poison Eau de Toilette by Dior: An Olfactory Masterpiece",
       "link": "https://www.fragrantica.com/news/Poison-Eau-de-Toilette-by-Dior-An-Olfactory-Masterpiece-26209.html",
       "description": "Poison is a scent that is transportive in my opinion, and only a few other scents have that ability to me.",
@@ -791,17 +799,41 @@
       "category": "Video",
       "author": "New Fragrances",
       "published": 1789586582
-    },
-    {
-      "title": "D'Orsay brings a touch of sensuality to the new season with Vanilla Affair",
-      "link": "https://www.fragrantica.com/news/D-Orsay-brings-a-touch-of-sensuality-to-the-new-season-with-Vanilla-Affair-26110.html",
-      "description": "D'Orsay enriches its Extraits collection with Vanilla Affair, one of my favorites for the new season.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1789578004
     }
   ],
   "perfumes": [
+    {
+      "title": "Hello Stranger — Mango Please",
+      "link": "https://www.fragrantica.com/perfume/Hello-Stranger/Mango-Please-143499.html",
+      "description": "New perfume listing: Mango Please by Hello Stranger.",
+      "category": "New Perfumes",
+      "author": "Hello Stranger",
+      "published": 1790686490
+    },
+    {
+      "title": "PERDRISÂT — Crocodile Tears",
+      "link": "https://www.fragrantica.com/perfume/PERDRISAT/Crocodile-Tears-143498.html",
+      "description": "New perfume listing: Crocodile Tears by PERDRISÂT.",
+      "category": "New Perfumes",
+      "author": "PERDRISÂT",
+      "published": 1790686490
+    },
+    {
+      "title": "PERDRISÂT — Hush Money",
+      "link": "https://www.fragrantica.com/perfume/PERDRISAT/Hush-Money-143497.html",
+      "description": "New perfume listing: Hush Money by PERDRISÂT.",
+      "category": "New Perfumes",
+      "author": "PERDRISÂT",
+      "published": 1790686490
+    },
+    {
+      "title": "Godet — Royal Absolu",
+      "link": "https://www.fragrantica.com/perfume/Godet/Royal-Absolu-143496.html",
+      "description": "New perfume listing: Royal Absolu by Godet.",
+      "category": "New Perfumes",
+      "author": "Godet",
+      "published": 1790686490
+    },
     {
       "title": "The Fragrance — 96 Diriyah",
       "link": "https://www.fragrantica.com/perfume/The-Fragrance/96-Diriyah-143495.html",
@@ -1568,38 +1600,6 @@
       "description": "New perfume listing: Go! Ricca Sunny by Ricca.",
       "category": "New Perfumes",
       "author": "Ricca",
-      "published": 1790528326
-    },
-    {
-      "title": "Ricca — Go! Sweety",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Go-Sweety-143403.html",
-      "description": "New perfume listing: Go! Sweety by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790528326
-    },
-    {
-      "title": "Ricca — Go! Pink",
-      "link": "https://www.fragrantica.com/perfume/Ricca/Go-Pink-143402.html",
-      "description": "New perfume listing: Go! Pink by Ricca.",
-      "category": "New Perfumes",
-      "author": "Ricca",
-      "published": 1790528326
-    },
-    {
-      "title": "Paixão — Rosa Imperial",
-      "link": "https://www.fragrantica.com/perfume/Paixao/Rosa-Imperial-143401.html",
-      "description": "New perfume listing: Rosa Imperial by Paixão.",
-      "category": "New Perfumes",
-      "author": "Paixão",
-      "published": 1790528326
-    },
-    {
-      "title": "Maya Massafera — Kate",
-      "link": "https://www.fragrantica.com/perfume/Maya-Massafera/Kate-143400.html",
-      "description": "New perfume listing: Kate by Maya Massafera.",
-      "category": "New Perfumes",
-      "author": "Maya Massafera",
       "published": 1790528326
     }
   ]
