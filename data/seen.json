@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Poison Eau de Toilette by Dior: An Olfactory Masterpiece",
+      "link": "https://www.fragrantica.com/news/Poison-Eau-de-Toilette-by-Dior-An-Olfactory-Masterpiece-26209.html",
+      "description": "Poison is a scent that is transportive in my opinion, and only a few other scents have that ability to me.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1790648643
+    },
+    {
       "title": "Review of the Vintage Perfume Rose Rouge Shiseido",
       "link": "https://www.fragrantica.com/news/Review-of-the-Vintage-Perfume-Rose-Rouge-Shiseido-26208.html",
       "description": "The red rose—an emblem of love?",
@@ -12,7 +20,7 @@
       "title": "Flowers Are Watching Us by dsm-firmenich at Beautyworld Middle East 2026",
       "link": "https://www.fragrantica.com/news/Flowers-Are-Watching-Us-by-dsm-firmenich-at-Beautyworld-Middle-East-2026-26207.html",
       "description": "An immersive exploration of the future of florals in perfumery",
-      "category": "Мероприятия Art Books",
+      "category": "Art Books Events",
       "author": "Dariia Fessalonika",
       "published": 1790623083
     },
@@ -791,17 +799,185 @@
       "category": "Fragrance Reviews",
       "author": "Sophie Normand",
       "published": 1789578004
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Kajal Introduces KAJAL V",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Kajal-Introduces-KAJAL-V-26109.html",
-      "description": "Kajal launched its latest creation in the Arqam Collection.",
-      "category": "New Fragrances",
-      "author": "Iulia Halatz",
-      "published": 1789569005
     }
   ],
   "perfumes": [
+    {
+      "title": "The Fragrance — 96 Diriyah",
+      "link": "https://www.fragrantica.com/perfume/The-Fragrance/96-Diriyah-143495.html",
+      "description": "New perfume listing: 96 Diriyah by The Fragrance.",
+      "category": "New Perfumes",
+      "author": "The Fragrance",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Silken Tofu",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Silken-Tofu-143494.html",
+      "description": "New perfume listing: Silken Tofu by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Little Rosie",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Little-Rosie-143493.html",
+      "description": "New perfume listing: Little Rosie by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — I'm With You",
+      "link": "https://www.fragrantica.com/perfume/September-28th/I-m-With-You-143492.html",
+      "description": "New perfume listing: I'm With You by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Just A Cat Lady",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Just-A-Cat-Lady-143491.html",
+      "description": "New perfume listing: Just A Cat Lady by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Lake Tahoe's Air",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Lake-Tahoe-s-Air-143490.html",
+      "description": "New perfume listing: Lake Tahoe's Air by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Always Online",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Always-Online-143489.html",
+      "description": "New perfume listing: Always Online by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Bùn",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Bun-143488.html",
+      "description": "New perfume listing: Bùn by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Dust",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Dust-143487.html",
+      "description": "New perfume listing: Dust by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Treasure Island",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Treasure-Island-143486.html",
+      "description": "New perfume listing: Treasure Island by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — Jane Doe",
+      "link": "https://www.fragrantica.com/perfume/September-28th/Jane-Doe-143485.html",
+      "description": "New perfume listing: Jane Doe by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "September 28th — It’s Just Life",
+      "link": "https://www.fragrantica.com/perfume/September-28th/It-s-Just-Life-143484.html",
+      "description": "New perfume listing: It’s Just Life by September 28th.",
+      "category": "New Perfumes",
+      "author": "September 28th",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Noctis",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Noctis-143475.html",
+      "description": "New perfume listing: Noctis by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Zenith",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Zenith-143474.html",
+      "description": "New perfume listing: Zenith by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
+    {
+      "title": "Jordache — Stone",
+      "link": "https://www.fragrantica.com/perfume/Jordache/Stone-143483.html",
+      "description": "New perfume listing: Stone by Jordache.",
+      "category": "New Perfumes",
+      "author": "Jordache",
+      "published": 1790660708
+    },
+    {
+      "title": "Jordache — Indigo",
+      "link": "https://www.fragrantica.com/perfume/Jordache/Indigo-143482.html",
+      "description": "New perfume listing: Indigo by Jordache.",
+      "category": "New Perfumes",
+      "author": "Jordache",
+      "published": 1790660708
+    },
+    {
+      "title": "Jordache — Frankie",
+      "link": "https://www.fragrantica.com/perfume/Jordache/Frankie-143481.html",
+      "description": "New perfume listing: Frankie by Jordache.",
+      "category": "New Perfumes",
+      "author": "Jordache",
+      "published": 1790660708
+    },
+    {
+      "title": "Jordache — Billie",
+      "link": "https://www.fragrantica.com/perfume/Jordache/Billie-143480.html",
+      "description": "New perfume listing: Billie by Jordache.",
+      "category": "New Perfumes",
+      "author": "Jordache",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Oblivion",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Oblivion-143479.html",
+      "description": "New perfume listing: Oblivion by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Fortius",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Fortius-143478.html",
+      "description": "New perfume listing: Fortius by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Altius",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Altius-143477.html",
+      "description": "New perfume listing: Altius by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
+    {
+      "title": "Soma Parfums — Halcyon Oud",
+      "link": "https://www.fragrantica.com/perfume/Soma-Parfums/Halcyon-Oud-143476.html",
+      "description": "New perfume listing: Halcyon Oud by Soma Parfums.",
+      "category": "New Perfumes",
+      "author": "Soma Parfums",
+      "published": 1790660708
+    },
     {
       "title": "Pana Dora — Skara",
       "link": "https://www.fragrantica.com/perfume/Pana-Dora/Skara-143466.html",
@@ -1424,182 +1600,6 @@
       "description": "New perfume listing: Kate by Maya Massafera.",
       "category": "New Perfumes",
       "author": "Maya Massafera",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Berry Bliss",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Berry-Bliss-143399.html",
-      "description": "New perfume listing: Berry Bliss by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Voyage Into Wilderness",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Voyage-Into-Wilderness-143398.html",
-      "description": "New perfume listing: Voyage Into Wilderness by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Floral Explosion Of Peonies",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Floral-Explosion-Of-Peonies-143397.html",
-      "description": "New perfume listing: Floral Explosion Of Peonies by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Vintage Ginger Brew",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Vintage-Ginger-Brew-143396.html",
-      "description": "New perfume listing: Vintage Ginger Brew by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Forever Candy Hearts",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Forever-Candy-Hearts-143395.html",
-      "description": "New perfume listing: Forever Candy Hearts by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "The Dua Brand — Endless Craving",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Endless-Craving-143394.html",
-      "description": "New perfume listing: Endless Craving by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1790528326
-    },
-    {
-      "title": "Maya Massafera — Sophie",
-      "link": "https://www.fragrantica.com/perfume/Maya-Massafera/Sophie-143386.html",
-      "description": "New perfume listing: Sophie by Maya Massafera.",
-      "category": "New Perfumes",
-      "author": "Maya Massafera",
-      "published": 1790528326
-    },
-    {
-      "title": "Maya Massafera — Stacy",
-      "link": "https://www.fragrantica.com/perfume/Maya-Massafera/Stacy-143384.html",
-      "description": "New perfume listing: Stacy by Maya Massafera.",
-      "category": "New Perfumes",
-      "author": "Maya Massafera",
-      "published": 1790528326
-    },
-    {
-      "title": "Maya Massafera — Lauren",
-      "link": "https://www.fragrantica.com/perfume/Maya-Massafera/Lauren-143382.html",
-      "description": "New perfume listing: Lauren by Maya Massafera.",
-      "category": "New Perfumes",
-      "author": "Maya Massafera",
-      "published": 1790528326
-    },
-    {
-      "title": "Maya Massafera — Elite Francesa",
-      "link": "https://www.fragrantica.com/perfume/Maya-Massafera/Elite-Francesa-143376.html",
-      "description": "New perfume listing: Elite Francesa by Maya Massafera.",
-      "category": "New Perfumes",
-      "author": "Maya Massafera",
-      "published": 1790528326
-    },
-    {
-      "title": "Sarah Baker Perfumes — Year XOXO",
-      "link": "https://www.fragrantica.com/perfume/Sarah-Baker-Perfumes/Year-XOXO-143371.html",
-      "description": "New perfume listing: Year XOXO by Sarah Baker Perfumes.",
-      "category": "New Perfumes",
-      "author": "Sarah Baker Perfumes",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Ursa Major",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Ursa-Major-143393.html",
-      "description": "New perfume listing: Ursa Major by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Kuju",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Kuju-143392.html",
-      "description": "New perfume listing: Kuju by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Inari",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Inari-143391.html",
-      "description": "New perfume listing: Inari by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Serpens",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Serpens-143390.html",
-      "description": "New perfume listing: Serpens by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Eridanus",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Eridanus-143389.html",
-      "description": "New perfume listing: Eridanus by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Champagne",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Champagne-143388.html",
-      "description": "New perfume listing: Champagne by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Phoenix",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Phoenix-143387.html",
-      "description": "New perfume listing: Phoenix by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Bastei",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Bastei-143385.html",
-      "description": "New perfume listing: Bastei by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Cassiopeia",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Cassiopeia-143383.html",
-      "description": "New perfume listing: Cassiopeia by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Orion",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Orion-143381.html",
-      "description": "New perfume listing: Orion by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
-      "published": 1790528326
-    },
-    {
-      "title": "Forfolks — Fumus",
-      "link": "https://www.fragrantica.com/perfume/Forfolks/Fumus-143380.html",
-      "description": "New perfume listing: Fumus by Forfolks.",
-      "category": "New Perfumes",
-      "author": "Forfolks",
       "published": 1790528326
     }
   ]
