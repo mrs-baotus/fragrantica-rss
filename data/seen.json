@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Asia Perfume Show: A Close-Up on the Brands to Watch",
+      "link": "https://www.fragrantica.com/news/Asia-Perfume-Show-A-Close-Up-on-the-Brands-to-Watch-26217.html",
+      "description": "A look back at the second edition of the Asia Perfume Show, with a focus on Korean, Thai, Indian, and Japanese houses.",
+      "category": "Art Books Events",
+      "author": "Sophie Normand",
+      "published": 1790744462
+    },
+    {
+      "title": "Italian Brand Syrok",
+      "link": "https://www.fragrantica.com/news/Italian-Brand-Syrok-26216.html",
+      "description": "Highly recommended, delicious and frivolous.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1790735283
+    },
+    {
+      "title": "Siren Alchemy: MELINOË THE DARK + USA Giveaway!",
+      "link": "https://www.fragrantica.com/news/Siren-Alchemy-MELINOE-THE-DARK-USA-Giveaway-26215.html",
+      "description": "Meet this new brand from Missouri and its upcoming fall release!",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1790726403
+    },
+    {
       "title": "The Mystery Touch in Oud Immortelle by Manos Gerakinis",
       "link": "https://www.fragrantica.com/news/The-Mystery-Touch-in-Oud-Immortelle-by-Manos-Gerakinis-26214.html",
       "description": "What happens when mystery is involved in a beloved genre?",
@@ -107,7 +131,7 @@
     {
       "title": "Perfumed Horoscope: September 28 - October 4",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-28-October-4-26201.html",
-      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square, tensely engaging the warrior...",
+      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square,...",
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1790549523
@@ -775,30 +799,6 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1789654986
-    },
-    {
-      "title": "Atkinsons: Sadness and Disappointment",
-      "link": "https://www.fragrantica.com/news/Atkinsons-Sadness-and-Disappointment-26117.html",
-      "description": "Five Atkinsons fragrances that left me disappointed: Midnight Scented Dream, Ambre Royal, Mystic Moonlight, Platinum...",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1789644423
-    },
-    {
-      "title": "PITTI Fragranze 2026: Azuris by D:Sol Launches",
-      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-2026-Azuris-by-D-Sol-Launches-26116.html",
-      "description": "Azure plus iris equals Azuris",
-      "category": "Niche Perfumery",
-      "author": "Nicola Thomis",
-      "published": 1789638903
-    },
-    {
-      "title": "Beyoncé's Hair Care Brand Cécred Launched a Hair Perfume: Temple Oud",
-      "link": "https://www.fragrantica.com/news/Beyonce-s-Hair-Care-Brand-Cecred-Launched-a-Hair-Perfume-Temple-Oud-26115.html",
-      "description": "\"A rich, woody, floral hair perfume that refreshes and scents the hair with a long-lasting scent.\"",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1789628102
     }
   ],
   "perfumes": [
