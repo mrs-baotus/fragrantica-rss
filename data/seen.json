@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Accordi Olfattivi Firenze, the New Tuscan Brand",
+      "link": "https://www.fragrantica.com/news/Accordi-Olfattivi-Firenze-the-New-Tuscan-Brand-26229.html",
+      "description": "A tribute to the city of Dante, presented during the days of Pitti Fragranze.",
+      "category": "Niche Fragrances",
+      "author": "Giulietta Ptoyan",
+      "published": 1790856663
+    },
+    {
+      "title": "Extraordinary Work From Max Foucaut at Pitti Fragranze",
+      "link": "https://www.fragrantica.com/news/Extraordinary-Work-From-Max-Foucaut-at-Pitti-Fragranze-26228.html",
+      "description": "Ombre Nocturne was my favourite.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1790845863
+    },
+    {
+      "title": "Shining Like Crystal - Estée by Estée Lauder",
+      "link": "https://www.fragrantica.com/news/Shining-Like-Crystal-Estee-by-Estee-Lauder-26227.html",
+      "description": "A representation of shimmer, sparkle and light that is a most welcome palate cleanser to the overwhelming sweet contemporary perfumes.",
+      "category": "Fragrance Reviews",
+      "author": "Miguel Matos",
+      "published": 1790835182
+    },
+    {
       "title": "Pitti 2026: Dilli House and Its Prem Rouge Duo",
       "link": "https://www.fragrantica.com/news/Pitti-2026-Dilli-House-and-Its-Prem-Rouge-Duo-26226.html",
       "description": "Prem Rouge is a striking example of \"slow perfumery.\"",
@@ -775,33 +799,297 @@
       "category": "Columns",
       "author": "Viktoria Vlasova",
       "published": 1789794483
-    },
-    {
-      "title": "Pitti Finds: Handle With Care by Sanya",
-      "link": "https://www.fragrantica.com/news/Pitti-Finds-Handle-With-Care-by-Sanya-26129.html",
-      "description": "A spicy-milky scent of jasmine and hay.",
-      "category": "Columns",
-      "author": "Eddie Bulliqi",
-      "published": 1789781764
-    },
-    {
-      "title": "WA:IT Presents MA: A Perfume of Space",
-      "link": "https://www.fragrantica.com/news/WA-IT-Presents-MA-A-Perfume-of-Space-26128.html",
-      "description": "Delicate and powdery, it conveys the concept of taking a pause through notes of lavender, hinoki, and white musk.",
-      "category": "Niche Fragrances",
-      "author": "Giulietta Ptoyan",
-      "published": 1789770844
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: The Future Is Vanilla",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-The-Future-Is-Vanilla-26127.html",
-      "description": "Iulia shares her discoveries of sweet fragrances from the vanilla trend at Pitti Fragranze 2026.",
-      "category": "Art Books Events",
-      "author": "Iulia Halatz",
-      "published": 1789760883
     }
   ],
   "perfumes": [
+    {
+      "title": "Vego The Bohemian — Under Pink",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Under-Pink-143671.html",
+      "description": "New perfume listing: Under Pink by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Soul’s Whisper",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Soul-s-Whisper-143670.html",
+      "description": "New perfume listing: The Soul’s Whisper by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Shadow",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Shadow-143669.html",
+      "description": "New perfume listing: The Shadow by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Origin of Emptiness",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Origin-of-Emptiness-143668.html",
+      "description": "New perfume listing: The Origin of Emptiness by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Illusion of Love",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Illusion-of-Love-143667.html",
+      "description": "New perfume listing: The Illusion of Love by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Hedonist",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Hedonist-143666.html",
+      "description": "New perfume listing: The Hedonist by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Essence of True Charisma",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Essence-of-True-Charisma-143665.html",
+      "description": "New perfume listing: The Essence of True Charisma by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — The Ego’s Agenda",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/The-Ego-s-Agenda-143664.html",
+      "description": "New perfume listing: The Ego’s Agenda by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Sublimated Libido",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Sublimated-Libido-143663.html",
+      "description": "New perfume listing: Sublimated Libido by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Spontaneously",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Spontaneously-143662.html",
+      "description": "New perfume listing: Spontaneously by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Silence and Mystery",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Silence-and-Mystery-143661.html",
+      "description": "New perfume listing: Silence and Mystery by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Sexy Tenderness",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Sexy-Tenderness-143660.html",
+      "description": "New perfume listing: Sexy Tenderness by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Septimia Zenobia",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Septimia-Zenobia-143659.html",
+      "description": "New perfume listing: Septimia Zenobia by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Sedative",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Sedative-143658.html",
+      "description": "New perfume listing: Sedative by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Reveal Your True Self",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Reveal-Your-True-Self-143657.html",
+      "description": "New perfume listing: Reveal Your True Self by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Repressed Sexual Desire",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Repressed-Sexual-Desire-143656.html",
+      "description": "New perfume listing: Repressed Sexual Desire by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Rebirth",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Rebirth-143655.html",
+      "description": "New perfume listing: Rebirth by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Pear Fragrance",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Pear-Fragrance-143654.html",
+      "description": "New perfume listing: Pear Fragrance by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Occupy Your Mind",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Occupy-Your-Mind-143653.html",
+      "description": "New perfume listing: Occupy Your Mind by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Nothing to Lose",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Nothing-to-Lose-143652.html",
+      "description": "New perfume listing: Nothing to Lose by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Nicely Romantic",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Nicely-Romantic-143651.html",
+      "description": "New perfume listing: Nicely Romantic by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Morning Lip Kiss",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Morning-Lip-Kiss-143650.html",
+      "description": "New perfume listing: Morning Lip Kiss by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Magnificent",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Magnificent-143649.html",
+      "description": "New perfume listing: Magnificent by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Listening to the Unconscious",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Listening-to-the-Unconscious-143648.html",
+      "description": "New perfume listing: Listening to the Unconscious by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Life is a Dance",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Life-is-a-Dance-143647.html",
+      "description": "New perfume listing: Life is a Dance by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "MAISON ASRAR — Ameer",
+      "link": "https://www.fragrantica.com/perfume/MAISON-ASRAR/Ameer-143646.html",
+      "description": "New perfume listing: Ameer by MAISON ASRAR.",
+      "category": "New Perfumes",
+      "author": "MAISON ASRAR",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Internal Collapse",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Internal-Collapse-143645.html",
+      "description": "New perfume listing: Internal Collapse by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Inner Peace",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Inner-Peace-143644.html",
+      "description": "New perfume listing: Inner Peace by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Individuation",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Individuation-143643.html",
+      "description": "New perfume listing: Individuation by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Gratification",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Gratification-143642.html",
+      "description": "New perfume listing: Gratification by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Full of Paradox",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Full-of-Paradox-143641.html",
+      "description": "New perfume listing: Full of Paradox by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Fertile",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Fertile-143640.html",
+      "description": "New perfume listing: Fertile by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Chase a Sensation",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Chase-a-Sensation-143639.html",
+      "description": "New perfume listing: Chase a Sensation by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Charming",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Charming-143638.html",
+      "description": "New perfume listing: Charming by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Vego The Bohemian — Camouflage",
+      "link": "https://www.fragrantica.com/perfume/Vego-The-Bohemian/Camouflage-143637.html",
+      "description": "New perfume listing: Camouflage by Vego The Bohemian.",
+      "category": "New Perfumes",
+      "author": "Vego The Bohemian",
+      "published": 1790860645
+    },
+    {
+      "title": "Inayaa Perfumes — Lemon and Oud",
+      "link": "https://www.fragrantica.com/perfume/Inayaa-Perfumes/Lemon-and-Oud-143620.html",
+      "description": "New perfume listing: Lemon and Oud by Inayaa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Inayaa Perfumes",
+      "published": 1790860645
+    },
     {
       "title": "Swiss Arabian — Echoes of St. Moritz",
       "link": "https://www.fragrantica.com/perfume/Swiss-Arabian/Echoes-of-St-Moritz-143619.html",
@@ -1312,294 +1600,6 @@
       "description": "New perfume listing: Life is a journey for her by Mandarina Duck.",
       "category": "New Perfumes",
       "author": "Mandarina Duck",
-      "published": 1790720185
-    },
-    {
-      "title": "Grande — Cookie Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Grande/Cookie-Extrait-de-Parfum-143511.html",
-      "description": "New perfume listing: Cookie Extrait de Parfum by Grande.",
-      "category": "New Perfumes",
-      "author": "Grande",
-      "published": 1790720185
-    },
-    {
-      "title": "Grande — Karak & Shisha Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Grande/Karak-Shisha-Extrait-de-Parfum-143510.html",
-      "description": "New perfume listing: Karak & Shisha Extrait de Parfum by Grande.",
-      "category": "New Perfumes",
-      "author": "Grande",
-      "published": 1790720185
-    },
-    {
-      "title": "Tesori d'Oriente — Sunrise in Copacabana - Cocco & Frangipani",
-      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Sunrise-in-Copacabana-Cocco-Frangipani-143509.html",
-      "description": "New perfume listing: Sunrise in Copacabana - Cocco & Frangipani by Tesori d'Oriente.",
-      "category": "New Perfumes",
-      "author": "Tesori d'Oriente",
-      "published": 1790720185
-    },
-    {
-      "title": "Grande — Vanilla Ash Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Grande/Vanilla-Ash-Extrait-de-Parfum-143508.html",
-      "description": "New perfume listing: Vanilla Ash Extrait de Parfum by Grande.",
-      "category": "New Perfumes",
-      "author": "Grande",
-      "published": 1790720185
-    },
-    {
-      "title": "Tesori d'Oriente — Passion Island - Vaniglia & Fiori di Sale",
-      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Passion-Island-Vaniglia-Fiori-di-Sale-143507.html",
-      "description": "New perfume listing: Passion Island - Vaniglia & Fiori di Sale by Tesori d'Oriente.",
-      "category": "New Perfumes",
-      "author": "Tesori d'Oriente",
-      "published": 1790720185
-    },
-    {
-      "title": "Tesori d'Oriente — Sunset in Hawaii - Ibisco & Peonia",
-      "link": "https://www.fragrantica.com/perfume/Tesori-d-Oriente/Sunset-in-Hawaii-Ibisco-Peonia-143506.html",
-      "description": "New perfume listing: Sunset in Hawaii - Ibisco & Peonia by Tesori d'Oriente.",
-      "category": "New Perfumes",
-      "author": "Tesori d'Oriente",
-      "published": 1790720185
-    },
-    {
-      "title": "Dossier — Gourmand Latte",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Gourmand-Latte-143584.html",
-      "description": "New perfume listing: Gourmand Latte by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1790720185
-    },
-    {
-      "title": "Dossier — Musky Another",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Musky-Another-143583.html",
-      "description": "New perfume listing: Musky Another by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1790720185
-    },
-    {
-      "title": "Dossier — Musky Orris",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Musky-Orris-143582.html",
-      "description": "New perfume listing: Musky Orris by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1790720185
-    },
-    {
-      "title": "Monsieur Arsène — 1873 Vetiver",
-      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/1873-Vetiver-143580.html",
-      "description": "New perfume listing: 1873 Vetiver by Monsieur Arsène.",
-      "category": "New Perfumes",
-      "author": "Monsieur Arsène",
-      "published": 1790720185
-    },
-    {
-      "title": "Monsieur Arsène — Galant",
-      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Galant-143579.html",
-      "description": "New perfume listing: Galant by Monsieur Arsène.",
-      "category": "New Perfumes",
-      "author": "Monsieur Arsène",
-      "published": 1790720185
-    },
-    {
-      "title": "Monsieur Arsène — Bois de Barbarie",
-      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Bois-de-Barbarie-143578.html",
-      "description": "New perfume listing: Bois de Barbarie by Monsieur Arsène.",
-      "category": "New Perfumes",
-      "author": "Monsieur Arsène",
-      "published": 1790720185
-    },
-    {
-      "title": "Monsieur Arsène — Arsène",
-      "link": "https://www.fragrantica.com/perfume/Monsieur-Arsene/Arsene-143577.html",
-      "description": "New perfume listing: Arsène by Monsieur Arsène.",
-      "category": "New Perfumes",
-      "author": "Monsieur Arsène",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Ice",
-      "link": "https://www.fragrantica.com/perfume/La-French/Ice-143576.html",
-      "description": "New perfume listing: Ice by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Café Rose",
-      "link": "https://www.fragrantica.com/perfume/La-French/Cafe-Rose-143575.html",
-      "description": "New perfume listing: Café Rose by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Mystic Oud",
-      "link": "https://www.fragrantica.com/perfume/La-French/Mystic-Oud-143574.html",
-      "description": "New perfume listing: Mystic Oud by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Smoky Vanilla",
-      "link": "https://www.fragrantica.com/perfume/La-French/Smoky-Vanilla-143573.html",
-      "description": "New perfume listing: Smoky Vanilla by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Rebel",
-      "link": "https://www.fragrantica.com/perfume/La-French/Rebel-143572.html",
-      "description": "New perfume listing: Rebel by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Nautical Noir",
-      "link": "https://www.fragrantica.com/perfume/La-French/Nautical-Noir-143571.html",
-      "description": "New perfume listing: Nautical Noir by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Timeless Homme",
-      "link": "https://www.fragrantica.com/perfume/La-French/Timeless-Homme-143570.html",
-      "description": "New perfume listing: Timeless Homme by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Control",
-      "link": "https://www.fragrantica.com/perfume/La-French/Control-143569.html",
-      "description": "New perfume listing: Control by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Pitch",
-      "link": "https://www.fragrantica.com/perfume/La-French/Pitch-143568.html",
-      "description": "New perfume listing: Pitch by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Timeless Femme",
-      "link": "https://www.fragrantica.com/perfume/La-French/Timeless-Femme-143567.html",
-      "description": "New perfume listing: Timeless Femme by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Sun Kissed",
-      "link": "https://www.fragrantica.com/perfume/La-French/Sun-Kissed-143566.html",
-      "description": "New perfume listing: Sun Kissed by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Luxure Oudh",
-      "link": "https://www.fragrantica.com/perfume/La-French/Luxure-Oudh-143565.html",
-      "description": "New perfume listing: Luxure Oudh by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Party",
-      "link": "https://www.fragrantica.com/perfume/La-French/Party-143564.html",
-      "description": "New perfume listing: Party by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "La'French — Cuddle",
-      "link": "https://www.fragrantica.com/perfume/La-French/Cuddle-143563.html",
-      "description": "New perfume listing: Cuddle by La'French.",
-      "category": "New Perfumes",
-      "author": "La'French",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Titus",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Titus-143560.html",
-      "description": "New perfume listing: Titus by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Rictus",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Rictus-143559.html",
-      "description": "New perfume listing: Rictus by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — NERON",
-      "link": "https://www.fragrantica.com/perfume/Boshara/NERON-143557.html",
-      "description": "New perfume listing: NERON by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Alexander II",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Alexander-II-143549.html",
-      "description": "New perfume listing: Alexander II by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Stardust",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Stardust-143539.html",
-      "description": "New perfume listing: Stardust by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — MALAKY",
-      "link": "https://www.fragrantica.com/perfume/Boshara/MALAKY-143538.html",
-      "description": "New perfume listing: MALAKY by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Golden",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Golden-143535.html",
-      "description": "New perfume listing: Golden by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Boshara — Crystal",
-      "link": "https://www.fragrantica.com/perfume/Boshara/Crystal-143533.html",
-      "description": "New perfume listing: Crystal by Boshara.",
-      "category": "New Perfumes",
-      "author": "Boshara",
-      "published": 1790720185
-    },
-    {
-      "title": "Riiffs Perfumes — Veloce",
-      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Veloce-143530.html",
-      "description": "New perfume listing: Veloce by Riiffs Perfumes.",
-      "category": "New Perfumes",
-      "author": "Riiffs Perfumes",
       "published": 1790720185
     }
   ]
