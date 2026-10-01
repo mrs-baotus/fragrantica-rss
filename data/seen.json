@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Pitti 2026: Dilli House and Its Prem Rouge Duo",
+      "link": "https://www.fragrantica.com/news/Pitti-2026-Dilli-House-and-Its-Prem-Rouge-Duo-26226.html",
+      "description": "Prem Rouge is a striking example of \"slow perfumery.\"",
+      "category": "Niche Fragrances",
+      "author": "Alena Lavault",
+      "published": 1790824323
+    },
+    {
+      "title": "Princess Diana's Favorite Perfumes",
+      "link": "https://www.fragrantica.com/news/Princess-Diana-s-Favorite-Perfumes-26225.html",
+      "description": "An olfactory portrait of Princess Diana that says a lot about her character.",
+      "category": "Columns",
+      "author": "Elena Knezevic",
+      "published": 1790813441
+    },
+    {
+      "title": "1 Million Black By Rabanne: Pineapple Fougère Whippy",
+      "link": "https://www.fragrantica.com/news/1-Million-Black-By-Rabanne-Pineapple-Fougere-Whippy-26224.html",
+      "description": "Herbal-fruity-creamy.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1790808002
+    },
+    {
       "title": "A Bit Hazelnutty KV by Kateryna Vel'menko Review",
       "link": "https://www.fragrantica.com/news/A-Bit-Hazelnutty-KV-by-Kateryna-Vel-menko-Review-26223.html",
       "description": "A bit vanilla-nutty with the serenity of a cup of hot chocolate and whipped cream...",
@@ -775,33 +799,41 @@
       "category": "Art Books Events",
       "author": "Iulia Halatz",
       "published": 1789760883
-    },
-    {
-      "title": "Oud: The Mirror of the Land",
-      "link": "https://www.fragrantica.com/news/Oud-The-Mirror-of-the-Land-26126.html",
-      "description": "Why oud from Laos smells different from oud from India: a comprehensive guide to natural oud oils.",
-      "category": "Columns",
-      "author": "Igor Masyukov",
-      "published": 1789747118
-    },
-    {
-      "title": "New Henry Rose: RHU BERRY",
-      "link": "https://www.fragrantica.com/news/New-Henry-Rose-RHU-BERRY-26125.html",
-      "description": "\"A fruity gourmand built on contrast: tart yet sweet, juicy yet warm, playful but polished.\"",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1789731005
-    },
-    {
-      "title": "PITTI Fragranze 2026: The Olymra Brand Made an Impression",
-      "link": "https://www.fragrantica.com/news/PITTI-Fragranze-2026-The-Olymra-Brand-Made-an-Impression-26124.html",
-      "description": "One of the highlights of the exhibition is a solidly built scientific project, translated into art.",
-      "category": "Niche Perfumery",
-      "author": "Elena Vosnaki",
-      "published": 1789710243
     }
   ],
   "perfumes": [
+    {
+      "title": "Swiss Arabian — Echoes of St. Moritz",
+      "link": "https://www.fragrantica.com/perfume/Swiss-Arabian/Echoes-of-St-Moritz-143619.html",
+      "description": "New perfume listing: Echoes of St. Moritz by Swiss Arabian.",
+      "category": "New Perfumes",
+      "author": "Swiss Arabian",
+      "published": 1790834172
+    },
+    {
+      "title": "Swiss Arabian — Shaghaf Oud Marine",
+      "link": "https://www.fragrantica.com/perfume/Swiss-Arabian/Shaghaf-Oud-Marine-143618.html",
+      "description": "New perfume listing: Shaghaf Oud Marine by Swiss Arabian.",
+      "category": "New Perfumes",
+      "author": "Swiss Arabian",
+      "published": 1790834172
+    },
+    {
+      "title": "Azman — Oh My Shisha!",
+      "link": "https://www.fragrantica.com/perfume/Azman/Oh-My-Shisha-143617.html",
+      "description": "New perfume listing: Oh My Shisha! by Azman.",
+      "category": "New Perfumes",
+      "author": "Azman",
+      "published": 1790834172
+    },
+    {
+      "title": "NBDY — Zarya",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Zarya-143616.html",
+      "description": "New perfume listing: Zarya by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1790834172
+    },
     {
       "title": "Casa Far Niente — Mayfair Manor",
       "link": "https://www.fragrantica.com/perfume/Casa-Far-Niente/Mayfair-Manor-143614.html",
@@ -1569,38 +1601,6 @@
       "category": "New Perfumes",
       "author": "Riiffs Perfumes",
       "published": 1790720185
-    },
-    {
-      "title": "Hello Stranger — Mango Please",
-      "link": "https://www.fragrantica.com/perfume/Hello-Stranger/Mango-Please-143499.html",
-      "description": "New perfume listing: Mango Please by Hello Stranger.",
-      "category": "New Perfumes",
-      "author": "Hello Stranger",
-      "published": 1790686490
-    },
-    {
-      "title": "PERDRISÂT — Crocodile Tears",
-      "link": "https://www.fragrantica.com/perfume/PERDRISAT/Crocodile-Tears-143498.html",
-      "description": "New perfume listing: Crocodile Tears by PERDRISÂT.",
-      "category": "New Perfumes",
-      "author": "PERDRISÂT",
-      "published": 1790686490
-    },
-    {
-      "title": "PERDRISÂT — Hush Money",
-      "link": "https://www.fragrantica.com/perfume/PERDRISAT/Hush-Money-143497.html",
-      "description": "New perfume listing: Hush Money by PERDRISÂT.",
-      "category": "New Perfumes",
-      "author": "PERDRISÂT",
-      "published": 1790686490
-    },
-    {
-      "title": "Godet — Royal Absolu",
-      "link": "https://www.fragrantica.com/perfume/Godet/Royal-Absolu-143496.html",
-      "description": "New perfume listing: Royal Absolu by Godet.",
-      "category": "New Perfumes",
-      "author": "Godet",
-      "published": 1790686490
     }
   ]
 }
