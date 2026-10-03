@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Natura Launches Aura Alba Dourada",
+      "link": "https://www.fragrantica.com/news/Natura-Launches-Aura-Alba-Dourada-26246.html",
+      "description": "A white rose (jacobite rose) for a gentle evening.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1791041043
+    },
+    {
+      "title": "Son of Heaven: Tenger's Son by Maison de L'Asie",
+      "link": "https://www.fragrantica.com/news/Son-of-Heaven-Tenger-s-Son-by-Maison-de-L-Asie-26245.html",
+      "description": "The steppe, the campfire, horses, and a man with no barriers before him.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1791032522
+    },
+    {
       "title": "Sikkim Lancôme: Greenery, Florals and the Orient",
       "link": "https://www.fragrantica.com/news/Sikkim-Lancome-Greenery-Florals-and-the-Orient-26244.html",
       "description": "A fragrance dedicated to a heavenly place in the Himalayas.",
@@ -783,25 +799,33 @@
       "category": "1001 Past Tales",
       "author": "Viktoria Vlasova",
       "published": 1789978444
-    },
-    {
-      "title": "The Cost of Uniformity in Perfumery. What Happens to the Original Identity?",
-      "link": "https://www.fragrantica.com/news/The-Cost-of-Uniformity-in-Perfumery-What-Happens-to-the-Original-Identity-26146.html",
-      "description": "When every fragrance is poured into the same mould. Progress or disappointments?",
-      "category": "Columns",
-      "author": "Sandra Raičević Petrović",
-      "published": 1789967043
-    },
-    {
-      "title": "Auguste Michel – A Legend of Soviet Perfumery. Part 8. The TeZhE Era",
-      "link": "https://www.fragrantica.com/news/Auguste-Michel-A-Legend-of-Soviet-Perfumery-Part-8-The-TeZhE-Era-26145.html",
-      "description": "These are the fragrances of the first Soviet perfumer that can be confirmed, with reasonable certainty, as his own creations.",
-      "category": "Vintages",
-      "author": "Viktoria Vlasova",
-      "published": 1789950781
     }
   ],
   "perfumes": [
+    {
+      "title": "Benetton — Sisterland Sweet Drama",
+      "link": "https://www.fragrantica.com/perfume/Benetton/Sisterland-Sweet-Drama-143841.html",
+      "description": "New perfume listing: Sisterland Sweet Drama by Benetton.",
+      "category": "New Perfumes",
+      "author": "Benetton",
+      "published": 1791044316
+    },
+    {
+      "title": "Benetton — Sisterland Delicious Crush",
+      "link": "https://www.fragrantica.com/perfume/Benetton/Sisterland-Delicious-Crush-143840.html",
+      "description": "New perfume listing: Sisterland Delicious Crush by Benetton.",
+      "category": "New Perfumes",
+      "author": "Benetton",
+      "published": 1791044316
+    },
+    {
+      "title": "Tom Ford — Tobacco Vanille Parfum",
+      "link": "https://www.fragrantica.com/perfume/Tom-Ford/Tobacco-Vanille-Parfum-143839.html",
+      "description": "New perfume listing: Tobacco Vanille Parfum by Tom Ford.",
+      "category": "New Perfumes",
+      "author": "Tom Ford",
+      "published": 1791044316
+    },
     {
       "title": "House of Noya — Salt-Kissed",
       "link": "https://www.fragrantica.com/perfume/House-of-Noya/Salt-Kissed-143838.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Bliss by Spirit Of Kings.",
       "category": "New Perfumes",
       "author": "Spirit Of Kings",
-      "published": 1790944613
-    },
-    {
-      "title": "Spirit Of Kings — Omnia",
-      "link": "https://www.fragrantica.com/perfume/Spirit-Of-Kings/Omnia-143713.html",
-      "description": "New perfume listing: Omnia by Spirit Of Kings.",
-      "category": "New Perfumes",
-      "author": "Spirit Of Kings",
-      "published": 1790944613
-    },
-    {
-      "title": "LC Waikiki — Boys - Black",
-      "link": "https://www.fragrantica.com/perfume/LC-Waikiki/Boys-Black-143734.html",
-      "description": "New perfume listing: Boys - Black by LC Waikiki.",
-      "category": "New Perfumes",
-      "author": "LC Waikiki",
-      "published": 1790944613
-    },
-    {
-      "title": "LC Waikiki — Girls - Rose",
-      "link": "https://www.fragrantica.com/perfume/LC-Waikiki/Girls-Rose-143733.html",
-      "description": "New perfume listing: Girls - Rose by LC Waikiki.",
-      "category": "New Perfumes",
-      "author": "LC Waikiki",
       "published": 1790944613
     }
   ]
