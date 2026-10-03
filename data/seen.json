@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Sikkim Lancôme: Greenery, Florals and the Orient",
+      "link": "https://www.fragrantica.com/news/Sikkim-Lancome-Greenery-Florals-and-the-Orient-26244.html",
+      "description": "A fragrance dedicated to a heavenly place in the Himalayas.",
+      "category": "Vintages",
+      "author": "Sergey Borisov",
+      "published": 1791025083
+    },
+    {
       "title": "MxScent 2026: A Celebration of Niche Perfumery and Mexican Talent",
       "link": "https://www.fragrantica.com/news/MxScent-2026-A-Celebration-of-Niche-Perfumery-and-Mexican-Talent-26243.html",
       "description": "MXSCENT celebrates its fifth edition.",
@@ -791,17 +799,97 @@
       "category": "Vintages",
       "author": "Viktoria Vlasova",
       "published": 1789950781
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Cra-yon Launches Young Air",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Cra-yon-Launches-Young-Air-26144.html",
-      "description": "Tam Dao in complication",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1789948469
     }
   ],
   "perfumes": [
+    {
+      "title": "House of Noya — Salt-Kissed",
+      "link": "https://www.fragrantica.com/perfume/House-of-Noya/Salt-Kissed-143838.html",
+      "description": "New perfume listing: Salt-Kissed by House of Noya.",
+      "category": "New Perfumes",
+      "author": "House of Noya",
+      "published": 1791027659
+    },
+    {
+      "title": "Naomi Jon — Strawberry Cloud",
+      "link": "https://www.fragrantica.com/perfume/Naomi-Jon/Strawberry-Cloud-143837.html",
+      "description": "New perfume listing: Strawberry Cloud by Naomi Jon.",
+      "category": "New Perfumes",
+      "author": "Naomi Jon",
+      "published": 1791027659
+    },
+    {
+      "title": "essence — 01 Feels Like A Hug",
+      "link": "https://www.fragrantica.com/perfume/essence/01-Feels-Like-A-Hug-143836.html",
+      "description": "New perfume listing: 01 Feels Like A Hug by essence.",
+      "category": "New Perfumes",
+      "author": "essence",
+      "published": 1791027659
+    },
+    {
+      "title": "House of Thêom — Silent Seduction",
+      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Silent-Seduction-143835.html",
+      "description": "New perfume listing: Silent Seduction by House of Thêom.",
+      "category": "New Perfumes",
+      "author": "House of Thêom",
+      "published": 1791027659
+    },
+    {
+      "title": "House of Thêom — Rosy Whisper",
+      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Rosy-Whisper-143834.html",
+      "description": "New perfume listing: Rosy Whisper by House of Thêom.",
+      "category": "New Perfumes",
+      "author": "House of Thêom",
+      "published": 1791027659
+    },
+    {
+      "title": "Nihan — Extrait d’Amour",
+      "link": "https://www.fragrantica.com/perfume/Nihan/Extrait-d-Amour-143833.html",
+      "description": "New perfume listing: Extrait d’Amour by Nihan.",
+      "category": "New Perfumes",
+      "author": "Nihan",
+      "published": 1791027659
+    },
+    {
+      "title": "ZARKOPERFUME — The Muse Velvet Vanilla",
+      "link": "https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Muse-Velvet-Vanilla-143832.html",
+      "description": "New perfume listing: The Muse Velvet Vanilla by ZARKOPERFUME.",
+      "category": "New Perfumes",
+      "author": "ZARKOPERFUME",
+      "published": 1791027659
+    },
+    {
+      "title": "Yosha Soul — AL HAMRA",
+      "link": "https://www.fragrantica.com/perfume/Yosha-Soul/AL-HAMRA-143831.html",
+      "description": "New perfume listing: AL HAMRA by Yosha Soul.",
+      "category": "New Perfumes",
+      "author": "Yosha Soul",
+      "published": 1791027659
+    },
+    {
+      "title": "Soie Sublime — Encens",
+      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Encens-143830.html",
+      "description": "New perfume listing: Encens by Soie Sublime.",
+      "category": "New Perfumes",
+      "author": "Soie Sublime",
+      "published": 1791027659
+    },
+    {
+      "title": "Soie Sublime — Somari",
+      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Somari-143829.html",
+      "description": "New perfume listing: Somari by Soie Sublime.",
+      "category": "New Perfumes",
+      "author": "Soie Sublime",
+      "published": 1791027659
+    },
+    {
+      "title": "Soie Sublime — Alba",
+      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Alba-143828.html",
+      "description": "New perfume listing: Alba by Soie Sublime.",
+      "category": "New Perfumes",
+      "author": "Soie Sublime",
+      "published": 1791027659
+    },
     {
       "title": "Sophia Mae — Written In Sand",
       "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Written-In-Sand-143827.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "LC Waikiki",
       "published": 1790944613
-    },
-    {
-      "title": "LC Waikiki — Girls - Green",
-      "link": "https://www.fragrantica.com/perfume/LC-Waikiki/Girls-Green-143732.html",
-      "description": "New perfume listing: Girls - Green by LC Waikiki.",
-      "category": "New Perfumes",
-      "author": "LC Waikiki",
-      "published": 1790944613
-    },
-    {
-      "title": "Disney — Cinderella Pink",
-      "link": "https://www.fragrantica.com/perfume/Disney/Cinderella-Pink-143731.html",
-      "description": "New perfume listing: Cinderella Pink by Disney.",
-      "category": "New Perfumes",
-      "author": "Disney",
-      "published": 1790944613
-    },
-    {
-      "title": "Clean — Matcha Mood",
-      "link": "https://www.fragrantica.com/perfume/Clean/Matcha-Mood-143729.html",
-      "description": "New perfume listing: Matcha Mood by Clean.",
-      "category": "New Perfumes",
-      "author": "Clean",
-      "published": 1790944613
-    },
-    {
-      "title": "Armaf — La Rosa Gold Edition",
-      "link": "https://www.fragrantica.com/perfume/Armaf/La-Rosa-Gold-Edition-143728.html",
-      "description": "New perfume listing: La Rosa Gold Edition by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1790944613
-    },
-    {
-      "title": "EYS — REVOLT",
-      "link": "https://www.fragrantica.com/perfume/EYS/REVOLT-143723.html",
-      "description": "New perfume listing: REVOLT by EYS.",
-      "category": "New Perfumes",
-      "author": "EYS",
-      "published": 1790944613
-    },
-    {
-      "title": "Volaré — Divine Gold",
-      "link": "https://www.fragrantica.com/perfume/Volare/Divine-Gold-143712.html",
-      "description": "New perfume listing: Divine Gold by Volaré.",
-      "category": "New Perfumes",
-      "author": "Volaré",
-      "published": 1790944613
-    },
-    {
-      "title": "Aroma Concepts — Lush Layal",
-      "link": "https://www.fragrantica.com/perfume/Aroma-Concepts/Lush-Layal-143711.html",
-      "description": "New perfume listing: Lush Layal by Aroma Concepts.",
-      "category": "New Perfumes",
-      "author": "Aroma Concepts",
-      "published": 1790944613
-    },
-    {
-      "title": "Lattafa Perfumes — Blue Oud Elixir",
-      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Blue-Oud-Elixir-143710.html",
-      "description": "New perfume listing: Blue Oud Elixir by Lattafa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Lattafa Perfumes",
-      "published": 1790944613
-    },
-    {
-      "title": "Inayaa Perfumes — Lemon and Oud",
-      "link": "https://www.fragrantica.com/perfume/Inayaa-Perfumes/Lemon-and-Oud-143620.html",
-      "description": "New perfume listing: Lemon and Oud by Inayaa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Inayaa Perfumes",
-      "published": 1790944613
-    },
-    {
-      "title": "Miraj — Serpent",
-      "link": "https://www.fragrantica.com/perfume/Miraj/Serpent-143709.html",
-      "description": "New perfume listing: Serpent by Miraj.",
-      "category": "New Perfumes",
-      "author": "Miraj",
-      "published": 1790919549
-    },
-    {
-      "title": "LELAS — Vert",
-      "link": "https://www.fragrantica.com/perfume/LELAS/Vert-143612.html",
-      "description": "New perfume listing: Vert by LELAS.",
-      "category": "New Perfumes",
-      "author": "LELAS",
-      "published": 1790919549
     }
   ]
 }
