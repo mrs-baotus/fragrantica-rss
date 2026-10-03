@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "MxScent 2026: A Celebration of Niche Perfumery and Mexican Talent",
+      "link": "https://www.fragrantica.com/news/MxScent-2026-A-Celebration-of-Niche-Perfumery-and-Mexican-Talent-26243.html",
+      "description": "MXSCENT celebrates its fifth edition.",
+      "category": "Art Books Events",
+      "author": "Nayeli Cano",
+      "published": 1791002883
+    },
+    {
+      "title": "TFWA 2026 On & Off: An Overview of the Trends",
+      "link": "https://www.fragrantica.com/news/TFWA-2026-On-Off-An-Overview-of-the-Trends-26242.html",
+      "description": "A look back at the key highlights of the 2026 edition of the TFWA (on & off-site) which took place in Cannes from September 27 to October 1.",
+      "category": "Art Books Events",
+      "author": "Sophie Normand",
+      "published": 1790984223
+    },
+    {
       "title": "Dolce Vita & Dune DIOR (2026) Review",
       "link": "https://www.fragrantica.com/news/Dolce-Vita-Dune-DIOR-2026-Review-26241.html",
       "description": "Good job!",
@@ -783,25 +799,105 @@
       "category": "New Fragrances",
       "author": "Eddie Bulliqi",
       "published": 1789948469
-    },
-    {
-      "title": "Pecan Butter Cookie: What Arabiyat Sugar Made From Flour, Nuts, and Sugar",
-      "link": "https://www.fragrantica.com/news/Pecan-Butter-Cookie-What-Arabiyat-Sugar-Made-From-Flour-Nuts-and-Sugar-26143.html",
-      "description": "An American treat from an Arabic brand.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1789941903
-    },
-    {
-      "title": "Obart Fragrance Primer P3 - Another Broken Promise On My Skin",
-      "link": "https://www.fragrantica.com/news/Obart-Fragrance-Primer-P3-Another-Broken-Promise-On-My-Skin-26142.html",
-      "description": "A moisturizing fluid is never a bad idea, but does it really amplify scent?",
-      "category": "Columns",
-      "author": "Miguel Matos",
-      "published": 1789925992
     }
   ],
   "perfumes": [
+    {
+      "title": "Sophia Mae — Written In Sand",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Written-In-Sand-143827.html",
+      "description": "New perfume listing: Written In Sand by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Kept For A While",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Kept-For-A-While-143826.html",
+      "description": "New perfume listing: Kept For A While by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Soft Summer Kiss",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Soft-Summer-Kiss-143825.html",
+      "description": "New perfume listing: Soft Summer Kiss by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Modern Myth",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Modern-Myth-143824.html",
+      "description": "New perfume listing: Modern Myth by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Without Saying Much",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Without-Saying-Much-143823.html",
+      "description": "New perfume listing: Without Saying Much by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Arctic Spice",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Arctic-Spice-143822.html",
+      "description": "New perfume listing: Arctic Spice by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Still in Bloom",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Still-in-Bloom-143821.html",
+      "description": "New perfume listing: Still in Bloom by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Sophia Mae — Whispers of Elegance",
+      "link": "https://www.fragrantica.com/perfume/Sophia-Mae/Whispers-of-Elegance-143820.html",
+      "description": "New perfume listing: Whispers of Elegance by Sophia Mae.",
+      "category": "New Perfumes",
+      "author": "Sophia Mae",
+      "published": 1791004808
+    },
+    {
+      "title": "Natura — Aura Alba Dourada",
+      "link": "https://www.fragrantica.com/perfume/Natura/Aura-Alba-Dourada-143819.html",
+      "description": "New perfume listing: Aura Alba Dourada by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1791004808
+    },
+    {
+      "title": "NBDY — Amore Fati",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Amore-Fati-143817.html",
+      "description": "New perfume listing: Amore Fati by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1791004808
+    },
+    {
+      "title": "NBDY — Atlas Dore",
+      "link": "https://www.fragrantica.com/perfume/NBDY/Atlas-Dore-143816.html",
+      "description": "New perfume listing: Atlas Dore by NBDY.",
+      "category": "New Perfumes",
+      "author": "NBDY",
+      "published": 1791004808
+    },
+    {
+      "title": "Alchemy Bath — Fairy Cakes",
+      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Fairy-Cakes-143818.html",
+      "description": "New perfume listing: Fairy Cakes by Alchemy Bath.",
+      "category": "New Perfumes",
+      "author": "Alchemy Bath",
+      "published": 1791004808
+    },
     {
       "title": "NBDY — Altier Ego",
       "link": "https://www.fragrantica.com/perfume/NBDY/Altier-Ego-143815.html",
@@ -1505,102 +1601,6 @@
       "category": "New Perfumes",
       "author": "LELAS",
       "published": 1790919549
-    },
-    {
-      "title": "Loui Martin — Royal Tobacco",
-      "link": "https://www.fragrantica.com/perfume/Loui-Martin/Royal-Tobacco-143611.html",
-      "description": "New perfume listing: Royal Tobacco by Loui Martin.",
-      "category": "New Perfumes",
-      "author": "Loui Martin",
-      "published": 1790919549
-    },
-    {
-      "title": "Bi-es — Blossom Garden",
-      "link": "https://www.fragrantica.com/perfume/Bi-es/Blossom-Garden-143606.html",
-      "description": "New perfume listing: Blossom Garden by Bi-es.",
-      "category": "New Perfumes",
-      "author": "Bi-es",
-      "published": 1790919549
-    },
-    {
-      "title": "Nishane — Hold Me Closer",
-      "link": "https://www.fragrantica.com/perfume/Nishane/Hold-Me-Closer-143708.html",
-      "description": "New perfume listing: Hold Me Closer by Nishane.",
-      "category": "New Perfumes",
-      "author": "Nishane",
-      "published": 1790894525
-    },
-    {
-      "title": "Quint — Oud Magna",
-      "link": "https://www.fragrantica.com/perfume/Quint/Oud-Magna-143707.html",
-      "description": "New perfume listing: Oud Magna by Quint.",
-      "category": "New Perfumes",
-      "author": "Quint",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Chocolate Spicy",
-      "link": "https://www.fragrantica.com/perfume/Extract/Chocolate-Spicy-143706.html",
-      "description": "New perfume listing: Chocolate Spicy by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Bergamot Wood",
-      "link": "https://www.fragrantica.com/perfume/Extract/Bergamot-Wood-143705.html",
-      "description": "New perfume listing: Bergamot Wood by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Orris Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Extract/Orris-Patchouli-143704.html",
-      "description": "New perfume listing: Orris Patchouli by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Pear Aloe",
-      "link": "https://www.fragrantica.com/perfume/Extract/Pear-Aloe-143703.html",
-      "description": "New perfume listing: Pear Aloe by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Mint Forest",
-      "link": "https://www.fragrantica.com/perfume/Extract/Mint-Forest-143702.html",
-      "description": "New perfume listing: Mint Forest by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Oud Cardamom",
-      "link": "https://www.fragrantica.com/perfume/Extract/Oud-Cardamom-143701.html",
-      "description": "New perfume listing: Oud Cardamom by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Coconut Confession",
-      "link": "https://www.fragrantica.com/perfume/Extract/Coconut-Confession-143700.html",
-      "description": "New perfume listing: Coconut Confession by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
-    },
-    {
-      "title": "Extract — Violet Mandarin",
-      "link": "https://www.fragrantica.com/perfume/Extract/Violet-Mandarin-143699.html",
-      "description": "New perfume listing: Violet Mandarin by Extract.",
-      "category": "New Perfumes",
-      "author": "Extract",
-      "published": 1790894525
     }
   ]
 }
