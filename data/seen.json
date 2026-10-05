@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "M.Micallef unveils Habano Puro in the Secrets of Love collection",
+      "link": "https://www.fragrantica.com/news/M-Micallef-unveils-Habano-Puro-in-the-Secrets-of-Love-collection-26258.html",
+      "description": "A novelty inspired by the captivating atmosphere of Cuba and the timeless elegance of the Habano cigar.",
+      "category": "Video",
+      "author": "New Fragrances",
+      "published": 1791171123
+    },
+    {
+      "title": "CANNES 2026: HOUSE OF NOYA Salt-Kissed",
+      "link": "https://www.fragrantica.com/news/CANNES-2026-HOUSE-OF-NOYA-Salt-Kissed-26257.html",
+      "description": "House of Noya Salt-Kissed is giving us the memory of sun and salt!",
+      "category": "Niche Perfumery",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791160563
+    },
+    {
+      "title": "Athénaïs by Parfums de Marly: Fleur d’Oranger Flamboyante",
+      "link": "https://www.fragrantica.com/news/Athenais-by-Parfums-de-Marly-Fleur-d-Oranger-Flamboyante-26256.html",
+      "description": "Sunny, honeyed, endlessly long-lasting and extraordinarily diffusive — this is the orange blossom at the heart of the new Athénaïs by Parfums de Marly.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1791155763
+    },
+    {
       "title": "XERJOFF in Cannes: An Exclusive Preview of What Comes Next",
       "link": "https://www.fragrantica.com/news/XERJOFF-in-Cannes-An-Exclusive-Preview-of-What-Comes-Next-26255.html",
       "description": "Sandrina is sharing the first look at Xerjoff’s forthcoming creations, exclusively presented at TFWA 2026 in Cannes.",
@@ -775,33 +799,137 @@
       "category": "New Fragrances",
       "author": "Nicola Thomis",
       "published": 1790089683
-    },
-    {
-      "title": "Qing Xuan by Outis: Tao de Parfum",
-      "link": "https://www.fragrantica.com/news/Qing-Xuan-by-Outis-Tao-de-Parfum-26158.html",
-      "description": "Lao Tzu approves.",
-      "category": "Fragrance Reviews",
-      "author": "Andrei Lensky",
-      "published": 1790078400
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: Carthusia Presents Intenso di Sandalo & Intenso di Nero",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Carthusia-Presents-Intenso-di-Sandalo-Intenso-di-Nero-26157.html",
-      "description": "Rich, warm compositions from Italy",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1790076363
-    },
-    {
-      "title": "Sogdian Letters by SUOYIN: A Voice Crying in the Wilderness",
-      "link": "https://www.fragrantica.com/news/Sogdian-Letters-by-SUOYIN-A-Voice-Crying-in-the-Wilderness-26156.html",
-      "description": "“I would rather be a dog’s or a pig’s wife than yours!”",
-      "category": "Fragrance Reviews",
-      "author": "Andrei Lensky",
-      "published": 1790063283
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Bare Oud",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bare-Oud-143918.html",
+      "description": "New perfume listing: Bare Oud by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Banana Booz",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Banana-Booz-143917.html",
+      "description": "New perfume listing: Banana Booz by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Encore",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Encore-143916.html",
+      "description": "New perfume listing: Encore by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Baked Bliss",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Baked-Bliss-143915.html",
+      "description": "New perfume listing: Baked Bliss by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Bad N Boujee",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bad-N-Boujee-143914.html",
+      "description": "New perfume listing: Bad N Boujee by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Baddie",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Baddie-143913.html",
+      "description": "New perfume listing: Baddie by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Baccarat Oud",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Baccarat-Oud-143912.html",
+      "description": "New perfume listing: Baccarat Oud by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "BeauFort London — Sunken Tobacco",
+      "link": "https://www.fragrantica.com/perfume/BeauFort-London/Sunken-Tobacco-143911.html",
+      "description": "New perfume listing: Sunken Tobacco by BeauFort London.",
+      "category": "New Perfumes",
+      "author": "BeauFort London",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Beauty and the Beast",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Beauty-and-the-Beast-143925.html",
+      "description": "New perfume listing: Beauty and the Beast by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Beautiful Lady",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Beautiful-Lady-143924.html",
+      "description": "New perfume listing: Beautiful Lady by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Beach Vibe",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Beach-Vibe-143923.html",
+      "description": "New perfume listing: Beach Vibe by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Banger",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Banger-143922.html",
+      "description": "New perfume listing: Banger by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Barrel Breeze",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Barrel-Breeze-143921.html",
+      "description": "New perfume listing: Barrel Breeze by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Be Happy",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Be-Happy-143920.html",
+      "description": "New perfume listing: Be Happy by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Bujairami — Ballerina",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ballerina-143919.html",
+      "description": "New perfume listing: Ballerina by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791178938
+    },
+    {
+      "title": "Alchemy Bath — Fairy Cakes",
+      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Fairy-Cakes-143818.html",
+      "description": "New perfume listing: Fairy Cakes by Alchemy Bath.",
+      "category": "New Perfumes",
+      "author": "Alchemy Bath",
+      "published": 1791178938
+    },
     {
       "title": "Ggema — Soleil Rose",
       "link": "https://www.fragrantica.com/perfume/Ggema/Soleil-Rose-143910.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Dua Brand",
       "published": 1791062231
-    },
-    {
-      "title": "The Dua Brand — Candied Date Delight",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Candied-Date-Delight-143843.html",
-      "description": "New perfume listing: Candied Date Delight by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791062231
-    },
-    {
-      "title": "English Laundry — Midnight Gold",
-      "link": "https://www.fragrantica.com/perfume/English-Laundry/Midnight-Gold-143842.html",
-      "description": "New perfume listing: Midnight Gold by English Laundry.",
-      "category": "New Perfumes",
-      "author": "English Laundry",
-      "published": 1791062231
-    },
-    {
-      "title": "Benetton — Sisterland Sweet Drama",
-      "link": "https://www.fragrantica.com/perfume/Benetton/Sisterland-Sweet-Drama-143841.html",
-      "description": "New perfume listing: Sisterland Sweet Drama by Benetton.",
-      "category": "New Perfumes",
-      "author": "Benetton",
-      "published": 1791044316
-    },
-    {
-      "title": "Benetton — Sisterland Delicious Crush",
-      "link": "https://www.fragrantica.com/perfume/Benetton/Sisterland-Delicious-Crush-143840.html",
-      "description": "New perfume listing: Sisterland Delicious Crush by Benetton.",
-      "category": "New Perfumes",
-      "author": "Benetton",
-      "published": 1791044316
-    },
-    {
-      "title": "Tom Ford — Tobacco Vanille Parfum",
-      "link": "https://www.fragrantica.com/perfume/Tom-Ford/Tobacco-Vanille-Parfum-143839.html",
-      "description": "New perfume listing: Tobacco Vanille Parfum by Tom Ford.",
-      "category": "New Perfumes",
-      "author": "Tom Ford",
-      "published": 1791044316
-    },
-    {
-      "title": "House of Noya — Salt-Kissed",
-      "link": "https://www.fragrantica.com/perfume/House-of-Noya/Salt-Kissed-143838.html",
-      "description": "New perfume listing: Salt-Kissed by House of Noya.",
-      "category": "New Perfumes",
-      "author": "House of Noya",
-      "published": 1791027659
-    },
-    {
-      "title": "Naomi Jon — Strawberry Cloud",
-      "link": "https://www.fragrantica.com/perfume/Naomi-Jon/Strawberry-Cloud-143837.html",
-      "description": "New perfume listing: Strawberry Cloud by Naomi Jon.",
-      "category": "New Perfumes",
-      "author": "Naomi Jon",
-      "published": 1791027659
-    },
-    {
-      "title": "essence — 01 Feels Like A Hug",
-      "link": "https://www.fragrantica.com/perfume/essence/01-Feels-Like-A-Hug-143836.html",
-      "description": "New perfume listing: 01 Feels Like A Hug by essence.",
-      "category": "New Perfumes",
-      "author": "essence",
-      "published": 1791027659
-    },
-    {
-      "title": "House of Thêom — Silent Seduction",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Silent-Seduction-143835.html",
-      "description": "New perfume listing: Silent Seduction by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1791027659
-    },
-    {
-      "title": "House of Thêom — Rosy Whisper",
-      "link": "https://www.fragrantica.com/perfume/House-of-Theom/Rosy-Whisper-143834.html",
-      "description": "New perfume listing: Rosy Whisper by House of Thêom.",
-      "category": "New Perfumes",
-      "author": "House of Thêom",
-      "published": 1791027659
-    },
-    {
-      "title": "Nihan — Extrait d’Amour",
-      "link": "https://www.fragrantica.com/perfume/Nihan/Extrait-d-Amour-143833.html",
-      "description": "New perfume listing: Extrait d’Amour by Nihan.",
-      "category": "New Perfumes",
-      "author": "Nihan",
-      "published": 1791027659
-    },
-    {
-      "title": "ZARKOPERFUME — The Muse Velvet Vanilla",
-      "link": "https://www.fragrantica.com/perfume/ZARKOPERFUME/The-Muse-Velvet-Vanilla-143832.html",
-      "description": "New perfume listing: The Muse Velvet Vanilla by ZARKOPERFUME.",
-      "category": "New Perfumes",
-      "author": "ZARKOPERFUME",
-      "published": 1791027659
-    },
-    {
-      "title": "Yosha Soul — AL HAMRA",
-      "link": "https://www.fragrantica.com/perfume/Yosha-Soul/AL-HAMRA-143831.html",
-      "description": "New perfume listing: AL HAMRA by Yosha Soul.",
-      "category": "New Perfumes",
-      "author": "Yosha Soul",
-      "published": 1791027659
-    },
-    {
-      "title": "Soie Sublime — Encens",
-      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Encens-143830.html",
-      "description": "New perfume listing: Encens by Soie Sublime.",
-      "category": "New Perfumes",
-      "author": "Soie Sublime",
-      "published": 1791027659
-    },
-    {
-      "title": "Soie Sublime — Somari",
-      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Somari-143829.html",
-      "description": "New perfume listing: Somari by Soie Sublime.",
-      "category": "New Perfumes",
-      "author": "Soie Sublime",
-      "published": 1791027659
-    },
-    {
-      "title": "Soie Sublime — Alba",
-      "link": "https://www.fragrantica.com/perfume/Soie-Sublime/Alba-143828.html",
-      "description": "New perfume listing: Alba by Soie Sublime.",
-      "category": "New Perfumes",
-      "author": "Soie Sublime",
-      "published": 1791027659
     }
   ]
 }
