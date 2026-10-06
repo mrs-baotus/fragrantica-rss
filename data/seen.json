@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Rituals Launches A New Collection That Celebrates the Art of Perfume: Aeonian",
+      "link": "https://www.fragrantica.com/news/Rituals-Launches-A-New-Collection-That-Celebrates-the-Art-of-Perfume-Aeonian-26268.html",
+      "description": "A collection of eight unisex creations that are announced to last 24 hours.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1791266403
+    },
+    {
+      "title": "LATTAFA Fearless",
+      "link": "https://www.fragrantica.com/news/LATTAFA-Fearless-26267.html",
+      "description": "Inspired by “the codebreaker,” Fearless expresses individuality through this interplay of vivid fruit and darker textures, a distinctive composition with an assured presence.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791255603
+    },
+    {
       "title": "Love Letter: A Melancholy Enjoyed with a Heart at Peace",
       "link": "https://www.fragrantica.com/news/Love-Letter-A-Melancholy-Enjoyed-with-a-Heart-at-Peace-26266.html",
       "description": "Life gave me L’Heure Bleue 2026. It sent me digging for Love Letter.",
@@ -783,25 +799,137 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1790188203
-    },
-    {
-      "title": "Clean Reserve Launch Dark Cherry Intense",
-      "link": "https://www.fragrantica.com/news/Clean-Reserve-Launch-Dark-Cherry-Intense-26168.html",
-      "description": "The scent invites customers to imagine Whipped Cherry after dark",
-      "category": "New Fragrances",
-      "author": "Nicola Thomis",
-      "published": 1790181003
-    },
-    {
-      "title": "Patchouli Spirit by Nicolaï, a Return to the Roots",
-      "link": "https://www.fragrantica.com/news/Patchouli-Spirit-by-Nicolai-a-Return-to-the-Roots-26167.html",
-      "description": "The great return of Patricia de Nicolaï: a French patchouli with autumnal atmospheres",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1790170203
     }
   ],
   "perfumes": [
+    {
+      "title": "Commodity — Spice -",
+      "link": "https://www.fragrantica.com/perfume/Commodity/Spice-144014.html",
+      "description": "New perfume listing: Spice - by Commodity.",
+      "category": "New Perfumes",
+      "author": "Commodity",
+      "published": 1791267749
+    },
+    {
+      "title": "Commodity — Spice",
+      "link": "https://www.fragrantica.com/perfume/Commodity/Spice-144013.html",
+      "description": "New perfume listing: Spice by Commodity.",
+      "category": "New Perfumes",
+      "author": "Commodity",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Oak Shade",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Oak-Shade-144012.html",
+      "description": "New perfume listing: Oak Shade by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLK Cosmetics — Candied Kisses",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Candied-Kisses-144011.html",
+      "description": "New perfume listing: Candied Kisses by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791267749
+    },
+    {
+      "title": "BLK Cosmetics — Slow Dance",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Slow-Dance-144010.html",
+      "description": "New perfume listing: Slow Dance by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791267749
+    },
+    {
+      "title": "BLK Cosmetics — Quiet Ember",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Quiet-Ember-144009.html",
+      "description": "New perfume listing: Quiet Ember by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Rain Noir",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Rain-Noir-144008.html",
+      "description": "New perfume listing: Rain Noir by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLK Cosmetics — Al Fresco Summer",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Al-Fresco-Summer-144007.html",
+      "description": "New perfume listing: Al Fresco Summer by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Maison Al Oud",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Maison-Al-Oud-144006.html",
+      "description": "New perfume listing: Maison Al Oud by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLK Cosmetics — Lazy Mornings",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Lazy-Mornings-144005.html",
+      "description": "New perfume listing: Lazy Mornings by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Wolfgang",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Wolfgang-144004.html",
+      "description": "New perfume listing: Wolfgang by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Nightfall",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Nightfall-144003.html",
+      "description": "New perfume listing: Nightfall by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Bright",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Bright-144002.html",
+      "description": "New perfume listing: Bright by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "BLACKSTAG — Pulse",
+      "link": "https://www.fragrantica.com/perfume/BLACKSTAG/Pulse-144001.html",
+      "description": "New perfume listing: Pulse by BLACKSTAG.",
+      "category": "New Perfumes",
+      "author": "BLACKSTAG",
+      "published": 1791267749
+    },
+    {
+      "title": "Nous Tous — Aroma Crudo",
+      "link": "https://www.fragrantica.com/perfume/Nous-Tous/Aroma-Crudo-144000.html",
+      "description": "New perfume listing: Aroma Crudo by Nous Tous.",
+      "category": "New Perfumes",
+      "author": "Nous Tous",
+      "published": 1791267749
+    },
+    {
+      "title": "Lattafa Perfumes — Atlas Glacial Valley",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Atlas-Glacial-Valley-143900.html",
+      "description": "New perfume listing: Atlas Glacial Valley by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1791267749
+    },
     {
       "title": "Rituals — Amber Addiction",
       "link": "https://www.fragrantica.com/perfume/Rituals/Amber-Addiction-143999.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bujairami",
       "published": 1791178938
-    },
-    {
-      "title": "Bujairami — Beach Vibe",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Beach-Vibe-143923.html",
-      "description": "New perfume listing: Beach Vibe by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791178938
-    },
-    {
-      "title": "Bujairami — Banger",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Banger-143922.html",
-      "description": "New perfume listing: Banger by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791178938
-    },
-    {
-      "title": "Bujairami — Barrel Breeze",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Barrel-Breeze-143921.html",
-      "description": "New perfume listing: Barrel Breeze by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791178938
-    },
-    {
-      "title": "Bujairami — Be Happy",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Be-Happy-143920.html",
-      "description": "New perfume listing: Be Happy by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791178938
-    },
-    {
-      "title": "Bujairami — Ballerina",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Ballerina-143919.html",
-      "description": "New perfume listing: Ballerina by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791178938
-    },
-    {
-      "title": "Alchemy Bath — Fairy Cakes",
-      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Fairy-Cakes-143818.html",
-      "description": "New perfume listing: Fairy Cakes by Alchemy Bath.",
-      "category": "New Perfumes",
-      "author": "Alchemy Bath",
-      "published": 1791178938
-    },
-    {
-      "title": "Ggema — Soleil Rose",
-      "link": "https://www.fragrantica.com/perfume/Ggema/Soleil-Rose-143910.html",
-      "description": "New perfume listing: Soleil Rose by Ggema.",
-      "category": "New Perfumes",
-      "author": "Ggema",
-      "published": 1791149205
-    },
-    {
-      "title": "Ggema — Golden Trail",
-      "link": "https://www.fragrantica.com/perfume/Ggema/Golden-Trail-143909.html",
-      "description": "New perfume listing: Golden Trail by Ggema.",
-      "category": "New Perfumes",
-      "author": "Ggema",
-      "published": 1791149205
-    },
-    {
-      "title": "Ggema — Solar Oud",
-      "link": "https://www.fragrantica.com/perfume/Ggema/Solar-Oud-143908.html",
-      "description": "New perfume listing: Solar Oud by Ggema.",
-      "category": "New Perfumes",
-      "author": "Ggema",
-      "published": 1791149205
-    },
-    {
-      "title": "Ggema — Lederis",
-      "link": "https://www.fragrantica.com/perfume/Ggema/Lederis-143907.html",
-      "description": "New perfume listing: Lederis by Ggema.",
-      "category": "New Perfumes",
-      "author": "Ggema",
-      "published": 1791149205
-    },
-    {
-      "title": "twentysecondofmay — Skin to Skin",
-      "link": "https://www.fragrantica.com/perfume/twentysecondofmay/Skin-to-Skin-143906.html",
-      "description": "New perfume listing: Skin to Skin by twentysecondofmay.",
-      "category": "New Perfumes",
-      "author": "twentysecondofmay",
-      "published": 1791149205
-    },
-    {
-      "title": "IVY & LANE — Creamy Vibes",
-      "link": "https://www.fragrantica.com/perfume/IVY-LANE/Creamy-Vibes-143905.html",
-      "description": "New perfume listing: Creamy Vibes by IVY & LANE.",
-      "category": "New Perfumes",
-      "author": "IVY & LANE",
-      "published": 1791149205
-    },
-    {
-      "title": "Max Philip — Ocean",
-      "link": "https://www.fragrantica.com/perfume/Max-Philip/Ocean-143904.html",
-      "description": "New perfume listing: Ocean by Max Philip.",
-      "category": "New Perfumes",
-      "author": "Max Philip",
-      "published": 1791149205
-    },
-    {
-      "title": "Jo Malone London — Vanilla Scotch",
-      "link": "https://www.fragrantica.com/perfume/Jo-Malone-London/Vanilla-Scotch-143903.html",
-      "description": "New perfume listing: Vanilla Scotch by Jo Malone London.",
-      "category": "New Perfumes",
-      "author": "Jo Malone London",
-      "published": 1791149205
-    },
-    {
-      "title": "Fugazzi — Beehive Yourself",
-      "link": "https://www.fragrantica.com/perfume/Fugazzi/Beehive-Yourself-143902.html",
-      "description": "New perfume listing: Beehive Yourself by Fugazzi.",
-      "category": "New Perfumes",
-      "author": "Fugazzi",
-      "published": 1791149205
-    },
-    {
-      "title": "Puccini Paris — Pulsions",
-      "link": "https://www.fragrantica.com/perfume/Puccini-Paris/Pulsions-143901.html",
-      "description": "New perfume listing: Pulsions by Puccini Paris.",
-      "category": "New Perfumes",
-      "author": "Puccini Paris",
-      "published": 1791149205
     }
   ]
 }
