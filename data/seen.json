@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "SANE WITCH’S LITTLE ROSE GARDEN: ROSA PHILOSOPHICA",
+      "link": "https://www.fragrantica.com/news/SANE-WITCH-S-LITTLE-ROSE-GARDEN-ROSA-PHILOSOPHICA-26289.html",
+      "description": "How to push off from \"Shalimar\" to create something different and new... without straying far from the old.",
+      "category": "Fragrance Reviews",
+      "author": "Alex (Sane-Witch) Osipov",
+      "published": 1791464523
+    },
+    {
+      "title": "TFWA 2026: Parlux – Kenneth Cole Inspire, Eilish Intense and More",
+      "link": "https://www.fragrantica.com/news/TFWA-2026-Parlux-Kenneth-Cole-Inspire-Eilish-Intense-and-More-26288.html",
+      "description": "At TFWA World Exhibition & Conference 2026 in Cannes, Parlux presented a varied portfolio of recent launches and upcoming projects, spanning its partnerships with Kenneth Cole, Billie Eilish, Drake's Better World Fragrance House, Paris Hilton, and...",
+      "category": "Video",
+      "author": "Art Books Events",
+      "published": 1791461042
+    },
+    {
+      "title": "Frankly, Added a Great Heat Wave Fragrance",
+      "link": "https://www.fragrantica.com/news/Frankly-Added-a-Great-Heat-Wave-Fragrance-26287.html",
+      "description": "\"The comfort of a perfectly worn white tee, barely there yet undeniable.\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1791450722
+    },
+    {
       "title": "Parfums Quartana’s Bleeding Heart: A Delicious Fatal Potion Filled With Self-Love",
       "link": "https://www.fragrantica.com/news/Parfums-Quartana-s-Bleeding-Heart-A-Delicious-Fatal-Potion-Filled-With-Self-Love-26286.html",
       "description": "The house releases its tenth perfume based on poison flowers, an edgy flormand that attempts to transform heartbreak",
@@ -775,33 +799,129 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1790435164
-    },
-    {
-      "title": "Introducing Belnu and Its Two New Fragrances",
-      "link": "https://www.fragrantica.com/news/Introducing-Belnu-and-Its-Two-New-Fragrances-26189.html",
-      "description": "Fine fragrances crafted around core essential oils, chosen for their mood-enhancing qualities.",
-      "category": "Niche Perfumery",
-      "author": "Bella van der Weerd",
-      "published": 1790399584
-    },
-    {
-      "title": "Brazil Has a Scent: Meet Brasco",
-      "link": "https://www.fragrantica.com/news/Brazil-Has-a-Scent-Meet-Brasco-26188.html",
-      "description": "A new Brazilian house seeks its identity not in the country as seen from the outside, but in the one lived every day.",
-      "category": "New Fragrances",
-      "author": "Jernê Knowles",
-      "published": 1790385484
-    },
-    {
-      "title": "Pitti Fragranze 2026, Narcissistic Iris by La Serra",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Narcissistic-Iris-by-La-Serra-26187.html",
-      "description": "The temple of the self, imagined by perfumer Frank Voelkl and recounted through the smoke of resins, iris, and narcissus.",
-      "category": "Niche Fragrances",
-      "author": "Giulietta Ptoyan",
-      "published": 1790371301
     }
   ],
   "perfumes": [
+    {
+      "title": "Armaf — Club de Nuit Precieux II",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Precieux-II-144213.html",
+      "description": "New perfume listing: Club de Nuit Precieux II by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1791466287
+    },
+    {
+      "title": "ZamZam Perfumes — Addictive",
+      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Addictive-144199.html",
+      "description": "New perfume listing: Addictive by ZamZam Perfumes.",
+      "category": "New Perfumes",
+      "author": "ZamZam Perfumes",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Tokyo",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Tokyo-144212.html",
+      "description": "New perfume listing: Tokyo by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Orlando",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Orlando-144211.html",
+      "description": "New perfume listing: Orlando by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Riyadh",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Riyadh-144210.html",
+      "description": "New perfume listing: Riyadh by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Paris",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Paris-144209.html",
+      "description": "New perfume listing: Paris by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Munich",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Munich-144208.html",
+      "description": "New perfume listing: Munich by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Moscow",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Moscow-144207.html",
+      "description": "New perfume listing: Moscow by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Monaco",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Monaco-144206.html",
+      "description": "New perfume listing: Monaco by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Milano",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Milano-144205.html",
+      "description": "New perfume listing: Milano by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Miami",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Miami-144204.html",
+      "description": "New perfume listing: Miami by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — Marrakesh",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Marrakesh-144203.html",
+      "description": "New perfume listing: Marrakesh by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "Aroma di Lamore — London",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/London-144202.html",
+      "description": "New perfume listing: London by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791466287
+    },
+    {
+      "title": "ZamZam Perfumes — Love Drops",
+      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Love-Drops-144201.html",
+      "description": "New perfume listing: Love Drops by ZamZam Perfumes.",
+      "category": "New Perfumes",
+      "author": "ZamZam Perfumes",
+      "published": 1791466287
+    },
+    {
+      "title": "ZamZam Perfumes — Velvet Love",
+      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Velvet-Love-144200.html",
+      "description": "New perfume listing: Velvet Love by ZamZam Perfumes.",
+      "category": "New Perfumes",
+      "author": "ZamZam Perfumes",
+      "published": 1791466287
+    },
     {
       "title": "Parfums Genty — MAN OF MANY... Feels",
       "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Feels-144195.html",
@@ -1481,126 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bujairami",
       "published": 1791379561
-    },
-    {
-      "title": "Bujairami — Billion Dollar",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Billion-Dollar-143980.html",
-      "description": "New perfume listing: Billion Dollar by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791379561
-    },
-    {
-      "title": "DeFacto — Skin Musk",
-      "link": "https://www.fragrantica.com/perfume/DeFacto/Skin-Musk-143979.html",
-      "description": "New perfume listing: Skin Musk by DeFacto.",
-      "category": "New Perfumes",
-      "author": "DeFacto",
-      "published": 1791379561
-    },
-    {
-      "title": "Bujairami — Self Made",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Self-Made-143978.html",
-      "description": "New perfume listing: Self Made by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791379561
-    },
-    {
-      "title": "Carner Barcelona — Crema Vainilla",
-      "link": "https://www.fragrantica.com/perfume/Carner-Barcelona/Crema-Vainilla-144132.html",
-      "description": "New perfume listing: Crema Vainilla by Carner Barcelona.",
-      "category": "New Perfumes",
-      "author": "Carner Barcelona",
-      "published": 1791352911
-    },
-    {
-      "title": "French Avenue — Vulcan Vox",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Vulcan-Vox-144131.html",
-      "description": "New perfume listing: Vulcan Vox by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1791352911
-    },
-    {
-      "title": "Riiffs Perfumes — Momento Liquid Gold",
-      "link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Momento-Liquid-Gold-144130.html",
-      "description": "New perfume listing: Momento Liquid Gold by Riiffs Perfumes.",
-      "category": "New Perfumes",
-      "author": "Riiffs Perfumes",
-      "published": 1791352911
-    },
-    {
-      "title": "Tha Beauty — Vintage Essence",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Vintage-Essence-144129.html",
-      "description": "New perfume listing: Vintage Essence by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1791352911
-    },
-    {
-      "title": "Eudora — Diva Mirage",
-      "link": "https://www.fragrantica.com/perfume/Eudora/Diva-Mirage-144128.html",
-      "description": "New perfume listing: Diva Mirage by Eudora.",
-      "category": "New Perfumes",
-      "author": "Eudora",
-      "published": 1791352911
-    },
-    {
-      "title": "Avon — Far Away Beyond The Secret",
-      "link": "https://www.fragrantica.com/perfume/Avon/Far-Away-Beyond-The-Secret-144127.html",
-      "description": "New perfume listing: Far Away Beyond The Secret by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1791352911
-    },
-    {
-      "title": "AURA Beauty — Musa Chloe",
-      "link": "https://www.fragrantica.com/perfume/AURA-Beauty/Musa-Chloe-144126.html",
-      "description": "New perfume listing: Musa Chloe by AURA Beauty.",
-      "category": "New Perfumes",
-      "author": "AURA Beauty",
-      "published": 1791352911
-    },
-    {
-      "title": "AURA Beauty — Musa Nyx",
-      "link": "https://www.fragrantica.com/perfume/AURA-Beauty/Musa-Nyx-144125.html",
-      "description": "New perfume listing: Musa Nyx by AURA Beauty.",
-      "category": "New Perfumes",
-      "author": "AURA Beauty",
-      "published": 1791352911
-    },
-    {
-      "title": "AURA Beauty — Musa Serena",
-      "link": "https://www.fragrantica.com/perfume/AURA-Beauty/Musa-Serena-144124.html",
-      "description": "New perfume listing: Musa Serena by AURA Beauty.",
-      "category": "New Perfumes",
-      "author": "AURA Beauty",
-      "published": 1791352911
-    },
-    {
-      "title": "O.U.i Original Unique Individual — Madeleine 862 La Chocolatine",
-      "link": "https://www.fragrantica.com/perfume/O-U-i-Original-Unique-Individual/Madeleine-862-La-Chocolatine-144123.html",
-      "description": "New perfume listing: Madeleine 862 La Chocolatine by O.U.i Original Unique Individual.",
-      "category": "New Perfumes",
-      "author": "O.U.i Original Unique Individual",
-      "published": 1791352911
-    },
-    {
-      "title": "O Boticário — Next Toy Story Rodeio do Xerife",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Next-Toy-Story-Rodeio-do-Xerife-144122.html",
-      "description": "New perfume listing: Next Toy Story Rodeio do Xerife by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791352911
-    },
-    {
-      "title": "O Boticário — Sophie Toy Story Vaqueira Valente",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Sophie-Toy-Story-Vaqueira-Valente-144120.html",
-      "description": "New perfume listing: Sophie Toy Story Vaqueira Valente by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791352911
     }
   ]
 }
