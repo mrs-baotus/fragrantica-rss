@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Parfums Quartana’s Bleeding Heart: A Delicious Fatal Potion Filled With Self-Love",
+      "link": "https://www.fragrantica.com/news/Parfums-Quartana-s-Bleeding-Heart-A-Delicious-Fatal-Potion-Filled-With-Self-Love-26286.html",
+      "description": "The house releases its tenth perfume based on poison flowers, an edgy flormand that attempts to transform heartbreak",
+      "category": "New Fragrances",
+      "author": "Patric Rhys",
+      "published": 1791439204
+    },
+    {
+      "title": "A Review of Heritas by Santa Eulalia",
+      "link": "https://www.fragrantica.com/news/A-Review-of-Heritas-by-Santa-Eulalia-26285.html",
+      "description": "A fitting tribute to 100 years in business",
+      "category": "Fragrance Reviews",
+      "author": "Nicola Thomis",
+      "published": 1791428402
+    },
+    {
+      "title": "Dhofar Reine de Saba: A Resounding Touch of Leather and Oud",
+      "link": "https://www.fragrantica.com/news/Dhofar-Reine-de-Saba-A-Resounding-Touch-of-Leather-and-Oud-26284.html",
+      "description": "A dense elegance that can become brutal!",
+      "category": "Fragrance Reviews",
+      "author": "Jernê Knowles",
+      "published": 1791417603
+    },
+    {
       "title": "Veritas: Ombra and Oro Di Roma",
       "link": "https://www.fragrantica.com/news/Veritas-Ombra-and-Oro-Di-Roma-26283.html",
       "description": "Vibrant, contrasting fragrances built on the principle of light and shadow.",
@@ -775,33 +799,137 @@
       "category": "Niche Fragrances",
       "author": "Giulietta Ptoyan",
       "published": 1790371301
-    },
-    {
-      "title": "Joseph Quartana: I'm Grateful To Have The Creative Freedom",
-      "link": "https://www.fragrantica.com/news/Joseph-Quartana-I-m-Grateful-To-Have-The-Creative-Freedom-26186.html",
-      "description": "Interview with Parfums Quartana owner after 10 years of development.",
-      "category": "Interviews",
-      "author": "Sergey Borisov",
-      "published": 1790363524
-    },
-    {
-      "title": "Pitti Fragranze 2026: Vol d’Abaris, A Remarkable Niche Vanilla Perfume",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-Vol-d-Abaris-A-Remarkable-Niche-Vanilla-Perfume-26185.html",
-      "description": "Tangy, tannic, jammy, and powdery",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1790352123
-    },
-    {
-      "title": "Gents x Profumum Roma: Dolce Artica",
-      "link": "https://www.fragrantica.com/news/Gents-x-Profumum-Roma-Dolce-Artica-26184.html",
-      "description": "An Italian homage to Swedish nature.",
-      "category": "New Fragrances",
-      "author": "Stefanie Jähn",
-      "published": 1790341984
     }
   ],
   "perfumes": [
+    {
+      "title": "Parfums Genty — MAN OF MANY... Feels",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Feels-144195.html",
+      "description": "New perfume listing: MAN OF MANY... Feels by Parfums Genty.",
+      "category": "New Perfumes",
+      "author": "Parfums Genty",
+      "published": 1791439572
+    },
+    {
+      "title": "Parfums Genty — Man of Many... Sounds",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/Man-of-Many-Sounds-144198.html",
+      "description": "New perfume listing: Man of Many... Sounds by Parfums Genty.",
+      "category": "New Perfumes",
+      "author": "Parfums Genty",
+      "published": 1791439572
+    },
+    {
+      "title": "Parfums Genty — MAN OF MANY... Minds",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Minds-144197.html",
+      "description": "New perfume listing: MAN OF MANY... Minds by Parfums Genty.",
+      "category": "New Perfumes",
+      "author": "Parfums Genty",
+      "published": 1791439572
+    },
+    {
+      "title": "Parfums Genty — MAN OF MANY... Dreams",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Dreams-144196.html",
+      "description": "New perfume listing: MAN OF MANY... Dreams by Parfums Genty.",
+      "category": "New Perfumes",
+      "author": "Parfums Genty",
+      "published": 1791439572
+    },
+    {
+      "title": "BLK Cosmetics — Summer",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Summer-144194.html",
+      "description": "New perfume listing: Summer by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791439572
+    },
+    {
+      "title": "BLK Cosmetics — Spring",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Spring-144193.html",
+      "description": "New perfume listing: Spring by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791439572
+    },
+    {
+      "title": "BLK Cosmetics — Winter",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Winter-144192.html",
+      "description": "New perfume listing: Winter by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791439572
+    },
+    {
+      "title": "BLK Cosmetics — Autumn",
+      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Autumn-144191.html",
+      "description": "New perfume listing: Autumn by BLK Cosmetics.",
+      "category": "New Perfumes",
+      "author": "BLK Cosmetics",
+      "published": 1791439572
+    },
+    {
+      "title": "Bujairami — Blissful Juliet",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blissful-Juliet-144121.html",
+      "description": "New perfume listing: Blissful Juliet by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Lisbon",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Lisbon-144093.html",
+      "description": "New perfume listing: Lisbon by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Jeddah",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Jeddah-144092.html",
+      "description": "New perfume listing: Jeddah by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Ibiza",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Ibiza-144091.html",
+      "description": "New perfume listing: Ibiza by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Dubai",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Dubai-144090.html",
+      "description": "New perfume listing: Dubai by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Doha",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Doha-144089.html",
+      "description": "New perfume listing: Doha by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Bahrain",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Bahrain-144088.html",
+      "description": "New perfume listing: Bahrain by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
+    {
+      "title": "Aroma di Lamore — Abu Dhabi",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Abu-Dhabi-144087.html",
+      "description": "New perfume listing: Abu Dhabi by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791439572
+    },
     {
       "title": "HB;RN — Rainy Day In Seoul",
       "link": "https://www.fragrantica.com/perfume/HB-RN/Rainy-Day-In-Seoul-144190.html",
@@ -1472,134 +1600,6 @@
       "description": "New perfume listing: Sophie Toy Story Vaqueira Valente by O Boticário.",
       "category": "New Perfumes",
       "author": "O Boticário",
-      "published": 1791352911
-    },
-    {
-      "title": "We Pink — Yahya Aneeq",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Yahya-Aneeq-144119.html",
-      "description": "New perfume listing: Yahya Aneeq by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1791352911
-    },
-    {
-      "title": "Bujairami — Black Reserve",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Black-Reserve-144118.html",
-      "description": "New perfume listing: Black Reserve by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791352911
-    },
-    {
-      "title": "Le Botanic — Graphene",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Graphene-144117.html",
-      "description": "New perfume listing: Graphene by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1791352911
-    },
-    {
-      "title": "Le Botanic — Boracay",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Boracay-144116.html",
-      "description": "New perfume listing: Boracay by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1791352911
-    },
-    {
-      "title": "Le Botanic — Vanilla Landscape",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Vanilla-Landscape-144115.html",
-      "description": "New perfume listing: Vanilla Landscape by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1791352911
-    },
-    {
-      "title": "Le Botanic — The Blanche",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/The-Blanche-144114.html",
-      "description": "New perfume listing: The Blanche by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1791352911
-    },
-    {
-      "title": "Le Botanic — My Writing Elixir",
-      "link": "https://www.fragrantica.com/perfume/Le-Botanic/My-Writing-Elixir-144113.html",
-      "description": "New perfume listing: My Writing Elixir by Le Botanic.",
-      "category": "New Perfumes",
-      "author": "Le Botanic",
-      "published": 1791352911
-    },
-    {
-      "title": "Bujairami — Bitter Sweet",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Bitter-Sweet-144112.html",
-      "description": "New perfume listing: Bitter Sweet by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791352911
-    },
-    {
-      "title": "LAB 8 — Sonaty Blue",
-      "link": "https://www.fragrantica.com/perfume/LAB-8/Sonaty-Blue-144111.html",
-      "description": "New perfume listing: Sonaty Blue by LAB 8.",
-      "category": "New Perfumes",
-      "author": "LAB 8",
-      "published": 1791352911
-    },
-    {
-      "title": "Bujairami — Riot",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Riot-144110.html",
-      "description": "New perfume listing: Riot by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791352911
-    },
-    {
-      "title": "ALQÉMI — Oud Athar",
-      "link": "https://www.fragrantica.com/perfume/ALQEMI/Oud-Athar-144109.html",
-      "description": "New perfume listing: Oud Athar by ALQÉMI.",
-      "category": "New Perfumes",
-      "author": "ALQÉMI",
-      "published": 1791352911
-    },
-    {
-      "title": "LPDO — Angel Fluid",
-      "link": "https://www.fragrantica.com/perfume/LPDO/Angel-Fluid-144108.html",
-      "description": "New perfume listing: Angel Fluid by LPDO.",
-      "category": "New Perfumes",
-      "author": "LPDO",
-      "published": 1791352911
-    },
-    {
-      "title": "Valentino — Valentino Donna Born in Roma Rendez-Vous Ruby",
-      "link": "https://www.fragrantica.com/perfume/Valentino/Valentino-Donna-Born-in-Roma-Rendez-Vous-Ruby-144107.html",
-      "description": "New perfume listing: Valentino Donna Born in Roma Rendez-Vous Ruby by Valentino.",
-      "category": "New Perfumes",
-      "author": "Valentino",
-      "published": 1791352911
-    },
-    {
-      "title": "Valentino — Valentino Born in Roma Rendez-Vous Ruby",
-      "link": "https://www.fragrantica.com/perfume/Valentino/Valentino-Born-in-Roma-Rendez-Vous-Ruby-144106.html",
-      "description": "New perfume listing: Valentino Born in Roma Rendez-Vous Ruby by Valentino.",
-      "category": "New Perfumes",
-      "author": "Valentino",
-      "published": 1791352911
-    },
-    {
-      "title": "Al Asrar — Rouh",
-      "link": "https://www.fragrantica.com/perfume/Al-Asrar/Rouh-144105.html",
-      "description": "New perfume listing: Rouh by Al Asrar.",
-      "category": "New Perfumes",
-      "author": "Al Asrar",
-      "published": 1791352911
-    },
-    {
-      "title": "Al Asrar — Leil",
-      "link": "https://www.fragrantica.com/perfume/Al-Asrar/Leil-144104.html",
-      "description": "New perfume listing: Leil by Al Asrar.",
-      "category": "New Perfumes",
-      "author": "Al Asrar",
       "published": 1791352911
     }
   ]
