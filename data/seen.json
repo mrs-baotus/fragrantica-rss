@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Between Shadow and Light: The Versatile Umbra Oud",
+      "link": "https://www.fragrantica.com/news/Between-Shadow-and-Light-The-Versatile-Umbra-Oud-26303.html",
+      "description": "I discover the Anomalia Paris bestseller",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1791585363
+    },
+    {
+      "title": "MarMar. Greetings from Genoa",
+      "link": "https://www.fragrantica.com/news/MarMar-Greetings-from-Genoa-26302.html",
+      "description": "A new Made in Italy brand that tells the story of La Superba through the eyes of those who live there.",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1791577443
+    },
+    {
+      "title": "Perfume Bag Charms by Zara",
+      "link": "https://www.fragrantica.com/news/Perfume-Bag-Charms-by-Zara-26301.html",
+      "description": "Would you carry a travel spray or a miniature in your own small charm bag?",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791569283
+    },
+    {
+      "title": "Cannes 2026: Tobba Musc Albedo",
+      "link": "https://www.fragrantica.com/news/Cannes-2026-Tobba-Musc-Albedo-26300.html",
+      "description": "Hong Kong-based niche fragrance house Tobba has just launched its latest creation, Musc Albedo, a new interpretation of the increasingly popular...",
+      "category": "Niche Perfumery",
+      "author": "Sanja Pekić",
+      "published": 1791558123
+    },
+    {
       "title": "Oriflame Launches Possess Intense and Possess Intense Man",
       "link": "https://www.fragrantica.com/news/Oriflame-Launches-Possess-Intense-and-Possess-Intense-Man-26299.html",
       "description": "This autumn, Oriflame launches Possess Intense and Possess Intense Man, two new premium fragrances.",
@@ -767,41 +799,177 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1790576642
-    },
-    {
-      "title": "Assaf's Strike Black: The New Aventus Absolu",
-      "link": "https://www.fragrantica.com/news/Assaf-s-Strike-Black-The-New-Aventus-Absolu-26203.html",
-      "description": "Inspired by an oil company operating in the desert.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1790567283
-    },
-    {
-      "title": "Review of the New Diorella & Dioressence (2026)",
-      "link": "https://www.fragrantica.com/news/Review-of-the-New-Diorella-Dioressence-2026-26202.html",
-      "description": "An inspiring collection.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1790556508
-    },
-    {
-      "title": "Perfumed Horoscope: September 28 - October 4",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-September-28-October-4-26201.html",
-      "description": "It could be one of those weeks when people take themselves a bit too seriously. In astrology, it’s called T-Square, tensely engaging the warrior...",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1790549523
-    },
-    {
-      "title": "J-Scent Profound Sacred Animal: A Profoundly Animal Floral-Cereal Scent",
-      "link": "https://www.fragrantica.com/news/J-Scent-Profound-Sacred-Animal-A-Profoundly-Animal-Floral-Cereal-Scent-26200.html",
-      "description": "I can’t get enough of this perfume.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1790538483
     }
   ],
   "perfumes": [
+    {
+      "title": "Danner & Flemming — Iris Tannat",
+      "link": "https://www.fragrantica.com/perfume/Danner-Flemming/Iris-Tannat-144309.html",
+      "description": "New perfume listing: Iris Tannat by Danner & Flemming.",
+      "category": "New Perfumes",
+      "author": "Danner & Flemming",
+      "published": 1791585565
+    },
+    {
+      "title": "Bentley — Become Odyssey",
+      "link": "https://www.fragrantica.com/perfume/Bentley/Become-Odyssey-144308.html",
+      "description": "New perfume listing: Become Odyssey by Bentley.",
+      "category": "New Perfumes",
+      "author": "Bentley",
+      "published": 1791585565
+    },
+    {
+      "title": "Goutal — Voile de Santal",
+      "link": "https://www.fragrantica.com/perfume/Goutal/Voile-de-Santal-144307.html",
+      "description": "New perfume listing: Voile de Santal by Goutal.",
+      "category": "New Perfumes",
+      "author": "Goutal",
+      "published": 1791585565
+    },
+    {
+      "title": "Francesca Bianchi — Insomnia",
+      "link": "https://www.fragrantica.com/perfume/Francesca-Bianchi/Insomnia-144306.html",
+      "description": "New perfume listing: Insomnia by Francesca Bianchi.",
+      "category": "New Perfumes",
+      "author": "Francesca Bianchi",
+      "published": 1791585565
+    },
+    {
+      "title": "Montblanc — Paper Musk",
+      "link": "https://www.fragrantica.com/perfume/Montblanc/Paper-Musk-144305.html",
+      "description": "New perfume listing: Paper Musk by Montblanc.",
+      "category": "New Perfumes",
+      "author": "Montblanc",
+      "published": 1791585565
+    },
+    {
+      "title": "Al Ambra — Habibi",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Habibi-144303.html",
+      "description": "New perfume listing: Habibi by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791585565
+    },
+    {
+      "title": "Maison Lormont — Trône de Cendre",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Trone-de-Cendre-144302.html",
+      "description": "New perfume listing: Trône de Cendre by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791585565
+    },
+    {
+      "title": "Maison Lormont — Or Fondant",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Or-Fondant-144301.html",
+      "description": "New perfume listing: Or Fondant by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791585565
+    },
+    {
+      "title": "Maison Lormont — Dernier Verre",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Dernier-Verre-144299.html",
+      "description": "New perfume listing: Dernier Verre by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791585565
+    },
+    {
+      "title": "Al Ambra — Musk Explorer",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Musk-Explorer-144298.html",
+      "description": "New perfume listing: Musk Explorer by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791585565
+    },
+    {
+      "title": "Al Ambra — Hypertension",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Hypertension-144297.html",
+      "description": "New perfume listing: Hypertension by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791585565
+    },
+    {
+      "title": "Maison Lormont — Héritage",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Heritage-144296.html",
+      "description": "New perfume listing: Héritage by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791585565
+    },
+    {
+      "title": "Anti — Plastic Love",
+      "link": "https://www.fragrantica.com/perfume/Anti/Plastic-Love-144294.html",
+      "description": "New perfume listing: Plastic Love by Anti.",
+      "category": "New Perfumes",
+      "author": "Anti",
+      "published": 1791585565
+    },
+    {
+      "title": "Aroma Studium — Caramel Noir",
+      "link": "https://www.fragrantica.com/perfume/Aroma-Studium/Caramel-Noir-144293.html",
+      "description": "New perfume listing: Caramel Noir by Aroma Studium.",
+      "category": "New Perfumes",
+      "author": "Aroma Studium",
+      "published": 1791585565
+    },
+    {
+      "title": "Gervais Chardin — Safran Nu",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Safran-Nu-144292.html",
+      "description": "New perfume listing: Safran Nu by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791585565
+    },
+    {
+      "title": "Gervais Chardin — Vanille Cendrée",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Vanille-Cendree-144291.html",
+      "description": "New perfume listing: Vanille Cendrée by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791585565
+    },
+    {
+      "title": "Gervais Chardin — Oud Nobilis",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Oud-Nobilis-144290.html",
+      "description": "New perfume listing: Oud Nobilis by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791585565
+    },
+    {
+      "title": "Gervais Chardin — Rose Duel",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Rose-Duel-144289.html",
+      "description": "New perfume listing: Rose Duel by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791585565
+    },
+    {
+      "title": "FARiiS — Attrait Charm",
+      "link": "https://www.fragrantica.com/perfume/FARiiS/Attrait-Charm-144304.html",
+      "description": "New perfume listing: Attrait Charm by FARiiS.",
+      "category": "New Perfumes",
+      "author": "FARiiS",
+      "published": 1791585565
+    },
+    {
+      "title": "Maison Lormont — Souvenir de Minuit",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Souvenir-de-Minuit-144300.html",
+      "description": "New perfume listing: Souvenir de Minuit by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791585565
+    },
+    {
+      "title": "Zielinski & Rozen — Black Pepper, Vetiver, Neroli, Amber",
+      "link": "https://www.fragrantica.com/perfume/Zielinski-Rozen/Black-Pepper-Vetiver-Neroli-Amber-144295.html",
+      "description": "New perfume listing: Black Pepper, Vetiver, Neroli, Amber by Zielinski & Rozen.",
+      "category": "New Perfumes",
+      "author": "Zielinski & Rozen",
+      "published": 1791585565
+    },
     {
       "title": "Plume Impression — Aureatis",
       "link": "https://www.fragrantica.com/perfume/Plume-Impression/Aureatis-144288.html",
@@ -1433,174 +1601,6 @@
       "category": "New Perfumes",
       "author": "Aroma di Lamore",
       "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Riyadh",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Riyadh-144210.html",
-      "description": "New perfume listing: Riyadh by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Paris",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Paris-144209.html",
-      "description": "New perfume listing: Paris by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Munich",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Munich-144208.html",
-      "description": "New perfume listing: Munich by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Moscow",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Moscow-144207.html",
-      "description": "New perfume listing: Moscow by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Monaco",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Monaco-144206.html",
-      "description": "New perfume listing: Monaco by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Milano",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Milano-144205.html",
-      "description": "New perfume listing: Milano by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Miami",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Miami-144204.html",
-      "description": "New perfume listing: Miami by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Marrakesh",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Marrakesh-144203.html",
-      "description": "New perfume listing: Marrakesh by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — London",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/London-144202.html",
-      "description": "New perfume listing: London by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "ZamZam Perfumes — Love Drops",
-      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Love-Drops-144201.html",
-      "description": "New perfume listing: Love Drops by ZamZam Perfumes.",
-      "category": "New Perfumes",
-      "author": "ZamZam Perfumes",
-      "published": 1791466287
-    },
-    {
-      "title": "ZamZam Perfumes — Velvet Love",
-      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Velvet-Love-144200.html",
-      "description": "New perfume listing: Velvet Love by ZamZam Perfumes.",
-      "category": "New Perfumes",
-      "author": "ZamZam Perfumes",
-      "published": 1791466287
-    },
-    {
-      "title": "Parfums Genty — MAN OF MANY... Feels",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Feels-144195.html",
-      "description": "New perfume listing: MAN OF MANY... Feels by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1791439572
-    },
-    {
-      "title": "Parfums Genty — Man of Many... Sounds",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/Man-of-Many-Sounds-144198.html",
-      "description": "New perfume listing: Man of Many... Sounds by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1791439572
-    },
-    {
-      "title": "Parfums Genty — MAN OF MANY... Minds",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Minds-144197.html",
-      "description": "New perfume listing: MAN OF MANY... Minds by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1791439572
-    },
-    {
-      "title": "Parfums Genty — MAN OF MANY... Dreams",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Genty/MAN-OF-MANY-Dreams-144196.html",
-      "description": "New perfume listing: MAN OF MANY... Dreams by Parfums Genty.",
-      "category": "New Perfumes",
-      "author": "Parfums Genty",
-      "published": 1791439572
-    },
-    {
-      "title": "BLK Cosmetics — Summer",
-      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Summer-144194.html",
-      "description": "New perfume listing: Summer by BLK Cosmetics.",
-      "category": "New Perfumes",
-      "author": "BLK Cosmetics",
-      "published": 1791439572
-    },
-    {
-      "title": "BLK Cosmetics — Spring",
-      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Spring-144193.html",
-      "description": "New perfume listing: Spring by BLK Cosmetics.",
-      "category": "New Perfumes",
-      "author": "BLK Cosmetics",
-      "published": 1791439572
-    },
-    {
-      "title": "BLK Cosmetics — Winter",
-      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Winter-144192.html",
-      "description": "New perfume listing: Winter by BLK Cosmetics.",
-      "category": "New Perfumes",
-      "author": "BLK Cosmetics",
-      "published": 1791439572
-    },
-    {
-      "title": "BLK Cosmetics — Autumn",
-      "link": "https://www.fragrantica.com/perfume/BLK-Cosmetics/Autumn-144191.html",
-      "description": "New perfume listing: Autumn by BLK Cosmetics.",
-      "category": "New Perfumes",
-      "author": "BLK Cosmetics",
-      "published": 1791439572
-    },
-    {
-      "title": "Bujairami — Blissful Juliet",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Blissful-Juliet-144121.html",
-      "description": "New perfume listing: Blissful Juliet by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Lisbon",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Lisbon-144093.html",
-      "description": "New perfume listing: Lisbon by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
     }
   ]
 }
