@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Oriflame Launches Possess Intense and Possess Intense Man",
+      "link": "https://www.fragrantica.com/news/Oriflame-Launches-Possess-Intense-and-Possess-Intense-Man-26299.html",
+      "description": "This autumn, Oriflame launches Possess Intense and Possess Intense Man, two new premium fragrances.",
+      "category": "Fragrance News",
+      "author": "Iulia Halatz",
+      "published": 1791547383
+    },
+    {
+      "title": "ICON’S 26: Asia Speaks the Language of Perfumery - and Grasse Listens",
+      "link": "https://www.fragrantica.com/news/ICON-S-26-Asia-Speaks-the-Language-of-Perfumery-and-Grasse-Listens-26298.html",
+      "description": "The project ICON’S 26 - The Asian Art Perfumery Gallery, dedicated to contemporary perfumery of the Asian region, has opened at the International Perfume Museum in Grasse.",
+      "category": "Events",
+      "author": "Julia Lukyanenko",
+      "published": 1791544383
+    },
+    {
+      "title": "Middle Eastern Perfume Oils I Love - Part 2",
+      "link": "https://www.fragrantica.com/news/Middle-Eastern-Perfume-Oils-I-Love-Part-2-26297.html",
+      "description": "These Alrehab perfumes are among the earliest Middle Eastern fragrances introduced to the West.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1791535443
+    },
+    {
       "title": "With Heat, Akro Explores Chili With Delicacy",
       "link": "https://www.fragrantica.com/news/With-Heat-Akro-Explores-Chili-With-Delicacy-26296.html",
       "description": "A look back at Heat, the latest release from the house of Akro, founded by Olivier Cresp.",
@@ -235,7 +259,7 @@
     {
       "title": "LATTAFA Fearless",
       "link": "https://www.fragrantica.com/news/LATTAFA-Fearless-26267.html",
-      "description": "Inspired by “the codebreaker,” Fearless expresses individuality through this interplay of vivid fruit and darker...",
+      "description": "Inspired by “the codebreaker,” Fearless expresses individuality through this interplay of vivid fruit and darker textures, a distinctive...",
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1791255603
@@ -775,33 +799,241 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1790538483
-    },
-    {
-      "title": "Cannes 2026: Liquides Imaginaires Morning Star",
-      "link": "https://www.fragrantica.com/news/Cannes-2026-Liquides-Imaginaires-Morning-Star-26199.html",
-      "description": "Liquides Imaginaires presented its latest fragrance, Morning Star, which promises to be the new star of the collection.",
-      "category": "Niche Perfumery",
-      "author": "Sanja Pekić",
-      "published": 1790528403
-    },
-    {
-      "title": "Cannes 2026: Sarah Baker Year XOXO",
-      "link": "https://www.fragrantica.com/news/Cannes-2026-Sarah-Baker-Year-XOXO-26198.html",
-      "description": "Sarah Baker just presented Year XOXO, the third and final fragrance in the brand’s Vanilla Trilogy created with perfumer Margaux Le Paih-Guérin.",
-      "category": "Niche Perfumery",
-      "author": "Sanja Pekić",
-      "published": 1790524863
-    },
-    {
-      "title": "Turtle Vetiver Exercise No. 1 Les Nez: Autumn Reveries and an Ode to Slowness",
-      "link": "https://www.fragrantica.com/news/Turtle-Vetiver-Exercise-No-1-Les-Nez-Autumn-Reveries-and-an-Ode-to-Slowness-26197.html",
-      "description": "A rare vetiver fragrance of captivating depth and complexity that graced my Boedromion.",
-      "category": "Fragrance Reviews",
-      "author": "Tyrvasia Argyraki",
-      "published": 1790508383
     }
   ],
   "perfumes": [
+    {
+      "title": "Plume Impression — Aureatis",
+      "link": "https://www.fragrantica.com/perfume/Plume-Impression/Aureatis-144288.html",
+      "description": "New perfume listing: Aureatis by Plume Impression.",
+      "category": "New Perfumes",
+      "author": "Plume Impression",
+      "published": 1791551937
+    },
+    {
+      "title": "Plume Impression — Coco Cloud",
+      "link": "https://www.fragrantica.com/perfume/Plume-Impression/Coco-Cloud-144287.html",
+      "description": "New perfume listing: Coco Cloud by Plume Impression.",
+      "category": "New Perfumes",
+      "author": "Plume Impression",
+      "published": 1791551937
+    },
+    {
+      "title": "Zara — Sweet Resin & Saffron",
+      "link": "https://www.fragrantica.com/perfume/Zara/Sweet-Resin-Saffron-144286.html",
+      "description": "New perfume listing: Sweet Resin & Saffron by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1791551937
+    },
+    {
+      "title": "Plume Impression — Soul Kiss",
+      "link": "https://www.fragrantica.com/perfume/Plume-Impression/Soul-Kiss-144285.html",
+      "description": "New perfume listing: Soul Kiss by Plume Impression.",
+      "category": "New Perfumes",
+      "author": "Plume Impression",
+      "published": 1791551937
+    },
+    {
+      "title": "K-R-V-A — OP-03 Imbuia de Contenção",
+      "link": "https://www.fragrantica.com/perfume/K-R-V-A/OP-03-Imbuia-de-Contencao-144284.html",
+      "description": "New perfume listing: OP-03 Imbuia de Contenção by K-R-V-A.",
+      "category": "New Perfumes",
+      "author": "K-R-V-A",
+      "published": 1791551937
+    },
+    {
+      "title": "Gervais Chardin — Oranger Souverain",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Oranger-Souverain-144283.html",
+      "description": "New perfume listing: Oranger Souverain by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791551937
+    },
+    {
+      "title": "Gervais Chardin — Encens Libre",
+      "link": "https://www.fragrantica.com/perfume/Gervais-Chardin/Encens-Libre-144282.html",
+      "description": "New perfume listing: Encens Libre by Gervais Chardin.",
+      "category": "New Perfumes",
+      "author": "Gervais Chardin",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Lickorice",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Lickorice-144281.html",
+      "description": "New perfume listing: Lickorice by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Bake My Cherry",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Bake-My-Cherry-144280.html",
+      "description": "New perfume listing: Bake My Cherry by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Candynude",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Candynude-144279.html",
+      "description": "New perfume listing: Candynude by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Lemonude",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Lemonude-144278.html",
+      "description": "New perfume listing: Lemonude by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Cherry On Top",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Cherry-On-Top-144277.html",
+      "description": "New perfume listing: Cherry On Top by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "MOIRÉ — Amor Lacteo",
+      "link": "https://www.fragrantica.com/perfume/MOIRE/Amor-Lacteo-144276.html",
+      "description": "New perfume listing: Amor Lacteo by MOIRÉ.",
+      "category": "New Perfumes",
+      "author": "MOIRÉ",
+      "published": 1791551937
+    },
+    {
+      "title": "Jill Stuart — Iconic Bloom Vestiges of Us",
+      "link": "https://www.fragrantica.com/perfume/Jill-Stuart/Iconic-Bloom-Vestiges-of-Us-144275.html",
+      "description": "New perfume listing: Iconic Bloom Vestiges of Us by Jill Stuart.",
+      "category": "New Perfumes",
+      "author": "Jill Stuart",
+      "published": 1791551937
+    },
+    {
+      "title": "Jill Stuart — Iconic Bloom Eau de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Jill-Stuart/Iconic-Bloom-Eau-de-Parfum-144274.html",
+      "description": "New perfume listing: Iconic Bloom Eau de Parfum by Jill Stuart.",
+      "category": "New Perfumes",
+      "author": "Jill Stuart",
+      "published": 1791551937
+    },
+    {
+      "title": "Jill Stuart — Iconic Bloom Innocent Azure",
+      "link": "https://www.fragrantica.com/perfume/Jill-Stuart/Iconic-Bloom-Innocent-Azure-144273.html",
+      "description": "New perfume listing: Iconic Bloom Innocent Azure by Jill Stuart.",
+      "category": "New Perfumes",
+      "author": "Jill Stuart",
+      "published": 1791551937
+    },
+    {
+      "title": "Morph — Fatal Bloom",
+      "link": "https://www.fragrantica.com/perfume/Morph/Fatal-Bloom-144272.html",
+      "description": "New perfume listing: Fatal Bloom by Morph.",
+      "category": "New Perfumes",
+      "author": "Morph",
+      "published": 1791551937
+    },
+    {
+      "title": "Morph — Dark Velvet",
+      "link": "https://www.fragrantica.com/perfume/Morph/Dark-Velvet-144271.html",
+      "description": "New perfume listing: Dark Velvet by Morph.",
+      "category": "New Perfumes",
+      "author": "Morph",
+      "published": 1791551937
+    },
+    {
+      "title": "Majouri — Couture Woods",
+      "link": "https://www.fragrantica.com/perfume/Majouri/Couture-Woods-144270.html",
+      "description": "New perfume listing: Couture Woods by Majouri.",
+      "category": "New Perfumes",
+      "author": "Majouri",
+      "published": 1791551937
+    },
+    {
+      "title": "Majouri — Arabesque",
+      "link": "https://www.fragrantica.com/perfume/Majouri/Arabesque-144269.html",
+      "description": "New perfume listing: Arabesque by Majouri.",
+      "category": "New Perfumes",
+      "author": "Majouri",
+      "published": 1791551937
+    },
+    {
+      "title": "UNDER THE PERGOLA — MATERIAL NO.247",
+      "link": "https://www.fragrantica.com/perfume/UNDER-THE-PERGOLA/MATERIAL-NO-247-144268.html",
+      "description": "New perfume listing: MATERIAL NO.247 by UNDER THE PERGOLA.",
+      "category": "New Perfumes",
+      "author": "UNDER THE PERGOLA",
+      "published": 1791551937
+    },
+    {
+      "title": "Dkhoon Emirates — Sense",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/Sense-144267.html",
+      "description": "New perfume listing: Sense by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1791551937
+    },
+    {
+      "title": "Dkhoon Emirates — LADY",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/LADY-144266.html",
+      "description": "New perfume listing: LADY by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1791551937
+    },
+    {
+      "title": "Dkhoon Emirates — MISS",
+      "link": "https://www.fragrantica.com/perfume/Dkhoon-Emirates/MISS-144265.html",
+      "description": "New perfume listing: MISS by Dkhoon Emirates.",
+      "category": "New Perfumes",
+      "author": "Dkhoon Emirates",
+      "published": 1791551937
+    },
+    {
+      "title": "EARTHORA — The Tea",
+      "link": "https://www.fragrantica.com/perfume/EARTHORA/The-Tea-144264.html",
+      "description": "New perfume listing: The Tea by EARTHORA.",
+      "category": "New Perfumes",
+      "author": "EARTHORA",
+      "published": 1791551937
+    },
+    {
+      "title": "EARTHORA — The Nectar",
+      "link": "https://www.fragrantica.com/perfume/EARTHORA/The-Nectar-144263.html",
+      "description": "New perfume listing: The Nectar by EARTHORA.",
+      "category": "New Perfumes",
+      "author": "EARTHORA",
+      "published": 1791551937
+    },
+    {
+      "title": "EARTHORA — The Root",
+      "link": "https://www.fragrantica.com/perfume/EARTHORA/The-Root-144262.html",
+      "description": "New perfume listing: The Root by EARTHORA.",
+      "category": "New Perfumes",
+      "author": "EARTHORA",
+      "published": 1791551937
+    },
+    {
+      "title": "Alan Bray — Fruit De La Passion",
+      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Fruit-De-La-Passion-144261.html",
+      "description": "New perfume listing: Fruit De La Passion by Alan Bray.",
+      "category": "New Perfumes",
+      "author": "Alan Bray",
+      "published": 1791551937
+    },
+    {
+      "title": "Alan Bray — Canele Flambe Intense",
+      "link": "https://www.fragrantica.com/perfume/Alan-Bray/Canele-Flambe-Intense-144260.html",
+      "description": "New perfume listing: Canele Flambe Intense by Alan Bray.",
+      "category": "New Perfumes",
+      "author": "Alan Bray",
+      "published": 1791551937
+    },
     {
       "title": "Lab Fragrance — Oud Delicious",
       "link": "https://www.fragrantica.com/perfume/Lab-Fragrance/Oud-Delicious-144259.html",
@@ -1369,238 +1601,6 @@
       "category": "New Perfumes",
       "author": "Aroma di Lamore",
       "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Jeddah",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Jeddah-144092.html",
-      "description": "New perfume listing: Jeddah by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Ibiza",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Ibiza-144091.html",
-      "description": "New perfume listing: Ibiza by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Dubai",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Dubai-144090.html",
-      "description": "New perfume listing: Dubai by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Doha",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Doha-144089.html",
-      "description": "New perfume listing: Doha by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Bahrain",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Bahrain-144088.html",
-      "description": "New perfume listing: Bahrain by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "Aroma di Lamore — Abu Dhabi",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Abu-Dhabi-144087.html",
-      "description": "New perfume listing: Abu Dhabi by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791439572
-    },
-    {
-      "title": "HB;RN — Rainy Day In Seoul",
-      "link": "https://www.fragrantica.com/perfume/HB-RN/Rainy-Day-In-Seoul-144190.html",
-      "description": "New perfume listing: Rainy Day In Seoul by HB;RN.",
-      "category": "New Perfumes",
-      "author": "HB;RN",
-      "published": 1791414356
-    },
-    {
-      "title": "Rasasi — Hawas Ice Freeze",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Ice-Freeze-144189.html",
-      "description": "New perfume listing: Hawas Ice Freeze by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1791414356
-    },
-    {
-      "title": "Liis — Forest Sounds",
-      "link": "https://www.fragrantica.com/perfume/Liis/Forest-Sounds-144188.html",
-      "description": "New perfume listing: Forest Sounds by Liis.",
-      "category": "New Perfumes",
-      "author": "Liis",
-      "published": 1791414356
-    },
-    {
-      "title": "Abel — Tibi",
-      "link": "https://www.fragrantica.com/perfume/Abel/Tibi-144187.html",
-      "description": "New perfume listing: Tibi by Abel.",
-      "category": "New Perfumes",
-      "author": "Abel",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — Coconut Beach Escape",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Coconut-Beach-Escape-144186.html",
-      "description": "New perfume listing: Coconut Beach Escape by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — A Shot of Oud",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-Shot-of-Oud-144185.html",
-      "description": "New perfume listing: A Shot of Oud by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — Midnight Rodeo",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Midnight-Rodeo-144184.html",
-      "description": "New perfume listing: Midnight Rodeo by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — A Devil's Dance",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/A-Devil-s-Dance-144183.html",
-      "description": "New perfume listing: A Devil's Dance by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — Workshop Of Veneto",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Workshop-Of-Veneto-144182.html",
-      "description": "New perfume listing: Workshop Of Veneto by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — Chess Queen's White Milk",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Chess-Queen-s-White-Milk-144181.html",
-      "description": "New perfume listing: Chess Queen's White Milk by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "The Dua Brand — Smudged Iris",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Smudged-Iris-144180.html",
-      "description": "New perfume listing: Smudged Iris by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Naked",
-      "link": "https://www.fragrantica.com/perfume/Solem/Naked-144179.html",
-      "description": "New perfume listing: Naked by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Bostonita",
-      "link": "https://www.fragrantica.com/perfume/Solem/Bostonita-144178.html",
-      "description": "New perfume listing: Bostonita by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Narcine",
-      "link": "https://www.fragrantica.com/perfume/Solem/Narcine-144177.html",
-      "description": "New perfume listing: Narcine by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Azural",
-      "link": "https://www.fragrantica.com/perfume/Solem/Azural-144176.html",
-      "description": "New perfume listing: Azural by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Perlié",
-      "link": "https://www.fragrantica.com/perfume/Solem/Perlie-144175.html",
-      "description": "New perfume listing: Perlié by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Sólem — Stylo",
-      "link": "https://www.fragrantica.com/perfume/Solem/Stylo-144174.html",
-      "description": "New perfume listing: Stylo by Sólem.",
-      "category": "New Perfumes",
-      "author": "Sólem",
-      "published": 1791414356
-    },
-    {
-      "title": "Parfums Quartana — Bleeding Heart",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Quartana/Bleeding-Heart-144173.html",
-      "description": "New perfume listing: Bleeding Heart by Parfums Quartana.",
-      "category": "New Perfumes",
-      "author": "Parfums Quartana",
-      "published": 1791414356
-    },
-    {
-      "title": "Lee — Urban Black",
-      "link": "https://www.fragrantica.com/perfume/Lee/Urban-Black-144171.html",
-      "description": "New perfume listing: Urban Black by Lee.",
-      "category": "New Perfumes",
-      "author": "Lee",
-      "published": 1791414356
-    },
-    {
-      "title": "Lee — Vanilla Dusk",
-      "link": "https://www.fragrantica.com/perfume/Lee/Vanilla-Dusk-144170.html",
-      "description": "New perfume listing: Vanilla Dusk by Lee.",
-      "category": "New Perfumes",
-      "author": "Lee",
-      "published": 1791414356
-    },
-    {
-      "title": "Paris Hilton — Iconic Queen",
-      "link": "https://www.fragrantica.com/perfume/Paris-Hilton/Iconic-Queen-144169.html",
-      "description": "New perfume listing: Iconic Queen by Paris Hilton.",
-      "category": "New Perfumes",
-      "author": "Paris Hilton",
-      "published": 1791414356
-    },
-    {
-      "title": "Kenneth Cole — Inspire",
-      "link": "https://www.fragrantica.com/perfume/Kenneth-Cole/Inspire-144168.html",
-      "description": "New perfume listing: Inspire by Kenneth Cole.",
-      "category": "New Perfumes",
-      "author": "Kenneth Cole",
-      "published": 1791414356
-    },
-    {
-      "title": "Mehas — Valeur II",
-      "link": "https://www.fragrantica.com/perfume/Mehas/Valeur-II-144167.html",
-      "description": "New perfume listing: Valeur II by Mehas.",
-      "category": "New Perfumes",
-      "author": "Mehas",
-      "published": 1791414356
     }
   ]
 }
