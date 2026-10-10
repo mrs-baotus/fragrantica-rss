@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Ode Ona: A Mindful House Between Hong Kong and France",
+      "link": "https://www.fragrantica.com/news/Ode-Ona-A-Mindful-House-Between-Hong-Kong-and-France-26305.html",
+      "description": "Smelled at Pitti Fragranze.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1791606483
+    },
+    {
+      "title": "CHOPARD Blooming Love",
+      "link": "https://www.fragrantica.com/news/CHOPARD-Blooming-Love-26304.html",
+      "description": "Chopard Blooming Love: Magnolia with fruity brightness and a tea-scented base.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791593748
+    },
+    {
       "title": "Between Shadow and Light: The Versatile Umbra Oud",
       "link": "https://www.fragrantica.com/news/Between-Shadow-and-Light-The-Versatile-Umbra-Oud-26303.html",
       "description": "I discover the Anomalia Paris bestseller",
@@ -783,25 +799,209 @@
       "category": "New Fragrances",
       "author": "Eddie Bulliqi",
       "published": 1790609404
-    },
-    {
-      "title": "New Brand Synisca Launches",
-      "link": "https://www.fragrantica.com/news/New-Brand-Synisca-Launches-26205.html",
-      "description": "Scents inspired by the emotion of sport",
-      "category": "New Fragrances",
-      "author": "Nicola Thomis",
-      "published": 1790595783
-    },
-    {
-      "title": "Neil Jacquet Adds Two More Editions to His Les Carnets Collection",
-      "link": "https://www.fragrantica.com/news/Neil-Jacquet-Adds-Two-More-Editions-to-His-Les-Carnets-Collection-26204.html",
-      "description": "Égérie 98, created by Sidonie Lancesseur, and Cette Nuit, by Clément Marx.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1790576642
     }
   ],
   "perfumes": [
+    {
+      "title": "SARANGHAEYO — 99. M OF-U",
+      "link": "https://www.fragrantica.com/perfume/SARANGHAEYO/99-M-OF-U-144328.html",
+      "description": "New perfume listing: 99. M OF-U by SARANGHAEYO.",
+      "category": "New Perfumes",
+      "author": "SARANGHAEYO",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Rosinova",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rosinova-144317.html",
+      "description": "New perfume listing: Rosinova by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Mandelisse",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Mandelisse-144316.html",
+      "description": "New perfume listing: Mandelisse by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Purple Haze",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Purple-Haze-144315.html",
+      "description": "New perfume listing: Purple Haze by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Pure Vibe",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Pure-Vibe-144314.html",
+      "description": "New perfume listing: Pure Vibe by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Desert Dune",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Desert-Dune-144313.html",
+      "description": "New perfume listing: Desert Dune by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Miss Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Miss-Vanilla-144312.html",
+      "description": "New perfume listing: Miss Vanilla by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Wall Street",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Wall-Street-144311.html",
+      "description": "New perfume listing: Wall Street by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Blanc Bloom",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blanc-Bloom-144310.html",
+      "description": "New perfume listing: Blanc Bloom by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Amanoume アマノウメ コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Amanoume-amanoume-koronkonsantore-144327.html",
+      "description": "New perfume listing: Amanoume アマノウメ コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Itsukitake イツキタケ コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Itsukitake-itsukitake-koronkonsantore-144326.html",
+      "description": "New perfume listing: Itsukitake イツキタケ コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Matsurimatsu マツリマツ コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Matsurimatsu-matsurimatsu-koronkonsantore-144325.html",
+      "description": "New perfume listing: Matsurimatsu マツリマツ コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Hakuto ハクト コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Hakuto-hakuto-koronkonsantore-144324.html",
+      "description": "New perfume listing: Hakuto ハクト コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Shika シカ コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Shika-shika-koronkonsantore-144323.html",
+      "description": "New perfume listing: Shika シカ コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Kuen クエン コロンコンサントレ",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Kuen-kuen-koronkonsantore-144322.html",
+      "description": "New perfume listing: Kuen クエン コロンコンサントレ by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Green グリーン オードパルファム",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Green-gurin-odoparufamu-144321.html",
+      "description": "New perfume listing: Green グリーン オードパルファム by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Aqua アクア オードパルファム",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Aqua-akua-odoparufamu-144320.html",
+      "description": "New perfume listing: Aqua アクア オードパルファム by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Liberta Perfume — Citrus シトラス オードパルファム",
+      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Citrus-shitorasu-odoparufamu-144319.html",
+      "description": "New perfume listing: Citrus シトラス オードパルファム by Liberta Perfume.",
+      "category": "New Perfumes",
+      "author": "Liberta Perfume",
+      "published": 1791611644
+    },
+    {
+      "title": "Bujairami — Midnight Ocean",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Midnight-Ocean-144318.html",
+      "description": "New perfume listing: Midnight Ocean by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Riyadh",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Riyadh-144210.html",
+      "description": "New perfume listing: Riyadh by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Paris",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Paris-144209.html",
+      "description": "New perfume listing: Paris by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Munich",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Munich-144208.html",
+      "description": "New perfume listing: Munich by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Moscow",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Moscow-144207.html",
+      "description": "New perfume listing: Moscow by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Monaco",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Monaco-144206.html",
+      "description": "New perfume listing: Monaco by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
+    {
+      "title": "Aroma di Lamore — Milano",
+      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Milano-144205.html",
+      "description": "New perfume listing: Milano by Aroma di Lamore.",
+      "category": "New Perfumes",
+      "author": "Aroma di Lamore",
+      "published": 1791611644
+    },
     {
       "title": "Danner & Flemming — Iris Tannat",
       "link": "https://www.fragrantica.com/perfume/Danner-Flemming/Iris-Tannat-144309.html",
@@ -1401,206 +1601,6 @@
       "category": "New Perfumes",
       "author": "Niche House",
       "published": 1791501702
-    },
-    {
-      "title": "Niche House — Coralline Vellmare",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Coralline-Vellmare-144231.html",
-      "description": "New perfume listing: Coralline Vellmare by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Coralline Selara",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Coralline-Selara-144230.html",
-      "description": "New perfume listing: Coralline Selara by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Coralline Miralyn",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Coralline-Miralyn-144229.html",
-      "description": "New perfume listing: Coralline Miralyn by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Coralline Azéline",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Coralline-Azeline-144228.html",
-      "description": "New perfume listing: Coralline Azéline by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Sovereign Regina",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Sovereign-Regina-144227.html",
-      "description": "New perfume listing: Sovereign Regina by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "The Dua Brand — Stories Of Amber",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Stories-Of-Amber-144226.html",
-      "description": "New perfume listing: Stories Of Amber by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791501702
-    },
-    {
-      "title": "The Dua Brand — Steeped In The Starlight",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Steeped-In-The-Starlight-144225.html",
-      "description": "New perfume listing: Steeped In The Starlight by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791501702
-    },
-    {
-      "title": "The Dua Brand — Greek Fig Grove",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Greek-Fig-Grove-144224.html",
-      "description": "New perfume listing: Greek Fig Grove by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791501702
-    },
-    {
-      "title": "The Dua Brand — The Solo Performance",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Solo-Performance-144223.html",
-      "description": "New perfume listing: The Solo Performance by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791501702
-    },
-    {
-      "title": "The Dua Brand — Ancient Vanilla Woods",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Ancient-Vanilla-Woods-144222.html",
-      "description": "New perfume listing: Ancient Vanilla Woods by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Sovereign Monarch",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Sovereign-Monarch-144221.html",
-      "description": "New perfume listing: Sovereign Monarch by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Sovereign Duke",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Sovereign-Duke-144220.html",
-      "description": "New perfume listing: Sovereign Duke by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Sovereign Duchess",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Sovereign-Duchess-144219.html",
-      "description": "New perfume listing: Sovereign Duchess by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Musk Tears",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Musk-Tears-144218.html",
-      "description": "New perfume listing: Musk Tears by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Mood Musk",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Mood-Musk-144217.html",
-      "description": "New perfume listing: Mood Musk by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Majestic Life",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Majestic-Life-144216.html",
-      "description": "New perfume listing: Majestic Life by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — Love In Dubai",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/Love-In-Dubai-144215.html",
-      "description": "New perfume listing: Love In Dubai by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "Niche House — In Love Again",
-      "link": "https://www.fragrantica.com/perfume/Niche-House/In-Love-Again-144214.html",
-      "description": "New perfume listing: In Love Again by Niche House.",
-      "category": "New Perfumes",
-      "author": "Niche House",
-      "published": 1791501702
-    },
-    {
-      "title": "ALREHAB PERFUMES — Oud & Rose",
-      "link": "https://www.fragrantica.com/perfume/ALREHAB-PERFUMES/Oud-Rose-144243.html",
-      "description": "New perfume listing: Oud & Rose by ALREHAB PERFUMES.",
-      "category": "New Perfumes",
-      "author": "ALREHAB PERFUMES",
-      "published": 1791501702
-    },
-    {
-      "title": "TRÉVITO — Celeste",
-      "link": "https://www.fragrantica.com/perfume/TREVITO/Celeste-144238.html",
-      "description": "New perfume listing: Celeste by TRÉVITO.",
-      "category": "New Perfumes",
-      "author": "TRÉVITO",
-      "published": 1791501702
-    },
-    {
-      "title": "Sand + Fog — Innocence",
-      "link": "https://www.fragrantica.com/perfume/Sand-Fog/Innocence-144237.html",
-      "description": "New perfume listing: Innocence by Sand + Fog.",
-      "category": "New Perfumes",
-      "author": "Sand + Fog",
-      "published": 1791501702
-    },
-    {
-      "title": "Armaf — Club de Nuit Precieux II",
-      "link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Precieux-II-144213.html",
-      "description": "New perfume listing: Club de Nuit Precieux II by Armaf.",
-      "category": "New Perfumes",
-      "author": "Armaf",
-      "published": 1791466287
-    },
-    {
-      "title": "ZamZam Perfumes — Addictive",
-      "link": "https://www.fragrantica.com/perfume/ZamZam-Perfumes/Addictive-144199.html",
-      "description": "New perfume listing: Addictive by ZamZam Perfumes.",
-      "category": "New Perfumes",
-      "author": "ZamZam Perfumes",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Tokyo",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Tokyo-144212.html",
-      "description": "New perfume listing: Tokyo by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
-    },
-    {
-      "title": "Aroma di Lamore — Orlando",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Orlando-144211.html",
-      "description": "New perfume listing: Orlando by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791466287
     }
   ]
 }
