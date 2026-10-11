@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "L:A Bruket’s Övernatur: An Emo Spa Filled With Trolls",
+      "link": "https://www.fragrantica.com/news/L-A-Bruket-s-OEvernatur-An-Emo-Spa-Filled-With-Trolls-26316.html",
+      "description": "Swedish spa brand famous for the scents of its skincare expands into a fragrance line and comes to the US.",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1791717783
+    },
+    {
+      "title": "Zenith by Riiffs Perfumes: A Review",
+      "link": "https://www.fragrantica.com/news/Zenith-by-Riiffs-Perfumes-A-Review-26315.html",
+      "description": "The zenith of persistence, sweetness and powderiness.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1791706982
+    },
+    {
       "title": "Cannes 2026: Plume Impression Les Extraits",
       "link": "https://www.fragrantica.com/news/Cannes-2026-Plume-Impression-Les-Extraits-26314.html",
       "description": "Plume Impression introduces Les Extraits at TFWA Cannes 2026, a trilogy inspired by the personal memories of founders Sabine and Gabriel.",
@@ -783,25 +799,89 @@
       "category": "Art Books Events",
       "author": "Sophie Normand",
       "published": 1790744462
-    },
-    {
-      "title": "Italian Brand Syrok",
-      "link": "https://www.fragrantica.com/news/Italian-Brand-Syrok-26216.html",
-      "description": "Highly recommended, delicious and frivolous.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1790735283
-    },
-    {
-      "title": "Siren Alchemy: MELINOË THE DARK + USA Giveaway!",
-      "link": "https://www.fragrantica.com/news/Siren-Alchemy-MELINOE-THE-DARK-USA-Giveaway-26215.html",
-      "description": "Meet this new brand from Missouri and its upcoming fall release!",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1790726403
     }
   ],
   "perfumes": [
+    {
+      "title": "Era Novum — Resonance",
+      "link": "https://www.fragrantica.com/perfume/Era-Novum/Resonance-144413.html",
+      "description": "New perfume listing: Resonance by Era Novum.",
+      "category": "New Perfumes",
+      "author": "Era Novum",
+      "published": 1791723115
+    },
+    {
+      "title": "Danner & Flemming — Iris Tannat",
+      "link": "https://www.fragrantica.com/perfume/Danner-Flemming/Iris-Tannat-144309.html",
+      "description": "New perfume listing: Iris Tannat by Danner & Flemming.",
+      "category": "New Perfumes",
+      "author": "Danner & Flemming",
+      "published": 1791723115
+    },
+    {
+      "title": "Bentley — Become Odyssey",
+      "link": "https://www.fragrantica.com/perfume/Bentley/Become-Odyssey-144308.html",
+      "description": "New perfume listing: Become Odyssey by Bentley.",
+      "category": "New Perfumes",
+      "author": "Bentley",
+      "published": 1791723115
+    },
+    {
+      "title": "Goutal — Voile de Santal",
+      "link": "https://www.fragrantica.com/perfume/Goutal/Voile-de-Santal-144307.html",
+      "description": "New perfume listing: Voile de Santal by Goutal.",
+      "category": "New Perfumes",
+      "author": "Goutal",
+      "published": 1791723115
+    },
+    {
+      "title": "Francesca Bianchi — Insomnia",
+      "link": "https://www.fragrantica.com/perfume/Francesca-Bianchi/Insomnia-144306.html",
+      "description": "New perfume listing: Insomnia by Francesca Bianchi.",
+      "category": "New Perfumes",
+      "author": "Francesca Bianchi",
+      "published": 1791723115
+    },
+    {
+      "title": "Montblanc — Paper Musk",
+      "link": "https://www.fragrantica.com/perfume/Montblanc/Paper-Musk-144305.html",
+      "description": "New perfume listing: Paper Musk by Montblanc.",
+      "category": "New Perfumes",
+      "author": "Montblanc",
+      "published": 1791723115
+    },
+    {
+      "title": "Al Ambra — Habibi",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Habibi-144303.html",
+      "description": "New perfume listing: Habibi by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791723115
+    },
+    {
+      "title": "Maison Lormont — Trône de Cendre",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Trone-de-Cendre-144302.html",
+      "description": "New perfume listing: Trône de Cendre by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791723115
+    },
+    {
+      "title": "Maison Lormont — Or Fondant",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Or-Fondant-144301.html",
+      "description": "New perfume listing: Or Fondant by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791723115
+    },
+    {
+      "title": "Maison Lormont — Dernier Verre",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Dernier-Verre-144299.html",
+      "description": "New perfume listing: Dernier Verre by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791723115
+    },
     {
       "title": "Bujairami — Vanilla High",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Vanilla-High-144404.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: Desert Dune by Bujairami.",
       "category": "New Perfumes",
       "author": "Bujairami",
-      "published": 1791611644
-    },
-    {
-      "title": "Bujairami — Miss Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Miss-Vanilla-144312.html",
-      "description": "New perfume listing: Miss Vanilla by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791611644
-    },
-    {
-      "title": "Bujairami — Wall Street",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Wall-Street-144311.html",
-      "description": "New perfume listing: Wall Street by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791611644
-    },
-    {
-      "title": "Bujairami — Blanc Bloom",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Blanc-Bloom-144310.html",
-      "description": "New perfume listing: Blanc Bloom by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Amanoume アマノウメ コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Amanoume-amanoume-koronkonsantore-144327.html",
-      "description": "New perfume listing: Amanoume アマノウメ コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Itsukitake イツキタケ コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Itsukitake-itsukitake-koronkonsantore-144326.html",
-      "description": "New perfume listing: Itsukitake イツキタケ コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Matsurimatsu マツリマツ コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Matsurimatsu-matsurimatsu-koronkonsantore-144325.html",
-      "description": "New perfume listing: Matsurimatsu マツリマツ コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Hakuto ハクト コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Hakuto-hakuto-koronkonsantore-144324.html",
-      "description": "New perfume listing: Hakuto ハクト コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Shika シカ コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Shika-shika-koronkonsantore-144323.html",
-      "description": "New perfume listing: Shika シカ コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Kuen クエン コロンコンサントレ",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Kuen-kuen-koronkonsantore-144322.html",
-      "description": "New perfume listing: Kuen クエン コロンコンサントレ by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Green グリーン オードパルファム",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Green-gurin-odoparufamu-144321.html",
-      "description": "New perfume listing: Green グリーン オードパルファム by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
       "published": 1791611644
     }
   ]
