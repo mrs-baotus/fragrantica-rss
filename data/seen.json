@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Cannes 2026: Plume Impression Les Extraits",
+      "link": "https://www.fragrantica.com/news/Cannes-2026-Plume-Impression-Les-Extraits-26314.html",
+      "description": "Plume Impression introduces Les Extraits at TFWA Cannes 2026, a trilogy inspired by the personal memories of founders Sabine and Gabriel.",
+      "category": "Niche Perfumery",
+      "author": "Sanja Pekić",
+      "published": 1791696963
+    },
+    {
+      "title": "Diorissimo, Eau Fraîche, Diorama, and Diorella (2026) by DIOR",
+      "link": "https://www.fragrantica.com/news/Diorissimo-Eau-Fraiche-Diorama-and-Diorella-2026-by-DIOR-26313.html",
+      "description": "It is hard to choose just one, so I have to wear them all at once.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1791685577
+    },
+    {
+      "title": "The Different Company Gin-Seng: A Breath of Fresh Air",
+      "link": "https://www.fragrantica.com/news/The-Different-Company-Gin-Seng-A-Breath-of-Fresh-Air-26312.html",
+      "description": "Green, spicy, airy, grounding.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1791679142
+    },
+    {
+      "title": "Paradise in Gangwon Organ Tale: Fruits, Flowers, Smoke",
+      "link": "https://www.fragrantica.com/news/Paradise-in-Gangwon-Organ-Tale-Fruits-Flowers-Smoke-26311.html",
+      "description": "Let`s smell the Korean Paradise!",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1791672843
+    },
+    {
       "title": "K-R-V-A: A Brand That Transforms Brazilian Nature Into Olfactory Memory",
       "link": "https://www.fragrantica.com/news/K-R-V-A-A-Brand-That-Transforms-Brazilian-Nature-Into-Olfactory-Memory-26310.html",
       "description": "A sensitive record of nature, time, and the stories that remain in our memory.",
@@ -767,41 +799,153 @@
       "category": "New Fragrances",
       "author": "Beth Butterfield",
       "published": 1790726403
-    },
-    {
-      "title": "The Mystery Touch in Oud Immortelle by Manos Gerakinis",
-      "link": "https://www.fragrantica.com/news/The-Mystery-Touch-in-Oud-Immortelle-by-Manos-Gerakinis-26214.html",
-      "description": "What happens when mystery is involved in a beloved genre?",
-      "category": "Fragrance Reviews",
-      "author": "Elena Vosnaki",
-      "published": 1790715603
-    },
-    {
-      "title": "Fil d’Or No. 3 by Laurent Mazzone: Perfume Cashmere",
-      "link": "https://www.fragrantica.com/news/Fil-d-Or-No-3-by-Laurent-Mazzone-Perfume-Cashmere-26213.html",
-      "description": "What should a fragrance for the first cold days smell like?",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1790705932
-    },
-    {
-      "title": "Zurafa by Serge Lutens: Dandies Twelve Centuries Ago",
-      "link": "https://www.fragrantica.com/news/Zurafa-by-Serge-Lutens-Dandies-Twelve-Centuries-Ago-26212.html",
-      "description": "There is nothing more fascinating than exploring history through the prism of perfumery.",
-      "category": "Fragrance Reviews",
-      "author": "Galina Anni",
-      "published": 1790695743
-    },
-    {
-      "title": "004 Shanghai by Cottee: A City of Their Own",
-      "link": "https://www.fragrantica.com/news/004-Shanghai-by-Cottee-A-City-of-Their-Own-26211.html",
-      "description": "The better you know a city, the harder it is to tell its story. Cottee pieces together its Shanghai from fragments of memory.",
-      "category": "Fragrance Reviews",
-      "author": "Andrei Lensky",
-      "published": 1790686863
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Vanilla High",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Vanilla-High-144404.html",
+      "description": "New perfume listing: Vanilla High by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Green Flag",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Green-Flag-144402.html",
+      "description": "New perfume listing: Green Flag by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Reflections",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Reflections-144401.html",
+      "description": "New perfume listing: Reflections by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Clubs",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Clubs-144400.html",
+      "description": "New perfume listing: Clubs by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — DUI",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/DUI-144399.html",
+      "description": "New perfume listing: DUI by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Love Spell",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Love-Spell-144398.html",
+      "description": "New perfume listing: Love Spell by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Al Ambra — Musk Explorer",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Musk-Explorer-144298.html",
+      "description": "New perfume listing: Musk Explorer by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791697726
+    },
+    {
+      "title": "Al Ambra — Hypertension",
+      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Hypertension-144297.html",
+      "description": "New perfume listing: Hypertension by Al Ambra.",
+      "category": "New Perfumes",
+      "author": "Al Ambra",
+      "published": 1791697726
+    },
+    {
+      "title": "Maison Lormont — Héritage",
+      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Heritage-144296.html",
+      "description": "New perfume listing: Héritage by Maison Lormont.",
+      "category": "New Perfumes",
+      "author": "Maison Lormont",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Под куполом цирка",
+      "link": "https://www.fragrantica.com/perfume/2impress/Pod-kupolom-cirka-144412.html",
+      "description": "New perfume listing: Под куполом цирка by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Ленинградский вальс",
+      "link": "https://www.fragrantica.com/perfume/2impress/Leningradskij-val-s-144411.html",
+      "description": "New perfume listing: Ленинградский вальс by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Ленинградский пион",
+      "link": "https://www.fragrantica.com/perfume/2impress/Leningradskij-pion-144410.html",
+      "description": "New perfume listing: Ленинградский пион by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Hera",
+      "link": "https://www.fragrantica.com/perfume/2impress/Hera-144409.html",
+      "description": "New perfume listing: Hera by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Athena",
+      "link": "https://www.fragrantica.com/perfume/2impress/Athena-144408.html",
+      "description": "New perfume listing: Athena by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Fizzzz",
+      "link": "https://www.fragrantica.com/perfume/2impress/Fizzzz-144407.html",
+      "description": "New perfume listing: Fizzzz by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "2impress — Le roi des fleurs",
+      "link": "https://www.fragrantica.com/perfume/2impress/Le-roi-des-fleurs-144406.html",
+      "description": "New perfume listing: Le roi des fleurs by 2impress.",
+      "category": "New Perfumes",
+      "author": "2impress",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Gorgeous",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Gorgeous-144405.html",
+      "description": "New perfume listing: Gorgeous by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
+    {
+      "title": "Bujairami — Suit",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Suit-144403.html",
+      "description": "New perfume listing: Suit by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791697726
+    },
     {
       "title": "Saad Oudworks Lab — Santal Sol",
       "link": "https://www.fragrantica.com/perfume/Saad-Oudworks-Lab/Santal-Sol-144397.html",
@@ -1457,150 +1601,6 @@
       "category": "New Perfumes",
       "author": "Liberta Perfume",
       "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Aqua アクア オードパルファム",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Aqua-akua-odoparufamu-144320.html",
-      "description": "New perfume listing: Aqua アクア オードパルファム by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Liberta Perfume — Citrus シトラス オードパルファム",
-      "link": "https://www.fragrantica.com/perfume/Liberta-Perfume/Citrus-shitorasu-odoparufamu-144319.html",
-      "description": "New perfume listing: Citrus シトラス オードパルファム by Liberta Perfume.",
-      "category": "New Perfumes",
-      "author": "Liberta Perfume",
-      "published": 1791611644
-    },
-    {
-      "title": "Bujairami — Midnight Ocean",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Midnight-Ocean-144318.html",
-      "description": "New perfume listing: Midnight Ocean by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Riyadh",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Riyadh-144210.html",
-      "description": "New perfume listing: Riyadh by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Paris",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Paris-144209.html",
-      "description": "New perfume listing: Paris by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Munich",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Munich-144208.html",
-      "description": "New perfume listing: Munich by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Moscow",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Moscow-144207.html",
-      "description": "New perfume listing: Moscow by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Monaco",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Monaco-144206.html",
-      "description": "New perfume listing: Monaco by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Aroma di Lamore — Milano",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Milano-144205.html",
-      "description": "New perfume listing: Milano by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791611644
-    },
-    {
-      "title": "Danner & Flemming — Iris Tannat",
-      "link": "https://www.fragrantica.com/perfume/Danner-Flemming/Iris-Tannat-144309.html",
-      "description": "New perfume listing: Iris Tannat by Danner & Flemming.",
-      "category": "New Perfumes",
-      "author": "Danner & Flemming",
-      "published": 1791585565
-    },
-    {
-      "title": "Bentley — Become Odyssey",
-      "link": "https://www.fragrantica.com/perfume/Bentley/Become-Odyssey-144308.html",
-      "description": "New perfume listing: Become Odyssey by Bentley.",
-      "category": "New Perfumes",
-      "author": "Bentley",
-      "published": 1791585565
-    },
-    {
-      "title": "Goutal — Voile de Santal",
-      "link": "https://www.fragrantica.com/perfume/Goutal/Voile-de-Santal-144307.html",
-      "description": "New perfume listing: Voile de Santal by Goutal.",
-      "category": "New Perfumes",
-      "author": "Goutal",
-      "published": 1791585565
-    },
-    {
-      "title": "Francesca Bianchi — Insomnia",
-      "link": "https://www.fragrantica.com/perfume/Francesca-Bianchi/Insomnia-144306.html",
-      "description": "New perfume listing: Insomnia by Francesca Bianchi.",
-      "category": "New Perfumes",
-      "author": "Francesca Bianchi",
-      "published": 1791585565
-    },
-    {
-      "title": "Montblanc — Paper Musk",
-      "link": "https://www.fragrantica.com/perfume/Montblanc/Paper-Musk-144305.html",
-      "description": "New perfume listing: Paper Musk by Montblanc.",
-      "category": "New Perfumes",
-      "author": "Montblanc",
-      "published": 1791585565
-    },
-    {
-      "title": "Al Ambra — Habibi",
-      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Habibi-144303.html",
-      "description": "New perfume listing: Habibi by Al Ambra.",
-      "category": "New Perfumes",
-      "author": "Al Ambra",
-      "published": 1791585565
-    },
-    {
-      "title": "Maison Lormont — Trône de Cendre",
-      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Trone-de-Cendre-144302.html",
-      "description": "New perfume listing: Trône de Cendre by Maison Lormont.",
-      "category": "New Perfumes",
-      "author": "Maison Lormont",
-      "published": 1791585565
-    },
-    {
-      "title": "Maison Lormont — Or Fondant",
-      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Or-Fondant-144301.html",
-      "description": "New perfume listing: Or Fondant by Maison Lormont.",
-      "category": "New Perfumes",
-      "author": "Maison Lormont",
-      "published": 1791585565
-    },
-    {
-      "title": "Maison Lormont — Dernier Verre",
-      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Dernier-Verre-144299.html",
-      "description": "New perfume listing: Dernier Verre by Maison Lormont.",
-      "category": "New Perfumes",
-      "author": "Maison Lormont",
-      "published": 1791585565
     }
   ]
 }
