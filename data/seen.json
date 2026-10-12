@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "RITUALS Classic Advent Calendar 2026",
+      "link": "https://www.fragrantica.com/news/RITUALS-Classic-Advent-Calendar-2026-26325.html",
+      "description": "Rituals Classic Calendrier de l'Avent, celebrating the joy of Christmas.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791781503
+    },
+    {
+      "title": "XERFJOFF 12-Day Advent Calendar",
+      "link": "https://www.fragrantica.com/news/XERFJOFF-12-Day-Advent-Calendar-26324.html",
+      "description": "Xerjoff presents its first 12-Day Advent Calendar.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791771303
+    },
+    {
+      "title": "Awake SŪZŪ: The Unexpected Minimalism of Samuel Moraes",
+      "link": "https://www.fragrantica.com/news/Awake-SUZU-The-Unexpected-Minimalism-of-Samuel-Moraes-26323.html",
+      "description": "Because not everything is about explosive scents.",
+      "category": "Fragrance Reviews",
+      "author": "Jernê Knowles",
+      "published": 1791764163
+    },
+    {
+      "title": "ānti Plastic Love: A Glamourous Take on Bubblegum (US Exclusive)",
+      "link": "https://www.fragrantica.com/news/anti-Plastic-Love-A-Glamourous-Take-on-Bubblegum-US-Exclusive-26322.html",
+      "description": "Bubblegum glam and the neon night in furs. This time, we’re setting the clock—and the mood—to 1984.",
+      "category": "Niche Perfumes",
+      "author": "Sandra Raičević Petrović",
+      "published": 1791757143
+    },
+    {
       "title": "Diorling DIOR (2026)",
       "link": "https://www.fragrantica.com/news/Diorling-DIOR-2026-26321.html",
       "description": "A green leather chypre.",
@@ -767,41 +799,337 @@
       "category": "Niche Fragrances",
       "author": "Alena Lavault",
       "published": 1790824323
-    },
-    {
-      "title": "Princess Diana's Favorite Perfumes",
-      "link": "https://www.fragrantica.com/news/Princess-Diana-s-Favorite-Perfumes-26225.html",
-      "description": "An olfactory portrait of Princess Diana that says a lot about her character.",
-      "category": "Columns",
-      "author": "Elena Knezevic",
-      "published": 1790813441
-    },
-    {
-      "title": "1 Million Black By Rabanne: Pineapple Fougère Whippy",
-      "link": "https://www.fragrantica.com/news/1-Million-Black-By-Rabanne-Pineapple-Fougere-Whippy-26224.html",
-      "description": "Herbal-fruity-creamy.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1790808002
-    },
-    {
-      "title": "A Bit Hazelnutty KV by Kateryna Vel'menko Review",
-      "link": "https://www.fragrantica.com/news/A-Bit-Hazelnutty-KV-by-Kateryna-Vel-menko-Review-26223.html",
-      "description": "A bit vanilla-nutty with the serenity of a cup of hot chocolate and whipped cream...",
-      "category": "Fragrance Reviews",
-      "author": "Iulia Halatz",
-      "published": 1790798463
-    },
-    {
-      "title": "Imaginary Authors Launches Impassable Wilderness, Inspired by Upcoming Film",
-      "link": "https://www.fragrantica.com/news/Imaginary-Authors-Launch-Impassable-Wilderness-Inspired-by-Upcoming-Film-26222.html",
-      "description": "The fragrance is a collaboration with WILDWOOD, a book series-turned-feature-film written by Colin Meloy and Carson Ellis.",
-      "category": "Video",
-      "author": "Fragrance News",
-      "published": 1790791263
     }
   ],
   "perfumes": [
+    {
+      "title": "Landcaster — Techno Oud",
+      "link": "https://www.fragrantica.com/perfume/Landcaster/Techno-Oud-144874.html",
+      "description": "New perfume listing: Techno Oud by Landcaster.",
+      "category": "New Perfumes",
+      "author": "Landcaster",
+      "published": 1791784795
+    },
+    {
+      "title": "Landcaster — Oud Carbon",
+      "link": "https://www.fragrantica.com/perfume/Landcaster/Oud-Carbon-144873.html",
+      "description": "New perfume listing: Oud Carbon by Landcaster.",
+      "category": "New Perfumes",
+      "author": "Landcaster",
+      "published": 1791784795
+    },
+    {
+      "title": "Landcaster — Metallic Oud",
+      "link": "https://www.fragrantica.com/perfume/Landcaster/Metallic-Oud-144872.html",
+      "description": "New perfume listing: Metallic Oud by Landcaster.",
+      "category": "New Perfumes",
+      "author": "Landcaster",
+      "published": 1791784795
+    },
+    {
+      "title": "Bujairami — 25",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/25-144661.html",
+      "description": "New perfume listing: 25 by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791784795
+    },
+    {
+      "title": "Zara — Golden Decade Éclat Vanille",
+      "link": "https://www.fragrantica.com/perfume/Zara/Golden-Decade-Eclat-Vanille-144330.html",
+      "description": "New perfume listing: Golden Decade Éclat Vanille by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1791784795
+    },
+    {
+      "title": "Zara — Red Zara Temptation Éclat Mandarine",
+      "link": "https://www.fragrantica.com/perfume/Zara/Red-Zara-Temptation-Eclat-Mandarine-144329.html",
+      "description": "New perfume listing: Red Zara Temptation Éclat Mandarine by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1791784795
+    },
+    {
+      "title": "SARANGHAEYO — 99. M OF-U",
+      "link": "https://www.fragrantica.com/perfume/SARANGHAEYO/99-M-OF-U-144328.html",
+      "description": "New perfume listing: 99. M OF-U by SARANGHAEYO.",
+      "category": "New Perfumes",
+      "author": "SARANGHAEYO",
+      "published": 1791784795
+    },
+    {
+      "title": "Bujairami — Rosinova",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rosinova-144317.html",
+      "description": "New perfume listing: Rosinova by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791784795
+    },
+    {
+      "title": "Bujairami — Mandelisse",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Mandelisse-144316.html",
+      "description": "New perfume listing: Mandelisse by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791784795
+    },
+    {
+      "title": "Bujairami — Purple Haze",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Purple-Haze-144315.html",
+      "description": "New perfume listing: Purple Haze by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791784795
+    },
+    {
+      "title": "Bujairami — Pure Vibe",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Pure-Vibe-144314.html",
+      "description": "New perfume listing: Pure Vibe by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791784795
+    },
+    {
+      "title": "Crimean rose – Крымская роза — С праздником",
+      "link": "https://www.fragrantica.com/perfume/Crimean-rose-Krymskaa-roza/S-prazdnikom-144871.html",
+      "description": "New perfume listing: С праздником by Crimean rose – Крымская роза.",
+      "category": "New Perfumes",
+      "author": "Crimean rose – Крымская роза",
+      "published": 1791784795
+    },
+    {
+      "title": "Lola Prusac — Sega",
+      "link": "https://www.fragrantica.com/perfume/Lola-Prusac/Sega-144870.html",
+      "description": "New perfume listing: Sega by Lola Prusac.",
+      "category": "New Perfumes",
+      "author": "Lola Prusac",
+      "published": 1791784795
+    },
+    {
+      "title": "Lola Prusac — Gant de Crin",
+      "link": "https://www.fragrantica.com/perfume/Lola-Prusac/Gant-de-Crin-144869.html",
+      "description": "New perfume listing: Gant de Crin by Lola Prusac.",
+      "category": "New Perfumes",
+      "author": "Lola Prusac",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C084",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C084-144868.html",
+      "description": "New perfume listing: C084 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C086",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C086-144867.html",
+      "description": "New perfume listing: C086 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — F396",
+      "link": "https://www.fragrantica.com/perfume/Muscent/F396-144866.html",
+      "description": "New perfume listing: F396 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C087",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C087-144865.html",
+      "description": "New perfume listing: C087 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C083",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C083-144864.html",
+      "description": "New perfume listing: C083 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C085",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C085-144863.html",
+      "description": "New perfume listing: C085 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C081",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C081-144862.html",
+      "description": "New perfume listing: C081 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — N468",
+      "link": "https://www.fragrantica.com/perfume/Muscent/N468-144861.html",
+      "description": "New perfume listing: N468 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — M184",
+      "link": "https://www.fragrantica.com/perfume/Muscent/M184-144860.html",
+      "description": "New perfume listing: M184 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — M183",
+      "link": "https://www.fragrantica.com/perfume/Muscent/M183-144859.html",
+      "description": "New perfume listing: M183 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — F395",
+      "link": "https://www.fragrantica.com/perfume/Muscent/F395-144858.html",
+      "description": "New perfume listing: F395 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — F394",
+      "link": "https://www.fragrantica.com/perfume/Muscent/F394-144857.html",
+      "description": "New perfume listing: F394 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — F393",
+      "link": "https://www.fragrantica.com/perfume/Muscent/F393-144856.html",
+      "description": "New perfume listing: F393 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — M182",
+      "link": "https://www.fragrantica.com/perfume/Muscent/M182-144855.html",
+      "description": "New perfume listing: M182 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — N467",
+      "link": "https://www.fragrantica.com/perfume/Muscent/N467-144854.html",
+      "description": "New perfume listing: N467 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — N466",
+      "link": "https://www.fragrantica.com/perfume/Muscent/N466-144853.html",
+      "description": "New perfume listing: N466 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — F392",
+      "link": "https://www.fragrantica.com/perfume/Muscent/F392-144852.html",
+      "description": "New perfume listing: F392 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C080",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C080-144851.html",
+      "description": "New perfume listing: C080 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C079",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C079-144850.html",
+      "description": "New perfume listing: C079 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — C078",
+      "link": "https://www.fragrantica.com/perfume/Muscent/C078-144849.html",
+      "description": "New perfume listing: C078 by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Sweet Flower Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Sweet-Flower-Solid-Perfume-144848.html",
+      "description": "New perfume listing: Sweet Flower Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Narcotic Bloom Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Narcotic-Bloom-Solid-Perfume-144847.html",
+      "description": "New perfume listing: Narcotic Bloom Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Baby Powder Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Baby-Powder-Solid-Perfume-144846.html",
+      "description": "New perfume listing: Baby Powder Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Woody Chypre Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Woody-Chypre-Solid-Perfume-144845.html",
+      "description": "New perfume listing: Woody Chypre Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Aromatic Blossom Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Aromatic-Blossom-Solid-Perfume-144844.html",
+      "description": "New perfume listing: Aromatic Blossom Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Vanilla Fairy Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Vanilla-Fairy-Solid-Perfume-144843.html",
+      "description": "New perfume listing: Vanilla Fairy Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
+    {
+      "title": "Muscent — Oriental Wave Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Muscent/Oriental-Wave-Solid-Perfume-144842.html",
+      "description": "New perfume listing: Oriental Wave Solid Perfume by Muscent.",
+      "category": "New Perfumes",
+      "author": "Muscent",
+      "published": 1791784795
+    },
     {
       "title": "Bujairami — Darkwood",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Darkwood-144644.html",
@@ -1273,334 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bujairami",
       "published": 1791697726
-    },
-    {
-      "title": "Al Ambra — Musk Explorer",
-      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Musk-Explorer-144298.html",
-      "description": "New perfume listing: Musk Explorer by Al Ambra.",
-      "category": "New Perfumes",
-      "author": "Al Ambra",
-      "published": 1791697726
-    },
-    {
-      "title": "Al Ambra — Hypertension",
-      "link": "https://www.fragrantica.com/perfume/Al-Ambra/Hypertension-144297.html",
-      "description": "New perfume listing: Hypertension by Al Ambra.",
-      "category": "New Perfumes",
-      "author": "Al Ambra",
-      "published": 1791697726
-    },
-    {
-      "title": "Maison Lormont — Héritage",
-      "link": "https://www.fragrantica.com/perfume/Maison-Lormont/Heritage-144296.html",
-      "description": "New perfume listing: Héritage by Maison Lormont.",
-      "category": "New Perfumes",
-      "author": "Maison Lormont",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Под куполом цирка",
-      "link": "https://www.fragrantica.com/perfume/2impress/Pod-kupolom-cirka-144412.html",
-      "description": "New perfume listing: Под куполом цирка by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Ленинградский вальс",
-      "link": "https://www.fragrantica.com/perfume/2impress/Leningradskij-val-s-144411.html",
-      "description": "New perfume listing: Ленинградский вальс by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Ленинградский пион",
-      "link": "https://www.fragrantica.com/perfume/2impress/Leningradskij-pion-144410.html",
-      "description": "New perfume listing: Ленинградский пион by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Hera",
-      "link": "https://www.fragrantica.com/perfume/2impress/Hera-144409.html",
-      "description": "New perfume listing: Hera by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Athena",
-      "link": "https://www.fragrantica.com/perfume/2impress/Athena-144408.html",
-      "description": "New perfume listing: Athena by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Fizzzz",
-      "link": "https://www.fragrantica.com/perfume/2impress/Fizzzz-144407.html",
-      "description": "New perfume listing: Fizzzz by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "2impress — Le roi des fleurs",
-      "link": "https://www.fragrantica.com/perfume/2impress/Le-roi-des-fleurs-144406.html",
-      "description": "New perfume listing: Le roi des fleurs by 2impress.",
-      "category": "New Perfumes",
-      "author": "2impress",
-      "published": 1791697726
-    },
-    {
-      "title": "Bujairami — Gorgeous",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Gorgeous-144405.html",
-      "description": "New perfume listing: Gorgeous by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791697726
-    },
-    {
-      "title": "Bujairami — Suit",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Suit-144403.html",
-      "description": "New perfume listing: Suit by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791697726
-    },
-    {
-      "title": "Saad Oudworks Lab — Santal Sol",
-      "link": "https://www.fragrantica.com/perfume/Saad-Oudworks-Lab/Santal-Sol-144397.html",
-      "description": "New perfume listing: Santal Sol by Saad Oudworks Lab.",
-      "category": "New Perfumes",
-      "author": "Saad Oudworks Lab",
-      "published": 1791668745
-    },
-    {
-      "title": "Saad Oudworks Lab — Ghaliya Classique",
-      "link": "https://www.fragrantica.com/perfume/Saad-Oudworks-Lab/Ghaliya-Classique-144396.html",
-      "description": "New perfume listing: Ghaliya Classique by Saad Oudworks Lab.",
-      "category": "New Perfumes",
-      "author": "Saad Oudworks Lab",
-      "published": 1791668745
-    },
-    {
-      "title": "Saad Oudworks Lab — Oud Chypre",
-      "link": "https://www.fragrantica.com/perfume/Saad-Oudworks-Lab/Oud-Chypre-144395.html",
-      "description": "New perfume listing: Oud Chypre by Saad Oudworks Lab.",
-      "category": "New Perfumes",
-      "author": "Saad Oudworks Lab",
-      "published": 1791668745
-    },
-    {
-      "title": "Davidoff — Essentials Blue",
-      "link": "https://www.fragrantica.com/perfume/Davidoff/Essentials-Blue-144390.html",
-      "description": "New perfume listing: Essentials Blue by Davidoff.",
-      "category": "New Perfumes",
-      "author": "Davidoff",
-      "published": 1791668745
-    },
-    {
-      "title": "We Pink — Wonbloom Fever",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Wonbloom-Fever-144369.html",
-      "description": "New perfume listing: Wonbloom Fever by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1791668745
-    },
-    {
-      "title": "E’theréal Paris — Patriota American Dream",
-      "link": "https://www.fragrantica.com/perfume/E-thereal-Paris/Patriota-American-Dream-144368.html",
-      "description": "New perfume listing: Patriota American Dream by E’theréal Paris.",
-      "category": "New Perfumes",
-      "author": "E’theréal Paris",
-      "published": 1791668745
-    },
-    {
-      "title": "Aroma di Lamore — Wano",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Wano-144394.html",
-      "description": "New perfume listing: Wano by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791668745
-    },
-    {
-      "title": "Aroma di Lamore — Cukur",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Cukur-144393.html",
-      "description": "New perfume listing: Cukur by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791668745
-    },
-    {
-      "title": "Aroma di Lamore — New York",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/New-York-144392.html",
-      "description": "New perfume listing: New York by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791668745
-    },
-    {
-      "title": "Aroma di Lamore — Las Vegas",
-      "link": "https://www.fragrantica.com/perfume/Aroma-di-Lamore/Las-Vegas-144391.html",
-      "description": "New perfume listing: Las Vegas by Aroma di Lamore.",
-      "category": "New Perfumes",
-      "author": "Aroma di Lamore",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Qawi",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Qawi-144389.html",
-      "description": "New perfume listing: Qawi by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Desert Flower White",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Desert-Flower-White-144388.html",
-      "description": "New perfume listing: Desert Flower White by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Musk Shiny",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Musk-Shiny-144387.html",
-      "description": "New perfume listing: Musk Shiny by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Desert Flower Amber",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Desert-Flower-Amber-144386.html",
-      "description": "New perfume listing: Desert Flower Amber by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Desert Flower Red",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Desert-Flower-Red-144385.html",
-      "description": "New perfume listing: Desert Flower Red by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — La Notte",
-      "link": "https://www.fragrantica.com/perfume/Giverny/La-Notte-144384.html",
-      "description": "New perfume listing: La Notte by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Desert Flower Purple",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Desert-Flower-Purple-144383.html",
-      "description": "New perfume listing: Desert Flower Purple by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Gold Amber",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Gold-Amber-144382.html",
-      "description": "New perfume listing: Gold Amber by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — L'Amour",
-      "link": "https://www.fragrantica.com/perfume/Giverny/L-Amour-144381.html",
-      "description": "New perfume listing: L'Amour by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Enjoy",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Enjoy-144380.html",
-      "description": "New perfume listing: Enjoy by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Extasia",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Extasia-144379.html",
-      "description": "New perfume listing: Extasia by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Stigma",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Stigma-144378.html",
-      "description": "New perfume listing: Stigma by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Unlimited",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Unlimited-144377.html",
-      "description": "New perfume listing: Unlimited by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — NYC Women",
-      "link": "https://www.fragrantica.com/perfume/Giverny/NYC-Women-144376.html",
-      "description": "New perfume listing: NYC Women by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Desire",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Desire-144375.html",
-      "description": "New perfume listing: Desire by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Opera",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Opera-144374.html",
-      "description": "New perfume listing: Opera by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Secret Life",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Secret-Life-144373.html",
-      "description": "New perfume listing: Secret Life by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Madam Beauty",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Madam-Beauty-144372.html",
-      "description": "New perfume listing: Madam Beauty by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
-    },
-    {
-      "title": "Giverny — Sensuality",
-      "link": "https://www.fragrantica.com/perfume/Giverny/Sensuality-144371.html",
-      "description": "New perfume listing: Sensuality by Giverny.",
-      "category": "New Perfumes",
-      "author": "Giverny",
-      "published": 1791668745
     }
   ]
 }
