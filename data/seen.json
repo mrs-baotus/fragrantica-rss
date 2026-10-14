@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "German Angst by Art Brüt: A White Noise, Herbal Animalic",
+      "link": "https://www.fragrantica.com/news/German-Angst-by-Art-Bruet-A-White-Noise-Herbal-Animalic-26347.html",
+      "description": "Salty-metallic-fruity",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1791943203
+    },
+    {
+      "title": "Notes Shanghai Autumn Edition 2026: In Search of Another Way",
+      "link": "https://www.fragrantica.com/news/Notes-Shanghai-Autumn-Edition-2026-In-Search-of-Another-Way-26346.html",
+      "description": "The theme of this autumn’s Notes Shanghai — Another Way — offers an opportunity to reflect not only on perfumery, but also on our relationship with beauty.",
+      "category": "Art Books Events",
+      "author": "Andrei Lensky",
+      "published": 1791941943
+    },
+    {
+      "title": "Prin x FortuneSoul Present Triviṣa: Three Poisons and One Awakening",
+      "link": "https://www.fragrantica.com/news/Prin-x-FortuneSoul-Present-Trivi-a-Three-Poisons-and-One-Awakening-26345.html",
+      "description": "Four fragrances — Rāga, Moha, Dveṣa, and Prajñā — united by one of the central ideas of Buddhist philosophy: the concept of the three poisons of human consciousness.",
+      "category": "New Fragrances",
+      "author": "Igor Masyukov",
+      "published": 1791933474
+    },
+    {
       "title": "L’Entropiste Introduces Festin: A Feast of Dark Fruit, Truffles, and Oud",
       "link": "https://www.fragrantica.com/news/L-Entropiste-Introduces-Festin-A-Feast-of-Dark-Fruit-Truffles-and-Oud-26344.html",
       "description": "FESTIN translates this vision of decadent opulence into a composition inspired by an extravagant banquet, bringing together rich, contrasting accords that reveal new facets through their interplay.",
@@ -775,33 +799,153 @@
       "category": "Art Books Events",
       "author": "Alena Lavault",
       "published": 1791064504
-    },
-    {
-      "title": "Neela Vermeire’s Neith: Candied Ginger Rose-Oud",
-      "link": "https://www.fragrantica.com/news/Neela-Vermeire-s-Neith-Candied-Ginger-Rose-Oud-26247.html",
-      "description": "Fireworks on classic notes",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1791052323
-    },
-    {
-      "title": "Natura Launches Aura Alba Dourada",
-      "link": "https://www.fragrantica.com/news/Natura-Launches-Aura-Alba-Dourada-26246.html",
-      "description": "A white rose (jacobite rose) for a gentle evening.",
-      "category": "Fragrance News",
-      "author": "Jernê Knowles",
-      "published": 1791041043
-    },
-    {
-      "title": "Son of Heaven: Tenger's Son by Maison de L'Asie",
-      "link": "https://www.fragrantica.com/news/Son-of-Heaven-Tenger-s-Son-by-Maison-de-L-Asie-26245.html",
-      "description": "The steppe, the campfire, horses, and a man with no barriers before him.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1791032522
     }
   ],
   "perfumes": [
+    {
+      "title": "MÁNO x MNRL — Bourbon Dusk",
+      "link": "https://www.fragrantica.com/perfume/MANO-x-MNRL/Bourbon-Dusk-145034.html",
+      "description": "New perfume listing: Bourbon Dusk by MÁNO x MNRL.",
+      "category": "New Perfumes",
+      "author": "MÁNO x MNRL",
+      "published": 1791953714
+    },
+    {
+      "title": "MÁNO x MNRL — Tabac L'Amant",
+      "link": "https://www.fragrantica.com/perfume/MANO-x-MNRL/Tabac-L-Amant-145033.html",
+      "description": "New perfume listing: Tabac L'Amant by MÁNO x MNRL.",
+      "category": "New Perfumes",
+      "author": "MÁNO x MNRL",
+      "published": 1791953714
+    },
+    {
+      "title": "MÁNO x MNRL — Leather Solaris",
+      "link": "https://www.fragrantica.com/perfume/MANO-x-MNRL/Leather-Solaris-145032.html",
+      "description": "New perfume listing: Leather Solaris by MÁNO x MNRL.",
+      "category": "New Perfumes",
+      "author": "MÁNO x MNRL",
+      "published": 1791953714
+    },
+    {
+      "title": "MÁNO x MNRL — Black Cherry Vice",
+      "link": "https://www.fragrantica.com/perfume/MANO-x-MNRL/Black-Cherry-Vice-145031.html",
+      "description": "New perfume listing: Black Cherry Vice by MÁNO x MNRL.",
+      "category": "New Perfumes",
+      "author": "MÁNO x MNRL",
+      "published": 1791953714
+    },
+    {
+      "title": "Geir Ness — Norsk Foss",
+      "link": "https://www.fragrantica.com/perfume/Geir-Ness/Norsk-Foss-145030.html",
+      "description": "New perfume listing: Norsk Foss by Geir Ness.",
+      "category": "New Perfumes",
+      "author": "Geir Ness",
+      "published": 1791953714
+    },
+    {
+      "title": "Monkoku — Amber Sparkle",
+      "link": "https://www.fragrantica.com/perfume/Monkoku/Amber-Sparkle-145027.html",
+      "description": "New perfume listing: Amber Sparkle by Monkoku.",
+      "category": "New Perfumes",
+      "author": "Monkoku",
+      "published": 1791953714
+    },
+    {
+      "title": "Monkoku — Silver Spice",
+      "link": "https://www.fragrantica.com/perfume/Monkoku/Silver-Spice-145026.html",
+      "description": "New perfume listing: Silver Spice by Monkoku.",
+      "category": "New Perfumes",
+      "author": "Monkoku",
+      "published": 1791953714
+    },
+    {
+      "title": "Bujairami — Blue Chill",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blue-Chill-145029.html",
+      "description": "New perfume listing: Blue Chill by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791953714
+    },
+    {
+      "title": "Bujairami — Blood Cherry",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blood-Cherry-145028.html",
+      "description": "New perfume listing: Blood Cherry by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791953714
+    },
+    {
+      "title": "Hind Al Oud — Deep Ahojas",
+      "link": "https://www.fragrantica.com/perfume/Hind-Al-Oud/Deep-Ahojas-144959.html",
+      "description": "New perfume listing: Deep Ahojas by Hind Al Oud.",
+      "category": "New Perfumes",
+      "author": "Hind Al Oud",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Lulli",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Lulli-144945.html",
+      "description": "New perfume listing: Lulli by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Involve Woman",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Involve-Woman-144944.html",
+      "description": "New perfume listing: Involve Woman by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Womman",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Womman-144943.html",
+      "description": "New perfume listing: Womman by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Extasy",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Extasy-144942.html",
+      "description": "New perfume listing: Extasy by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Seduction Woman",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Seduction-Woman-144941.html",
+      "description": "New perfume listing: Seduction Woman by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "Phállebeauty Cosmetics — Charlotte Woman",
+      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Charlotte-Woman-144940.html",
+      "description": "New perfume listing: Charlotte Woman by Phállebeauty Cosmetics.",
+      "category": "New Perfumes",
+      "author": "Phállebeauty Cosmetics",
+      "published": 1791953714
+    },
+    {
+      "title": "E’theréal Paris — Patriota Mito",
+      "link": "https://www.fragrantica.com/perfume/E-thereal-Paris/Patriota-Mito-144939.html",
+      "description": "New perfume listing: Patriota Mito by E’theréal Paris.",
+      "category": "New Perfumes",
+      "author": "E’theréal Paris",
+      "published": 1791953714
+    },
+    {
+      "title": "Bujairami — Fruit Wave",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Fruit-Wave-144932.html",
+      "description": "New perfume listing: Fruit Wave by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1791953714
+    },
     {
       "title": "O Boticário — Saudade",
       "link": "https://www.fragrantica.com/perfume/O-Boticario/Saudade-145025.html",
@@ -1456,150 +1600,6 @@
       "description": "New perfume listing: Gold Luxe by Phállebeauty Cosmetics.",
       "category": "New Perfumes",
       "author": "Phállebeauty Cosmetics",
-      "published": 1791852092
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Rouge Elixir",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Rouge-Elixir-144950.html",
-      "description": "New perfume listing: Rouge Elixir by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791852092
-    },
-    {
-      "title": "Musk de Lumière — Hayal",
-      "link": "https://www.fragrantica.com/perfume/Musk-de-Lumiere/Hayal-144949.html",
-      "description": "New perfume listing: Hayal by Musk de Lumière.",
-      "category": "New Perfumes",
-      "author": "Musk de Lumière",
-      "published": 1791852092
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Obsession Glow",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Obsession-Glow-144948.html",
-      "description": "New perfume listing: Obsession Glow by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791852092
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Zahra Bloom",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Zahra-Bloom-144947.html",
-      "description": "New perfume listing: Zahra Bloom by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791852092
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Hakima Intense",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Hakima-Intense-144946.html",
-      "description": "New perfume listing: Hakima Intense by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791852092
-    },
-    {
-      "title": "Maison ORNA — Rouge Forêt",
-      "link": "https://www.fragrantica.com/perfume/Maison-ORNA/Rouge-Foret-144938.html",
-      "description": "New perfume listing: Rouge Forêt by Maison ORNA.",
-      "category": "New Perfumes",
-      "author": "Maison ORNA",
-      "published": 1791852092
-    },
-    {
-      "title": "Bujairami — Lust in Paris",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Lust-in-Paris-144937.html",
-      "description": "New perfume listing: Lust in Paris by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791852092
-    },
-    {
-      "title": "Bujairami — Rollercoaster",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Rollercoaster-144936.html",
-      "description": "New perfume listing: Rollercoaster by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791852092
-    },
-    {
-      "title": "Bujairami — Dark Barista",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Dark-Barista-144935.html",
-      "description": "New perfume listing: Dark Barista by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791852092
-    },
-    {
-      "title": "Bujairami — Star",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Star-144934.html",
-      "description": "New perfume listing: Star by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791852092
-    },
-    {
-      "title": "Bujairami — Spicy Nova",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Spicy-Nova-144933.html",
-      "description": "New perfume listing: Spicy Nova by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791852092
-    },
-    {
-      "title": "Cade Black — Willin’",
-      "link": "https://www.fragrantica.com/perfume/Cade-Black/Willin-144931.html",
-      "description": "New perfume listing: Willin’ by Cade Black.",
-      "category": "New Perfumes",
-      "author": "Cade Black",
-      "published": 1791852092
-    },
-    {
-      "title": "Cade Black — Cade Black 10",
-      "link": "https://www.fragrantica.com/perfume/Cade-Black/Cade-Black-10-144930.html",
-      "description": "New perfume listing: Cade Black 10 by Cade Black.",
-      "category": "New Perfumes",
-      "author": "Cade Black",
-      "published": 1791852092
-    },
-    {
-      "title": "Moëhr — Benedict",
-      "link": "https://www.fragrantica.com/perfume/Moehr/Benedict-144929.html",
-      "description": "New perfume listing: Benedict by Moëhr.",
-      "category": "New Perfumes",
-      "author": "Moëhr",
-      "published": 1791852092
-    },
-    {
-      "title": "Moëhr — Otis",
-      "link": "https://www.fragrantica.com/perfume/Moehr/Otis-144928.html",
-      "description": "New perfume listing: Otis by Moëhr.",
-      "category": "New Perfumes",
-      "author": "Moëhr",
-      "published": 1791852092
-    },
-    {
-      "title": "Moëhr — Jadis",
-      "link": "https://www.fragrantica.com/perfume/Moehr/Jadis-144927.html",
-      "description": "New perfume listing: Jadis by Moëhr.",
-      "category": "New Perfumes",
-      "author": "Moëhr",
-      "published": 1791852092
-    },
-    {
-      "title": "Moëhr — Sinclair",
-      "link": "https://www.fragrantica.com/perfume/Moehr/Sinclair-144926.html",
-      "description": "New perfume listing: Sinclair by Moëhr.",
-      "category": "New Perfumes",
-      "author": "Moëhr",
-      "published": 1791852092
-    },
-    {
-      "title": "Ingegneria del Profumo — CC – Il profumo del Conte Cavour",
-      "link": "https://www.fragrantica.com/perfume/Ingegneria-del-Profumo/CC-Il-profumo-del-Conte-Cavour-144925.html",
-      "description": "New perfume listing: CC – Il profumo del Conte Cavour by Ingegneria del Profumo.",
-      "category": "New Perfumes",
-      "author": "Ingegneria del Profumo",
       "published": 1791852092
     }
   ]
