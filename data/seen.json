@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "L’Entropiste and the Case of the Missing Author in Perfumer-Owned Brands",
+      "link": "https://www.fragrantica.com/news/L-Entropiste-and-the-Case-of-the-Missing-Author-in-Perfumer-Owned-Brands-26355.html",
+      "description": "What happened to Bertrand Duchaufour?",
+      "category": "Columns",
+      "author": "Eddie Bulliqi",
+      "published": 1792031524
+    },
+    {
+      "title": "A Review of Darling Point by Memo Paris",
+      "link": "https://www.fragrantica.com/news/A-Review-of-Darling-Point-by-Memo-Paris-26354.html",
+      "description": "And why it’s wonderful to bask in the glow of people and perfumes that feel like sunshine",
+      "category": "Fragrance Reviews",
+      "author": "Nicola Thomis",
+      "published": 1792020602
+    },
+    {
       "title": "\"The Manoeuvres of the Baroness\" Penhaligon's: The Baroness Maneuvered, Maneuvered, and Failed to Outmaneuver",
       "link": "https://www.fragrantica.com/news/The-Manoeuvres-of-the-Baroness-Penhaligon-s-The-Baroness-Maneuvered-Maneuvered-and-Failed-to-Outmaneuver-26353.html",
       "description": "Orange blossom, amberwoods, and musk—you know, that could actually be quite lovely!",
@@ -783,25 +799,169 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1791155763
-    },
-    {
-      "title": "XERJOFF in Cannes: An Exclusive Preview of What Comes Next",
-      "link": "https://www.fragrantica.com/news/XERJOFF-in-Cannes-An-Exclusive-Preview-of-What-Comes-Next-26255.html",
-      "description": "Sandrina is sharing the first look at Xerjoff’s forthcoming creations, exclusively presented at TFWA 2026 in Cannes.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791146703
-    },
-    {
-      "title": "13th Art and Olfaction Awards Open For Brand Submissions",
-      "link": "https://www.fragrantica.com/news/13th-Art-and-Olfaction-Awards-Open-For-Brand-Submissions-26254.html",
-      "description": "Until 20th November 2026",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1791133923
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Rendezvous",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rendezvous-145108.html",
+      "description": "New perfume listing: Rendezvous by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Mohabbat",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Mohabbat-145107.html",
+      "description": "New perfume listing: Mohabbat by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Motions",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Motions-145105.html",
+      "description": "New perfume listing: Motions by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Bloom",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bloom-145101.html",
+      "description": "New perfume listing: Bloom by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Blood Suede",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blood-Suede-145099.html",
+      "description": "New perfume listing: Blood Suede by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Spirit — Soft Caramel",
+      "link": "https://www.fragrantica.com/perfume/Spirit/Soft-Caramel-145097.html",
+      "description": "New perfume listing: Soft Caramel by Spirit.",
+      "category": "New Perfumes",
+      "author": "Spirit",
+      "published": 1792039279
+    },
+    {
+      "title": "Brocard — Любимый букет императрицы (The Empress’s Favorite Bouquet)",
+      "link": "https://www.fragrantica.com/perfume/Brocard/Lubimyj-buket-imperatricy-The-Empress-s-Favorite-Bouquet-145109.html",
+      "description": "New perfume listing: Любимый букет императрицы (The Empress’s Favorite Bouquet) by Brocard.",
+      "category": "New Perfumes",
+      "author": "Brocard",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Rich Lady",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rich-Lady-145106.html",
+      "description": "New perfume listing: Rich Lady by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Blue Fire",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blue-Fire-145104.html",
+      "description": "New perfume listing: Blue Fire by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Blossom",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blossom-145103.html",
+      "description": "New perfume listing: Blossom by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Finesse",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Finesse-145102.html",
+      "description": "New perfume listing: Finesse by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Blue Knights",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blue-Knights-145100.html",
+      "description": "New perfume listing: Blue Knights by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Bujairami — Bloodline",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bloodline-145098.html",
+      "description": "New perfume listing: Bloodline by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792039279
+    },
+    {
+      "title": "Grandeur — Tribal Exotic",
+      "link": "https://www.fragrantica.com/perfume/Grandeur/Tribal-Exotic-145007.html",
+      "description": "New perfume listing: Tribal Exotic by Grandeur.",
+      "category": "New Perfumes",
+      "author": "Grandeur",
+      "published": 1792039279
+    },
+    {
+      "title": "ESSNCE — Pear Obsession",
+      "link": "https://www.fragrantica.com/perfume/ESSNCE/Pear-Obsession-145005.html",
+      "description": "New perfume listing: Pear Obsession by ESSNCE.",
+      "category": "New Perfumes",
+      "author": "ESSNCE",
+      "published": 1792039279
+    },
+    {
+      "title": "ESSNCE — Aurora Nectar",
+      "link": "https://www.fragrantica.com/perfume/ESSNCE/Aurora-Nectar-145003.html",
+      "description": "New perfume listing: Aurora Nectar by ESSNCE.",
+      "category": "New Perfumes",
+      "author": "ESSNCE",
+      "published": 1792039279
+    },
+    {
+      "title": "ESSNCE — Blueberry Eclair",
+      "link": "https://www.fragrantica.com/perfume/ESSNCE/Blueberry-Eclair-145002.html",
+      "description": "New perfume listing: Blueberry Eclair by ESSNCE.",
+      "category": "New Perfumes",
+      "author": "ESSNCE",
+      "published": 1792039279
+    },
+    {
+      "title": "Mad Parfumeur — Lemon Zest",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Lemon-Zest-145000.html",
+      "description": "New perfume listing: Lemon Zest by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1792039279
+    },
+    {
+      "title": "Mad Parfumeur — Sugar Boom",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Sugar-Boom-144999.html",
+      "description": "New perfume listing: Sugar Boom by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1792039279
+    },
+    {
+      "title": "Mad Parfumeur — Dream Berry",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Dream-Berry-144996.html",
+      "description": "New perfume listing: Dream Berry by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1792039279
+    },
     {
       "title": "MÁNO x MNRL — Fougère Dusk",
       "link": "https://www.fragrantica.com/perfume/MANO-x-MNRL/Fougere-Dusk-145096.html",
@@ -1440,166 +1600,6 @@
       "description": "New perfume listing: Otimismo by O Boticário.",
       "category": "New Perfumes",
       "author": "O Boticário",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Neon Groove",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Neon-Groove-145020.html",
-      "description": "New perfume listing: Neon Groove by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Delightful Paris",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Delightful-Paris-145019.html",
-      "description": "New perfume listing: Delightful Paris by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Peach Debutante",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Peach-Debutante-145018.html",
-      "description": "New perfume listing: Peach Debutante by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Celsius Absolute",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Celsius-Absolute-145017.html",
-      "description": "New perfume listing: Celsius Absolute by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Pistachio Reverie",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pistachio-Reverie-145016.html",
-      "description": "New perfume listing: Pistachio Reverie by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Snow Island",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Snow-Island-145015.html",
-      "description": "New perfume listing: Snow Island by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Stay In Sunday",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Stay-In-Sunday-145014.html",
-      "description": "New perfume listing: Stay In Sunday by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "The Dua Brand — Iridescent Jewel",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Iridescent-Jewel-145013.html",
-      "description": "New perfume listing: Iridescent Jewel by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1791931548
-    },
-    {
-      "title": "L'Atelier Mobius 莫比乌斯 — Ophelia",
-      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Ophelia-145012.html",
-      "description": "New perfume listing: Ophelia by L'Atelier Mobius 莫比乌斯.",
-      "category": "New Perfumes",
-      "author": "L'Atelier Mobius 莫比乌斯",
-      "published": 1791931548
-    },
-    {
-      "title": "L'Atelier Mobius 莫比乌斯 — OudRoza Alba",
-      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/OudRoza-Alba-145011.html",
-      "description": "New perfume listing: OudRoza Alba by L'Atelier Mobius 莫比乌斯.",
-      "category": "New Perfumes",
-      "author": "L'Atelier Mobius 莫比乌斯",
-      "published": 1791931548
-    },
-    {
-      "title": "House of Iyrah — Petit Amis",
-      "link": "https://www.fragrantica.com/perfume/House-of-Iyrah/Petit-Amis-145010.html",
-      "description": "New perfume listing: Petit Amis by House of Iyrah.",
-      "category": "New Perfumes",
-      "author": "House of Iyrah",
-      "published": 1791931548
-    },
-    {
-      "title": "L'Atelier Mobius 莫比乌斯 — Poire de Fée",
-      "link": "https://www.fragrantica.com/perfume/L-Atelier-Mobius-mo-bi-wu-si/Poire-de-Fee-145008.html",
-      "description": "New perfume listing: Poire de Fée by L'Atelier Mobius 莫比乌斯.",
-      "category": "New Perfumes",
-      "author": "L'Atelier Mobius 莫比乌斯",
-      "published": 1791931548
-    },
-    {
-      "title": "QVINTO ELEMENTO — Quod Movet",
-      "link": "https://www.fragrantica.com/perfume/QVINTO-ELEMENTO/Quod-Movet-145006.html",
-      "description": "New perfume listing: Quod Movet by QVINTO ELEMENTO.",
-      "category": "New Perfumes",
-      "author": "QVINTO ELEMENTO",
-      "published": 1791931548
-    },
-    {
-      "title": "ESSNCE — Forever June",
-      "link": "https://www.fragrantica.com/perfume/ESSNCE/Forever-June-145004.html",
-      "description": "New perfume listing: Forever June by ESSNCE.",
-      "category": "New Perfumes",
-      "author": "ESSNCE",
-      "published": 1791931548
-    },
-    {
-      "title": "Evorazar — NOBEL",
-      "link": "https://www.fragrantica.com/perfume/Evorazar/NOBEL-145001.html",
-      "description": "New perfume listing: NOBEL by Evorazar.",
-      "category": "New Perfumes",
-      "author": "Evorazar",
-      "published": 1791931548
-    },
-    {
-      "title": "Teymouri — Mineral Wood",
-      "link": "https://www.fragrantica.com/perfume/Teymouri/Mineral-Wood-144998.html",
-      "description": "New perfume listing: Mineral Wood by Teymouri.",
-      "category": "New Perfumes",
-      "author": "Teymouri",
-      "published": 1791931548
-    },
-    {
-      "title": "Teymouri — Patchouli Powder",
-      "link": "https://www.fragrantica.com/perfume/Teymouri/Patchouli-Powder-144997.html",
-      "description": "New perfume listing: Patchouli Powder by Teymouri.",
-      "category": "New Perfumes",
-      "author": "Teymouri",
-      "published": 1791931548
-    },
-    {
-      "title": "Teymouri — Ambergris",
-      "link": "https://www.fragrantica.com/perfume/Teymouri/Ambergris-144995.html",
-      "description": "New perfume listing: Ambergris by Teymouri.",
-      "category": "New Perfumes",
-      "author": "Teymouri",
-      "published": 1791931548
-    },
-    {
-      "title": "Teymouri — Touch",
-      "link": "https://www.fragrantica.com/perfume/Teymouri/Touch-144994.html",
-      "description": "New perfume listing: Touch by Teymouri.",
-      "category": "New Perfumes",
-      "author": "Teymouri",
-      "published": 1791931548
-    },
-    {
-      "title": "Marc Joseph — Oriental Palace",
-      "link": "https://www.fragrantica.com/perfume/Marc-Joseph/Oriental-Palace-145009.html",
-      "description": "New perfume listing: Oriental Palace by Marc Joseph.",
-      "category": "New Perfumes",
-      "author": "Marc Joseph",
       "published": 1791931548
     }
   ]
