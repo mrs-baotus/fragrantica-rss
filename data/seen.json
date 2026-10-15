@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Authentic Diorling, by Christian Dior",
+      "link": "https://www.fragrantica.com/news/Authentic-Diorling-by-Christian-Dior-26362.html",
+      "description": "British elegance through the eyes of Christian Dior and Paul Vacher.",
+      "category": "Vintages",
+      "author": "Sergey Borisov",
+      "published": 1792098765
+    },
+    {
+      "title": "The Second Series by Landcaster, Oud-based",
+      "link": "https://www.fragrantica.com/news/The-Second-Series-by-Landcaster-Oud-based-26361.html",
+      "description": "Techno Oud, Metallic Oud and Oud Carbon",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1792090863
+    },
+    {
       "title": "Year XOXO and Sarah Baker's Vanilla Trilogy: It's the End of the World",
       "link": "https://www.fragrantica.com/news/Year-XOXO-and-Sarah-Baker-s-Vanilla-Trilogy-It-s-the-End-of-the-World-26360.html",
       "description": "Three interpretations of Madagascar vanilla by Margaux Le Paih-Guérin",
@@ -783,25 +799,25 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1791212181
-    },
-    {
-      "title": "Puredistance Introduces Ambragio",
-      "link": "https://www.fragrantica.com/news/Puredistance-Introduces-Ambragio-26262.html",
-      "description": "Ambragio is designed to feel like a \"warm and unrushed embrace\", celebrating human connection, kindness, and comfort.",
-      "category": "Niche Perfumery",
-      "author": "Elena Vosnaki",
-      "published": 1791212154
-    },
-    {
-      "title": "LATTAFA Khamrah Mira",
-      "link": "https://www.fragrantica.com/news/LATTAFA-Khamrah-Mira-26261.html",
-      "description": "Mira (مِيرا) reflects an inner glow that rises and transforms into presence: the quiet power behind every icon.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791203103
     }
   ],
   "perfumes": [
+    {
+      "title": "Goutal — Vanille des Roches",
+      "link": "https://www.fragrantica.com/perfume/Goutal/Vanille-des-Roches-145179.html",
+      "description": "New perfume listing: Vanille des Roches by Goutal.",
+      "category": "New Perfumes",
+      "author": "Goutal",
+      "published": 1792099427
+    },
+    {
+      "title": "Jupilò — Royal Velvet",
+      "link": "https://www.fragrantica.com/perfume/Jupilo/Royal-Velvet-145178.html",
+      "description": "New perfume listing: Royal Velvet by Jupilò.",
+      "category": "New Perfumes",
+      "author": "Jupilò",
+      "published": 1792099427
+    },
     {
       "title": "XYRCLE — Crimson Alibi",
       "link": "https://www.fragrantica.com/perfume/XYRCLE/Crimson-Alibi-145176.html",
@@ -1582,22 +1598,6 @@
       "title": "Natura — Una Elegance",
       "link": "https://www.fragrantica.com/perfume/Natura/Una-Elegance-145086.html",
       "description": "New perfume listing: Una Elegance by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1792014110
-    },
-    {
-      "title": "Natura — Humor na Medida",
-      "link": "https://www.fragrantica.com/perfume/Natura/Humor-na-Medida-145085.html",
-      "description": "New perfume listing: Humor na Medida by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1792014110
-    },
-    {
-      "title": "Natura — Mamãe e Bebê para a Mamãe",
-      "link": "https://www.fragrantica.com/perfume/Natura/Mamae-e-Bebe-para-a-Mamae-145084.html",
-      "description": "New perfume listing: Mamãe e Bebê para a Mamãe by Natura.",
       "category": "New Perfumes",
       "author": "Natura",
       "published": 1792014110
