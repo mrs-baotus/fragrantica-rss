@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "MAISON MATAHA Escapade Gourmande Grand Cru",
+      "link": "https://www.fragrantica.com/news/MAISON-MATAHA-Escapade-Gourmande-Grand-Cru-26358.html",
+      "description": "Escapade Gourmande has gone for gold; richer, deeper and deliciously nutty!",
+      "category": "Fragrance Reviews",
+      "author": "Sandra Raičević Petrović",
+      "published": 1792059243
+    },
+    {
+      "title": "O Boticário Presents Box do Sentir",
+      "link": "https://www.fragrantica.com/news/O-Boticario-Presents-Box-do-Sentir-26357.html",
+      "description": "Five Brazilian emotions interpreted by big names in international perfumery.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1792054502
+    },
+    {
+      "title": "PITTI FRAGRANZE 2026: Calaj Launched Five Fragrances",
+      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-Calaj-Launched-Five-Fragrances-26356.html",
+      "description": "The new fragrance collection by Calaj highlights more creations that align with the gourmand trend.",
+      "category": "Fragrance Reviews",
+      "author": "Iulia Halatz",
+      "published": 1792042802
+    },
+    {
       "title": "L’Entropiste and the Case of the Missing Author in Perfumer-Owned Brands",
       "link": "https://www.fragrantica.com/news/L-Entropiste-and-the-Case-of-the-Missing-Author-in-Perfumer-Owned-Brands-26355.html",
       "description": "What happened to Bertrand Duchaufour?",
@@ -775,33 +799,97 @@
       "category": "Fragrance Reviews",
       "author": "Ksenia Golovanova",
       "published": 1791183183
-    },
-    {
-      "title": "M.Micallef unveils Habano Puro in the Secrets of Love collection",
-      "link": "https://www.fragrantica.com/news/M-Micallef-unveils-Habano-Puro-in-the-Secrets-of-Love-collection-26258.html",
-      "description": "A novelty inspired by the captivating atmosphere of Cuba and the timeless elegance of the Habano cigar.",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1791171123
-    },
-    {
-      "title": "CANNES 2026: HOUSE OF NOYA Salt-Kissed",
-      "link": "https://www.fragrantica.com/news/CANNES-2026-HOUSE-OF-NOYA-Salt-Kissed-26257.html",
-      "description": "House of Noya Salt-Kissed is giving us the memory of sun and salt!",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791160563
-    },
-    {
-      "title": "Athénaïs by Parfums de Marly: Fleur d’Oranger Flamboyante",
-      "link": "https://www.fragrantica.com/news/Athenais-by-Parfums-de-Marly-Fleur-d-Oranger-Flamboyante-26256.html",
-      "description": "Sunny, honeyed, endlessly long-lasting and extraordinarily diffusive — this is the orange blossom at the heart of the new Athénaïs by Parfums de Marly.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1791155763
     }
   ],
   "perfumes": [
+    {
+      "title": "Maison Mataha — Escapade Gourmande Grand Cru",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mataha/Escapade-Gourmande-Grand-Cru-145111.html",
+      "description": "New perfume listing: Escapade Gourmande Grand Cru by Maison Mataha.",
+      "category": "New Perfumes",
+      "author": "Maison Mataha",
+      "published": 1792063855
+    },
+    {
+      "title": "ZARKOPERFUME — Petit Bonbon",
+      "link": "https://www.fragrantica.com/perfume/ZARKOPERFUME/Petit-Bonbon-145110.html",
+      "description": "New perfume listing: Petit Bonbon by ZARKOPERFUME.",
+      "category": "New Perfumes",
+      "author": "ZARKOPERFUME",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Mirage",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Mirage-145119.html",
+      "description": "New perfume listing: Mirage by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Imperial",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Imperial-145118.html",
+      "description": "New perfume listing: Imperial by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Havana",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Havana-145117.html",
+      "description": "New perfume listing: Havana by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Diamant Absolu",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Diamant-Absolu-145116.html",
+      "description": "New perfume listing: Diamant Absolu by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Cristal Rouge",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Cristal-Rouge-145115.html",
+      "description": "New perfume listing: Cristal Rouge by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Bleu Absolu",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Bleu-Absolu-145114.html",
+      "description": "New perfume listing: Bleu Absolu by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Black Oud",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Black-Oud-145113.html",
+      "description": "New perfume listing: Black Oud by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Parfums Absoluta — Aura",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Aura-145112.html",
+      "description": "New perfume listing: Aura by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792063855
+    },
+    {
+      "title": "Marc Joseph — Oriental Palace",
+      "link": "https://www.fragrantica.com/perfume/Marc-Joseph/Oriental-Palace-145009.html",
+      "description": "New perfume listing: Oriental Palace by Marc Joseph.",
+      "category": "New Perfumes",
+      "author": "Marc Joseph",
+      "published": 1792063855
+    },
     {
       "title": "Bujairami — Rendezvous",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Rendezvous-145108.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "Phállebeauty Cosmetics",
       "published": 1791953714
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Womman",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Womman-144943.html",
-      "description": "New perfume listing: Womman by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791953714
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Extasy",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Extasy-144942.html",
-      "description": "New perfume listing: Extasy by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791953714
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Seduction Woman",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Seduction-Woman-144941.html",
-      "description": "New perfume listing: Seduction Woman by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791953714
-    },
-    {
-      "title": "Phállebeauty Cosmetics — Charlotte Woman",
-      "link": "https://www.fragrantica.com/perfume/Phallebeauty-Cosmetics/Charlotte-Woman-144940.html",
-      "description": "New perfume listing: Charlotte Woman by Phállebeauty Cosmetics.",
-      "category": "New Perfumes",
-      "author": "Phállebeauty Cosmetics",
-      "published": 1791953714
-    },
-    {
-      "title": "E’theréal Paris — Patriota Mito",
-      "link": "https://www.fragrantica.com/perfume/E-thereal-Paris/Patriota-Mito-144939.html",
-      "description": "New perfume listing: Patriota Mito by E’theréal Paris.",
-      "category": "New Perfumes",
-      "author": "E’theréal Paris",
-      "published": 1791953714
-    },
-    {
-      "title": "Bujairami — Fruit Wave",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Fruit-Wave-144932.html",
-      "description": "New perfume listing: Fruit Wave by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1791953714
-    },
-    {
-      "title": "O Boticário — Saudade",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Saudade-145025.html",
-      "description": "New perfume listing: Saudade by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791931548
-    },
-    {
-      "title": "O Boticário — Garra",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Garra-145024.html",
-      "description": "New perfume listing: Garra by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791931548
-    },
-    {
-      "title": "O Boticário — Amor",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Amor-145023.html",
-      "description": "New perfume listing: Amor by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791931548
-    },
-    {
-      "title": "O Boticário — Euforia",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Euforia-145022.html",
-      "description": "New perfume listing: Euforia by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791931548
-    },
-    {
-      "title": "O Boticário — Otimismo",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Otimismo-145021.html",
-      "description": "New perfume listing: Otimismo by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1791931548
     }
   ]
 }
