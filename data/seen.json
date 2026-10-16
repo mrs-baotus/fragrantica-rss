@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Olymra, Mount Olympus Made Scent",
+      "link": "https://www.fragrantica.com/news/Olymra-Mount-Olympus-Made-Scent-26367.html",
+      "description": "One of Giulietta's unexpected discoveries at Pitti Fragranze.",
+      "category": "Niche Fragrances",
+      "author": "Giulietta Ptoyan",
+      "published": 1792148403
+    },
+    {
+      "title": "Jules DIOR (2026) Review - A Timeless Beauty to Collect and Cherish Before it Disappears",
+      "link": "https://www.fragrantica.com/news/Jules-DIOR-2026-Review-A-Timeless-Beauty-to-Collect-and-Cherish-Before-it-Disappears-26366.html",
+      "description": "Not all reformulations are a disaster...",
+      "category": "Fragrance Reviews",
+      "author": "Miguel Matos",
+      "published": 1792137723
+    },
+    {
+      "title": "Korean Brand HB;RN Launches Healing Collection",
+      "link": "https://www.fragrantica.com/news/Korean-Brand-HB-RN-Launches-Healing-Collection-26365.html",
+      "description": "Created with perfumer Cécile Matton.",
+      "category": "New Fragrances",
+      "author": "Eddie Bulliqi",
+      "published": 1792126923
+    },
+    {
       "title": "Auguste Michel – A Legend of Soviet Perfumery. Part 11. The Empress's Favorite Bouquet",
       "link": "https://www.fragrantica.com/news/Auguste-Michel-A-Legend-of-Soviet-Perfumery-Part-11-The-Empress-s-Favorite-Bouquet-26364.html",
       "description": "Discover the story behind the fragrance’s name, which empress was intended.",
@@ -775,33 +799,97 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1791266403
-    },
-    {
-      "title": "LATTAFA Fearless",
-      "link": "https://www.fragrantica.com/news/LATTAFA-Fearless-26267.html",
-      "description": "Inspired by “the codebreaker,” Fearless expresses individuality through this interplay of vivid fruit and darker textures, a distinctive...",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791255603
-    },
-    {
-      "title": "Love Letter: A Melancholy Enjoyed with a Heart at Peace",
-      "link": "https://www.fragrantica.com/news/Love-Letter-A-Melancholy-Enjoyed-with-a-Heart-at-Peace-26266.html",
-      "description": "Life gave me L’Heure Bleue 2026. It sent me digging for Love Letter.",
-      "category": "Video",
-      "author": "Fragrance Reviews",
-      "published": 1791244802
-    },
-    {
-      "title": "PITTI FRAGRANZE 2026: New Brands",
-      "link": "https://www.fragrantica.com/news/PITTI-FRAGRANZE-2026-New-Brands-26265.html",
-      "description": "New brands we met at Pitti Fragranze this year.",
-      "category": "Art Books Events",
-      "author": "Svetlana Lozovaya",
-      "published": 1791234004
     }
   ],
   "perfumes": [
+    {
+      "title": "Couleurs — Viola Medusa",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Viola-Medusa-145233.html",
+      "description": "New perfume listing: Viola Medusa by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Couleurs — Feu Zinzolin",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Feu-Zinzolin-145232.html",
+      "description": "New perfume listing: Feu Zinzolin by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Couleurs — Vert Sauge",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Vert-Sauge-145231.html",
+      "description": "New perfume listing: Vert Sauge by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Couleurs — Peau de Bois",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Peau-de-Bois-145230.html",
+      "description": "New perfume listing: Peau de Bois by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Nina Ricci — Nina Silky Snow Collector Edition",
+      "link": "https://www.fragrantica.com/perfume/Nina-Ricci/Nina-Silky-Snow-Collector-Edition-145229.html",
+      "description": "New perfume listing: Nina Silky Snow Collector Edition by Nina Ricci.",
+      "category": "New Perfumes",
+      "author": "Nina Ricci",
+      "published": 1792149957
+    },
+    {
+      "title": "Couleurs — Cyan Brûlant",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Cyan-Brulant-145228.html",
+      "description": "New perfume listing: Cyan Brûlant by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Couleurs — Bleu Nuit",
+      "link": "https://www.fragrantica.com/perfume/Couleurs/Bleu-Nuit-145227.html",
+      "description": "New perfume listing: Bleu Nuit by Couleurs.",
+      "category": "New Perfumes",
+      "author": "Couleurs",
+      "published": 1792149957
+    },
+    {
+      "title": "Jean Paul Gaultier — Gaultier Divine Collector Edition 2026",
+      "link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Gaultier-Divine-Collector-Edition-2026-145226.html",
+      "description": "New perfume listing: Gaultier Divine Collector Edition 2026 by Jean Paul Gaultier.",
+      "category": "New Perfumes",
+      "author": "Jean Paul Gaultier",
+      "published": 1792149957
+    },
+    {
+      "title": "Police — Rich Girl Platinum",
+      "link": "https://www.fragrantica.com/perfume/Police/Rich-Girl-Platinum-145225.html",
+      "description": "New perfume listing: Rich Girl Platinum by Police.",
+      "category": "New Perfumes",
+      "author": "Police",
+      "published": 1792149957
+    },
+    {
+      "title": "Police — Rich Guy Platinum",
+      "link": "https://www.fragrantica.com/perfume/Police/Rich-Guy-Platinum-145224.html",
+      "description": "New perfume listing: Rich Guy Platinum by Police.",
+      "category": "New Perfumes",
+      "author": "Police",
+      "published": 1792149957
+    },
+    {
+      "title": "Jean Paul Gaultier — Le Male Collector Edition 2026",
+      "link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Collector-Edition-2026-145223.html",
+      "description": "New perfume listing: Le Male Collector Edition 2026 by Jean Paul Gaultier.",
+      "category": "New Perfumes",
+      "author": "Jean Paul Gaultier",
+      "published": 1792149957
+    },
     {
       "title": "Les Soeurs de Noe — After Seven",
       "link": "https://www.fragrantica.com/perfume/Les-Soeurs-de-Noe/After-Seven-145222.html",
@@ -1512,94 +1600,6 @@
       "description": "New perfume listing: N°9 Sultan by Parfums Absoluta.",
       "category": "New Perfumes",
       "author": "Parfums Absoluta",
-      "published": 1792083733
-    },
-    {
-      "title": "Parfums Absoluta — N°7 Bonaparte",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/N07-Bonaparte-145147.html",
-      "description": "New perfume listing: N°7 Bonaparte by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792083733
-    },
-    {
-      "title": "Grafen — Leather",
-      "link": "https://www.fragrantica.com/perfume/Grafen/Leather-145146.html",
-      "description": "New perfume listing: Leather by Grafen.",
-      "category": "New Perfumes",
-      "author": "Grafen",
-      "published": 1792083733
-    },
-    {
-      "title": "Parfums Absoluta — N°1 Absoluta",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/N01-Absoluta-145143.html",
-      "description": "New perfume listing: N°1 Absoluta by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792083733
-    },
-    {
-      "title": "Parfums Absoluta — Noir Absolu",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Noir-Absolu-145142.html",
-      "description": "New perfume listing: Noir Absolu by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792083733
-    },
-    {
-      "title": "Parfums Absoluta — Neroli",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Neroli-145141.html",
-      "description": "New perfume listing: Neroli by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Liberty",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Liberty-145126.html",
-      "description": "New perfume listing: Liberty by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Mayfair",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Mayfair-145125.html",
-      "description": "New perfume listing: Mayfair by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Trafalgar",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Trafalgar-145124.html",
-      "description": "New perfume listing: Trafalgar by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Notting Hill",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Notting-Hill-145123.html",
-      "description": "New perfume listing: Notting Hill by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Windsor",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Windsor-145122.html",
-      "description": "New perfume listing: Windsor by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
-      "published": 1792083733
-    },
-    {
-      "title": "Wecord London — Portobello",
-      "link": "https://www.fragrantica.com/perfume/Wecord-London/Portobello-145121.html",
-      "description": "New perfume listing: Portobello by Wecord London.",
-      "category": "New Perfumes",
-      "author": "Wecord London",
       "published": 1792083733
     }
   ]
