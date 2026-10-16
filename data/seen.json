@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Jules DIOR (2026) Review",
+      "link": "https://www.fragrantica.com/news/Jules-DIOR-2026-Review-26371.html",
+      "description": "If the ideal man were embodied in a fragrance.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1792178896
+    },
+    {
+      "title": "L'Entropiste Unveiled Festin, a New Release with a Decadent Spirit",
+      "link": "https://www.fragrantica.com/news/L-Entropiste-Unveiled-Festin-a-New-Release-with-a-Decadent-Spirit-26370.html",
+      "description": "A few days ago, in Paris, L'Entropiste unveiled Festin, its ninth chapter. Sophie shares her take on it.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1792173451
+    },
+    {
+      "title": "La-Di-Da Collection: Sweet Snob Couple by Arabiyat Prestige",
+      "link": "https://www.fragrantica.com/news/La-Di-Da-Collection-Sweet-Snob-Couple-by-Arabiyat-Prestige-26369.html",
+      "description": "Let's recall old conversational English!",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1792169103
+    },
+    {
       "title": "Le Labo Papyrus 20 New Classic Candle",
       "link": "https://www.fragrantica.com/news/Le-Labo-Papyrus-20-New-Classic-Candle-26368.html",
       "description": "Some memories we decide to keep. Others find us without warning.",
@@ -775,33 +799,129 @@
       "category": "New Fragrances",
       "author": "Dariia Fessalonika",
       "published": 1791306003
-    },
-    {
-      "title": "Oh My Shisha! Azman's New Fragrance",
-      "link": "https://www.fragrantica.com/news/Oh-My-Shisha-Azman-s-New-Fragrance-26271.html",
-      "description": "Smoke will find you.",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1791297909
-    },
-    {
-      "title": "CHANEL Les Eaux De Chanel Paris – Saint-Moritz",
-      "link": "https://www.fragrantica.com/news/CHANEL-Les-Eaux-De-Chanel-Paris-Saint-Moritz-26270.html",
-      "description": "The first winter-inspired eau to arrive in the LES EAUX DE CHANEL collection.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791287822
-    },
-    {
-      "title": "Esxence To Return In February For 2027 Edition",
-      "link": "https://www.fragrantica.com/news/Esxence-To-Return-In-February-For-2027-Edition-26269.html",
-      "description": "Winter in Milan for another round of novelties",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1791277202
     }
   ],
   "perfumes": [
+    {
+      "title": "Menahra — Velaris",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Velaris-145260.html",
+      "description": "New perfume listing: Velaris by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Menahra — Redvelvet",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Redvelvet-145259.html",
+      "description": "New perfume listing: Redvelvet by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Menahra — Petals",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Petals-145258.html",
+      "description": "New perfume listing: Petals by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Menahra — Bellatrix",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Bellatrix-145257.html",
+      "description": "New perfume listing: Bellatrix by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Menahra — Amber Fair",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Amber-Fair-145256.html",
+      "description": "New perfume listing: Amber Fair by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Menahra — Almond Cherry",
+      "link": "https://www.fragrantica.com/perfume/Menahra/Almond-Cherry-145255.html",
+      "description": "New perfume listing: Almond Cherry by Menahra.",
+      "category": "New Perfumes",
+      "author": "Menahra",
+      "published": 1792185018
+    },
+    {
+      "title": "Parfums Absoluta — Tchako",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Tchako-145175.html",
+      "description": "New perfume listing: Tchako by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792185018
+    },
+    {
+      "title": "Parfums Absoluta — Sweet Sultan",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sweet-Sultan-145174.html",
+      "description": "New perfume listing: Sweet Sultan by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792185018
+    },
+    {
+      "title": "Parfums Absoluta — Sultan Élixir",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sultan-Elixir-145173.html",
+      "description": "New perfume listing: Sultan Élixir by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792185018
+    },
+    {
+      "title": "The Seventh Door — Femme Fatale",
+      "link": "https://www.fragrantica.com/perfume/The-Seventh-Door/Femme-Fatale-145172.html",
+      "description": "New perfume listing: Femme Fatale by The Seventh Door.",
+      "category": "New Perfumes",
+      "author": "The Seventh Door",
+      "published": 1792185018
+    },
+    {
+      "title": "The Seventh Door — Burnt Letter",
+      "link": "https://www.fragrantica.com/perfume/The-Seventh-Door/Burnt-Letter-145171.html",
+      "description": "New perfume listing: Burnt Letter by The Seventh Door.",
+      "category": "New Perfumes",
+      "author": "The Seventh Door",
+      "published": 1792185018
+    },
+    {
+      "title": "Parfums Absoluta — Sorbonne",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sorbonne-145170.html",
+      "description": "New perfume listing: Sorbonne by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792185018
+    },
+    {
+      "title": "The Seventh Door — Tainted Silk",
+      "link": "https://www.fragrantica.com/perfume/The-Seventh-Door/Tainted-Silk-145169.html",
+      "description": "New perfume listing: Tainted Silk by The Seventh Door.",
+      "category": "New Perfumes",
+      "author": "The Seventh Door",
+      "published": 1792185018
+    },
+    {
+      "title": "Parfums Absoluta — Sinai",
+      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sinai-145168.html",
+      "description": "New perfume listing: Sinai by Parfums Absoluta.",
+      "category": "New Perfumes",
+      "author": "Parfums Absoluta",
+      "published": 1792185018
+    },
+    {
+      "title": "Namilia — Future Pornstar",
+      "link": "https://www.fragrantica.com/perfume/Namilia/Future-Pornstar-145167.html",
+      "description": "New perfume listing: Future Pornstar by Namilia.",
+      "category": "New Perfumes",
+      "author": "Namilia",
+      "published": 1792185018
+    },
     {
       "title": "Astier de Villatte — Tanger",
       "link": "https://www.fragrantica.com/perfume/Astier-de-Villatte/Tanger-145254.html",
@@ -1480,126 +1600,6 @@
       "description": "New perfume listing: QUIET TRACE by ELOREA | 향수.",
       "category": "New Perfumes",
       "author": "ELOREA | 향수",
-      "published": 1792083733
-    },
-    {
-      "title": "ELOREA | 향수 — CLOSER",
-      "link": "https://www.fragrantica.com/perfume/ELOREA-hyangsu/CLOSER-145151.html",
-      "description": "New perfume listing: CLOSER by ELOREA | 향수.",
-      "category": "New Perfumes",
-      "author": "ELOREA | 향수",
-      "published": 1792083733
-    },
-    {
-      "title": "ELOREA | 향수 — WITH YOU",
-      "link": "https://www.fragrantica.com/perfume/ELOREA-hyangsu/WITH-YOU-145150.html",
-      "description": "New perfume listing: WITH YOU by ELOREA | 향수.",
-      "category": "New Perfumes",
-      "author": "ELOREA | 향수",
-      "published": 1792083733
-    },
-    {
-      "title": "ELOREA | 향수 — PRELUDE",
-      "link": "https://www.fragrantica.com/perfume/ELOREA-hyangsu/PRELUDE-145148.html",
-      "description": "New perfume listing: PRELUDE by ELOREA | 향수.",
-      "category": "New Perfumes",
-      "author": "ELOREA | 향수",
-      "published": 1792083733
-    },
-    {
-      "title": "Caron — Pour Un Homme Renaissance",
-      "link": "https://www.fragrantica.com/perfume/Caron/Pour-Un-Homme-Renaissance-145145.html",
-      "description": "New perfume listing: Pour Un Homme Renaissance by Caron.",
-      "category": "New Perfumes",
-      "author": "Caron",
-      "published": 1792083733
-    },
-    {
-      "title": "Skylar — Glass Candy",
-      "link": "https://www.fragrantica.com/perfume/Skylar/Glass-Candy-145144.html",
-      "description": "New perfume listing: Glass Candy by Skylar.",
-      "category": "New Perfumes",
-      "author": "Skylar",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — Jazz",
-      "link": "https://www.fragrantica.com/perfume/Myth/Jazz-145140.html",
-      "description": "New perfume listing: Jazz by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — Mozart",
-      "link": "https://www.fragrantica.com/perfume/Myth/Mozart-145139.html",
-      "description": "New perfume listing: Mozart by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — The Diplomat",
-      "link": "https://www.fragrantica.com/perfume/Myth/The-Diplomat-145138.html",
-      "description": "New perfume listing: The Diplomat by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — Oedipus",
-      "link": "https://www.fragrantica.com/perfume/Myth/Oedipus-145137.html",
-      "description": "New perfume listing: Oedipus by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — The First Day",
-      "link": "https://www.fragrantica.com/perfume/Myth/The-First-Day-145136.html",
-      "description": "New perfume listing: The First Day by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — The Knight",
-      "link": "https://www.fragrantica.com/perfume/Myth/The-Knight-145135.html",
-      "description": "New perfume listing: The Knight by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — Pygmalion",
-      "link": "https://www.fragrantica.com/perfume/Myth/Pygmalion-145134.html",
-      "description": "New perfume listing: Pygmalion by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — The Midlife Crisis",
-      "link": "https://www.fragrantica.com/perfume/Myth/The-Midlife-Crisis-145133.html",
-      "description": "New perfume listing: The Midlife Crisis by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — The Rose War",
-      "link": "https://www.fragrantica.com/perfume/Myth/The-Rose-War-145132.html",
-      "description": "New perfume listing: The Rose War by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
-      "published": 1792083733
-    },
-    {
-      "title": "Myth — Ishtar",
-      "link": "https://www.fragrantica.com/perfume/Myth/Ishtar-145131.html",
-      "description": "New perfume listing: Ishtar by Myth.",
-      "category": "New Perfumes",
-      "author": "Myth",
       "published": 1792083733
     }
   ]
