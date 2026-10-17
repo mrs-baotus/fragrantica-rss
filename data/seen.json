@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Timothy Han Edition Perfumes Rebrands As \"Imprint\" With Scented Book Club",
+      "link": "https://www.fragrantica.com/news/Timothy-Han-Edition-Perfumes-Rebrands-As-Imprint-With-Scented-Book-Club-26373.html",
+      "description": "And one new creation.",
+      "category": "Fragrance News",
+      "author": "Eddie Bulliqi",
+      "published": 1792202643
+    },
+    {
+      "title": "Three Glasses of Red Wine to Add Color to a Gray Autumn",
+      "link": "https://www.fragrantica.com/news/Three-Glasses-of-Red-Wine-to-Add-Color-to-a-Gray-Autumn-26372.html",
+      "description": "Three fragrances reminiscent of tart red wine that will help make a gloomy autumn a little warmer and more colorful.",
+      "category": "Columns",
+      "author": "Daria Bogdanova",
+      "published": 1792188776
+    },
+    {
       "title": "Jules DIOR (2026) Review",
       "link": "https://www.fragrantica.com/news/Jules-DIOR-2026-Review-26371.html",
       "description": "If the ideal man were embodied in a fragrance.",
@@ -783,25 +799,25 @@
       "category": "Fragrance News",
       "author": "Giulietta Ptoyan",
       "published": 1791324003
-    },
-    {
-      "title": "ARMAF Introduces Club de Nuit Bling Gold at Beautyworld Dubai 2026",
-      "link": "https://www.fragrantica.com/news/ARMAF-Introduces-Club-de-Nuit-Bling-Gold-at-Beautyworld-Dubai-2026-26273.html",
-      "description": "The Golden Bling arrives in the Club De Nuit Collection.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791316803
-    },
-    {
-      "title": "Filigrane by Francesca dell'Oro: Interweaving of Golden Threads",
-      "link": "https://www.fragrantica.com/news/Filigrane-by-Francesca-dell-Oro-Interweaving-of-Golden-Threads-26272.html",
-      "description": "A graceful novelty from the Italian brand Francesca dell'Oro",
-      "category": "New Fragrances",
-      "author": "Dariia Fessalonika",
-      "published": 1791306003
     }
   ],
   "perfumes": [
+    {
+      "title": "Flor de Mayo — Ice Cream Vainilla",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Ice-Cream-Vainilla-145262.html",
+      "description": "New perfume listing: Ice Cream Vainilla by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1792211291
+    },
+    {
+      "title": "Flor de Mayo — Blue Bloom",
+      "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Blue-Bloom-145261.html",
+      "description": "New perfume listing: Blue Bloom by Flor de Mayo.",
+      "category": "New Perfumes",
+      "author": "Flor de Mayo",
+      "published": 1792211291
+    },
     {
       "title": "Menahra — Velaris",
       "link": "https://www.fragrantica.com/perfume/Menahra/Velaris-145260.html",
@@ -1584,22 +1600,6 @@
       "description": "New perfume listing: Abu Dhabi Elixir by Mleih.",
       "category": "New Perfumes",
       "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Abu Dabi",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Abu-Dabi-145156.html",
-      "description": "New perfume listing: Abu Dabi by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "ELOREA | 향수 — QUIET TRACE",
-      "link": "https://www.fragrantica.com/perfume/ELOREA-hyangsu/QUIET-TRACE-145153.html",
-      "description": "New perfume listing: QUIET TRACE by ELOREA | 향수.",
-      "category": "New Perfumes",
-      "author": "ELOREA | 향수",
       "published": 1792083733
     }
   ]
