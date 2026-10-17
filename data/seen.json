@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "NINA RICCI Nina Silky Snow",
+      "link": "https://www.fragrantica.com/news/NINA-RICCI-Nina-Silky-Snow-26376.html",
+      "description": "Nina Ricci welcomes the festive season with Nina Silky Snow, a collector’s limited edition of its iconic Nina Eau de Toilette.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1792240562
+    },
+    {
       "title": "The Latest Favorites From My Decant Basket",
       "link": "https://www.fragrantica.com/news/The-Latest-Favorites-From-My-Decant-Basket-26375.html",
       "description": "Four of my favorite perfumes from recent trials that I want to buy in full bottles.",
@@ -791,17 +799,89 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1791352802
-    },
-    {
-      "title": "Sambac Rouge and Cuir de Cerise: New Bortnikoff Fragrances",
-      "link": "https://www.fragrantica.com/news/Sambac-Rouge-and-Cuir-de-Cerise-New-Bortnikoff-Fragrances-26276.html",
-      "description": "Sweet cherry perfumes",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1791342003
     }
   ],
   "perfumes": [
+    {
+      "title": "Stardust & Stems — Moonwitch Milk",
+      "link": "https://www.fragrantica.com/perfume/Stardust-Stems/Moonwitch-Milk-145272.html",
+      "description": "New perfume listing: Moonwitch Milk by Stardust & Stems.",
+      "category": "New Perfumes",
+      "author": "Stardust & Stems",
+      "published": 1792251403
+    },
+    {
+      "title": "Stardust & Stems — Moss & Moonlight",
+      "link": "https://www.fragrantica.com/perfume/Stardust-Stems/Moss-Moonlight-145271.html",
+      "description": "New perfume listing: Moss & Moonlight by Stardust & Stems.",
+      "category": "New Perfumes",
+      "author": "Stardust & Stems",
+      "published": 1792251403
+    },
+    {
+      "title": "Maison d'ETTO — Pinehurst",
+      "link": "https://www.fragrantica.com/perfume/Maison-d-ETTO/Pinehurst-145270.html",
+      "description": "New perfume listing: Pinehurst by Maison d'ETTO.",
+      "category": "New Perfumes",
+      "author": "Maison d'ETTO",
+      "published": 1792251403
+    },
+    {
+      "title": "Heretic Parfum — Thornapple",
+      "link": "https://www.fragrantica.com/perfume/Heretic-Parfum/Thornapple-145269.html",
+      "description": "New perfume listing: Thornapple by Heretic Parfum.",
+      "category": "New Perfumes",
+      "author": "Heretic Parfum",
+      "published": 1792251403
+    },
+    {
+      "title": "BORNTOSTANDOUT® — Saint Petal",
+      "link": "https://www.fragrantica.com/perfume/BORNTOSTANDOUT/Saint-Petal-145268.html",
+      "description": "New perfume listing: Saint Petal by BORNTOSTANDOUT®.",
+      "category": "New Perfumes",
+      "author": "BORNTOSTANDOUT®",
+      "published": 1792251403
+    },
+    {
+      "title": "Memo Paris — Cosmos",
+      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Cosmos-145263.html",
+      "description": "New perfume listing: Cosmos by Memo Paris.",
+      "category": "New Perfumes",
+      "author": "Memo Paris",
+      "published": 1792251403
+    },
+    {
+      "title": "Dossier — Woody Maracuja",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Woody-Maracuja-145267.html",
+      "description": "New perfume listing: Woody Maracuja by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1792251403
+    },
+    {
+      "title": "Dossier — Woody Cypress",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Woody-Cypress-145266.html",
+      "description": "New perfume listing: Woody Cypress by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1792251403
+    },
+    {
+      "title": "Dossier — Musky Lily of the Valley",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Musky-Lily-of-the-Valley-145265.html",
+      "description": "New perfume listing: Musky Lily of the Valley by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1792251403
+    },
+    {
+      "title": "Dossier — Gourmand Marshmallow",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Gourmand-Marshmallow-145264.html",
+      "description": "New perfume listing: Gourmand Marshmallow by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1792251403
+    },
     {
       "title": "Flor de Mayo — Ice Cream Vainilla",
       "link": "https://www.fragrantica.com/perfume/Flor-de-Mayo/Ice-Cream-Vainilla-145262.html",
@@ -1521,86 +1601,6 @@
       "category": "New Perfumes",
       "author": "Bujairami",
       "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Bohemien",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Bohemien-145185.html",
-      "description": "New perfume listing: Bohemien by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Bombshell",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Bombshell-145184.html",
-      "description": "New perfume listing: Bombshell by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Goutal — Vanille des Roches",
-      "link": "https://www.fragrantica.com/perfume/Goutal/Vanille-des-Roches-145179.html",
-      "description": "New perfume listing: Vanille des Roches by Goutal.",
-      "category": "New Perfumes",
-      "author": "Goutal",
-      "published": 1792099427
-    },
-    {
-      "title": "Jupilò — Royal Velvet",
-      "link": "https://www.fragrantica.com/perfume/Jupilo/Royal-Velvet-145178.html",
-      "description": "New perfume listing: Royal Velvet by Jupilò.",
-      "category": "New Perfumes",
-      "author": "Jupilò",
-      "published": 1792099427
-    },
-    {
-      "title": "XYRCLE — Crimson Alibi",
-      "link": "https://www.fragrantica.com/perfume/XYRCLE/Crimson-Alibi-145176.html",
-      "description": "New perfume listing: Crimson Alibi by XYRCLE.",
-      "category": "New Perfumes",
-      "author": "XYRCLE",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Yasmeen & More",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Yasmeen-More-145163.html",
-      "description": "New perfume listing: Yasmeen & More by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Lulu",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Lulu-145162.html",
-      "description": "New perfume listing: Lulu by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Tawam",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Tawam-145161.html",
-      "description": "New perfume listing: Tawam by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Baynounah",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Baynounah-145158.html",
-      "description": "New perfume listing: Baynounah by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
-    },
-    {
-      "title": "Mleih — Abu Dhabi Elixir",
-      "link": "https://www.fragrantica.com/perfume/Mleih/Abu-Dhabi-Elixir-145157.html",
-      "description": "New perfume listing: Abu Dhabi Elixir by Mleih.",
-      "category": "New Perfumes",
-      "author": "Mleih",
-      "published": 1792083733
     }
   ]
 }
