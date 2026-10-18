@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Pitti Fragranze 2026: New Asian Brands Announcements",
+      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-New-Asian-Brands-Announcements-26381.html",
+      "description": "The Fragrantica team continues to report from the Pitti Fragranze 2026 event. Let's not forget the emerging brands announced in Florence.",
+      "category": "Art Books Events",
+      "author": "Svetlana Lozovaya",
+      "published": 1792291204
+    },
+    {
+      "title": "New From House of Iyrah: PETITS AMIS",
+      "link": "https://www.fragrantica.com/news/New-From-House-of-Iyrah-PETITS-AMIS-26380.html",
+      "description": "Petits Amis is a celebration of simple luxuries. Of gratitude. Of connection. And of the ordinary moments that become the ones we remember most.",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1792281603
+    },
+    {
+      "title": "Christa Moreau’s Second Children’s Book ‘The Frankincense Tree’, Available For Pre-Order",
+      "link": "https://www.fragrantica.com/news/Christa-Moreau-s-Second-Children-s-Book-The-Frankincense-Tree-Available-For-Pre-Order-26379.html",
+      "description": "Following her first, ‘The Perfume Of Roses’.",
+      "category": "Art Books Events",
+      "author": "Eddie Bulliqi",
+      "published": 1792271943
+    },
+    {
       "title": "Paris – Saint-Moritz Chanel Review",
       "link": "https://www.fragrantica.com/news/Paris-Saint-Moritz-Chanel-Review-26378.html",
       "description": "A fragrance of comfortable, well-tended snow.",
@@ -775,33 +799,137 @@
       "category": "Art Books Events",
       "author": "Eddie Bulliqi",
       "published": 1791399603
-    },
-    {
-      "title": "TFWA 2026: Ajmal Oud Marquis Collection and Cherry Wood",
-      "link": "https://www.fragrantica.com/news/TFWA-2026-Ajmal-Oud-Marquis-Collection-and-Cherry-Wood-26281.html",
-      "description": "At TFWA 2026, Ajmal introduced Oud Marquis collection to Europe, alongside Cherry Wood and other new creations.",
-      "category": "Art Books Events",
-      "author": "Sanja Pekić",
-      "published": 1791394203
-    },
-    {
-      "title": "New From Paris Hilton: ICONIC QUEEN",
-      "link": "https://www.fragrantica.com/news/New-From-Paris-Hilton-ICONIC-QUEEN-26280.html",
-      "description": "You don’t follow the crown. You are the crown.",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1791383523
-    },
-    {
-      "title": "Crema Vainilla: New from Carner Barcelona",
-      "link": "https://www.fragrantica.com/news/Crema-Vainilla-New-from-Carner-Barcelona-26279.html",
-      "description": "A golden, creamy indulgence inspired by Crema Catalana, a beloved Catalan tradition. Intensely gourmand, led by a...",
-      "category": "New Fragrances",
-      "author": "Elena Vosnaki",
-      "published": 1791380182
     }
   ],
   "perfumes": [
+    {
+      "title": "ATRAILA — Eden Chic",
+      "link": "https://www.fragrantica.com/perfume/ATRAILA/Eden-Chic-145285.html",
+      "description": "New perfume listing: Eden Chic by ATRAILA.",
+      "category": "New Perfumes",
+      "author": "ATRAILA",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Carmen De Noir",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Carmen-De-Noir-145284.html",
+      "description": "New perfume listing: Carmen De Noir by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "Essências de Portugal — Canto IX - Flor de Laranjeira e Cravo-da-Índia",
+      "link": "https://www.fragrantica.com/perfume/Essencias-de-Portugal/Canto-IX-Flor-de-Laranjeira-e-Cravo-da-India-145281.html",
+      "description": "New perfume listing: Canto IX - Flor de Laranjeira e Cravo-da-Índia by Essências de Portugal.",
+      "category": "New Perfumes",
+      "author": "Essências de Portugal",
+      "published": 1792298137
+    },
+    {
+      "title": "Essências de Portugal — Flor de Pessegueiro e Pimenta Preta",
+      "link": "https://www.fragrantica.com/perfume/Essencias-de-Portugal/Flor-de-Pessegueiro-e-Pimenta-Preta-145280.html",
+      "description": "New perfume listing: Flor de Pessegueiro e Pimenta Preta by Essências de Portugal.",
+      "category": "New Perfumes",
+      "author": "Essências de Portugal",
+      "published": 1792298137
+    },
+    {
+      "title": "Essências de Portugal — Flor de Cerejeira e Sândalo",
+      "link": "https://www.fragrantica.com/perfume/Essencias-de-Portugal/Flor-de-Cerejeira-e-Sandalo-145279.html",
+      "description": "New perfume listing: Flor de Cerejeira e Sândalo by Essências de Portugal.",
+      "category": "New Perfumes",
+      "author": "Essências de Portugal",
+      "published": 1792298137
+    },
+    {
+      "title": "Essências de Portugal — Flor de Romã e Gengibre",
+      "link": "https://www.fragrantica.com/perfume/Essencias-de-Portugal/Flor-de-Roma-e-Gengibre-145278.html",
+      "description": "New perfume listing: Flor de Romã e Gengibre by Essências de Portugal.",
+      "category": "New Perfumes",
+      "author": "Essências de Portugal",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Perla Del Sol",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Perla-Del-Sol-145276.html",
+      "description": "New perfume listing: Perla Del Sol by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Néctar De Amor Tulum",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Nectar-De-Amor-Tulum-145275.html",
+      "description": "New perfume listing: Néctar De Amor Tulum by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Tokyo Lounge",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Tokyo-Lounge-145283.html",
+      "description": "New perfume listing: Tokyo Lounge by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Toxique Chéri",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Toxique-Cheri-145282.html",
+      "description": "New perfume listing: Toxique Chéri by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "PROFUMO LABO — Néctar De Amor",
+      "link": "https://www.fragrantica.com/perfume/PROFUMO-LABO/Nectar-De-Amor-145277.html",
+      "description": "New perfume listing: Néctar De Amor by PROFUMO LABO.",
+      "category": "New Perfumes",
+      "author": "PROFUMO LABO",
+      "published": 1792298137
+    },
+    {
+      "title": "Bujairami — Brumble",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Brumble-145195.html",
+      "description": "New perfume listing: Brumble by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792298137
+    },
+    {
+      "title": "Bujairami — Bravo",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bravo-145194.html",
+      "description": "New perfume listing: Bravo by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792298137
+    },
+    {
+      "title": "Bujairami — Bright Essence",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Bright-Essence-145193.html",
+      "description": "New perfume listing: Bright Essence by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792298137
+    },
+    {
+      "title": "Bujairami — Boundless",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Boundless-145191.html",
+      "description": "New perfume listing: Boundless by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792298137
+    },
+    {
+      "title": "Bujairami — Blush",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Blush-145186.html",
+      "description": "New perfume listing: Blush by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792298137
+    },
     {
       "title": "Michael Malul London — New Journalist Fresh Ink",
       "link": "https://www.fragrantica.com/perfume/Michael-Malul-London/New-Journalist-Fresh-Ink-145274.html",
@@ -1472,134 +1600,6 @@
       "description": "New perfume listing: Bomb One by We Pink.",
       "category": "New Perfumes",
       "author": "We Pink",
-      "published": 1792125200
-    },
-    {
-      "title": "Eudora — Siàge Nutri Acid.Complex",
-      "link": "https://www.fragrantica.com/perfume/Eudora/Siage-Nutri-Acid-Complex-145198.html",
-      "description": "New perfume listing: Siàge Nutri Acid.Complex by Eudora.",
-      "category": "New Perfumes",
-      "author": "Eudora",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Pistachio Cake",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Pistachio-Cake-145197.html",
-      "description": "New perfume listing: Pistachio Cake by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Burning Ambition",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Burning-Ambition-145192.html",
-      "description": "New perfume listing: Burning Ambition by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Bottled Red City",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Bottled-Red-City-145190.html",
-      "description": "New perfume listing: Bottled Red City by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Bottled Paradise",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Bottled-Paradise-145189.html",
-      "description": "New perfume listing: Bottled Paradise by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Boss Lady",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Boss-Lady-145188.html",
-      "description": "New perfume listing: Boss Lady by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Blue Voyage",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Blue-Voyage-145187.html",
-      "description": "New perfume listing: Blue Voyage by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
-      "published": 1792125200
-    },
-    {
-      "title": "David Beckham — Warm Indigo",
-      "link": "https://www.fragrantica.com/perfume/David-Beckham/Warm-Indigo-145183.html",
-      "description": "New perfume listing: Warm Indigo by David Beckham.",
-      "category": "New Perfumes",
-      "author": "David Beckham",
-      "published": 1792125200
-    },
-    {
-      "title": "David Beckham — Velvet Coffee",
-      "link": "https://www.fragrantica.com/perfume/David-Beckham/Velvet-Coffee-145182.html",
-      "description": "New perfume listing: Velvet Coffee by David Beckham.",
-      "category": "New Perfumes",
-      "author": "David Beckham",
-      "published": 1792125200
-    },
-    {
-      "title": "EIGHT & BOB — Le Gant Blanc",
-      "link": "https://www.fragrantica.com/perfume/EIGHT-BOB/Le-Gant-Blanc-145181.html",
-      "description": "New perfume listing: Le Gant Blanc by EIGHT & BOB.",
-      "category": "New Perfumes",
-      "author": "EIGHT & BOB",
-      "published": 1792125200
-    },
-    {
-      "title": "L.T. Piver — Nohiba",
-      "link": "https://www.fragrantica.com/perfume/L-T-Piver/Nohiba-145180.html",
-      "description": "New perfume listing: Nohiba by L.T. Piver.",
-      "category": "New Perfumes",
-      "author": "L.T. Piver",
-      "published": 1792125200
-    },
-    {
-      "title": "Gist Beauty — Unravel",
-      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Unravel-145221.html",
-      "description": "New perfume listing: Unravel by Gist Beauty.",
-      "category": "New Perfumes",
-      "author": "Gist Beauty",
-      "published": 1792125200
-    },
-    {
-      "title": "Gist Beauty — Charis",
-      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Charis-145220.html",
-      "description": "New perfume listing: Charis by Gist Beauty.",
-      "category": "New Perfumes",
-      "author": "Gist Beauty",
-      "published": 1792125200
-    },
-    {
-      "title": "Gist Beauty — Cacaoir",
-      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Cacaoir-145219.html",
-      "description": "New perfume listing: Cacaoir by Gist Beauty.",
-      "category": "New Perfumes",
-      "author": "Gist Beauty",
-      "published": 1792125200
-    },
-    {
-      "title": "Gist Beauty — Petale",
-      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Petale-145218.html",
-      "description": "New perfume listing: Petale by Gist Beauty.",
-      "category": "New Perfumes",
-      "author": "Gist Beauty",
-      "published": 1792125200
-    },
-    {
-      "title": "Bujairami — Burn Slow",
-      "link": "https://www.fragrantica.com/perfume/Bujairami/Burn-Slow-145196.html",
-      "description": "New perfume listing: Burn Slow by Bujairami.",
-      "category": "New Perfumes",
-      "author": "Bujairami",
       "published": 1792125200
     }
   ]
