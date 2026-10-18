@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "INTIMATE CONVERSATION WITH IN PETTO: THE FIRST COLLECTION",
+      "link": "https://www.fragrantica.com/news/INTIMATE-CONVERSATION-WITH-IN-PETTO-THE-FIRST-COLLECTION-26383.html",
+      "description": "Restraint, proportion, and harmony — such qualities are a rarity these days.",
+      "category": "Events",
+      "author": "Alex (Sane-Witch) Osipov",
+      "published": 1792318083
+    },
+    {
+      "title": "L'Heure Bleue 2026 and The Shifting Sands",
+      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-2026-and-The-Shifting-Sands-26382.html",
+      "description": "The new L'Heure Bleue and the classic L'Heure Bleue are not the same perfume, and perhaps that's the point.",
+      "category": "Fragrance Reviews",
+      "author": "John Biebel",
+      "published": 1792302243
+    },
+    {
       "title": "Pitti Fragranze 2026: New Asian Brands Announcements",
       "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-New-Asian-Brands-Announcements-26381.html",
       "description": "The Fragrantica team continues to report from the Pitti Fragranze 2026 event. Let's not forget the emerging brands announced in Florence.",
@@ -783,25 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Jernê Knowles",
       "published": 1791417603
-    },
-    {
-      "title": "Veritas: Ombra and Oro Di Roma",
-      "link": "https://www.fragrantica.com/news/Veritas-Ombra-and-Oro-Di-Roma-26283.html",
-      "description": "Vibrant, contrasting fragrances built on the principle of light and shadow.",
-      "category": "Fragrance Reviews",
-      "author": "Alena Lavault",
-      "published": 1791406803
-    },
-    {
-      "title": "Niche Perfume Expo “Fumed” Coming To Atlanta This Weekend",
-      "link": "https://www.fragrantica.com/news/Niche-Perfume-Expo-Fumed-Coming-To-Atlanta-This-Weekend-26282.html",
-      "description": "The explosion of fragrance events is intense",
-      "category": "Art Books Events",
-      "author": "Eddie Bulliqi",
-      "published": 1791399603
     }
   ],
   "perfumes": [
+    {
+      "title": "Gist Beauty — Unravel",
+      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Unravel-145221.html",
+      "description": "New perfume listing: Unravel by Gist Beauty.",
+      "category": "New Perfumes",
+      "author": "Gist Beauty",
+      "published": 1792321660
+    },
+    {
+      "title": "Gist Beauty — Charis",
+      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Charis-145220.html",
+      "description": "New perfume listing: Charis by Gist Beauty.",
+      "category": "New Perfumes",
+      "author": "Gist Beauty",
+      "published": 1792321660
+    },
+    {
+      "title": "Gist Beauty — Cacaoir",
+      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Cacaoir-145219.html",
+      "description": "New perfume listing: Cacaoir by Gist Beauty.",
+      "category": "New Perfumes",
+      "author": "Gist Beauty",
+      "published": 1792321660
+    },
+    {
+      "title": "Gist Beauty — Petale",
+      "link": "https://www.fragrantica.com/perfume/Gist-Beauty/Petale-145218.html",
+      "description": "New perfume listing: Petale by Gist Beauty.",
+      "category": "New Perfumes",
+      "author": "Gist Beauty",
+      "published": 1792321660
+    },
+    {
+      "title": "Bujairami — Burn Slow",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Burn-Slow-145196.html",
+      "description": "New perfume listing: Burn Slow by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792321660
+    },
     {
       "title": "ATRAILA — Eden Chic",
       "link": "https://www.fragrantica.com/perfume/ATRAILA/Eden-Chic-145285.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Adore You by KaBEAUTY.",
       "category": "New Perfumes",
       "author": "KaBEAUTY",
-      "published": 1792125200
-    },
-    {
-      "title": "Spoiler — Jasmim Branco",
-      "link": "https://www.fragrantica.com/perfume/Spoiler/Jasmim-Branco-145203.html",
-      "description": "New perfume listing: Jasmim Branco by Spoiler.",
-      "category": "New Perfumes",
-      "author": "Spoiler",
-      "published": 1792125200
-    },
-    {
-      "title": "Spoiler — Floral de Rosa",
-      "link": "https://www.fragrantica.com/perfume/Spoiler/Floral-de-Rosa-145202.html",
-      "description": "New perfume listing: Floral de Rosa by Spoiler.",
-      "category": "New Perfumes",
-      "author": "Spoiler",
-      "published": 1792125200
-    },
-    {
-      "title": "Spoiler — Doce de Framboesa",
-      "link": "https://www.fragrantica.com/perfume/Spoiler/Doce-de-Framboesa-145201.html",
-      "description": "New perfume listing: Doce de Framboesa by Spoiler.",
-      "category": "New Perfumes",
-      "author": "Spoiler",
-      "published": 1792125200
-    },
-    {
-      "title": "We Pink — Fantasy Kids Green",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Fantasy-Kids-Green-145200.html",
-      "description": "New perfume listing: Fantasy Kids Green by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1792125200
-    },
-    {
-      "title": "We Pink — Bomb One",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Bomb-One-145199.html",
-      "description": "New perfume listing: Bomb One by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
       "published": 1792125200
     }
   ]
