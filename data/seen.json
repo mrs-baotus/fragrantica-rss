@@ -1,7 +1,23 @@
 {
   "news": [
     {
-      "title": "An Interview with Natalia Outeda: Experience, Argentinian roots and “Slow philosophy”: Part I",
+      "title": "Maison Violet Launched Bon Voyage",
+      "link": "https://www.fragrantica.com/news/Maison-Violet-Launched-Bon-Voyage-26387.html",
+      "description": "Bon voyage captures that moment just before departure, when the senses awaken and everything seems a little different.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1792379402
+    },
+    {
+      "title": "The Nue Co. Launched a New Functional Fragrance: Moon Rice",
+      "link": "https://www.fragrantica.com/news/The-Nue-Co-Launched-a-New-Functional-Fragrance-Moon-Rice-26386.html",
+      "description": "A scent for winding down and sleep. Warmed steamed rice and creamy sweetness.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1792367823
+    },
+    {
+      "title": "An Interview with Natalia Outeda: Experience, Argentinian Roots and “Slow Philosophy”: Part I",
       "link": "https://www.fragrantica.com/news/An-Interview-with-Natalia-Outeda-Experience-Argentinian-roots-and-Slow-philosophy-Part-I-26385.html",
       "description": "A detailed talk with Frassaï founder and former Givaudan Natalia Outeda.",
       "category": "Interviews",
@@ -783,25 +799,129 @@
       "category": "Video",
       "author": "Art Books Events",
       "published": 1791461042
-    },
-    {
-      "title": "Frankly, Added a Great Heat Wave Fragrance",
-      "link": "https://www.fragrantica.com/news/Frankly-Added-a-Great-Heat-Wave-Fragrance-26287.html",
-      "description": "\"The comfort of a perfectly worn white tee, barely there yet undeniable.\"",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1791450722
-    },
-    {
-      "title": "Parfums Quartana’s Bleeding Heart: A Delicious Fatal Potion Filled With Self-Love",
-      "link": "https://www.fragrantica.com/news/Parfums-Quartana-s-Bleeding-Heart-A-Delicious-Fatal-Potion-Filled-With-Self-Love-26286.html",
-      "description": "The house releases its tenth perfume based on poison flowers, an edgy flormand that attempts to transform heartbreak",
-      "category": "New Fragrances",
-      "author": "Patric Rhys",
-      "published": 1791439204
     }
   ],
   "perfumes": [
+    {
+      "title": "Jo Loves — Grapefruit Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/Jo-Loves/Grapefruit-Hair-Mist-145335.html",
+      "description": "New perfume listing: Grapefruit Hair Mist by Jo Loves.",
+      "category": "New Perfumes",
+      "author": "Jo Loves",
+      "published": 1792384934
+    },
+    {
+      "title": "Malin+Goetz — Tobacco",
+      "link": "https://www.fragrantica.com/perfume/Malin-Goetz/Tobacco-145334.html",
+      "description": "New perfume listing: Tobacco by Malin+Goetz.",
+      "category": "New Perfumes",
+      "author": "Malin+Goetz",
+      "published": 1792384934
+    },
+    {
+      "title": "Guerlain — Imagine Guerlain by Kévin Germanier",
+      "link": "https://www.fragrantica.com/perfume/Guerlain/Imagine-Guerlain-by-Kevin-Germanier-145333.html",
+      "description": "New perfume listing: Imagine Guerlain by Kévin Germanier by Guerlain.",
+      "category": "New Perfumes",
+      "author": "Guerlain",
+      "published": 1792384934
+    },
+    {
+      "title": "Dior — Les Récoltes Majeures La Rose",
+      "link": "https://www.fragrantica.com/perfume/Dior/Les-Recoltes-Majeures-La-Rose-145332.html",
+      "description": "New perfume listing: Les Récoltes Majeures La Rose by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1792384934
+    },
+    {
+      "title": "Dior — Les Récoltes Majeures Le Jasmin",
+      "link": "https://www.fragrantica.com/perfume/Dior/Les-Recoltes-Majeures-Le-Jasmin-145331.html",
+      "description": "New perfume listing: Les Récoltes Majeures Le Jasmin by Dior.",
+      "category": "New Perfumes",
+      "author": "Dior",
+      "published": 1792384934
+    },
+    {
+      "title": "Franck Olivier — Fabulous",
+      "link": "https://www.fragrantica.com/perfume/Franck-Olivier/Fabulous-145328.html",
+      "description": "New perfume listing: Fabulous by Franck Olivier.",
+      "category": "New Perfumes",
+      "author": "Franck Olivier",
+      "published": 1792384934
+    },
+    {
+      "title": "Franck Olivier — Oud Paradise",
+      "link": "https://www.fragrantica.com/perfume/Franck-Olivier/Oud-Paradise-145326.html",
+      "description": "New perfume listing: Oud Paradise by Franck Olivier.",
+      "category": "New Perfumes",
+      "author": "Franck Olivier",
+      "published": 1792384934
+    },
+    {
+      "title": "Franck Olivier — Nuit Luxury",
+      "link": "https://www.fragrantica.com/perfume/Franck-Olivier/Nuit-Luxury-145324.html",
+      "description": "New perfume listing: Nuit Luxury by Franck Olivier.",
+      "category": "New Perfumes",
+      "author": "Franck Olivier",
+      "published": 1792384934
+    },
+    {
+      "title": "CELESTO — Celebrity Overnight",
+      "link": "https://www.fragrantica.com/perfume/CELESTO/Celebrity-Overnight-145330.html",
+      "description": "New perfume listing: Celebrity Overnight by CELESTO.",
+      "category": "New Perfumes",
+      "author": "CELESTO",
+      "published": 1792384934
+    },
+    {
+      "title": "CELESTO — Oasis",
+      "link": "https://www.fragrantica.com/perfume/CELESTO/Oasis-145329.html",
+      "description": "New perfume listing: Oasis by CELESTO.",
+      "category": "New Perfumes",
+      "author": "CELESTO",
+      "published": 1792384934
+    },
+    {
+      "title": "CELESTO — Mascara Tears",
+      "link": "https://www.fragrantica.com/perfume/CELESTO/Mascara-Tears-145327.html",
+      "description": "New perfume listing: Mascara Tears by CELESTO.",
+      "category": "New Perfumes",
+      "author": "CELESTO",
+      "published": 1792384934
+    },
+    {
+      "title": "Franck Olivier — Sun Java Rose Oud",
+      "link": "https://www.fragrantica.com/perfume/Franck-Olivier/Sun-Java-Rose-Oud-145325.html",
+      "description": "New perfume listing: Sun Java Rose Oud by Franck Olivier.",
+      "category": "New Perfumes",
+      "author": "Franck Olivier",
+      "published": 1792384934
+    },
+    {
+      "title": "Strega Del Castello — Oud",
+      "link": "https://www.fragrantica.com/perfume/Strega-Del-Castello/Oud-145248.html",
+      "description": "New perfume listing: Oud by Strega Del Castello.",
+      "category": "New Perfumes",
+      "author": "Strega Del Castello",
+      "published": 1792384934
+    },
+    {
+      "title": "Strega Del Castello — Miele Salato",
+      "link": "https://www.fragrantica.com/perfume/Strega-Del-Castello/Miele-Salato-145247.html",
+      "description": "New perfume listing: Miele Salato by Strega Del Castello.",
+      "category": "New Perfumes",
+      "author": "Strega Del Castello",
+      "published": 1792384934
+    },
+    {
+      "title": "Strega Del Castello — Muschi",
+      "link": "https://www.fragrantica.com/perfume/Strega-Del-Castello/Muschi-145246.html",
+      "description": "New perfume listing: Muschi by Strega Del Castello.",
+      "category": "New Perfumes",
+      "author": "Strega Del Castello",
+      "published": 1792384934
+    },
     {
       "title": "Franck Olivier — Havana Gold",
       "link": "https://www.fragrantica.com/perfume/Franck-Olivier/Havana-Gold-145323.html",
@@ -1481,126 +1601,6 @@
       "category": "New Perfumes",
       "author": "The Seventh Door",
       "published": 1792185018
-    },
-    {
-      "title": "The Seventh Door — Burnt Letter",
-      "link": "https://www.fragrantica.com/perfume/The-Seventh-Door/Burnt-Letter-145171.html",
-      "description": "New perfume listing: Burnt Letter by The Seventh Door.",
-      "category": "New Perfumes",
-      "author": "The Seventh Door",
-      "published": 1792185018
-    },
-    {
-      "title": "Parfums Absoluta — Sorbonne",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sorbonne-145170.html",
-      "description": "New perfume listing: Sorbonne by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792185018
-    },
-    {
-      "title": "The Seventh Door — Tainted Silk",
-      "link": "https://www.fragrantica.com/perfume/The-Seventh-Door/Tainted-Silk-145169.html",
-      "description": "New perfume listing: Tainted Silk by The Seventh Door.",
-      "category": "New Perfumes",
-      "author": "The Seventh Door",
-      "published": 1792185018
-    },
-    {
-      "title": "Parfums Absoluta — Sinai",
-      "link": "https://www.fragrantica.com/perfume/Parfums-Absoluta/Sinai-145168.html",
-      "description": "New perfume listing: Sinai by Parfums Absoluta.",
-      "category": "New Perfumes",
-      "author": "Parfums Absoluta",
-      "published": 1792185018
-    },
-    {
-      "title": "Namilia — Future Pornstar",
-      "link": "https://www.fragrantica.com/perfume/Namilia/Future-Pornstar-145167.html",
-      "description": "New perfume listing: Future Pornstar by Namilia.",
-      "category": "New Perfumes",
-      "author": "Namilia",
-      "published": 1792185018
-    },
-    {
-      "title": "Astier de Villatte — Tanger",
-      "link": "https://www.fragrantica.com/perfume/Astier-de-Villatte/Tanger-145254.html",
-      "description": "New perfume listing: Tanger by Astier de Villatte.",
-      "category": "New Perfumes",
-      "author": "Astier de Villatte",
-      "published": 1792168828
-    },
-    {
-      "title": "Gulf Orchid — Vortex",
-      "link": "https://www.fragrantica.com/perfume/Gulf-Orchid/Vortex-145253.html",
-      "description": "New perfume listing: Vortex by Gulf Orchid.",
-      "category": "New Perfumes",
-      "author": "Gulf Orchid",
-      "published": 1792168828
-    },
-    {
-      "title": "Gulf Orchid — Phantom",
-      "link": "https://www.fragrantica.com/perfume/Gulf-Orchid/Phantom-145252.html",
-      "description": "New perfume listing: Phantom by Gulf Orchid.",
-      "category": "New Perfumes",
-      "author": "Gulf Orchid",
-      "published": 1792168828
-    },
-    {
-      "title": "Anfar 1950 — Bombay Nights",
-      "link": "https://www.fragrantica.com/perfume/Anfar-1950/Bombay-Nights-145251.html",
-      "description": "New perfume listing: Bombay Nights by Anfar 1950.",
-      "category": "New Perfumes",
-      "author": "Anfar 1950",
-      "published": 1792168828
-    },
-    {
-      "title": "Anfar London — Midnight Frost Eclipse",
-      "link": "https://www.fragrantica.com/perfume/Anfar-London/Midnight-Frost-Eclipse-145250.html",
-      "description": "New perfume listing: Midnight Frost Eclipse by Anfar London.",
-      "category": "New Perfumes",
-      "author": "Anfar London",
-      "published": 1792168828
-    },
-    {
-      "title": "Anfar London — Midnight Frost Arctic",
-      "link": "https://www.fragrantica.com/perfume/Anfar-London/Midnight-Frost-Arctic-145249.html",
-      "description": "New perfume listing: Midnight Frost Arctic by Anfar London.",
-      "category": "New Perfumes",
-      "author": "Anfar London",
-      "published": 1792168828
-    },
-    {
-      "title": "NEYDO — Watermere 05.07",
-      "link": "https://www.fragrantica.com/perfume/NEYDO/Watermere-05-07-145245.html",
-      "description": "New perfume listing: Watermere 05.07 by NEYDO.",
-      "category": "New Perfumes",
-      "author": "NEYDO",
-      "published": 1792168828
-    },
-    {
-      "title": "NEYDO — Bloom Away 21.04",
-      "link": "https://www.fragrantica.com/perfume/NEYDO/Bloom-Away-21-04-145244.html",
-      "description": "New perfume listing: Bloom Away 21.04 by NEYDO.",
-      "category": "New Perfumes",
-      "author": "NEYDO",
-      "published": 1792168828
-    },
-    {
-      "title": "NEYDO — Flower Frost 19.12",
-      "link": "https://www.fragrantica.com/perfume/NEYDO/Flower-Frost-19-12-145243.html",
-      "description": "New perfume listing: Flower Frost 19.12 by NEYDO.",
-      "category": "New Perfumes",
-      "author": "NEYDO",
-      "published": 1792168828
-    },
-    {
-      "title": "Marie Jeanne — Pierre Noire",
-      "link": "https://www.fragrantica.com/perfume/Marie-Jeanne/Pierre-Noire-145242.html",
-      "description": "New perfume listing: Pierre Noire by Marie Jeanne.",
-      "category": "New Perfumes",
-      "author": "Marie Jeanne",
-      "published": 1792168828
     }
   ]
 }
