@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Clash Extreme: O Boticário Intensifies the Freshness of Clash",
+      "link": "https://www.fragrantica.com/news/Clash-Extreme-O-Boticario-Intensifies-the-Freshness-of-Clash-26407.html",
+      "description": "Double the concentration of the aromatic blend of lavender, rosemary, and sage.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1792609203
+    },
+    {
       "title": "New Danner & Flemming: IRIS TANNAT",
       "link": "https://www.fragrantica.com/news/New-Danner-Flemming-IRIS-TANNAT-26406.html",
       "description": "\"Mineral powderiness, dark floral notes, and the complexity of aged wines shape this enigmatic fragrance.\"",
@@ -791,17 +799,145 @@
       "category": "Events",
       "author": "Julia Lukyanenko",
       "published": 1791640682
-    },
-    {
-      "title": "Montblanc Collection Paper Musk",
-      "link": "https://www.fragrantica.com/news/Montblanc-Collection-Paper-Musk-26307.html",
-      "description": "With Paper Musk, Montblanc turns the blank page into the newest fragrance in its premium collection.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791632042
     }
   ],
   "perfumes": [
+    {
+      "title": "Alendor Perfumes — The Lady On The Train",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/The-Lady-On-The-Train-145675.html",
+      "description": "New perfume listing: The Lady On The Train by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792619016
+    },
+    {
+      "title": "Mizensir — Bright Wood",
+      "link": "https://www.fragrantica.com/perfume/Mizensir/Bright-Wood-145674.html",
+      "description": "New perfume listing: Bright Wood by Mizensir.",
+      "category": "New Perfumes",
+      "author": "Mizensir",
+      "published": 1792619016
+    },
+    {
+      "title": "Alendor Perfumes — Softcore",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Softcore-145673.html",
+      "description": "New perfume listing: Softcore by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792619016
+    },
+    {
+      "title": "Alendor Perfumes — Golden Pear",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Golden-Pear-145672.html",
+      "description": "New perfume listing: Golden Pear by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792619016
+    },
+    {
+      "title": "Floris — 1676",
+      "link": "https://www.fragrantica.com/perfume/Floris/1676-145671.html",
+      "description": "New perfume listing: 1676 by Floris.",
+      "category": "New Perfumes",
+      "author": "Floris",
+      "published": 1792619016
+    },
+    {
+      "title": "Alendor Perfumes — Tanghulu",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Tanghulu-145670.html",
+      "description": "New perfume listing: Tanghulu by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792619016
+    },
+    {
+      "title": "Memo Paris — Adare",
+      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Adare-145669.html",
+      "description": "New perfume listing: Adare by Memo Paris.",
+      "category": "New Perfumes",
+      "author": "Memo Paris",
+      "published": 1792619016
+    },
+    {
+      "title": "O Boticário — Body Splash L'eau de Lily Soleil",
+      "link": "https://www.fragrantica.com/perfume/O-Boticario/Body-Splash-L-eau-de-Lily-Soleil-145668.html",
+      "description": "New perfume listing: Body Splash L'eau de Lily Soleil by O Boticário.",
+      "category": "New Perfumes",
+      "author": "O Boticário",
+      "published": 1792619016
+    },
+    {
+      "title": "O Boticário — Cuide-se Bem Acerola e Vai",
+      "link": "https://www.fragrantica.com/perfume/O-Boticario/Cuide-se-Bem-Acerola-e-Vai-145667.html",
+      "description": "New perfume listing: Cuide-se Bem Acerola e Vai by O Boticário.",
+      "category": "New Perfumes",
+      "author": "O Boticário",
+      "published": 1792619016
+    },
+    {
+      "title": "Hinode — Oh My Bee Vanilla Powder",
+      "link": "https://www.fragrantica.com/perfume/Hinode/Oh-My-Bee-Vanilla-Powder-145666.html",
+      "description": "New perfume listing: Oh My Bee Vanilla Powder by Hinode.",
+      "category": "New Perfumes",
+      "author": "Hinode",
+      "published": 1792619016
+    },
+    {
+      "title": "Natura — Humor Conexão",
+      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Conexao-145665.html",
+      "description": "New perfume listing: Humor Conexão by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1792619016
+    },
+    {
+      "title": "Natura — Humor Beija Eu",
+      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Beija-Eu-145664.html",
+      "description": "New perfume listing: Humor Beija Eu by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1792619016
+    },
+    {
+      "title": "Natura — Humor Me Beija",
+      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Me-Beija-145663.html",
+      "description": "New perfume listing: Humor Me Beija by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1792619016
+    },
+    {
+      "title": "Mawwal Arabia — Lin",
+      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Lin-145662.html",
+      "description": "New perfume listing: Lin by Mawwal Arabia.",
+      "category": "New Perfumes",
+      "author": "Mawwal Arabia",
+      "published": 1792619016
+    },
+    {
+      "title": "Mawwal Arabia — Wafaa",
+      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Wafaa-145661.html",
+      "description": "New perfume listing: Wafaa by Mawwal Arabia.",
+      "category": "New Perfumes",
+      "author": "Mawwal Arabia",
+      "published": 1792619016
+    },
+    {
+      "title": "Mawwal Arabia — Exir",
+      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Exir-145660.html",
+      "description": "New perfume listing: Exir by Mawwal Arabia.",
+      "category": "New Perfumes",
+      "author": "Mawwal Arabia",
+      "published": 1792619016
+    },
+    {
+      "title": "Royal Crown — Nima",
+      "link": "https://www.fragrantica.com/perfume/Royal-Crown/Nima-145659.html",
+      "description": "New perfume listing: Nima by Royal Crown.",
+      "category": "New Perfumes",
+      "author": "Royal Crown",
+      "published": 1792619016
+    },
     {
       "title": "Bêtenoir — Souverain",
       "link": "https://www.fragrantica.com/perfume/Betenoir/Souverain-145658.html",
@@ -1465,142 +1601,6 @@
       "category": "New Perfumes",
       "author": "Materia",
       "published": 1792532288
-    },
-    {
-      "title": "Materia — RITO",
-      "link": "https://www.fragrantica.com/perfume/Materia/RITO-145594.html",
-      "description": "New perfume listing: RITO by Materia.",
-      "category": "New Perfumes",
-      "author": "Materia",
-      "published": 1792532288
-    },
-    {
-      "title": "Marcoccia — Ananas Tonic",
-      "link": "https://www.fragrantica.com/perfume/Marcoccia/Ananas-Tonic-145591.html",
-      "description": "New perfume listing: Ananas Tonic by Marcoccia.",
-      "category": "New Perfumes",
-      "author": "Marcoccia",
-      "published": 1792532288
-    },
-    {
-      "title": "Grafen — Nice Vil",
-      "link": "https://www.fragrantica.com/perfume/Grafen/Nice-Vil-145590.html",
-      "description": "New perfume listing: Nice Vil by Grafen.",
-      "category": "New Perfumes",
-      "author": "Grafen",
-      "published": 1792532288
-    },
-    {
-      "title": "Cubano — Bronze",
-      "link": "https://www.fragrantica.com/perfume/Cubano/Bronze-145589.html",
-      "description": "New perfume listing: Bronze by Cubano.",
-      "category": "New Perfumes",
-      "author": "Cubano",
-      "published": 1792532288
-    },
-    {
-      "title": "Cubano — Gold",
-      "link": "https://www.fragrantica.com/perfume/Cubano/Gold-145588.html",
-      "description": "New perfume listing: Gold by Cubano.",
-      "category": "New Perfumes",
-      "author": "Cubano",
-      "published": 1792532288
-    },
-    {
-      "title": "Grafen — Lemon",
-      "link": "https://www.fragrantica.com/perfume/Grafen/Lemon-145587.html",
-      "description": "New perfume listing: Lemon by Grafen.",
-      "category": "New Perfumes",
-      "author": "Grafen",
-      "published": 1792532288
-    },
-    {
-      "title": "Cubano — Copper",
-      "link": "https://www.fragrantica.com/perfume/Cubano/Copper-145586.html",
-      "description": "New perfume listing: Copper by Cubano.",
-      "category": "New Perfumes",
-      "author": "Cubano",
-      "published": 1792532288
-    },
-    {
-      "title": "Grafen — One Wood",
-      "link": "https://www.fragrantica.com/perfume/Grafen/One-Wood-145585.html",
-      "description": "New perfume listing: One Wood by Grafen.",
-      "category": "New Perfumes",
-      "author": "Grafen",
-      "published": 1792532288
-    },
-    {
-      "title": "Mistum — Chic Trash",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Chic-Trash-145567.html",
-      "description": "New perfume listing: Chic Trash by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792516117
-    },
-    {
-      "title": "Mistum — Bel Ami",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Bel-Ami-145565.html",
-      "description": "New perfume listing: Bel Ami by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792516117
-    },
-    {
-      "title": "Mistum — Youngblood",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Youngblood-145563.html",
-      "description": "New perfume listing: Youngblood by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — RAMUNE CIDER",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/RAMUNE-CIDER-145559.html",
-      "description": "New perfume listing: RAMUNE CIDER by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Laverne — Tyrant Marine",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Tyrant-Marine-145549.html",
-      "description": "New perfume listing: Tyrant Marine by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1792516117
-    },
-    {
-      "title": "Laverne — Blue Laverne Bakhur Jaguar",
-      "link": "https://www.fragrantica.com/perfume/Laverne/Blue-Laverne-Bakhur-Jaguar-145548.html",
-      "description": "New perfume listing: Blue Laverne Bakhur Jaguar by Laverne.",
-      "category": "New Perfumes",
-      "author": "Laverne",
-      "published": 1792516117
-    },
-    {
-      "title": "City Parfum — Leader",
-      "link": "https://www.fragrantica.com/perfume/City-Parfum/Leader-145543.html",
-      "description": "New perfume listing: Leader by City Parfum.",
-      "category": "New Perfumes",
-      "author": "City Parfum",
-      "published": 1792516117
-    },
-    {
-      "title": "City Parfum — Fresh Energy",
-      "link": "https://www.fragrantica.com/perfume/City-Parfum/Fresh-Energy-145542.html",
-      "description": "New perfume listing: Fresh Energy by City Parfum.",
-      "category": "New Perfumes",
-      "author": "City Parfum",
-      "published": 1792516117
-    },
-    {
-      "title": "City Parfum — Danger Inside",
-      "link": "https://www.fragrantica.com/perfume/City-Parfum/Danger-Inside-145541.html",
-      "description": "New perfume listing: Danger Inside by City Parfum.",
-      "category": "New Perfumes",
-      "author": "City Parfum",
-      "published": 1792516117
     }
   ]
 }
