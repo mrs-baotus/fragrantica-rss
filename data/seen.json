@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Secret Yards by Psychotic London",
+      "link": "https://www.fragrantica.com/news/Secret-Yards-by-Psychotic-London-26402.html",
+      "description": "A cherry grown in a secret yard.",
+      "category": "Fragrance Reviews",
+      "author": "Alena Lavault",
+      "published": 1792557003
+    },
+    {
+      "title": "ODE ONA: Beyond Mere Fragrance",
+      "link": "https://www.fragrantica.com/news/ODE-ONA-Beyond-Mere-Fragrance-26401.html",
+      "description": "Six fragrances, six charities, one (great) project",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1792546203
+    },
+    {
+      "title": "Maksim Perfume Bestia Sacra: The Scent Of Cheesy Bath Towel Crust",
+      "link": "https://www.fragrantica.com/news/Maksim-Perfume-Bestia-Sacra-The-Scent-Of-Cheesy-Bath-Towel-Crust-26400.html",
+      "description": "Sweet, animalic, fruity.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1792535403
+    },
+    {
       "title": "An Interview with Natalia Outeda: Discovering Frassaï, Mate and Jasmine. Part II.",
       "link": "https://www.fragrantica.com/news/An-Interview-with-Natalia-Outeda-Discovering-Frassai-Mate-and-Jasmine-Part-II-26399.html",
       "description": "A detailed talk with the founder of Frassaï and former Givaudan Natalia Outeda.",
@@ -775,33 +799,97 @@
       "category": "Video",
       "author": "Fragrance Reviews",
       "published": 1791585363
-    },
-    {
-      "title": "MarMar. Greetings from Genoa",
-      "link": "https://www.fragrantica.com/news/MarMar-Greetings-from-Genoa-26302.html",
-      "description": "A new Made in Italy brand that tells the story of La Superba through the eyes of those who live there.",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1791577443
-    },
-    {
-      "title": "Perfume Bag Charms by Zara",
-      "link": "https://www.fragrantica.com/news/Perfume-Bag-Charms-by-Zara-26301.html",
-      "description": "Would you carry a travel spray or a miniature in your own small charm bag?",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791569283
-    },
-    {
-      "title": "Cannes 2026: Tobba Musc Albedo",
-      "link": "https://www.fragrantica.com/news/Cannes-2026-Tobba-Musc-Albedo-26300.html",
-      "description": "Hong Kong-based niche fragrance house Tobba has just launched its latest creation, Musc Albedo, a new interpretation of the increasingly popular...",
-      "category": "Niche Perfumery",
-      "author": "Sanja Pekić",
-      "published": 1791558123
     }
   ],
   "perfumes": [
+    {
+      "title": "Bujairami — Twilight Blossom",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Twilight-Blossom-145632.html",
+      "description": "New perfume listing: Twilight Blossom by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Candyland",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Candyland-145626.html",
+      "description": "New perfume listing: Candyland by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Charmed",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Charmed-145631.html",
+      "description": "New perfume listing: Charmed by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Casanova",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Casanova-145630.html",
+      "description": "New perfume listing: Casanova by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Cavalier",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Cavalier-145629.html",
+      "description": "New perfume listing: Cavalier by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Casablanca",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Casablanca-145628.html",
+      "description": "New perfume listing: Casablanca by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Bujairami — Caramel Drift",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Caramel-Drift-145627.html",
+      "description": "New perfume listing: Caramel Drift by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792558188
+    },
+    {
+      "title": "Robert Beaulieu — Lapis Lazuli",
+      "link": "https://www.fragrantica.com/perfume/Robert-Beaulieu/Lapis-Lazuli-145625.html",
+      "description": "New perfume listing: Lapis Lazuli by Robert Beaulieu.",
+      "category": "New Perfumes",
+      "author": "Robert Beaulieu",
+      "published": 1792558188
+    },
+    {
+      "title": "Michel Klein — Terre du Sud",
+      "link": "https://www.fragrantica.com/perfume/Michel-Klein/Terre-du-Sud-145624.html",
+      "description": "New perfume listing: Terre du Sud by Michel Klein.",
+      "category": "New Perfumes",
+      "author": "Michel Klein",
+      "published": 1792558188
+    },
+    {
+      "title": "Michel Klein — Double Jeu",
+      "link": "https://www.fragrantica.com/perfume/Michel-Klein/Double-Jeu-145623.html",
+      "description": "New perfume listing: Double Jeu by Michel Klein.",
+      "category": "New Perfumes",
+      "author": "Michel Klein",
+      "published": 1792558188
+    },
+    {
+      "title": "Michel Klein — Insomny O2",
+      "link": "https://www.fragrantica.com/perfume/Michel-Klein/Insomny-O2-145622.html",
+      "description": "New perfume listing: Insomny O2 by Michel Klein.",
+      "category": "New Perfumes",
+      "author": "Michel Klein",
+      "published": 1792558188
+    },
     {
       "title": "Velvyx — Sassy",
       "link": "https://www.fragrantica.com/perfume/Velvyx/Sassy-145621.html",
@@ -1513,94 +1601,6 @@
       "category": "New Perfumes",
       "author": "Salfa Perfumes",
       "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Silk Route",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Silk-Route-145537.html",
-      "description": "New perfume listing: Silk Route by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Turquoise Coast",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Turquoise-Coast-145536.html",
-      "description": "New perfume listing: Turquoise Coast by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Peach Blossom",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Peach-Blossom-145533.html",
-      "description": "New perfume listing: Peach Blossom by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Coral Shore",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Coral-Shore-145532.html",
-      "description": "New perfume listing: Coral Shore by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Emerald Forest",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Emerald-Forest-145530.html",
-      "description": "New perfume listing: Emerald Forest by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Scarlet Red",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Scarlet-Red-145527.html",
-      "description": "New perfume listing: Scarlet Red by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Blue Sapphire",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Blue-Sapphire-145526.html",
-      "description": "New perfume listing: Blue Sapphire by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Golden Sunflower",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Golden-Sunflower-145525.html",
-      "description": "New perfume listing: Golden Sunflower by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Profumi di Lipari — Petra O' Vagnu",
-      "link": "https://www.fragrantica.com/perfume/Profumi-di-Lipari/Petra-O-Vagnu-145521.html",
-      "description": "New perfume listing: Petra O' Vagnu by Profumi di Lipari.",
-      "category": "New Perfumes",
-      "author": "Profumi di Lipari",
-      "published": 1792496338
-    },
-    {
-      "title": "CZAR — Kyoto",
-      "link": "https://www.fragrantica.com/perfume/CZAR/Kyoto-145519.html",
-      "description": "New perfume listing: Kyoto by CZAR.",
-      "category": "New Perfumes",
-      "author": "CZAR",
-      "published": 1792496338
-    },
-    {
-      "title": "CZAR — Iceberg",
-      "link": "https://www.fragrantica.com/perfume/CZAR/Iceberg-145518.html",
-      "description": "New perfume listing: Iceberg by CZAR.",
-      "category": "New Perfumes",
-      "author": "CZAR",
-      "published": 1792496338
     }
   ]
 }
