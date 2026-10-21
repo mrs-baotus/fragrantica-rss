@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "DIOR La Malle des Rêves 2026: A Holiday Collector’s Piece Inspired by Couture",
+      "link": "https://www.fragrantica.com/news/DIOR-La-Malle-des-Reves-2026-A-Holiday-Collector-s-Piece-Inspired-by-Couture-26404.html",
+      "description": "La Malle des Rêves: An Exceptional Advent Calendar!",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1792581483
+    },
+    {
+      "title": "L'Heure Bleue 1912 Guerlain: A Look at the Current Eau de Parfum — For Anyone Confused by All the Versions",
+      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-1912-Guerlain-A-Look-at-the-Current-Eau-de-Parfum-For-Anyone-Confused-by-All-the-Versions-26403.html",
+      "description": "It's still beautiful…",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1792566535
+    },
+    {
       "title": "Secret Yards by Psychotic London",
       "link": "https://www.fragrantica.com/news/Secret-Yards-by-Psychotic-London-26402.html",
       "description": "A cherry grown in a secret yard.",
@@ -783,25 +799,169 @@
       "category": "Fragrance Reviews",
       "author": "Eddie Bulliqi",
       "published": 1791606483
-    },
-    {
-      "title": "CHOPARD Blooming Love",
-      "link": "https://www.fragrantica.com/news/CHOPARD-Blooming-Love-26304.html",
-      "description": "Chopard Blooming Love: Magnolia with fruity brightness and a tea-scented base.",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791593748
-    },
-    {
-      "title": "Between Shadow and Light: The Versatile Umbra Oud",
-      "link": "https://www.fragrantica.com/news/Between-Shadow-and-Light-The-Versatile-Umbra-Oud-26303.html",
-      "description": "I discover the Anomalia Paris bestseller",
-      "category": "Video",
-      "author": "Fragrance Reviews",
-      "published": 1791585363
     }
   ],
   "perfumes": [
+    {
+      "title": "Faizal Privee — VerdiGris",
+      "link": "https://www.fragrantica.com/perfume/Faizal-Privee/VerdiGris-145652.html",
+      "description": "New perfume listing: VerdiGris by Faizal Privee.",
+      "category": "New Perfumes",
+      "author": "Faizal Privee",
+      "published": 1792583452
+    },
+    {
+      "title": "Atralia — Eden Chic",
+      "link": "https://www.fragrantica.com/perfume/Atralia/Eden-Chic-145640.html",
+      "description": "New perfume listing: Eden Chic by Atralia.",
+      "category": "New Perfumes",
+      "author": "Atralia",
+      "published": 1792583452
+    },
+    {
+      "title": "Montale — Omahata Love",
+      "link": "https://www.fragrantica.com/perfume/Montale/Omahata-Love-145637.html",
+      "description": "New perfume listing: Omahata Love by Montale.",
+      "category": "New Perfumes",
+      "author": "Montale",
+      "published": 1792583452
+    },
+    {
+      "title": "Atarasia — Silk Twilight — Atarasia × Spirituscents",
+      "link": "https://www.fragrantica.com/perfume/Atarasia/Silk-Twilight-Atarasia-Spirituscents-145636.html",
+      "description": "New perfume listing: Silk Twilight — Atarasia × Spirituscents by Atarasia.",
+      "category": "New Perfumes",
+      "author": "Atarasia",
+      "published": 1792583452
+    },
+    {
+      "title": "Atarasia — Ballad of Oud — Atarasia x Hunayn",
+      "link": "https://www.fragrantica.com/perfume/Atarasia/Ballad-of-Oud-Atarasia-x-Hunayn-145635.html",
+      "description": "New perfume listing: Ballad of Oud — Atarasia x Hunayn by Atarasia.",
+      "category": "New Perfumes",
+      "author": "Atarasia",
+      "published": 1792583452
+    },
+    {
+      "title": "Atarasia — Al Kindi — Atarasia x Elixir Attar",
+      "link": "https://www.fragrantica.com/perfume/Atarasia/Al-Kindi-Atarasia-x-Elixir-Attar-145634.html",
+      "description": "New perfume listing: Al Kindi — Atarasia x Elixir Attar by Atarasia.",
+      "category": "New Perfumes",
+      "author": "Atarasia",
+      "published": 1792583452
+    },
+    {
+      "title": "Atarasia — Emerald Veil — Atarasia x Faizal Privée",
+      "link": "https://www.fragrantica.com/perfume/Atarasia/Emerald-Veil-Atarasia-x-Faizal-Privee-145633.html",
+      "description": "New perfume listing: Emerald Veil — Atarasia x Faizal Privée by Atarasia.",
+      "category": "New Perfumes",
+      "author": "Atarasia",
+      "published": 1792583452
+    },
+    {
+      "title": "Najrami — LeavesFall",
+      "link": "https://www.fragrantica.com/perfume/Najrami/LeavesFall-145651.html",
+      "description": "New perfume listing: LeavesFall by Najrami.",
+      "category": "New Perfumes",
+      "author": "Najrami",
+      "published": 1792583452
+    },
+    {
+      "title": "Najrami — SummerBreeze",
+      "link": "https://www.fragrantica.com/perfume/Najrami/SummerBreeze-145650.html",
+      "description": "New perfume listing: SummerBreeze by Najrami.",
+      "category": "New Perfumes",
+      "author": "Najrami",
+      "published": 1792583452
+    },
+    {
+      "title": "Najrami — SpringTime",
+      "link": "https://www.fragrantica.com/perfume/Najrami/SpringTime-145649.html",
+      "description": "New perfume listing: SpringTime by Najrami.",
+      "category": "New Perfumes",
+      "author": "Najrami",
+      "published": 1792583452
+    },
+    {
+      "title": "Najrami — WinterBlues",
+      "link": "https://www.fragrantica.com/perfume/Najrami/WinterBlues-145648.html",
+      "description": "New perfume listing: WinterBlues by Najrami.",
+      "category": "New Perfumes",
+      "author": "Najrami",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Sol Negro",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Sol-Negro-145647.html",
+      "description": "New perfume listing: Sol Negro by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Bloody Mire",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Bloody-Mire-145646.html",
+      "description": "New perfume listing: Bloody Mire by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Coral",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Coral-145645.html",
+      "description": "New perfume listing: Coral by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Tanit",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Tanit-145644.html",
+      "description": "New perfume listing: Tanit by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Tobacco Macaco",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Tobacco-Macaco-145643.html",
+      "description": "New perfume listing: Tobacco Macaco by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Sekhmet",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Sekhmet-145642.html",
+      "description": "New perfume listing: Sekhmet by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — El Indiano",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/El-Indiano-145641.html",
+      "description": "New perfume listing: El Indiano by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — La Candelaria",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/La-Candelaria-145639.html",
+      "description": "New perfume listing: La Candelaria by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
+    {
+      "title": "Alejandro Acosta — Dark Souls",
+      "link": "https://www.fragrantica.com/perfume/Alejandro-Acosta/Dark-Souls-145638.html",
+      "description": "New perfume listing: Dark Souls by Alejandro Acosta.",
+      "category": "New Perfumes",
+      "author": "Alejandro Acosta",
+      "published": 1792583452
+    },
     {
       "title": "Bujairami — Twilight Blossom",
       "link": "https://www.fragrantica.com/perfume/Bujairami/Twilight-Blossom-145632.html",
@@ -1440,166 +1600,6 @@
       "description": "New perfume listing: Balì - Crema di Latte e Ambra by Bottega Verde.",
       "category": "New Perfumes",
       "author": "Bottega Verde",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — REAL SHIP",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/REAL-SHIP-145566.html",
-      "description": "New perfume listing: REAL SHIP by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — SHIP GARDEN",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/SHIP-GARDEN-145564.html",
-      "description": "New perfume listing: SHIP GARDEN by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — SHIP FOREST",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/SHIP-FOREST-145562.html",
-      "description": "New perfume listing: SHIP FOREST by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — Mummy",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/Mummy-145561.html",
-      "description": "New perfume listing: Mummy by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — Crystal Skull",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/Crystal-Skull-145560.html",
-      "description": "New perfume listing: Crystal Skull by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — Evening Tea (夕茶 )",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/Evening-Tea-xi-cha-145558.html",
-      "description": "New perfume listing: Evening Tea (夕茶 ) by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 08 MATCHA",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/08-MATCHA-145557.html",
-      "description": "New perfume listing: 08 MATCHA by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 07 KYOTO",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/07-KYOTO-145556.html",
-      "description": "New perfume listing: 07 KYOTO by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 06 GEIKOKU TO SHIRUSHI",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/06-GEIKOKU-TO-SHIRUSHI-145555.html",
-      "description": "New perfume listing: 06 GEIKOKU TO SHIRUSHI by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 05 KABUKI ACTOR OTANI ONIJI III",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/05-KABUKI-ACTOR-OTANI-ONIJI-III-145554.html",
-      "description": "New perfume listing: 05 KABUKI ACTOR OTANI ONIJI III by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 04 SUMO WRESTLING",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/04-SUMO-WRESTLING-145553.html",
-      "description": "New perfume listing: 04 SUMO WRESTLING by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 03 ASAKUSA",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/03-ASAKUSA-145552.html",
-      "description": "New perfume listing: 03 ASAKUSA by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 02 SAKURA FUGAKU",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/02-SAKURA-FUGAKU-145551.html",
-      "description": "New perfume listing: 02 SAKURA FUGAKU by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Kinkuma Perfume — 01 FUJI",
-      "link": "https://www.fragrantica.com/perfume/Kinkuma-Perfume/01-FUJI-145550.html",
-      "description": "New perfume listing: 01 FUJI by Kinkuma Perfume.",
-      "category": "New Perfumes",
-      "author": "Kinkuma Perfume",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Pharaonic Era",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Pharaonic-Era-145547.html",
-      "description": "New perfume listing: Pharaonic Era by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Greek Echoes",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Greek-Echoes-145546.html",
-      "description": "New perfume listing: Greek Echoes by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Moon Landing",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Moon-Landing-145545.html",
-      "description": "New perfume listing: Moon Landing by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Medieval Japan",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Medieval-Japan-145544.html",
-      "description": "New perfume listing: Medieval Japan by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Victorian Era",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Victorian-Era-145539.html",
-      "description": "New perfume listing: Victorian Era by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
-      "published": 1792516117
-    },
-    {
-      "title": "Salfa Perfumes — Renaissance Italy",
-      "link": "https://www.fragrantica.com/perfume/Salfa-Perfumes/Renaissance-Italy-145538.html",
-      "description": "New perfume listing: Renaissance Italy by Salfa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Salfa Perfumes",
       "published": 1792516117
     }
   ]
