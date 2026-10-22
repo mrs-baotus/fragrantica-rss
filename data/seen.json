@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "A Beautiful Crop: The Lavenders of 2026",
+      "link": "https://www.fragrantica.com/news/A-Beautiful-Crop-The-Lavenders-of-2026-26410.html",
+      "description": "This is a great year for lavender fragrance lovers.",
+      "category": "Niche Perfumery",
+      "author": "Adam Forziati",
+      "published": 1792642442
+    },
+    {
+      "title": "Room 1015 Wasabi Klub: Green Tea Leaves, Mint Leaves, Rose Leaves",
+      "link": "https://www.fragrantica.com/news/Room-1015-Wasabi-Klub-Green-Tea-Leaves-Mint-Leaves-Rose-Leaves-26409.html",
+      "description": "Verdant, floral, zingy",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1792630802
+    },
+    {
+      "title": "Miu Miu Miutine: Beautiful Mixed Messages",
+      "link": "https://www.fragrantica.com/news/Miu-Miu-Miutine-Beautiful-Mixed-Messages-26408.html",
+      "description": "A cake that you don't want to eat — my idea of a good gourmand.",
+      "category": "Fragrance Reviews",
+      "author": "Miguel Matos",
+      "published": 1792620003
+    },
+    {
       "title": "Clash Extreme: O Boticário Intensifies the Freshness of Clash",
       "link": "https://www.fragrantica.com/news/Clash-Extreme-O-Boticario-Intensifies-the-Freshness-of-Clash-26407.html",
       "description": "Double the concentration of the aromatic blend of lavender, rosemary, and sage.",
@@ -775,33 +799,121 @@
       "category": "Fragrance Reviews",
       "author": "Sergey Borisov",
       "published": 1791672843
-    },
-    {
-      "title": "K-R-V-A: A Brand That Transforms Brazilian Nature Into Olfactory Memory",
-      "link": "https://www.fragrantica.com/news/K-R-V-A-A-Brand-That-Transforms-Brazilian-Nature-Into-Olfactory-Memory-26310.html",
-      "description": "A sensitive record of nature, time, and the stories that remain in our memory.",
-      "category": "New Fragrances",
-      "author": "Jernê Knowles",
-      "published": 1791662043
-    },
-    {
-      "title": "Tabac Libre, Yloud-Yloud, and Vetiveria Animalis: Three Perfumes by Angelos Creations",
-      "link": "https://www.fragrantica.com/news/Tabac-Libre-Yloud-Yloud-and-Vetiveria-Animalis-Three-Perfumes-by-Angelos-Creations-26309.html",
-      "description": "Introducing a Greek indie perfume brand that creates perfect vintage-inspired fragrances",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1791649023
-    },
-    {
-      "title": "ICON'S 2026, Part 2: Let's Look at Fragrances",
-      "link": "https://www.fragrantica.com/news/ICON-S-2026-Part-2-Let-s-Look-at-Fragrances-26308.html",
-      "description": "Let's look deeper and see the fragrances that were chosen for the exhibition.",
-      "category": "Events",
-      "author": "Julia Lukyanenko",
-      "published": 1791640682
     }
   ],
   "perfumes": [
+    {
+      "title": "Atelier Rebul — Majesté",
+      "link": "https://www.fragrantica.com/perfume/Atelier-Rebul/Majeste-145689.html",
+      "description": "New perfume listing: Majesté by Atelier Rebul.",
+      "category": "New Perfumes",
+      "author": "Atelier Rebul",
+      "published": 1792644524
+    },
+    {
+      "title": "Alendor Perfumes — God's Chillin'",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/God-s-Chillin-145688.html",
+      "description": "New perfume listing: God's Chillin' by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792644524
+    },
+    {
+      "title": "Maison Alhambra — Last Night in Miami",
+      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Last-Night-in-Miami-145687.html",
+      "description": "New perfume listing: Last Night in Miami by Maison Alhambra.",
+      "category": "New Perfumes",
+      "author": "Maison Alhambra",
+      "published": 1792644524
+    },
+    {
+      "title": "Alendor Perfumes — Lovemonger",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Lovemonger-145686.html",
+      "description": "New perfume listing: Lovemonger by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792644524
+    },
+    {
+      "title": "Barbour’s Beauty — Tropic Sun",
+      "link": "https://www.fragrantica.com/perfume/Barbour-s-Beauty/Tropic-Sun-145685.html",
+      "description": "New perfume listing: Tropic Sun by Barbour’s Beauty.",
+      "category": "New Perfumes",
+      "author": "Barbour’s Beauty",
+      "published": 1792644524
+    },
+    {
+      "title": "Tha Beauty — London Eye",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/London-Eye-145684.html",
+      "description": "New perfume listing: London Eye by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1792644524
+    },
+    {
+      "title": "Tha Beauty — Big Ben",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Big-Ben-145683.html",
+      "description": "New perfume listing: Big Ben by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1792644524
+    },
+    {
+      "title": "Alendor Perfumes — On The Rocks",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/On-The-Rocks-145682.html",
+      "description": "New perfume listing: On The Rocks by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792644524
+    },
+    {
+      "title": "Tha Beauty — Tower Bridge",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Tower-Bridge-145681.html",
+      "description": "New perfume listing: Tower Bridge by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1792644524
+    },
+    {
+      "title": "Tha Beauty — Queen",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Queen-145680.html",
+      "description": "New perfume listing: Queen by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1792644524
+    },
+    {
+      "title": "Alendor Perfumes — Memories",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Memories-145679.html",
+      "description": "New perfume listing: Memories by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792644524
+    },
+    {
+      "title": "Alendor Perfumes — Brululu",
+      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Brululu-145678.html",
+      "description": "New perfume listing: Brululu by Alendor Perfumes.",
+      "category": "New Perfumes",
+      "author": "Alendor Perfumes",
+      "published": 1792644524
+    },
+    {
+      "title": "Kayali Fragrances — Yum Vanilla Cupcake | 108",
+      "link": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Yum-Vanilla-Cupcake-108-145677.html",
+      "description": "New perfume listing: Yum Vanilla Cupcake | 108 by Kayali Fragrances.",
+      "category": "New Perfumes",
+      "author": "Kayali Fragrances",
+      "published": 1792644524
+    },
+    {
+      "title": "Kappa — Forte",
+      "link": "https://www.fragrantica.com/perfume/Kappa/Forte-145676.html",
+      "description": "New perfume listing: Forte by Kappa.",
+      "category": "New Perfumes",
+      "author": "Kappa",
+      "published": 1792644524
+    },
     {
       "title": "Alendor Perfumes — The Lady On The Train",
       "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/The-Lady-On-The-Train-145675.html",
@@ -1488,118 +1600,6 @@
       "description": "New perfume listing: Neo Lover by Mistum.",
       "category": "New Perfumes",
       "author": "Mistum",
-      "published": 1792532288
-    },
-    {
-      "title": "Mistum — Bad Guy",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Bad-Guy-145570.html",
-      "description": "New perfume listing: Bad Guy by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792532288
-    },
-    {
-      "title": "Mistum — Thorny Rose Crown",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Thorny-Rose-Crown-145569.html",
-      "description": "New perfume listing: Thorny Rose Crown by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792532288
-    },
-    {
-      "title": "Mistum — Dirty Pink",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Dirty-Pink-145568.html",
-      "description": "New perfume listing: Dirty Pink by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
-      "published": 1792532288
-    },
-    {
-      "title": "Hetkinen — Equilibrium",
-      "link": "https://www.fragrantica.com/perfume/Hetkinen/Equilibrium-145606.html",
-      "description": "New perfume listing: Equilibrium by Hetkinen.",
-      "category": "New Perfumes",
-      "author": "Hetkinen",
-      "published": 1792532288
-    },
-    {
-      "title": "Hetkinen — Obsid Ember",
-      "link": "https://www.fragrantica.com/perfume/Hetkinen/Obsid-Ember-145605.html",
-      "description": "New perfume listing: Obsid Ember by Hetkinen.",
-      "category": "New Perfumes",
-      "author": "Hetkinen",
-      "published": 1792532288
-    },
-    {
-      "title": "Alyssa Ashley — Oud Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Oud-Patchouli-145604.html",
-      "description": "New perfume listing: Oud Patchouli by Alyssa Ashley.",
-      "category": "New Perfumes",
-      "author": "Alyssa Ashley",
-      "published": 1792532288
-    },
-    {
-      "title": "Alyssa Ashley — Ambre Blanc",
-      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Ambre-Blanc-145603.html",
-      "description": "New perfume listing: Ambre Blanc by Alyssa Ashley.",
-      "category": "New Perfumes",
-      "author": "Alyssa Ashley",
-      "published": 1792532288
-    },
-    {
-      "title": "Alyssa Ashley — Leather Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Leather-Vanilla-145602.html",
-      "description": "New perfume listing: Leather Vanilla by Alyssa Ashley.",
-      "category": "New Perfumes",
-      "author": "Alyssa Ashley",
-      "published": 1792532288
-    },
-    {
-      "title": "Indicia Perfume Co. — Ghost Story",
-      "link": "https://www.fragrantica.com/perfume/Indicia-Perfume-Co/Ghost-Story-145601.html",
-      "description": "New perfume listing: Ghost Story by Indicia Perfume Co..",
-      "category": "New Perfumes",
-      "author": "Indicia Perfume Co.",
-      "published": 1792532288
-    },
-    {
-      "title": "Boa Paris — Fleur de Boa",
-      "link": "https://www.fragrantica.com/perfume/Boa-Paris/Fleur-de-Boa-145600.html",
-      "description": "New perfume listing: Fleur de Boa by Boa Paris.",
-      "category": "New Perfumes",
-      "author": "Boa Paris",
-      "published": 1792532288
-    },
-    {
-      "title": "Coqui Coqui — Pamsavai",
-      "link": "https://www.fragrantica.com/perfume/Coqui-Coqui/Pamsavai-145599.html",
-      "description": "New perfume listing: Pamsavai by Coqui Coqui.",
-      "category": "New Perfumes",
-      "author": "Coqui Coqui",
-      "published": 1792532288
-    },
-    {
-      "title": "Oficine Clemàn — Bergamia Wood",
-      "link": "https://www.fragrantica.com/perfume/Oficine-Cleman/Bergamia-Wood-145598.html",
-      "description": "New perfume listing: Bergamia Wood by Oficine Clemàn.",
-      "category": "New Perfumes",
-      "author": "Oficine Clemàn",
-      "published": 1792532288
-    },
-    {
-      "title": "Elixir Attar — Ballad Genesis: Ylang Cardamom",
-      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/Ballad-Genesis-Ylang-Cardamom-145596.html",
-      "description": "New perfume listing: Ballad Genesis: Ylang Cardamom by Elixir Attar.",
-      "category": "New Perfumes",
-      "author": "Elixir Attar",
-      "published": 1792532288
-    },
-    {
-      "title": "Materia — Vesperum",
-      "link": "https://www.fragrantica.com/perfume/Materia/Vesperum-145595.html",
-      "description": "New perfume listing: Vesperum by Materia.",
-      "category": "New Perfumes",
-      "author": "Materia",
       "published": 1792532288
     }
   ]
