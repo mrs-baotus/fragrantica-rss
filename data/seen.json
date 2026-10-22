@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Fragrantica’s Team Shares Their Impressions of Notes Shanghai 2026 Autumn Edition",
+      "link": "https://www.fragrantica.com/news/Fragrantica-s-Team-Shares-Their-Impressions-of-Notes-Shanghai-2026-Autumn-Edition-26412.html",
+      "description": "Our writers take a closer look at the fragrances, creative minds, and emerging trends shaping the future of Asian perfumery.",
+      "category": "Fragrantica",
+      "author": "Igor Masyukov,Andrei Lensky,Elena Prokofeva,Julia Lukyanenko,Maria Golovina,Eugene Ti",
+      "published": 1792658343
+    },
+    {
+      "title": "DIOR J'adore Music Box - Limited edition",
+      "link": "https://www.fragrantica.com/news/DIOR-J-adore-Music-Box-Limited-edition-26411.html",
+      "description": "Dior Brings Holiday Magic to 30 Avenue Montaigne with the J’adore Music Box.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1792654442
+    },
+    {
       "title": "A Beautiful Crop: The Lavenders of 2026",
       "link": "https://www.fragrantica.com/news/A-Beautiful-Crop-The-Lavenders-of-2026-26410.html",
       "description": "This is a great year for lavender fragrance lovers.",
@@ -783,25 +799,177 @@
       "category": "Fragrance Reviews",
       "author": "Elena Knezevic",
       "published": 1791685577
-    },
-    {
-      "title": "The Different Company Gin-Seng: A Breath of Fresh Air",
-      "link": "https://www.fragrantica.com/news/The-Different-Company-Gin-Seng-A-Breath-of-Fresh-Air-26312.html",
-      "description": "Green, spicy, airy, grounding.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1791679142
-    },
-    {
-      "title": "Paradise in Gangwon Organ Tale: Fruits, Flowers, Smoke",
-      "link": "https://www.fragrantica.com/news/Paradise-in-Gangwon-Organ-Tale-Fruits-Flowers-Smoke-26311.html",
-      "description": "Let`s smell the Korean Paradise!",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1791672843
     }
   ],
   "perfumes": [
+    {
+      "title": "Maiora Parfum — Primo Battito",
+      "link": "https://www.fragrantica.com/perfume/Maiora-Parfum/Primo-Battito-145708.html",
+      "description": "New perfume listing: Primo Battito by Maiora Parfum.",
+      "category": "New Perfumes",
+      "author": "Maiora Parfum",
+      "published": 1792670068
+    },
+    {
+      "title": "Maiora Parfum — Isla Del Caribe",
+      "link": "https://www.fragrantica.com/perfume/Maiora-Parfum/Isla-Del-Caribe-145707.html",
+      "description": "New perfume listing: Isla Del Caribe by Maiora Parfum.",
+      "category": "New Perfumes",
+      "author": "Maiora Parfum",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Oasis",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Oasis-145706.html",
+      "description": "New perfume listing: Oasis by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Vanilla Static",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Vanilla-Static-145703.html",
+      "description": "New perfume listing: Vanilla Static by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Burnt Sugar",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Burnt-Sugar-145702.html",
+      "description": "New perfume listing: Burnt Sugar by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — Becoming — 将熟",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/Becoming-jiang-shu-145698.html",
+      "description": "New perfume listing: Becoming — 将熟 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — Echo — 余温",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/Echo-yu-wen-145697.html",
+      "description": "New perfume listing: Echo — 余温 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — I Stay — 如约",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/I-Stay-ru-yue-145696.html",
+      "description": "New perfume listing: I Stay — 如约 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — I Believe — 无问",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/I-Believe-wu-wen-145695.html",
+      "description": "New perfume listing: I Believe — 无问 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — Floreat Bounty — 植得·果拾",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/Floreat-Bounty-zhi-de-guo-shi-145694.html",
+      "description": "New perfume listing: Floreat Bounty — 植得·果拾 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — Floreat Bloom — 植得·栀晓",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/Floreat-Bloom-zhi-de-zhi-xiao-145693.html",
+      "description": "New perfume listing: Floreat Bloom — 植得·栀晓 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — Floreat Dew — 植得·苔生",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/Floreat-Dew-zhi-de-tai-sheng-145692.html",
+      "description": "New perfume listing: Floreat Dew — 植得·苔生 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — CHArisma FindMi — 茶不思·朝暮",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/CHArisma-FindMi-cha-bu-si-chao-mu-145691.html",
+      "description": "New perfume listing: CHArisma FindMi — 茶不思·朝暮 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "To Define 寓义 — CHArisma MeUnder — 茶不思·游思",
+      "link": "https://www.fragrantica.com/perfume/To-Define-yu-yi/CHArisma-MeUnder-cha-bu-si-you-si-145690.html",
+      "description": "New perfume listing: CHArisma MeUnder — 茶不思·游思 by To Define 寓义.",
+      "category": "New Perfumes",
+      "author": "To Define 寓义",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Sandy Shores",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Sandy-Shores-145701.html",
+      "description": "New perfume listing: Sandy Shores by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Orbit",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Orbit-145700.html",
+      "description": "New perfume listing: Orbit by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "Bujairami — Madagascar",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Madagascar-145699.html",
+      "description": "New perfume listing: Madagascar by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1792670068
+    },
+    {
+      "title": "Hetkinen — Equilibrium",
+      "link": "https://www.fragrantica.com/perfume/Hetkinen/Equilibrium-145606.html",
+      "description": "New perfume listing: Equilibrium by Hetkinen.",
+      "category": "New Perfumes",
+      "author": "Hetkinen",
+      "published": 1792670068
+    },
+    {
+      "title": "Hetkinen — Obsid Ember",
+      "link": "https://www.fragrantica.com/perfume/Hetkinen/Obsid-Ember-145605.html",
+      "description": "New perfume listing: Obsid Ember by Hetkinen.",
+      "category": "New Perfumes",
+      "author": "Hetkinen",
+      "published": 1792670068
+    },
+    {
+      "title": "Alyssa Ashley — Oud Patchouli",
+      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Oud-Patchouli-145604.html",
+      "description": "New perfume listing: Oud Patchouli by Alyssa Ashley.",
+      "category": "New Perfumes",
+      "author": "Alyssa Ashley",
+      "published": 1792670068
+    },
+    {
+      "title": "Alyssa Ashley — Ambre Blanc",
+      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Ambre-Blanc-145603.html",
+      "description": "New perfume listing: Ambre Blanc by Alyssa Ashley.",
+      "category": "New Perfumes",
+      "author": "Alyssa Ashley",
+      "published": 1792670068
+    },
     {
       "title": "Atelier Rebul — Majesté",
       "link": "https://www.fragrantica.com/perfume/Atelier-Rebul/Majeste-145689.html",
@@ -1432,174 +1600,6 @@
       "description": "New perfume listing: Vert Noir by Yadiy Hadini.",
       "category": "New Perfumes",
       "author": "Yadiy Hadini",
-      "published": 1792532288
-    },
-    {
-      "title": "Yadiy Hadini — Magnifig",
-      "link": "https://www.fragrantica.com/perfume/Yadiy-Hadini/Magnifig-145610.html",
-      "description": "New perfume listing: Magnifig by Yadiy Hadini.",
-      "category": "New Perfumes",
-      "author": "Yadiy Hadini",
-      "published": 1792532288
-    },
-    {
-      "title": "Karusll — Dewy Lychee",
-      "link": "https://www.fragrantica.com/perfume/Karusll/Dewy-Lychee-145609.html",
-      "description": "New perfume listing: Dewy Lychee by Karusll.",
-      "category": "New Perfumes",
-      "author": "Karusll",
-      "published": 1792532288
-    },
-    {
-      "title": "Yadiy Hadini — Crassna & Rose Otto",
-      "link": "https://www.fragrantica.com/perfume/Yadiy-Hadini/Crassna-Rose-Otto-145608.html",
-      "description": "New perfume listing: Crassna & Rose Otto by Yadiy Hadini.",
-      "category": "New Perfumes",
-      "author": "Yadiy Hadini",
-      "published": 1792532288
-    },
-    {
-      "title": "Karusll — Crunchy Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Karusll/Crunchy-Vanilla-145607.html",
-      "description": "New perfume listing: Crunchy Vanilla by Karusll.",
-      "category": "New Perfumes",
-      "author": "Karusll",
-      "published": 1792532288
-    },
-    {
-      "title": "Karusll — Golden Woods",
-      "link": "https://www.fragrantica.com/perfume/Karusll/Golden-Woods-145597.html",
-      "description": "New perfume listing: Golden Woods by Karusll.",
-      "category": "New Perfumes",
-      "author": "Karusll",
-      "published": 1792532288
-    },
-    {
-      "title": "Marie-Stella-Maris — No.12 Objets d'Amsterdam",
-      "link": "https://www.fragrantica.com/perfume/Marie-Stella-Maris/No-12-Objets-d-Amsterdam-145593.html",
-      "description": "New perfume listing: No.12 Objets d'Amsterdam by Marie-Stella-Maris.",
-      "category": "New Perfumes",
-      "author": "Marie-Stella-Maris",
-      "published": 1792532288
-    },
-    {
-      "title": "Tibhò — Corso Venezia",
-      "link": "https://www.fragrantica.com/perfume/Tibho/Corso-Venezia-145592.html",
-      "description": "New perfume listing: Corso Venezia by Tibhò.",
-      "category": "New Perfumes",
-      "author": "Tibhò",
-      "published": 1792532288
-    },
-    {
-      "title": "Tada Parfumeur — Sugidama",
-      "link": "https://www.fragrantica.com/perfume/Tada-Parfumeur/Sugidama-145584.html",
-      "description": "New perfume listing: Sugidama by Tada Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Tada Parfumeur",
-      "published": 1792532288
-    },
-    {
-      "title": "Boca Fragrances — Clove",
-      "link": "https://www.fragrantica.com/perfume/Boca-Fragrances/Clove-145583.html",
-      "description": "New perfume listing: Clove by Boca Fragrances.",
-      "category": "New Perfumes",
-      "author": "Boca Fragrances",
-      "published": 1792532288
-    },
-    {
-      "title": "Regalien — Sky",
-      "link": "https://www.fragrantica.com/perfume/Regalien/Sky-145582.html",
-      "description": "New perfume listing: Sky by Regalien.",
-      "category": "New Perfumes",
-      "author": "Regalien",
-      "published": 1792532288
-    },
-    {
-      "title": "FAAN — Amjad Honour",
-      "link": "https://www.fragrantica.com/perfume/FAAN/Amjad-Honour-145581.html",
-      "description": "New perfume listing: Amjad Honour by FAAN.",
-      "category": "New Perfumes",
-      "author": "FAAN",
-      "published": 1792532288
-    },
-    {
-      "title": "Tada Parfumeur — Iyokan",
-      "link": "https://www.fragrantica.com/perfume/Tada-Parfumeur/Iyokan-145580.html",
-      "description": "New perfume listing: Iyokan by Tada Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Tada Parfumeur",
-      "published": 1792532288
-    },
-    {
-      "title": "Scents of Wood — Black Mango - Vetiver",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-Wood/Black-Mango-Vetiver-145579.html",
-      "description": "New perfume listing: Black Mango - Vetiver by Scents of Wood.",
-      "category": "New Perfumes",
-      "author": "Scents of Wood",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — Oud Sellier",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/Oud-Sellier-145578.html",
-      "description": "New perfume listing: Oud Sellier by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — Vintage Powder",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/Vintage-Powder-145577.html",
-      "description": "New perfume listing: Vintage Powder by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — The Duke",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/The-Duke-145576.html",
-      "description": "New perfume listing: The Duke by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — The Duchess",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/The-Duchess-145575.html",
-      "description": "New perfume listing: The Duchess by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — Rebel Rose",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/Rebel-Rose-145574.html",
-      "description": "New perfume listing: Rebel Rose by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — Frozen Rose",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/Frozen-Rose-145573.html",
-      "description": "New perfume listing: Frozen Rose by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Po ONE — Fresh Lily",
-      "link": "https://www.fragrantica.com/perfume/Po-ONE/Fresh-Lily-145572.html",
-      "description": "New perfume listing: Fresh Lily by Po ONE.",
-      "category": "New Perfumes",
-      "author": "Po ONE",
-      "published": 1792532288
-    },
-    {
-      "title": "Mistum — Neo Lover",
-      "link": "https://www.fragrantica.com/perfume/Mistum/Neo-Lover-145571.html",
-      "description": "New perfume listing: Neo Lover by Mistum.",
-      "category": "New Perfumes",
-      "author": "Mistum",
       "published": 1792532288
     }
   ]
