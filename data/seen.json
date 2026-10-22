@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Bêtenoir: A New Brand Championing No-Limits Perfumery",
+      "link": "https://www.fragrantica.com/news/Betenoir-A-New-Brand-Championing-No-Limits-Perfumery-26417.html",
+      "description": "A bold new niche brand to discover soon!",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1792703780
+    },
+    {
+      "title": "New Wave by MERIT: Surrealist, Millenial, Amber",
+      "link": "https://www.fragrantica.com/news/New-Wave-by-MERIT-Surrealist-Millenial-Amber-26416.html",
+      "description": "A pitch-perfect amber for career-driven millennials, Surrealism lovers, artists, and the radical chic",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1792697403
+    },
+    {
+      "title": "New KAYALI: Yum Vanilla Cupcake | 108",
+      "link": "https://www.fragrantica.com/news/New-KAYALI-Yum-Vanilla-Cupcake-108-26415.html",
+      "description": "\"...not simply the scent of a vanilla cupcake, but everything that comes with it: the excitement, comfort and magic of celebration...\"",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1792689904
+    },
+    {
       "title": "A Review of Café Mémoire by Coreterno",
       "link": "https://www.fragrantica.com/news/A-Review-of-Cafe-Memoire-by-Coreterno-26414.html",
       "description": "Sliding into autumn with a sugar-laced latte",
@@ -19,7 +43,7 @@
     {
       "title": "Fragrantica’s Team Shares Their Impressions of Notes Shanghai 2026 Autumn Edition",
       "link": "https://www.fragrantica.com/news/Fragrantica-s-Team-Shares-Their-Impressions-of-Notes-Shanghai-2026-Autumn-Edition-26412.html",
-      "description": "Our writers take a closer look at the fragrances, creative minds, and emerging trends shaping the future of Asian...",
+      "description": "Our writers take a closer look at the fragrances, creative minds, and emerging trends shaping the future of Asian perfumery.",
       "category": "Fragrantica",
       "author": "Igor Masyukov,Andrei Lensky,Elena Prokofeva,Julia Lukyanenko,Maria Golovina,Eugene Ti",
       "published": 1792658343
@@ -775,33 +799,305 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1791734163
-    },
-    {
-      "title": "Perfumed Horoscope: October 12 - October 18",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-October-12-October-18-26317.html",
-      "description": "This New Moon week could bring new strategies.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1791726602
-    },
-    {
-      "title": "L:A Bruket’s Övernatur: An Emo Spa Filled With Trolls",
-      "link": "https://www.fragrantica.com/news/L-A-Bruket-s-OEvernatur-An-Emo-Spa-Filled-With-Trolls-26316.html",
-      "description": "Swedish spa brand famous for the scents of its skincare expands into a fragrance line and comes to the US.",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1791717783
-    },
-    {
-      "title": "Zenith by Riiffs Perfumes: A Review",
-      "link": "https://www.fragrantica.com/news/Zenith-by-Riiffs-Perfumes-A-Review-26315.html",
-      "description": "The zenith of persistence, sweetness and powderiness.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1791706982
     }
   ],
   "perfumes": [
+    {
+      "title": "Ahmed Al Maghribi — Pink Daisy",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Pink-Daisy-145784.html",
+      "description": "New perfume listing: Pink Daisy by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1792705014
+    },
+    {
+      "title": "Osaji — CALM MOSS",
+      "link": "https://www.fragrantica.com/perfume/Osaji/CALM-MOSS-145783.html",
+      "description": "New perfume listing: CALM MOSS by Osaji.",
+      "category": "New Perfumes",
+      "author": "Osaji",
+      "published": 1792705014
+    },
+    {
+      "title": "Osaji — Poise Amber",
+      "link": "https://www.fragrantica.com/perfume/Osaji/Poise-Amber-145782.html",
+      "description": "New perfume listing: Poise Amber by Osaji.",
+      "category": "New Perfumes",
+      "author": "Osaji",
+      "published": 1792705014
+    },
+    {
+      "title": "Osaji — DAWN ROSE",
+      "link": "https://www.fragrantica.com/perfume/Osaji/DAWN-ROSE-145781.html",
+      "description": "New perfume listing: DAWN ROSE by Osaji.",
+      "category": "New Perfumes",
+      "author": "Osaji",
+      "published": 1792705014
+    },
+    {
+      "title": "Ahmed Al Maghribi — Tropical Wave",
+      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Tropical-Wave-145778.html",
+      "description": "New perfume listing: Tropical Wave by Ahmed Al Maghribi.",
+      "category": "New Perfumes",
+      "author": "Ahmed Al Maghribi",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Ombra Leather",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Ombra-Leather-145776.html",
+      "description": "New perfume listing: Luxury Ombra Leather by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Tutut",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Tutut-145775.html",
+      "description": "New perfume listing: Luxury Tutut by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Throne Amberite",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Amberite-145774.html",
+      "description": "New perfume listing: Luxury Throne Amberite by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Throne Onyx",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Onyx-145773.html",
+      "description": "New perfume listing: Luxury Throne Onyx by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Throne Onyx",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Onyx-145772.html",
+      "description": "New perfume listing: Luxury Throne Onyx by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Only Nomade",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Only-Nomade-145771.html",
+      "description": "New perfume listing: Luxury Only Nomade by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Meteora",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Meteora-145770.html",
+      "description": "New perfume listing: Luxury Meteora by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Vibrate",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Vibrate-145769.html",
+      "description": "New perfume listing: Luxury Vibrate by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Adore Homme",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Adore-Homme-145768.html",
+      "description": "New perfume listing: Luxury Adore Homme by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Di Gio",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Di-Gio-145767.html",
+      "description": "New perfume listing: Luxury Di Gio by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Bharara — Rohit Verde",
+      "link": "https://www.fragrantica.com/perfume/Bharara/Rohit-Verde-145766.html",
+      "description": "New perfume listing: Rohit Verde by Bharara.",
+      "category": "New Perfumes",
+      "author": "Bharara",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Ladies Intrigue",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Ladies-Intrigue-145765.html",
+      "description": "New perfume listing: Luxury Ladies Intrigue by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Flora Fabulous Jasmine",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Flora-Fabulous-Jasmine-145764.html",
+      "description": "New perfume listing: Luxury Flora Fabulous Jasmine by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Flora Fabulous Garden Intense",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Flora-Fabulous-Garden-Intense-145763.html",
+      "description": "New perfume listing: Luxury Flora Fabulous Garden Intense by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Flora Fabulous Magnolia",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Flora-Fabulous-Magnolia-145762.html",
+      "description": "New perfume listing: Luxury Flora Fabulous Magnolia by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Flora Fabulous Garden",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Flora-Fabulous-Garden-145761.html",
+      "description": "New perfume listing: Luxury Flora Fabulous Garden by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Shine Crystal",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Shine-Crystal-145760.html",
+      "description": "New perfume listing: Luxury Shine Crystal by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Incento Shine",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Incento-Shine-145759.html",
+      "description": "New perfume listing: Luxury Incento Shine by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Nusuk — Salwa",
+      "link": "https://www.fragrantica.com/perfume/Nusuk/Salwa-145758.html",
+      "description": "New perfume listing: Salwa by Nusuk.",
+      "category": "New Perfumes",
+      "author": "Nusuk",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Vertus Absolu",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Vertus-Absolu-145757.html",
+      "description": "New perfume listing: Luxury Vertus Absolu by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Vertus",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Vertus-145756.html",
+      "description": "New perfume listing: Luxury Vertus by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Bleu de Luxury",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Bleu-de-Luxury-145755.html",
+      "description": "New perfume listing: Luxury Bleu de Luxury by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Rayhaan — Vanilla Vibe",
+      "link": "https://www.fragrantica.com/perfume/Rayhaan/Vanilla-Vibe-145754.html",
+      "description": "New perfume listing: Vanilla Vibe by Rayhaan.",
+      "category": "New Perfumes",
+      "author": "Rayhaan",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Light Blue",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Light-Blue-145753.html",
+      "description": "New perfume listing: Luxury Light Blue by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury NY Way",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-NY-Way-145752.html",
+      "description": "New perfume listing: Luxury NY Way by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Luxury Perfumes — Luxury Very Nice Night",
+      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Very-Nice-Night-145749.html",
+      "description": "New perfume listing: Luxury Very Nice Night by Luxury Perfumes.",
+      "category": "New Perfumes",
+      "author": "Luxury Perfumes",
+      "published": 1792705014
+    },
+    {
+      "title": "Miss Flora — Rose",
+      "link": "https://www.fragrantica.com/perfume/Miss-Flora/Rose-145787.html",
+      "description": "New perfume listing: Rose by Miss Flora.",
+      "category": "New Perfumes",
+      "author": "Miss Flora",
+      "published": 1792705014
+    },
+    {
+      "title": "Miss Flora — Almond",
+      "link": "https://www.fragrantica.com/perfume/Miss-Flora/Almond-145786.html",
+      "description": "New perfume listing: Almond by Miss Flora.",
+      "category": "New Perfumes",
+      "author": "Miss Flora",
+      "published": 1792705014
+    },
+    {
+      "title": "Miss Flora — Orange Blossom",
+      "link": "https://www.fragrantica.com/perfume/Miss-Flora/Orange-Blossom-145785.html",
+      "description": "New perfume listing: Orange Blossom by Miss Flora.",
+      "category": "New Perfumes",
+      "author": "Miss Flora",
+      "published": 1792705014
+    },
+    {
+      "title": "Volaré — Layali Amber Lychee",
+      "link": "https://www.fragrantica.com/perfume/Volare/Layali-Amber-Lychee-145780.html",
+      "description": "New perfume listing: Layali Amber Lychee by Volaré.",
+      "category": "New Perfumes",
+      "author": "Volaré",
+      "published": 1792705014
+    },
+    {
+      "title": "Volaré — Layali Classic Pistachio",
+      "link": "https://www.fragrantica.com/perfume/Volare/Layali-Classic-Pistachio-145779.html",
+      "description": "New perfume listing: Layali Classic Pistachio by Volaré.",
+      "category": "New Perfumes",
+      "author": "Volaré",
+      "published": 1792705014
+    },
+    {
+      "title": "Volaré — Layali Oud Blend",
+      "link": "https://www.fragrantica.com/perfume/Volare/Layali-Oud-Blend-145777.html",
+      "description": "New perfume listing: Layali Oud Blend by Volaré.",
+      "category": "New Perfumes",
+      "author": "Volaré",
+      "published": 1792705014
+    },
     {
       "title": "Fateeh Luxury — Luxury Light Blue",
       "link": "https://www.fragrantica.com/perfume/Fateeh-Luxury/Luxury-Light-Blue-145753.html",
@@ -1305,302 +1601,6 @@
       "category": "New Perfumes",
       "author": "Hetkinen",
       "published": 1792670068
-    },
-    {
-      "title": "Hetkinen — Obsid Ember",
-      "link": "https://www.fragrantica.com/perfume/Hetkinen/Obsid-Ember-145605.html",
-      "description": "New perfume listing: Obsid Ember by Hetkinen.",
-      "category": "New Perfumes",
-      "author": "Hetkinen",
-      "published": 1792670068
-    },
-    {
-      "title": "Alyssa Ashley — Oud Patchouli",
-      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Oud-Patchouli-145604.html",
-      "description": "New perfume listing: Oud Patchouli by Alyssa Ashley.",
-      "category": "New Perfumes",
-      "author": "Alyssa Ashley",
-      "published": 1792670068
-    },
-    {
-      "title": "Alyssa Ashley — Ambre Blanc",
-      "link": "https://www.fragrantica.com/perfume/Alyssa-Ashley/Ambre-Blanc-145603.html",
-      "description": "New perfume listing: Ambre Blanc by Alyssa Ashley.",
-      "category": "New Perfumes",
-      "author": "Alyssa Ashley",
-      "published": 1792670068
-    },
-    {
-      "title": "Atelier Rebul — Majesté",
-      "link": "https://www.fragrantica.com/perfume/Atelier-Rebul/Majeste-145689.html",
-      "description": "New perfume listing: Majesté by Atelier Rebul.",
-      "category": "New Perfumes",
-      "author": "Atelier Rebul",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — God's Chillin'",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/God-s-Chillin-145688.html",
-      "description": "New perfume listing: God's Chillin' by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792644524
-    },
-    {
-      "title": "Maison Alhambra — Last Night in Miami",
-      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Last-Night-in-Miami-145687.html",
-      "description": "New perfume listing: Last Night in Miami by Maison Alhambra.",
-      "category": "New Perfumes",
-      "author": "Maison Alhambra",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — Lovemonger",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Lovemonger-145686.html",
-      "description": "New perfume listing: Lovemonger by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792644524
-    },
-    {
-      "title": "Barbour’s Beauty — Tropic Sun",
-      "link": "https://www.fragrantica.com/perfume/Barbour-s-Beauty/Tropic-Sun-145685.html",
-      "description": "New perfume listing: Tropic Sun by Barbour’s Beauty.",
-      "category": "New Perfumes",
-      "author": "Barbour’s Beauty",
-      "published": 1792644524
-    },
-    {
-      "title": "Tha Beauty — London Eye",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/London-Eye-145684.html",
-      "description": "New perfume listing: London Eye by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1792644524
-    },
-    {
-      "title": "Tha Beauty — Big Ben",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Big-Ben-145683.html",
-      "description": "New perfume listing: Big Ben by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — On The Rocks",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/On-The-Rocks-145682.html",
-      "description": "New perfume listing: On The Rocks by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792644524
-    },
-    {
-      "title": "Tha Beauty — Tower Bridge",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Tower-Bridge-145681.html",
-      "description": "New perfume listing: Tower Bridge by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1792644524
-    },
-    {
-      "title": "Tha Beauty — Queen",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Queen-145680.html",
-      "description": "New perfume listing: Queen by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — Memories",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Memories-145679.html",
-      "description": "New perfume listing: Memories by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — Brululu",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Brululu-145678.html",
-      "description": "New perfume listing: Brululu by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792644524
-    },
-    {
-      "title": "Kayali Fragrances — Yum Vanilla Cupcake | 108",
-      "link": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Yum-Vanilla-Cupcake-108-145677.html",
-      "description": "New perfume listing: Yum Vanilla Cupcake | 108 by Kayali Fragrances.",
-      "category": "New Perfumes",
-      "author": "Kayali Fragrances",
-      "published": 1792644524
-    },
-    {
-      "title": "Kappa — Forte",
-      "link": "https://www.fragrantica.com/perfume/Kappa/Forte-145676.html",
-      "description": "New perfume listing: Forte by Kappa.",
-      "category": "New Perfumes",
-      "author": "Kappa",
-      "published": 1792644524
-    },
-    {
-      "title": "Alendor Perfumes — The Lady On The Train",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/The-Lady-On-The-Train-145675.html",
-      "description": "New perfume listing: The Lady On The Train by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792619016
-    },
-    {
-      "title": "Mizensir — Bright Wood",
-      "link": "https://www.fragrantica.com/perfume/Mizensir/Bright-Wood-145674.html",
-      "description": "New perfume listing: Bright Wood by Mizensir.",
-      "category": "New Perfumes",
-      "author": "Mizensir",
-      "published": 1792619016
-    },
-    {
-      "title": "Alendor Perfumes — Softcore",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Softcore-145673.html",
-      "description": "New perfume listing: Softcore by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792619016
-    },
-    {
-      "title": "Alendor Perfumes — Golden Pear",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Golden-Pear-145672.html",
-      "description": "New perfume listing: Golden Pear by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792619016
-    },
-    {
-      "title": "Floris — 1676",
-      "link": "https://www.fragrantica.com/perfume/Floris/1676-145671.html",
-      "description": "New perfume listing: 1676 by Floris.",
-      "category": "New Perfumes",
-      "author": "Floris",
-      "published": 1792619016
-    },
-    {
-      "title": "Alendor Perfumes — Tanghulu",
-      "link": "https://www.fragrantica.com/perfume/Alendor-Perfumes/Tanghulu-145670.html",
-      "description": "New perfume listing: Tanghulu by Alendor Perfumes.",
-      "category": "New Perfumes",
-      "author": "Alendor Perfumes",
-      "published": 1792619016
-    },
-    {
-      "title": "Memo Paris — Adare",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Adare-145669.html",
-      "description": "New perfume listing: Adare by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1792619016
-    },
-    {
-      "title": "O Boticário — Body Splash L'eau de Lily Soleil",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Body-Splash-L-eau-de-Lily-Soleil-145668.html",
-      "description": "New perfume listing: Body Splash L'eau de Lily Soleil by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1792619016
-    },
-    {
-      "title": "O Boticário — Cuide-se Bem Acerola e Vai",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Cuide-se-Bem-Acerola-e-Vai-145667.html",
-      "description": "New perfume listing: Cuide-se Bem Acerola e Vai by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1792619016
-    },
-    {
-      "title": "Hinode — Oh My Bee Vanilla Powder",
-      "link": "https://www.fragrantica.com/perfume/Hinode/Oh-My-Bee-Vanilla-Powder-145666.html",
-      "description": "New perfume listing: Oh My Bee Vanilla Powder by Hinode.",
-      "category": "New Perfumes",
-      "author": "Hinode",
-      "published": 1792619016
-    },
-    {
-      "title": "Natura — Humor Conexão",
-      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Conexao-145665.html",
-      "description": "New perfume listing: Humor Conexão by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1792619016
-    },
-    {
-      "title": "Natura — Humor Beija Eu",
-      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Beija-Eu-145664.html",
-      "description": "New perfume listing: Humor Beija Eu by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1792619016
-    },
-    {
-      "title": "Natura — Humor Me Beija",
-      "link": "https://www.fragrantica.com/perfume/Natura/Humor-Me-Beija-145663.html",
-      "description": "New perfume listing: Humor Me Beija by Natura.",
-      "category": "New Perfumes",
-      "author": "Natura",
-      "published": 1792619016
-    },
-    {
-      "title": "Mawwal Arabia — Lin",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Lin-145662.html",
-      "description": "New perfume listing: Lin by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1792619016
-    },
-    {
-      "title": "Mawwal Arabia — Wafaa",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Wafaa-145661.html",
-      "description": "New perfume listing: Wafaa by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1792619016
-    },
-    {
-      "title": "Mawwal Arabia — Exir",
-      "link": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Exir-145660.html",
-      "description": "New perfume listing: Exir by Mawwal Arabia.",
-      "category": "New Perfumes",
-      "author": "Mawwal Arabia",
-      "published": 1792619016
-    },
-    {
-      "title": "Royal Crown — Nima",
-      "link": "https://www.fragrantica.com/perfume/Royal-Crown/Nima-145659.html",
-      "description": "New perfume listing: Nima by Royal Crown.",
-      "category": "New Perfumes",
-      "author": "Royal Crown",
-      "published": 1792619016
-    },
-    {
-      "title": "Bêtenoir — Souverain",
-      "link": "https://www.fragrantica.com/perfume/Betenoir/Souverain-145658.html",
-      "description": "New perfume listing: Souverain by Bêtenoir.",
-      "category": "New Perfumes",
-      "author": "Bêtenoir",
-      "published": 1792602820
-    },
-    {
-      "title": "Bêtenoir — Drama",
-      "link": "https://www.fragrantica.com/perfume/Betenoir/Drama-145657.html",
-      "description": "New perfume listing: Drama by Bêtenoir.",
-      "category": "New Perfumes",
-      "author": "Bêtenoir",
-      "published": 1792602820
-    },
-    {
-      "title": "Bêtenoir — Offline",
-      "link": "https://www.fragrantica.com/perfume/Betenoir/Offline-145656.html",
-      "description": "New perfume listing: Offline by Bêtenoir.",
-      "category": "New Perfumes",
-      "author": "Bêtenoir",
-      "published": 1792602820
     }
   ]
 }
