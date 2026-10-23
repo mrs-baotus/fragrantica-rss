@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Dove Original Fragrance",
+      "link": "https://www.fragrantica.com/news/Dove-Original-Fragrance-26422.html",
+      "description": "Dove turns its Original Beauty Bar scent into a limited-edition Eau de Parfum.",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1792771683
+    },
+    {
+      "title": "Second Toouch Collection, Innocent Skin Perfume",
+      "link": "https://www.fragrantica.com/news/Second-Touch-Innocent-Skin-Perfume-26421.html",
+      "description": "Everyone has memories of an innocent, happy childhood.",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1792756442
+    },
+    {
       "title": "Meo Fusciuni Launches Istituto dell’Odore. An Interview",
       "link": "https://www.fragrantica.com/news/Meo-Fusciuni-Launches-Istituto-dell-Odore-An-Interview-26420.html",
       "description": "David Lynch, Banana Circus, Berlin, and many more in a new — surprising — project by Meo Fusciuni, in his own words.",
@@ -783,25 +799,185 @@
       "category": "Fragrance Reviews",
       "author": "Jernê Knowles",
       "published": 1791764163
-    },
-    {
-      "title": "ānti Plastic Love: A Glamourous Take on Bubblegum (US Exclusive)",
-      "link": "https://www.fragrantica.com/news/anti-Plastic-Love-A-Glamourous-Take-on-Bubblegum-US-Exclusive-26322.html",
-      "description": "Bubblegum glam and the neon night in furs. This time, we’re setting the clock—and the mood—to 1984.",
-      "category": "Niche Perfumes",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791757143
-    },
-    {
-      "title": "Diorling DIOR (2026)",
-      "link": "https://www.fragrantica.com/news/Diorling-DIOR-2026-26321.html",
-      "description": "A green leather chypre.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1791747436
     }
   ],
   "perfumes": [
+    {
+      "title": "Brown Girl Jane — Barbie Encore",
+      "link": "https://www.fragrantica.com/perfume/Brown-Girl-Jane/Barbie-Encore-145896.html",
+      "description": "New perfume listing: Barbie Encore by Brown Girl Jane.",
+      "category": "New Perfumes",
+      "author": "Brown Girl Jane",
+      "published": 1792775318
+    },
+    {
+      "title": "Layel Paris — Silky Star",
+      "link": "https://www.fragrantica.com/perfume/Layel-Paris/Silky-Star-145895.html",
+      "description": "New perfume listing: Silky Star by Layel Paris.",
+      "category": "New Perfumes",
+      "author": "Layel Paris",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 21-12 | Maboroshi 幻",
+      "link": "https://www.fragrantica.com/perfume/canoma/21-12-Maboroshi-huan-145894.html",
+      "description": "New perfume listing: 21-12 | Maboroshi 幻 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 12-11 | Yuugiri 夕霧",
+      "link": "https://www.fragrantica.com/perfume/canoma/12-11-Yuugiri-xi-wu-145893.html",
+      "description": "New perfume listing: 12-11 | Yuugiri 夕霧 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "Neve di Bormio — Gavia",
+      "link": "https://www.fragrantica.com/perfume/Neve-di-Bormio/Gavia-145889.html",
+      "description": "New perfume listing: Gavia by Neve di Bormio.",
+      "category": "New Perfumes",
+      "author": "Neve di Bormio",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Haya",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Haya-145887.html",
+      "description": "New perfume listing: Haya by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Ishq",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Ishq-145886.html",
+      "description": "New perfume listing: Ishq by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Barakah",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Barakah-145885.html",
+      "description": "New perfume listing: Barakah by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Rahma",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Rahma-145884.html",
+      "description": "New perfume listing: Rahma by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Sharf",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Sharf-145883.html",
+      "description": "New perfume listing: Sharf by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Imbraturah",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Imbraturah-145882.html",
+      "description": "New perfume listing: Imbraturah by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Rasasi Exclusive — Imbratur",
+      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Imbratur-145881.html",
+      "description": "New perfume listing: Imbratur by Rasasi Exclusive.",
+      "category": "New Perfumes",
+      "author": "Rasasi Exclusive",
+      "published": 1792775318
+    },
+    {
+      "title": "Dove — Dove Original",
+      "link": "https://www.fragrantica.com/perfume/Dove/Dove-Original-145876.html",
+      "description": "New perfume listing: Dove Original by Dove.",
+      "category": "New Perfumes",
+      "author": "Dove",
+      "published": 1792775318
+    },
+    {
+      "title": "Kayali Fragrances — Yum Vanilla Cupcake | 108 Limited Edition",
+      "link": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Yum-Vanilla-Cupcake-108-Limited-Edition-145875.html",
+      "description": "New perfume listing: Yum Vanilla Cupcake | 108 Limited Edition by Kayali Fragrances.",
+      "category": "New Perfumes",
+      "author": "Kayali Fragrances",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 10-20 | 蜻蛉 Kagerou",
+      "link": "https://www.fragrantica.com/perfume/canoma/10-20-qing-ling-Kagerou-145892.html",
+      "description": "New perfume listing: 10-20 | 蜻蛉 Kagerou by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 8-17 | Matsukaze Limited Edition 松風",
+      "link": "https://www.fragrantica.com/perfume/canoma/8-17-Matsukaze-Limited-Edition-song-feng-145891.html",
+      "description": "New perfume listing: 8-17 | Matsukaze Limited Edition 松風 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 8-17 | Matsukaze 松風",
+      "link": "https://www.fragrantica.com/perfume/canoma/8-17-Matsukaze-song-feng-145890.html",
+      "description": "New perfume listing: 8-17 | Matsukaze 松風 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 7-18 | Ukihune Limited Edition 浮舟 限定ボトル",
+      "link": "https://www.fragrantica.com/perfume/canoma/7-18-Ukihune-Limited-Edition-fu-zhou-xian-dingbotoru-145888.html",
+      "description": "New perfume listing: 7-18 | Ukihune Limited Edition 浮舟 限定ボトル by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 7-18 | Ukihune 浮舟",
+      "link": "https://www.fragrantica.com/perfume/canoma/7-18-Ukihune-fu-zhou-145880.html",
+      "description": "New perfume listing: 7-18 | Ukihune 浮舟 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 4-10 | Otome 乙女",
+      "link": "https://www.fragrantica.com/perfume/canoma/4-10-Otome-yi-nu-145879.html",
+      "description": "New perfume listing: 4-10 | Otome 乙女 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 3-17 | Sawarabi 早蕨",
+      "link": "https://www.fragrantica.com/perfume/canoma/3-17-Sawarabi-zao-jue-145878.html",
+      "description": "New perfume listing: 3-17 | Sawarabi 早蕨 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
+    {
+      "title": "çanoma — 2-23 | Kocho 胡蝶",
+      "link": "https://www.fragrantica.com/perfume/canoma/2-23-Kocho-hu-die-145877.html",
+      "description": "New perfume listing: 2-23 | Kocho 胡蝶 by çanoma.",
+      "category": "New Perfumes",
+      "author": "çanoma",
+      "published": 1792775318
+    },
     {
       "title": "Phlur — Heavy Cream",
       "link": "https://www.fragrantica.com/perfume/Phlur/Heavy-Cream-145873.html",
@@ -1425,182 +1601,6 @@
       "category": "New Perfumes",
       "author": "Salvatore Ferragamo",
       "published": 1792731079
-    },
-    {
-      "title": "Yours Truly Perfumes — Post Oak Baby",
-      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Post-Oak-Baby-145792.html",
-      "description": "New perfume listing: Post Oak Baby by Yours Truly Perfumes.",
-      "category": "New Perfumes",
-      "author": "Yours Truly Perfumes",
-      "published": 1792731079
-    },
-    {
-      "title": "Salvatore Ferragamo — Cupola",
-      "link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Cupola-145791.html",
-      "description": "New perfume listing: Cupola by Salvatore Ferragamo.",
-      "category": "New Perfumes",
-      "author": "Salvatore Ferragamo",
-      "published": 1792731079
-    },
-    {
-      "title": "Salvatore Ferragamo — Bellezza",
-      "link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Bellezza-145790.html",
-      "description": "New perfume listing: Bellezza by Salvatore Ferragamo.",
-      "category": "New Perfumes",
-      "author": "Salvatore Ferragamo",
-      "published": 1792731079
-    },
-    {
-      "title": "Salvatore Ferragamo — Arte",
-      "link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Arte-145789.html",
-      "description": "New perfume listing: Arte by Salvatore Ferragamo.",
-      "category": "New Perfumes",
-      "author": "Salvatore Ferragamo",
-      "published": 1792731079
-    },
-    {
-      "title": "Bibbi Paris — House of Arthur",
-      "link": "https://www.fragrantica.com/perfume/Bibbi-Paris/House-of-Arthur-145788.html",
-      "description": "New perfume listing: House of Arthur by Bibbi Paris.",
-      "category": "New Perfumes",
-      "author": "Bibbi Paris",
-      "published": 1792731079
-    },
-    {
-      "title": "Ahmed Al Maghribi — Pink Daisy",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Pink-Daisy-145784.html",
-      "description": "New perfume listing: Pink Daisy by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1792705014
-    },
-    {
-      "title": "Osaji — CALM MOSS",
-      "link": "https://www.fragrantica.com/perfume/Osaji/CALM-MOSS-145783.html",
-      "description": "New perfume listing: CALM MOSS by Osaji.",
-      "category": "New Perfumes",
-      "author": "Osaji",
-      "published": 1792705014
-    },
-    {
-      "title": "Osaji — Poise Amber",
-      "link": "https://www.fragrantica.com/perfume/Osaji/Poise-Amber-145782.html",
-      "description": "New perfume listing: Poise Amber by Osaji.",
-      "category": "New Perfumes",
-      "author": "Osaji",
-      "published": 1792705014
-    },
-    {
-      "title": "Osaji — DAWN ROSE",
-      "link": "https://www.fragrantica.com/perfume/Osaji/DAWN-ROSE-145781.html",
-      "description": "New perfume listing: DAWN ROSE by Osaji.",
-      "category": "New Perfumes",
-      "author": "Osaji",
-      "published": 1792705014
-    },
-    {
-      "title": "Ahmed Al Maghribi — Tropical Wave",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Tropical-Wave-145778.html",
-      "description": "New perfume listing: Tropical Wave by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Ombra Leather",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Ombra-Leather-145776.html",
-      "description": "New perfume listing: Luxury Ombra Leather by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Tutut",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Tutut-145775.html",
-      "description": "New perfume listing: Luxury Tutut by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Throne Amberite",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Amberite-145774.html",
-      "description": "New perfume listing: Luxury Throne Amberite by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Throne Onyx",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Onyx-145773.html",
-      "description": "New perfume listing: Luxury Throne Onyx by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Throne Onyx",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Throne-Onyx-145772.html",
-      "description": "New perfume listing: Luxury Throne Onyx by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Only Nomade",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Only-Nomade-145771.html",
-      "description": "New perfume listing: Luxury Only Nomade by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Meteora",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Meteora-145770.html",
-      "description": "New perfume listing: Luxury Meteora by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Vibrate",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Vibrate-145769.html",
-      "description": "New perfume listing: Luxury Vibrate by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Adore Homme",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Adore-Homme-145768.html",
-      "description": "New perfume listing: Luxury Adore Homme by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Di Gio",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Di-Gio-145767.html",
-      "description": "New perfume listing: Luxury Di Gio by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
-    },
-    {
-      "title": "Bharara — Rohit Verde",
-      "link": "https://www.fragrantica.com/perfume/Bharara/Rohit-Verde-145766.html",
-      "description": "New perfume listing: Rohit Verde by Bharara.",
-      "category": "New Perfumes",
-      "author": "Bharara",
-      "published": 1792705014
-    },
-    {
-      "title": "Luxury Perfumes — Luxury Ladies Intrigue",
-      "link": "https://www.fragrantica.com/perfume/Luxury-Perfumes/Luxury-Ladies-Intrigue-145765.html",
-      "description": "New perfume listing: Luxury Ladies Intrigue by Luxury Perfumes.",
-      "category": "New Perfumes",
-      "author": "Luxury Perfumes",
-      "published": 1792705014
     }
   ]
 }
