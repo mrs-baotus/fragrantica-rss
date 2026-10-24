@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "La Serra Narcissistic Iris: Ombré Leather With Narcissus",
+      "link": "https://www.fragrantica.com/news/La-Serra-Narcissistic-Iris-Ombre-Leather-With-Narcissus-26426.html",
+      "description": "Warm, spicy, waxy, leathery.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1792804023
+    },
+    {
       "title": "Dune Pour Homme DIOR Review",
       "link": "https://www.fragrantica.com/news/Dune-Pour-Homme-DIOR-Review-26425.html",
       "description": "The scent of a Mediterranean getaway.",
@@ -791,17 +799,33 @@
       "category": "Fragrance News",
       "author": "Sandra Raičević Petrović",
       "published": 1791801963
-    },
-    {
-      "title": "Borderless Perfumer's Journey: A Tribute to Generosity of Spirit",
-      "link": "https://www.fragrantica.com/news/Borderless-Perfumer-s-Journey-A-Tribute-to-Generosity-of-Spirit-26326.html",
-      "description": "A fragrance from Thailand reminding us that human compassion has no borders.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1791794703
     }
   ],
   "perfumes": [
+    {
+      "title": "The Spirit of Dubai — Hadhara",
+      "link": "https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Hadhara-145899.html",
+      "description": "New perfume listing: Hadhara by The Spirit of Dubai.",
+      "category": "New Perfumes",
+      "author": "The Spirit of Dubai",
+      "published": 1792816688
+    },
+    {
+      "title": "Birkholz — Secret Soul",
+      "link": "https://www.fragrantica.com/perfume/Birkholz/Secret-Soul-145898.html",
+      "description": "New perfume listing: Secret Soul by Birkholz.",
+      "category": "New Perfumes",
+      "author": "Birkholz",
+      "published": 1792816688
+    },
+    {
+      "title": "Birkholz — Berlin 33",
+      "link": "https://www.fragrantica.com/perfume/Birkholz/Berlin-33-145897.html",
+      "description": "New perfume listing: Berlin 33 by Birkholz.",
+      "category": "New Perfumes",
+      "author": "Birkholz",
+      "published": 1792816688
+    },
     {
       "title": "Brown Girl Jane — Barbie Encore",
       "link": "https://www.fragrantica.com/perfume/Brown-Girl-Jane/Barbie-Encore-145896.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Santa Cruz Confidential by Yours Truly Perfumes.",
       "category": "New Perfumes",
       "author": "Yours Truly Perfumes",
-      "published": 1792731079
-    },
-    {
-      "title": "Yours Truly Perfumes — Don't Be Basic",
-      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Don-t-Be-Basic-145795.html",
-      "description": "New perfume listing: Don't Be Basic by Yours Truly Perfumes.",
-      "category": "New Perfumes",
-      "author": "Yours Truly Perfumes",
-      "published": 1792731079
-    },
-    {
-      "title": "Salvatore Ferragamo — Palazzo",
-      "link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Palazzo-145794.html",
-      "description": "New perfume listing: Palazzo by Salvatore Ferragamo.",
-      "category": "New Perfumes",
-      "author": "Salvatore Ferragamo",
-      "published": 1792731079
-    },
-    {
-      "title": "Salvatore Ferragamo — Hollywood",
-      "link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Hollywood-145793.html",
-      "description": "New perfume listing: Hollywood by Salvatore Ferragamo.",
-      "category": "New Perfumes",
-      "author": "Salvatore Ferragamo",
       "published": 1792731079
     }
   ]
