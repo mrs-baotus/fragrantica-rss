@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Notes Shanghai Autumn 2026: My Personal Highlights and Impressions",
+      "link": "https://www.fragrantica.com/news/Notes-Shanghai-Autumn-2026-My-Personal-Highlights-and-Impressions-26428.html",
+      "description": "Julia Lukyanenko shares her impressions.",
+      "category": "Fragrance Reviews",
+      "author": "Julia Lukyanenko",
+      "published": 1792833782
+    },
+    {
+      "title": "The Perfumes We Want to Wear This Autumn: Part 4",
+      "link": "https://www.fragrantica.com/news/The-Perfumes-We-Want-to-Wear-This-Autumn-Part-4-26427.html",
+      "description": "In Part 4, the final of our series of autumn perfumes, Fragrantica's writers wrap up their choices of autumn fragrances as we sail fully into the chilly season.",
+      "category": "Best in Show",
+      "author": "John Biebel,Tyrvasia Argyraki,Edie Smith,Rouu Abd El-Latif",
+      "published": 1792816983
+    },
+    {
       "title": "La Serra Narcissistic Iris: Ombré Leather With Narcissus",
       "link": "https://www.fragrantica.com/news/La-Serra-Narcissistic-Iris-Ombre-Leather-With-Narcissus-26426.html",
       "description": "Warm, spicy, waxy, leathery.",
@@ -783,25 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Igor Masyukov",
       "published": 1791815427
-    },
-    {
-      "title": "RITUALS EXPRESS - Premium Advent Calendar for 2026",
-      "link": "https://www.fragrantica.com/news/RITUALS-EXPRESS-Premium-Advent-Calendar-for-2026-26328.html",
-      "description": "All aboard a festive countdown in 24 stops.",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791808503
-    },
-    {
-      "title": "CASAMORATI 1888 Wonderland Carousel Advent Calendar",
-      "link": "https://www.fragrantica.com/news/CASAMORATI-1888-Wonderland-Carousel-Advent-Calendar-26327.html",
-      "description": "Casamorati Introduces Wonderland Carousel, Its First Advent Calendar",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791801963
     }
   ],
   "perfumes": [
+    {
+      "title": "Mirisanno Parfums — Rice and Shine",
+      "link": "https://www.fragrantica.com/perfume/Mirisanno-Parfums/Rice-and-Shine-145902.html",
+      "description": "New perfume listing: Rice and Shine by Mirisanno Parfums.",
+      "category": "New Perfumes",
+      "author": "Mirisanno Parfums",
+      "published": 1792839755
+    },
+    {
+      "title": "Gianfranco Ferre — GF Midnight Pour Signature",
+      "link": "https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Midnight-Pour-Signature-145901.html",
+      "description": "New perfume listing: GF Midnight Pour Signature by Gianfranco Ferre.",
+      "category": "New Perfumes",
+      "author": "Gianfranco Ferre",
+      "published": 1792839755
+    },
+    {
+      "title": "Gianfranco Ferre — GF Absolute Oud",
+      "link": "https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Absolute-Oud-145900.html",
+      "description": "New perfume listing: GF Absolute Oud by Gianfranco Ferre.",
+      "category": "New Perfumes",
+      "author": "Gianfranco Ferre",
+      "published": 1792839755
+    },
     {
       "title": "The Spirit of Dubai — Hadhara",
       "link": "https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Hadhara-145899.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Studio by Salvatore Ferragamo.",
       "category": "New Perfumes",
       "author": "Salvatore Ferragamo",
-      "published": 1792731079
-    },
-    {
-      "title": "Yours Truly Perfumes — 832",
-      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/832-145798.html",
-      "description": "New perfume listing: 832 by Yours Truly Perfumes.",
-      "category": "New Perfumes",
-      "author": "Yours Truly Perfumes",
-      "published": 1792731079
-    },
-    {
-      "title": "Yours Truly Perfumes — The Wave",
-      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/The-Wave-145797.html",
-      "description": "New perfume listing: The Wave by Yours Truly Perfumes.",
-      "category": "New Perfumes",
-      "author": "Yours Truly Perfumes",
-      "published": 1792731079
-    },
-    {
-      "title": "Yours Truly Perfumes — Santa Cruz Confidential",
-      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Santa-Cruz-Confidential-145796.html",
-      "description": "New perfume listing: Santa Cruz Confidential by Yours Truly Perfumes.",
-      "category": "New Perfumes",
-      "author": "Yours Truly Perfumes",
       "published": 1792731079
     }
   ]
