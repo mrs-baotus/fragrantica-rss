@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Floraïku Paris Launch Harrods Exclusive",
+      "link": "https://www.fragrantica.com/news/Floraiku-Paris-Launch-Harrods-Exclusive-26436.html",
+      "description": "Opening Night is only available from Harrods and Floraïku online",
+      "category": "New Fragrances",
+      "author": "Nicola Thomis",
+      "published": 1792935183
+    },
+    {
       "title": "My Shanghai",
       "link": "https://www.fragrantica.com/news/My-Shanghai-26435.html",
       "description": "First impressions of the city and Notes Shanghai.",
@@ -791,17 +799,145 @@
       "category": "Fragrance News",
       "author": "Sandra Raičević Petrović",
       "published": 1791867603
-    },
-    {
-      "title": "Pitti Fragranze’s Big Idea: Chocolate!",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-s-Big-Idea-Chocolate-26336.html",
-      "description": "Done in a new way",
-      "category": "Niche Perfumery",
-      "author": "Eddie Bulliqi",
-      "published": 1791858602
     }
   ],
   "perfumes": [
+    {
+      "title": "The Dua Brand — Mémoire de Tabac",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Memoire-de-Tabac-146013.html",
+      "description": "New perfume listing: Mémoire de Tabac by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1792945330
+    },
+    {
+      "title": "The Dua Brand — Leather Whisper",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Leather-Whisper-146012.html",
+      "description": "New perfume listing: Leather Whisper by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1792945330
+    },
+    {
+      "title": "The Dua Brand — Cold Metal Rose",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cold-Metal-Rose-146011.html",
+      "description": "New perfume listing: Cold Metal Rose by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1792945330
+    },
+    {
+      "title": "The Dua Brand — Violet Coast",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Violet-Coast-146010.html",
+      "description": "New perfume listing: Violet Coast by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1792945330
+    },
+    {
+      "title": "The Dua Brand — Citrus Resin Glow",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Citrus-Resin-Glow-146009.html",
+      "description": "New perfume listing: Citrus Resin Glow by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Cocoa Sunset Alpine Village",
+      "link": "https://www.fragrantica.com/perfume/Zara/Cocoa-Sunset-Alpine-Village-146008.html",
+      "description": "New perfume listing: Cocoa Sunset Alpine Village by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Cocoa Sunset Après-Ski",
+      "link": "https://www.fragrantica.com/perfume/Zara/Cocoa-Sunset-Apres-Ski-146007.html",
+      "description": "New perfume listing: Cocoa Sunset Après-Ski by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Cocoa Sunset Cozy Blanket",
+      "link": "https://www.fragrantica.com/perfume/Zara/Cocoa-Sunset-Cozy-Blanket-146006.html",
+      "description": "New perfume listing: Cocoa Sunset Cozy Blanket by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Cozy Pumpkin Latte",
+      "link": "https://www.fragrantica.com/perfume/Zara/Cozy-Pumpkin-Latte-146005.html",
+      "description": "New perfume listing: Cozy Pumpkin Latte by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Baked Croissant",
+      "link": "https://www.fragrantica.com/perfume/Zara/Baked-Croissant-146004.html",
+      "description": "New perfume listing: Baked Croissant by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — True Cocoa",
+      "link": "https://www.fragrantica.com/perfume/Zara/True-Cocoa-146003.html",
+      "description": "New perfume listing: True Cocoa by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Zara — Vanilla After Dark",
+      "link": "https://www.fragrantica.com/perfume/Zara/Vanilla-After-Dark-146002.html",
+      "description": "New perfume listing: Vanilla After Dark by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1792945330
+    },
+    {
+      "title": "Mireille Provence — Oudéum",
+      "link": "https://www.fragrantica.com/perfume/Mireille-Provence/Oudeum-146001.html",
+      "description": "New perfume listing: Oudéum by Mireille Provence.",
+      "category": "New Perfumes",
+      "author": "Mireille Provence",
+      "published": 1792945330
+    },
+    {
+      "title": "Maison Aljazi — Crème de Chocolat",
+      "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/Creme-de-Chocolat-146000.html",
+      "description": "New perfume listing: Crème de Chocolat by Maison Aljazi.",
+      "category": "New Perfumes",
+      "author": "Maison Aljazi",
+      "published": 1792945330
+    },
+    {
+      "title": "Maison Aljazi — Crème de Mango",
+      "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/Creme-de-Mango-145999.html",
+      "description": "New perfume listing: Crème de Mango by Maison Aljazi.",
+      "category": "New Perfumes",
+      "author": "Maison Aljazi",
+      "published": 1792945330
+    },
+    {
+      "title": "Maison Aljazi — Crème de Pistache",
+      "link": "https://www.fragrantica.com/perfume/Maison-Aljazi/Creme-de-Pistache-145998.html",
+      "description": "New perfume listing: Crème de Pistache by Maison Aljazi.",
+      "category": "New Perfumes",
+      "author": "Maison Aljazi",
+      "published": 1792945330
+    },
+    {
+      "title": "Laverne — Tyrant Marine",
+      "link": "https://www.fragrantica.com/perfume/Laverne/Tyrant-Marine-145997.html",
+      "description": "New perfume listing: Tyrant Marine by Laverne.",
+      "category": "New Perfumes",
+      "author": "Laverne",
+      "published": 1792945330
+    },
     {
       "title": "Khadlaj Perfumes — Khadlaj 25 Integrity",
       "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Khadlaj-25-Integrity-145994.html",
@@ -1465,142 +1601,6 @@
       "category": "New Perfumes",
       "author": "Rayhaan",
       "published": 1792857492
-    },
-    {
-      "title": "Rayhaan — Floriana",
-      "link": "https://www.fragrantica.com/perfume/Rayhaan/Floriana-145926.html",
-      "description": "New perfume listing: Floriana by Rayhaan.",
-      "category": "New Perfumes",
-      "author": "Rayhaan",
-      "published": 1792857492
-    },
-    {
-      "title": "Rayhaan — Bluetiful",
-      "link": "https://www.fragrantica.com/perfume/Rayhaan/Bluetiful-145925.html",
-      "description": "New perfume listing: Bluetiful by Rayhaan.",
-      "category": "New Perfumes",
-      "author": "Rayhaan",
-      "published": 1792857492
-    },
-    {
-      "title": "Rayhaan — Back to Black",
-      "link": "https://www.fragrantica.com/perfume/Rayhaan/Back-to-Black-145924.html",
-      "description": "New perfume listing: Back to Black by Rayhaan.",
-      "category": "New Perfumes",
-      "author": "Rayhaan",
-      "published": 1792857492
-    },
-    {
-      "title": "Reyane Tradition — Gentle Elsatys",
-      "link": "https://www.fragrantica.com/perfume/Reyane-Tradition/Gentle-Elsatys-145923.html",
-      "description": "New perfume listing: Gentle Elsatys by Reyane Tradition.",
-      "category": "New Perfumes",
-      "author": "Reyane Tradition",
-      "published": 1792857492
-    },
-    {
-      "title": "Reyane Tradition — Acqua di Parisis Porto Fino",
-      "link": "https://www.fragrantica.com/perfume/Reyane-Tradition/Acqua-di-Parisis-Porto-Fino-145922.html",
-      "description": "New perfume listing: Acqua di Parisis Porto Fino by Reyane Tradition.",
-      "category": "New Perfumes",
-      "author": "Reyane Tradition",
-      "published": 1792857492
-    },
-    {
-      "title": "Reyane Tradition — Acqua di Parisis Magic Red",
-      "link": "https://www.fragrantica.com/perfume/Reyane-Tradition/Acqua-di-Parisis-Magic-Red-145921.html",
-      "description": "New perfume listing: Acqua di Parisis Magic Red by Reyane Tradition.",
-      "category": "New Perfumes",
-      "author": "Reyane Tradition",
-      "published": 1792857492
-    },
-    {
-      "title": "Rue Broca — Vanguard Command",
-      "link": "https://www.fragrantica.com/perfume/Rue-Broca/Vanguard-Command-145920.html",
-      "description": "New perfume listing: Vanguard Command by Rue Broca.",
-      "category": "New Perfumes",
-      "author": "Rue Broca",
-      "published": 1792857492
-    },
-    {
-      "title": "Rue Broca — Oh Tiara Zircon",
-      "link": "https://www.fragrantica.com/perfume/Rue-Broca/Oh-Tiara-Zircon-145919.html",
-      "description": "New perfume listing: Oh Tiara Zircon by Rue Broca.",
-      "category": "New Perfumes",
-      "author": "Rue Broca",
-      "published": 1792857492
-    },
-    {
-      "title": "Sahari — Malaki Turquoise",
-      "link": "https://www.fragrantica.com/perfume/Sahari/Malaki-Turquoise-145918.html",
-      "description": "New perfume listing: Malaki Turquoise by Sahari.",
-      "category": "New Perfumes",
-      "author": "Sahari",
-      "published": 1792857492
-    },
-    {
-      "title": "VÛRV — Victorieux Homme",
-      "link": "https://www.fragrantica.com/perfume/VURV/Victorieux-Homme-145917.html",
-      "description": "New perfume listing: Victorieux Homme by VÛRV.",
-      "category": "New Perfumes",
-      "author": "VÛRV",
-      "published": 1792857492
-    },
-    {
-      "title": "VÛRV — Profumo Intensity Homme",
-      "link": "https://www.fragrantica.com/perfume/VURV/Profumo-Intensity-Homme-145916.html",
-      "description": "New perfume listing: Profumo Intensity Homme by VÛRV.",
-      "category": "New Perfumes",
-      "author": "VÛRV",
-      "published": 1792857492
-    },
-    {
-      "title": "Mirisanno Parfums — Rice and Shine",
-      "link": "https://www.fragrantica.com/perfume/Mirisanno-Parfums/Rice-and-Shine-145902.html",
-      "description": "New perfume listing: Rice and Shine by Mirisanno Parfums.",
-      "category": "New Perfumes",
-      "author": "Mirisanno Parfums",
-      "published": 1792839755
-    },
-    {
-      "title": "Gianfranco Ferre — GF Midnight Pour Signature",
-      "link": "https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Midnight-Pour-Signature-145901.html",
-      "description": "New perfume listing: GF Midnight Pour Signature by Gianfranco Ferre.",
-      "category": "New Perfumes",
-      "author": "Gianfranco Ferre",
-      "published": 1792839755
-    },
-    {
-      "title": "Gianfranco Ferre — GF Absolute Oud",
-      "link": "https://www.fragrantica.com/perfume/Gianfranco-Ferre/GF-Absolute-Oud-145900.html",
-      "description": "New perfume listing: GF Absolute Oud by Gianfranco Ferre.",
-      "category": "New Perfumes",
-      "author": "Gianfranco Ferre",
-      "published": 1792839755
-    },
-    {
-      "title": "The Spirit of Dubai — Hadhara",
-      "link": "https://www.fragrantica.com/perfume/The-Spirit-of-Dubai/Hadhara-145899.html",
-      "description": "New perfume listing: Hadhara by The Spirit of Dubai.",
-      "category": "New Perfumes",
-      "author": "The Spirit of Dubai",
-      "published": 1792816688
-    },
-    {
-      "title": "Birkholz — Secret Soul",
-      "link": "https://www.fragrantica.com/perfume/Birkholz/Secret-Soul-145898.html",
-      "description": "New perfume listing: Secret Soul by Birkholz.",
-      "category": "New Perfumes",
-      "author": "Birkholz",
-      "published": 1792816688
-    },
-    {
-      "title": "Birkholz — Berlin 33",
-      "link": "https://www.fragrantica.com/perfume/Birkholz/Berlin-33-145897.html",
-      "description": "New perfume listing: Berlin 33 by Birkholz.",
-      "category": "New Perfumes",
-      "author": "Birkholz",
-      "published": 1792816688
     }
   ]
 }
