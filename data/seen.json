@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Rituals Launched The Founder's Collection",
+      "link": "https://www.fragrantica.com/news/Rituals-Launched-The-Founder-s-Collection-26438.html",
+      "description": "Eight fragrances personally envisioned by founder Raymond Cloosterman and his family in collaboration with fragrance house dsm-firmenich.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1792957503
+    },
+    {
+      "title": "Pontaccio 21: From the Past of Gianfranco Ferre",
+      "link": "https://www.fragrantica.com/news/Pontaccio-21-From-the-Past-of-Gianfranco-Ferre-26437.html",
+      "description": "An iconic address, a familiar aroma",
+      "category": "Vintages",
+      "author": "Sergey Borisov",
+      "published": 1792947123
+    },
+    {
       "title": "Floraïku Paris Launch Harrods Exclusive",
       "link": "https://www.fragrantica.com/news/Floraiku-Paris-Launch-Harrods-Exclusive-26436.html",
       "description": "Opening Night is only available from Harrods and Floraïku online",
@@ -783,25 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Julia Lukyanenko",
       "published": 1791885303
-    },
-    {
-      "title": "EDEN Adamo Parfum: A Different Kind of Paradise",
-      "link": "https://www.fragrantica.com/news/EDEN-Adamo-Parfum-A-Different-Kind-of-Paradise-26338.html",
-      "description": "I came looking for plum, and found a garden full of flowers.",
-      "category": "Fragrance Reviews",
-      "author": "Markéta Rybínová",
-      "published": 1791874802
-    },
-    {
-      "title": "ACQUA DI PARMA Grand Hotel Sprezzatura Advent Calendar",
-      "link": "https://www.fragrantica.com/news/ACQUA-DI-PARMA-Grand-Hotel-Sprezzatura-Advent-Calendar-26337.html",
-      "description": "A Holiday 2026 Advent Calendar imagined as Grand Hotel Sprezzatura itself, where 24 windows open onto scented surprises in the spirit of superlative hospitality.",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791867603
     }
   ],
   "perfumes": [
+    {
+      "title": "Rituals — Velvet Heart",
+      "link": "https://www.fragrantica.com/perfume/Rituals/Velvet-Heart-146016.html",
+      "description": "New perfume listing: Velvet Heart by Rituals.",
+      "category": "New Perfumes",
+      "author": "Rituals",
+      "published": 1792961517
+    },
+    {
+      "title": "ChuJian 初柬 — Orange Life Cycle No.A11",
+      "link": "https://www.fragrantica.com/perfume/ChuJian-chu-jian/Orange-Life-Cycle-No-A11-146015.html",
+      "description": "New perfume listing: Orange Life Cycle No.A11 by ChuJian 初柬.",
+      "category": "New Perfumes",
+      "author": "ChuJian 初柬",
+      "published": 1792961517
+    },
+    {
+      "title": "ChuJian 初柬 — Su Magnolia Snow No.A13",
+      "link": "https://www.fragrantica.com/perfume/ChuJian-chu-jian/Su-Magnolia-Snow-No-A13-146014.html",
+      "description": "New perfume listing: Su Magnolia Snow No.A13 by ChuJian 初柬.",
+      "category": "New Perfumes",
+      "author": "ChuJian 初柬",
+      "published": 1792961517
+    },
     {
       "title": "The Dua Brand — Mémoire de Tabac",
       "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Memoire-de-Tabac-146013.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Black Is Black Superior by Nu Parfums.",
       "category": "New Perfumes",
       "author": "Nu Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Nusuk — Ana Al Awwal For Women",
-      "link": "https://www.fragrantica.com/perfume/Nusuk/Ana-Al-Awwal-For-Women-145929.html",
-      "description": "New perfume listing: Ana Al Awwal For Women by Nusuk.",
-      "category": "New Perfumes",
-      "author": "Nusuk",
-      "published": 1792857492
-    },
-    {
-      "title": "Nusuk — Ana Al Awwal For Men",
-      "link": "https://www.fragrantica.com/perfume/Nusuk/Ana-Al-Awwal-For-Men-145928.html",
-      "description": "New perfume listing: Ana Al Awwal For Men by Nusuk.",
-      "category": "New Perfumes",
-      "author": "Nusuk",
-      "published": 1792857492
-    },
-    {
-      "title": "Rayhaan — Pretty In Pink",
-      "link": "https://www.fragrantica.com/perfume/Rayhaan/Pretty-In-Pink-145927.html",
-      "description": "New perfume listing: Pretty In Pink by Rayhaan.",
-      "category": "New Perfumes",
-      "author": "Rayhaan",
       "published": 1792857492
     }
   ]
