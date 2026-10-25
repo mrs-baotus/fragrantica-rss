@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "My Shanghai",
+      "link": "https://www.fragrantica.com/news/My-Shanghai-26435.html",
+      "description": "First impressions of the city and Notes Shanghai.",
+      "category": "Columns",
+      "author": "Elena Prokofeva",
+      "published": 1792921227
+    },
+    {
+      "title": "New Jo Malone Holiday Scents in Festive Attire",
+      "link": "https://www.fragrantica.com/news/New-Jo-Malone-Holiday-Scents-in-Festive-Attire-26434.html",
+      "description": "Four fragrances in limited edition with winter holiday themes.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1792905124
+    },
+    {
       "title": "Le Parfum Sample Boxes",
       "link": "https://www.fragrantica.com/news/Le-Parfum-Sample-Boxes-26433.html",
       "description": "Two boxes, lots of perfume samples, and so many new scents to try. Le Parfum has come out with a new offering that will delight all perfume lovers.",
@@ -783,25 +799,145 @@
       "category": "Niche Perfumery",
       "author": "Eddie Bulliqi",
       "published": 1791858602
-    },
-    {
-      "title": "CHRISTIAN PROVENZANO PARFUMS Vanille Astrale",
-      "link": "https://www.fragrantica.com/news/CHRISTIAN-PROVENZANO-PARFUMS-Vanille-Astrale-26335.html",
-      "description": "A true, heavenly ode to vanilla.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1791851403
-    },
-    {
-      "title": "On Givenchy’s Striking L’Interdit Elixir",
-      "link": "https://www.fragrantica.com/news/On-Givenchy-s-Striking-L-Interdit-Elixir-26334.html",
-      "description": "It is absolutely impossible to pass this fragrance by without taking notice.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1791844203
     }
   ],
   "perfumes": [
+    {
+      "title": "Khadlaj Perfumes — Khadlaj 25 Integrity",
+      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Khadlaj-25-Integrity-145994.html",
+      "description": "New perfume listing: Khadlaj 25 Integrity by Khadlaj Perfumes.",
+      "category": "New Perfumes",
+      "author": "Khadlaj Perfumes",
+      "published": 1792927911
+    },
+    {
+      "title": "Khadlaj Perfumes — Khadlaj 25 Heritage",
+      "link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Khadlaj-25-Heritage-145993.html",
+      "description": "New perfume listing: Khadlaj 25 Heritage by Khadlaj Perfumes.",
+      "category": "New Perfumes",
+      "author": "Khadlaj Perfumes",
+      "published": 1792927911
+    },
+    {
+      "title": "Strange Harvest — Violet Below",
+      "link": "https://www.fragrantica.com/perfume/Strange-Harvest/Violet-Below-145992.html",
+      "description": "New perfume listing: Violet Below by Strange Harvest.",
+      "category": "New Perfumes",
+      "author": "Strange Harvest",
+      "published": 1792927911
+    },
+    {
+      "title": "Scents of Wood — Orris Chanterelle",
+      "link": "https://www.fragrantica.com/perfume/Scents-of-Wood/Orris-Chanterelle-145991.html",
+      "description": "New perfume listing: Orris Chanterelle by Scents of Wood.",
+      "category": "New Perfumes",
+      "author": "Scents of Wood",
+      "published": 1792927911
+    },
+    {
+      "title": "Scents of Wood — Carob Chanterelle",
+      "link": "https://www.fragrantica.com/perfume/Scents-of-Wood/Carob-Chanterelle-145990.html",
+      "description": "New perfume listing: Carob Chanterelle by Scents of Wood.",
+      "category": "New Perfumes",
+      "author": "Scents of Wood",
+      "published": 1792927911
+    },
+    {
+      "title": "Lost Tribe — Zilla",
+      "link": "https://www.fragrantica.com/perfume/Lost-Tribe/Zilla-145989.html",
+      "description": "New perfume listing: Zilla by Lost Tribe.",
+      "category": "New Perfumes",
+      "author": "Lost Tribe",
+      "published": 1792927911
+    },
+    {
+      "title": "Lost Tribe — Kong",
+      "link": "https://www.fragrantica.com/perfume/Lost-Tribe/Kong-145988.html",
+      "description": "New perfume listing: Kong by Lost Tribe.",
+      "category": "New Perfumes",
+      "author": "Lost Tribe",
+      "published": 1792927911
+    },
+    {
+      "title": "AAWED — Haven At Last",
+      "link": "https://www.fragrantica.com/perfume/AAWED/Haven-At-Last-145987.html",
+      "description": "New perfume listing: Haven At Last by AAWED.",
+      "category": "New Perfumes",
+      "author": "AAWED",
+      "published": 1792927911
+    },
+    {
+      "title": "AAWED — Crafted Pathways",
+      "link": "https://www.fragrantica.com/perfume/AAWED/Crafted-Pathways-145986.html",
+      "description": "New perfume listing: Crafted Pathways by AAWED.",
+      "category": "New Perfumes",
+      "author": "AAWED",
+      "published": 1792927911
+    },
+    {
+      "title": "AAWED — Motherland Beginnings",
+      "link": "https://www.fragrantica.com/perfume/AAWED/Motherland-Beginnings-145984.html",
+      "description": "New perfume listing: Motherland Beginnings by AAWED.",
+      "category": "New Perfumes",
+      "author": "AAWED",
+      "published": 1792927911
+    },
+    {
+      "title": "Ramon Monegal — Black Sheep",
+      "link": "https://www.fragrantica.com/perfume/Ramon-Monegal/Black-Sheep-145983.html",
+      "description": "New perfume listing: Black Sheep by Ramon Monegal.",
+      "category": "New Perfumes",
+      "author": "Ramon Monegal",
+      "published": 1792927911
+    },
+    {
+      "title": "Atyaab — Lara Purple",
+      "link": "https://www.fragrantica.com/perfume/Atyaab/Lara-Purple-145996.html",
+      "description": "New perfume listing: Lara Purple by Atyaab.",
+      "category": "New Perfumes",
+      "author": "Atyaab",
+      "published": 1792927911
+    },
+    {
+      "title": "Atyaab — Lara Green",
+      "link": "https://www.fragrantica.com/perfume/Atyaab/Lara-Green-145995.html",
+      "description": "New perfume listing: Lara Green by Atyaab.",
+      "category": "New Perfumes",
+      "author": "Atyaab",
+      "published": 1792927911
+    },
+    {
+      "title": "Floris — &",
+      "link": "https://www.fragrantica.com/perfume/Floris/-145985.html",
+      "description": "New perfume listing: & by Floris.",
+      "category": "New Perfumes",
+      "author": "Floris",
+      "published": 1792927911
+    },
+    {
+      "title": "Jean Patou — Eau de Cologne Lavandée",
+      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Eau-de-Cologne-Lavandee-145982.html",
+      "description": "New perfume listing: Eau de Cologne Lavandée by Jean Patou.",
+      "category": "New Perfumes",
+      "author": "Jean Patou",
+      "published": 1792927911
+    },
+    {
+      "title": "Jean Patou — Délices",
+      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Delices-145981.html",
+      "description": "New perfume listing: Délices by Jean Patou.",
+      "category": "New Perfumes",
+      "author": "Jean Patou",
+      "published": 1792927911
+    },
+    {
+      "title": "Jean Patou — Coming Up Roses",
+      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Coming-Up-Roses-145980.html",
+      "description": "New perfume listing: Coming Up Roses by Jean Patou.",
+      "category": "New Perfumes",
+      "author": "Jean Patou",
+      "published": 1792927911
+    },
     {
       "title": "Jo Malone London — Orange Bitters Festive Edition",
       "link": "https://www.fragrantica.com/perfume/Jo-Malone-London/Orange-Bitters-Festive-Edition-145979.html",
@@ -1465,142 +1601,6 @@
       "category": "New Perfumes",
       "author": "Birkholz",
       "published": 1792816688
-    },
-    {
-      "title": "Brown Girl Jane — Barbie Encore",
-      "link": "https://www.fragrantica.com/perfume/Brown-Girl-Jane/Barbie-Encore-145896.html",
-      "description": "New perfume listing: Barbie Encore by Brown Girl Jane.",
-      "category": "New Perfumes",
-      "author": "Brown Girl Jane",
-      "published": 1792775318
-    },
-    {
-      "title": "Layel Paris — Silky Star",
-      "link": "https://www.fragrantica.com/perfume/Layel-Paris/Silky-Star-145895.html",
-      "description": "New perfume listing: Silky Star by Layel Paris.",
-      "category": "New Perfumes",
-      "author": "Layel Paris",
-      "published": 1792775318
-    },
-    {
-      "title": "çanoma — 21-12 | Maboroshi 幻",
-      "link": "https://www.fragrantica.com/perfume/canoma/21-12-Maboroshi-huan-145894.html",
-      "description": "New perfume listing: 21-12 | Maboroshi 幻 by çanoma.",
-      "category": "New Perfumes",
-      "author": "çanoma",
-      "published": 1792775318
-    },
-    {
-      "title": "çanoma — 12-11 | Yuugiri 夕霧",
-      "link": "https://www.fragrantica.com/perfume/canoma/12-11-Yuugiri-xi-wu-145893.html",
-      "description": "New perfume listing: 12-11 | Yuugiri 夕霧 by çanoma.",
-      "category": "New Perfumes",
-      "author": "çanoma",
-      "published": 1792775318
-    },
-    {
-      "title": "Neve di Bormio — Gavia",
-      "link": "https://www.fragrantica.com/perfume/Neve-di-Bormio/Gavia-145889.html",
-      "description": "New perfume listing: Gavia by Neve di Bormio.",
-      "category": "New Perfumes",
-      "author": "Neve di Bormio",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Haya",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Haya-145887.html",
-      "description": "New perfume listing: Haya by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Ishq",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Ishq-145886.html",
-      "description": "New perfume listing: Ishq by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Barakah",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Barakah-145885.html",
-      "description": "New perfume listing: Barakah by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Rahma",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Rahma-145884.html",
-      "description": "New perfume listing: Rahma by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Sharf",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Sharf-145883.html",
-      "description": "New perfume listing: Sharf by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Imbraturah",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Imbraturah-145882.html",
-      "description": "New perfume listing: Imbraturah by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Rasasi Exclusive — Imbratur",
-      "link": "https://www.fragrantica.com/perfume/Rasasi-Exclusive/Imbratur-145881.html",
-      "description": "New perfume listing: Imbratur by Rasasi Exclusive.",
-      "category": "New Perfumes",
-      "author": "Rasasi Exclusive",
-      "published": 1792775318
-    },
-    {
-      "title": "Dove — Dove Original",
-      "link": "https://www.fragrantica.com/perfume/Dove/Dove-Original-145876.html",
-      "description": "New perfume listing: Dove Original by Dove.",
-      "category": "New Perfumes",
-      "author": "Dove",
-      "published": 1792775318
-    },
-    {
-      "title": "Kayali Fragrances — Yum Vanilla Cupcake | 108 Limited Edition",
-      "link": "https://www.fragrantica.com/perfume/Kayali-Fragrances/Yum-Vanilla-Cupcake-108-Limited-Edition-145875.html",
-      "description": "New perfume listing: Yum Vanilla Cupcake | 108 Limited Edition by Kayali Fragrances.",
-      "category": "New Perfumes",
-      "author": "Kayali Fragrances",
-      "published": 1792775318
-    },
-    {
-      "title": "çanoma — 10-20 | 蜻蛉 Kagerou",
-      "link": "https://www.fragrantica.com/perfume/canoma/10-20-qing-ling-Kagerou-145892.html",
-      "description": "New perfume listing: 10-20 | 蜻蛉 Kagerou by çanoma.",
-      "category": "New Perfumes",
-      "author": "çanoma",
-      "published": 1792775318
-    },
-    {
-      "title": "çanoma — 8-17 | Matsukaze Limited Edition 松風",
-      "link": "https://www.fragrantica.com/perfume/canoma/8-17-Matsukaze-Limited-Edition-song-feng-145891.html",
-      "description": "New perfume listing: 8-17 | Matsukaze Limited Edition 松風 by çanoma.",
-      "category": "New Perfumes",
-      "author": "çanoma",
-      "published": 1792775318
-    },
-    {
-      "title": "çanoma — 8-17 | Matsukaze 松風",
-      "link": "https://www.fragrantica.com/perfume/canoma/8-17-Matsukaze-song-feng-145890.html",
-      "description": "New perfume listing: 8-17 | Matsukaze 松風 by çanoma.",
-      "category": "New Perfumes",
-      "author": "çanoma",
-      "published": 1792775318
     }
   ]
 }
