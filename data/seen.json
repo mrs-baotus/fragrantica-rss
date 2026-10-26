@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "The Unexpected Complexity of Tom Ford's Tobacco Chocolat",
+      "link": "https://www.fragrantica.com/news/The-Unexpected-Complexity-of-Tom-Ford-s-Tobacco-Chocolat-26441.html",
+      "description": "Thinking this could possibly be a stand-in for Tobacco Vanille would be a mistake.",
+      "category": "Fragrance Reviews",
+      "author": "John Biebel",
+      "published": 1792991103
+    },
+    {
       "title": "Mireille en Provence: Authentic Stories",
       "link": "https://www.fragrantica.com/news/Mireille-en-Provence-Authentic-Stories-26440.html",
       "description": "How one Provençal family spent 70 years on a journey to create their own fragrances.",
@@ -791,17 +799,353 @@
       "category": "Niche Perfumes",
       "author": "Sandra Raičević Petrović",
       "published": 1791905404
-    },
-    {
-      "title": "FAIRIA Jacaranda: When Sydney Turns Purple",
-      "link": "https://www.fragrantica.com/news/FAIRIA-Jacaranda-When-Sydney-Turns-Purple-26341.html",
-      "description": "Floral, velvety and quietly alluring, Jacaranda is a purple haze drifting through Sydney in bloom.",
-      "category": "Fragrance News",
-      "author": "Yi Shang (怡 商)",
-      "published": 1791897723
     }
   ],
   "perfumes": [
+    {
+      "title": "Shiro — Layering Fig",
+      "link": "https://www.fragrantica.com/perfume/Shiro/Layering-Fig-146074.html",
+      "description": "New perfume listing: Layering Fig by Shiro.",
+      "category": "New Perfumes",
+      "author": "Shiro",
+      "published": 1793019921
+    },
+    {
+      "title": "Giò Rocca Profumi — Pumpkin Spice",
+      "link": "https://www.fragrantica.com/perfume/Gio-Rocca-Profumi/Pumpkin-Spice-146072.html",
+      "description": "New perfume listing: Pumpkin Spice by Giò Rocca Profumi.",
+      "category": "New Perfumes",
+      "author": "Giò Rocca Profumi",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Amjad Coral",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Amjad-Coral-146071.html",
+      "description": "New perfume listing: Amjad Coral by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Amjad Kingdom",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Amjad-Kingdom-146070.html",
+      "description": "New perfume listing: Amjad Kingdom by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Amjad Mystery",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Amjad-Mystery-146069.html",
+      "description": "New perfume listing: Amjad Mystery by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Highness Flame",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Highness-Flame-146068.html",
+      "description": "New perfume listing: Highness Flame by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Highness Marino",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Highness-Marino-146067.html",
+      "description": "New perfume listing: Highness Marino by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Highness Noble",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Highness-Noble-146066.html",
+      "description": "New perfume listing: Highness Noble by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Qasida Dunes",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Qasida-Dunes-146065.html",
+      "description": "New perfume listing: Qasida Dunes by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Qasida Purity",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Qasida-Purity-146064.html",
+      "description": "New perfume listing: Qasida Purity by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Qasida Sahm",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Qasida-Sahm-146063.html",
+      "description": "New perfume listing: Qasida Sahm by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Qasida Senses",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Qasida-Senses-146062.html",
+      "description": "New perfume listing: Qasida Senses by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Praize Tendree",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Praize-Tendree-146061.html",
+      "description": "New perfume listing: Praize Tendree by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Praize Her",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Praize-Her-146060.html",
+      "description": "New perfume listing: Praize Her by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Praize Matchae",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Praize-Matchae-146059.html",
+      "description": "New perfume listing: Praize Matchae by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Praize Noir",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Praize-Noir-146058.html",
+      "description": "New perfume listing: Praize Noir by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "FAAN — Praize Glaze",
+      "link": "https://www.fragrantica.com/perfume/FAAN/Praize-Glaze-146057.html",
+      "description": "New perfume listing: Praize Glaze by FAAN.",
+      "category": "New Perfumes",
+      "author": "FAAN",
+      "published": 1793019921
+    },
+    {
+      "title": "Narici Milano — Pandoro",
+      "link": "https://www.fragrantica.com/perfume/Narici-Milano/Pandoro-146056.html",
+      "description": "New perfume listing: Pandoro by Narici Milano.",
+      "category": "New Perfumes",
+      "author": "Narici Milano",
+      "published": 1793019921
+    },
+    {
+      "title": "Narici Milano — Plasma",
+      "link": "https://www.fragrantica.com/perfume/Narici-Milano/Plasma-146055.html",
+      "description": "New perfume listing: Plasma by Narici Milano.",
+      "category": "New Perfumes",
+      "author": "Narici Milano",
+      "published": 1793019921
+    },
+    {
+      "title": "Grande — Heritage",
+      "link": "https://www.fragrantica.com/perfume/Grande/Heritage-146054.html",
+      "description": "New perfume listing: Heritage by Grande.",
+      "category": "New Perfumes",
+      "author": "Grande",
+      "published": 1793019921
+    },
+    {
+      "title": "Ladanika — Golden Fish Золотая рыбка",
+      "link": "https://www.fragrantica.com/perfume/Ladanika/Golden-Fish-Zolotaa-rybka-146052.html",
+      "description": "New perfume listing: Golden Fish Золотая рыбка by Ladanika.",
+      "category": "New Perfumes",
+      "author": "Ladanika",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Blanc d’Armagnac",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Blanc-d-Armagnac-146051.html",
+      "description": "New perfume listing: Blanc d’Armagnac by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Coma Or Gasm",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Coma-Or-Gasm-146050.html",
+      "description": "New perfume listing: Coma Or Gasm by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Echoholic",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Echoholic-146049.html",
+      "description": "New perfume listing: Echoholic by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Sick A Duck",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Sick-A-Duck-146048.html",
+      "description": "New perfume listing: Sick A Duck by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Ottoman Slap",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Ottoman-Slap-146047.html",
+      "description": "New perfume listing: Ottoman Slap by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Fleurmenco",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Fleurmenco-146046.html",
+      "description": "New perfume listing: Fleurmenco by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Liqueur de Meo",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Liqueur-de-Meo-146045.html",
+      "description": "New perfume listing: Liqueur de Meo by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — La Parisienne",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/La-Parisienne-146044.html",
+      "description": "New perfume listing: La Parisienne by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Gypsum Flower",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Gypsum-Flower-146043.html",
+      "description": "New perfume listing: Gypsum Flower by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Dakao District 1",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Dakao-District-1-146042.html",
+      "description": "New perfume listing: Dakao District 1 by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Maison Ric Paris — Eau de Hanoi",
+      "link": "https://www.fragrantica.com/perfume/Maison-Ric-Paris/Eau-de-Hanoi-146041.html",
+      "description": "New perfume listing: Eau de Hanoi by Maison Ric Paris.",
+      "category": "New Perfumes",
+      "author": "Maison Ric Paris",
+      "published": 1793019921
+    },
+    {
+      "title": "Sensxsent Parfums — Dear Lulu",
+      "link": "https://www.fragrantica.com/perfume/Sensxsent-Parfums/Dear-Lulu-146040.html",
+      "description": "New perfume listing: Dear Lulu by Sensxsent Parfums.",
+      "category": "New Perfumes",
+      "author": "Sensxsent Parfums",
+      "published": 1793019921
+    },
+    {
+      "title": "Reef Perfumes — Blanc Nomad",
+      "link": "https://www.fragrantica.com/perfume/Reef-Perfumes/Blanc-Nomad-146038.html",
+      "description": "New perfume listing: Blanc Nomad by Reef Perfumes.",
+      "category": "New Perfumes",
+      "author": "Reef Perfumes",
+      "published": 1793019921
+    },
+    {
+      "title": "Margessa — DIAMANT",
+      "link": "https://www.fragrantica.com/perfume/Margessa/DIAMANT-146037.html",
+      "description": "New perfume listing: DIAMANT by Margessa.",
+      "category": "New Perfumes",
+      "author": "Margessa",
+      "published": 1793019921
+    },
+    {
+      "title": "Shiro — Black Cherry",
+      "link": "https://www.fragrantica.com/perfume/Shiro/Black-Cherry-146073.html",
+      "description": "New perfume listing: Black Cherry by Shiro.",
+      "category": "New Perfumes",
+      "author": "Shiro",
+      "published": 1793019921
+    },
+    {
+      "title": "Bujairami — City Life",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/City-Life-146053.html",
+      "description": "New perfume listing: City Life by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1793019921
+    },
+    {
+      "title": "Ard Al Zaafaran — Al Sayaad",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Al-Sayaad-146039.html",
+      "description": "New perfume listing: Al Sayaad by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793019921
+    },
+    {
+      "title": "Elixir Attar — Ballad Narcotique Tubereuse",
+      "link": "https://www.fragrantica.com/perfume/Elixir-Attar/Ballad-Narcotique-Tubereuse-146032.html",
+      "description": "New perfume listing: Ballad Narcotique Tubereuse by Elixir Attar.",
+      "category": "New Perfumes",
+      "author": "Elixir Attar",
+      "published": 1793019921
+    },
+    {
+      "title": "Le Chameau by Emper — Regal Touch Aseel",
+      "link": "https://www.fragrantica.com/perfume/Le-Chameau-by-Emper/Regal-Touch-Aseel-146031.html",
+      "description": "New perfume listing: Regal Touch Aseel by Le Chameau by Emper.",
+      "category": "New Perfumes",
+      "author": "Le Chameau by Emper",
+      "published": 1793019921
+    },
+    {
+      "title": "Le Chameau by Emper — Casabella Midnight",
+      "link": "https://www.fragrantica.com/perfume/Le-Chameau-by-Emper/Casabella-Midnight-146030.html",
+      "description": "New perfume listing: Casabella Midnight by Le Chameau by Emper.",
+      "category": "New Perfumes",
+      "author": "Le Chameau by Emper",
+      "published": 1793019921
+    },
+    {
+      "title": "Le Chameau by Emper — Casabella Al Hub",
+      "link": "https://www.fragrantica.com/perfume/Le-Chameau-by-Emper/Casabella-Al-Hub-146029.html",
+      "description": "New perfume listing: Casabella Al Hub by Le Chameau by Emper.",
+      "category": "New Perfumes",
+      "author": "Le Chameau by Emper",
+      "published": 1793019921
+    },
+    {
+      "title": "Hanakoi — Nami",
+      "link": "https://www.fragrantica.com/perfume/Hanakoi/Nami-146028.html",
+      "description": "New perfume listing: Nami by Hanakoi.",
+      "category": "New Perfumes",
+      "author": "Hanakoi",
+      "published": 1793019921
+    },
     {
       "title": "Yours Truly Perfumes — Thompson Staycation",
       "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Thompson-Staycation-146022.html",
@@ -1257,350 +1601,6 @@
       "category": "New Perfumes",
       "author": "Dekode Parfums",
       "published": 1792903370
-    },
-    {
-      "title": "Dekode Parfums — Bleu Épices",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Bleu-Epices-145965.html",
-      "description": "New perfume listing: Bleu Épices by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1792903370
-    },
-    {
-      "title": "Dekode Parfums — Cherry Intense",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Cherry-Intense-145964.html",
-      "description": "New perfume listing: Cherry Intense by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1792903370
-    },
-    {
-      "title": "Dekode Parfums — TY-GAR+M",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/TY-GAR-M-145963.html",
-      "description": "New perfume listing: TY-GAR+M by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1792903370
-    },
-    {
-      "title": "Boré — Pirai Mistico",
-      "link": "https://www.fragrantica.com/perfume/Bore/Pirai-Mistico-145960.html",
-      "description": "New perfume listing: Pirai Mistico by Boré.",
-      "category": "New Perfumes",
-      "author": "Boré",
-      "published": 1792875064
-    },
-    {
-      "title": "Boré — Sol de Guembe",
-      "link": "https://www.fragrantica.com/perfume/Bore/Sol-de-Guembe-145959.html",
-      "description": "New perfume listing: Sol de Guembe by Boré.",
-      "category": "New Perfumes",
-      "author": "Boré",
-      "published": 1792875064
-    },
-    {
-      "title": "Firestone Sisters — Golden",
-      "link": "https://www.fragrantica.com/perfume/Firestone-Sisters/Golden-145958.html",
-      "description": "New perfume listing: Golden by Firestone Sisters.",
-      "category": "New Perfumes",
-      "author": "Firestone Sisters",
-      "published": 1792875064
-    },
-    {
-      "title": "Noble Heritage — Nosy Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Noble-Heritage/Nosy-Vanilla-145957.html",
-      "description": "New perfume listing: Nosy Vanilla by Noble Heritage.",
-      "category": "New Perfumes",
-      "author": "Noble Heritage",
-      "published": 1792875064
-    },
-    {
-      "title": "Rabanne — Fame Gummies Peachy Girl",
-      "link": "https://www.fragrantica.com/perfume/Rabanne/Fame-Gummies-Peachy-Girl-145956.html",
-      "description": "New perfume listing: Fame Gummies Peachy Girl by Rabanne.",
-      "category": "New Perfumes",
-      "author": "Rabanne",
-      "published": 1792875064
-    },
-    {
-      "title": "Rabanne — Fame Gummies Citrus Sweety",
-      "link": "https://www.fragrantica.com/perfume/Rabanne/Fame-Gummies-Citrus-Sweety-145955.html",
-      "description": "New perfume listing: Fame Gummies Citrus Sweety by Rabanne.",
-      "category": "New Perfumes",
-      "author": "Rabanne",
-      "published": 1792875064
-    },
-    {
-      "title": "Rabanne — Fame Gummies Marshmallow Baby",
-      "link": "https://www.fragrantica.com/perfume/Rabanne/Fame-Gummies-Marshmallow-Baby-145954.html",
-      "description": "New perfume listing: Fame Gummies Marshmallow Baby by Rabanne.",
-      "category": "New Perfumes",
-      "author": "Rabanne",
-      "published": 1792875064
-    },
-    {
-      "title": "Pantheon Roma — Galatea",
-      "link": "https://www.fragrantica.com/perfume/Pantheon-Roma/Galatea-145953.html",
-      "description": "New perfume listing: Galatea by Pantheon Roma.",
-      "category": "New Perfumes",
-      "author": "Pantheon Roma",
-      "published": 1792875064
-    },
-    {
-      "title": "Nishane — Hacivat Arlecchino",
-      "link": "https://www.fragrantica.com/perfume/Nishane/Hacivat-Arlecchino-145952.html",
-      "description": "New perfume listing: Hacivat Arlecchino by Nishane.",
-      "category": "New Perfumes",
-      "author": "Nishane",
-      "published": 1792875064
-    },
-    {
-      "title": "Nishane — Hundred Silent Ways Amarena",
-      "link": "https://www.fragrantica.com/perfume/Nishane/Hundred-Silent-Ways-Amarena-145951.html",
-      "description": "New perfume listing: Hundred Silent Ways Amarena by Nishane.",
-      "category": "New Perfumes",
-      "author": "Nishane",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Dewy Orchid Paradise",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Dewy-Orchid-Paradise-145941.html",
-      "description": "New perfume listing: Dewy Orchid Paradise by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Black Cherry Opening",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Black-Cherry-Opening-145940.html",
-      "description": "New perfume listing: Black Cherry Opening by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Love In Bloom",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Love-In-Bloom-145939.html",
-      "description": "New perfume listing: Love In Bloom by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Berry Leather Noir",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Berry-Leather-Noir-145938.html",
-      "description": "New perfume listing: Berry Leather Noir by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Pear From Eden",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pear-From-Eden-145937.html",
-      "description": "New perfume listing: Pear From Eden by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Musa Level 12",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Musa-Level-12-145936.html",
-      "description": "New perfume listing: Musa Level 12 by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — She Is Power of Poudre de Vanille Extrait",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/She-Is-Power-of-Poudre-de-Vanille-Extrait-145935.html",
-      "description": "New perfume listing: She Is Power of Poudre de Vanille Extrait by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "The Dua Brand — Smoked Hotness Of White Milk",
-      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Smoked-Hotness-Of-White-Milk-145934.html",
-      "description": "New perfume listing: Smoked Hotness Of White Milk by The Dua Brand.",
-      "category": "New Perfumes",
-      "author": "The Dua Brand",
-      "published": 1792875064
-    },
-    {
-      "title": "Illusione — Roselie",
-      "link": "https://www.fragrantica.com/perfume/Illusione/Roselie-145962.html",
-      "description": "New perfume listing: Roselie by Illusione.",
-      "category": "New Perfumes",
-      "author": "Illusione",
-      "published": 1792875064
-    },
-    {
-      "title": "Illusione — Soléna",
-      "link": "https://www.fragrantica.com/perfume/Illusione/Solena-145961.html",
-      "description": "New perfume listing: Soléna by Illusione.",
-      "category": "New Perfumes",
-      "author": "Illusione",
-      "published": 1792875064
-    },
-    {
-      "title": "Asdaaf — Musk Code",
-      "link": "https://www.fragrantica.com/perfume/Asdaaf/Musk-Code-145950.html",
-      "description": "New perfume listing: Musk Code by Asdaaf.",
-      "category": "New Perfumes",
-      "author": "Asdaaf",
-      "published": 1792875064
-    },
-    {
-      "title": "Asdaaf — Al Laila Ghair",
-      "link": "https://www.fragrantica.com/perfume/Asdaaf/Al-Laila-Ghair-145949.html",
-      "description": "New perfume listing: Al Laila Ghair by Asdaaf.",
-      "category": "New Perfumes",
-      "author": "Asdaaf",
-      "published": 1792875064
-    },
-    {
-      "title": "Asdaaf — Al Awwal",
-      "link": "https://www.fragrantica.com/perfume/Asdaaf/Al-Awwal-145948.html",
-      "description": "New perfume listing: Al Awwal by Asdaaf.",
-      "category": "New Perfumes",
-      "author": "Asdaaf",
-      "published": 1792875064
-    },
-    {
-      "title": "Asdaaf — Ahal Al Fakhar",
-      "link": "https://www.fragrantica.com/perfume/Asdaaf/Ahal-Al-Fakhar-145947.html",
-      "description": "New perfume listing: Ahal Al Fakhar by Asdaaf.",
-      "category": "New Perfumes",
-      "author": "Asdaaf",
-      "published": 1792875064
-    },
-    {
-      "title": "Karen Low — Code 37",
-      "link": "https://www.fragrantica.com/perfume/Karen-Low/Code-37-145946.html",
-      "description": "New perfume listing: Code 37 by Karen Low.",
-      "category": "New Perfumes",
-      "author": "Karen Low",
-      "published": 1792875064
-    },
-    {
-      "title": "L'Orientale Fragrances — Night De Paris Venice",
-      "link": "https://www.fragrantica.com/perfume/L-Orientale-Fragrances/Night-De-Paris-Venice-145945.html",
-      "description": "New perfume listing: Night De Paris Venice by L'Orientale Fragrances.",
-      "category": "New Perfumes",
-      "author": "L'Orientale Fragrances",
-      "published": 1792875064
-    },
-    {
-      "title": "L'Orientale Fragrances — Night De Paris Prive",
-      "link": "https://www.fragrantica.com/perfume/L-Orientale-Fragrances/Night-De-Paris-Prive-145944.html",
-      "description": "New perfume listing: Night De Paris Prive by L'Orientale Fragrances.",
-      "category": "New Perfumes",
-      "author": "L'Orientale Fragrances",
-      "published": 1792875064
-    },
-    {
-      "title": "L'Orientale Fragrances — Night De Paris Milano",
-      "link": "https://www.fragrantica.com/perfume/L-Orientale-Fragrances/Night-De-Paris-Milano-145943.html",
-      "description": "New perfume listing: Night De Paris Milano by L'Orientale Fragrances.",
-      "category": "New Perfumes",
-      "author": "L'Orientale Fragrances",
-      "published": 1792875064
-    },
-    {
-      "title": "L'Orientale Fragrances — Night De Paris Gold",
-      "link": "https://www.fragrantica.com/perfume/L-Orientale-Fragrances/Night-De-Paris-Gold-145942.html",
-      "description": "New perfume listing: Night De Paris Gold by L'Orientale Fragrances.",
-      "category": "New Perfumes",
-      "author": "L'Orientale Fragrances",
-      "published": 1792875064
-    },
-    {
-      "title": "Osmassino — Brilliance",
-      "link": "https://www.fragrantica.com/perfume/Osmassino/Brilliance-145933.html",
-      "description": "New perfume listing: Brilliance by Osmassino.",
-      "category": "New Perfumes",
-      "author": "Osmassino",
-      "published": 1792857492
-    },
-    {
-      "title": "The Unleashed Apothecary — Trat Treat 3",
-      "link": "https://www.fragrantica.com/perfume/The-Unleashed-Apothecary/Trat-Treat-3-145915.html",
-      "description": "New perfume listing: Trat Treat 3 by The Unleashed Apothecary.",
-      "category": "New Perfumes",
-      "author": "The Unleashed Apothecary",
-      "published": 1792857492
-    },
-    {
-      "title": "The Unleashed Apothecary — Tonkin Tonka 3",
-      "link": "https://www.fragrantica.com/perfume/The-Unleashed-Apothecary/Tonkin-Tonka-3-145914.html",
-      "description": "New perfume listing: Tonkin Tonka 3 by The Unleashed Apothecary.",
-      "category": "New Perfumes",
-      "author": "The Unleashed Apothecary",
-      "published": 1792857492
-    },
-    {
-      "title": "The Unleashed Apothecary — Oud Post-Mortem",
-      "link": "https://www.fragrantica.com/perfume/The-Unleashed-Apothecary/Oud-Post-Mortem-145913.html",
-      "description": "New perfume listing: Oud Post-Mortem by The Unleashed Apothecary.",
-      "category": "New Perfumes",
-      "author": "The Unleashed Apothecary",
-      "published": 1792857492
-    },
-    {
-      "title": "Folkwinds — So Long, Honey",
-      "link": "https://www.fragrantica.com/perfume/Folkwinds/So-Long-Honey-145912.html",
-      "description": "New perfume listing: So Long, Honey by Folkwinds.",
-      "category": "New Perfumes",
-      "author": "Folkwinds",
-      "published": 1792857492
-    },
-    {
-      "title": "Fleurit Parfums — NY1993",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/NY1993-145911.html",
-      "description": "New perfume listing: NY1993 by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Fleurit Parfums — Mercer St.",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Mercer-St-145910.html",
-      "description": "New perfume listing: Mercer St. by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Fleurit Parfums — Malibu",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Malibu-145909.html",
-      "description": "New perfume listing: Malibu by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Fleurit Parfums — À L'EST",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/A-L-EST-145908.html",
-      "description": "New perfume listing: À L'EST by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Fleurit Parfums — 10021",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/10021-145907.html",
-      "description": "New perfume listing: 10021 by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Le Monde Gourmand — Cristal Poire",
-      "link": "https://www.fragrantica.com/perfume/Le-Monde-Gourmand/Cristal-Poire-145906.html",
-      "description": "New perfume listing: Cristal Poire by Le Monde Gourmand.",
-      "category": "New Perfumes",
-      "author": "Le Monde Gourmand",
-      "published": 1792857492
     }
   ]
 }
