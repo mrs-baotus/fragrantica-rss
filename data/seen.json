@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Mireille en Provence: Authentic Stories",
+      "link": "https://www.fragrantica.com/news/Mireille-en-Provence-Authentic-Stories-26440.html",
+      "description": "How one Provençal family spent 70 years on a journey to create their own fragrances.",
+      "category": "Niche Perfumes",
+      "author": "Alena Lavault",
+      "published": 1792979703
+    },
+    {
+      "title": "Perfumed Horoscope: October 26 - November 2",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-October-26-November-2-26439.html",
+      "description": "We are in the merciless Scorpio zone this week.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1792969022
+    },
+    {
       "title": "Rituals Launched The Founder's Collection",
       "link": "https://www.fragrantica.com/news/Rituals-Launched-The-Founder-s-Collection-26438.html",
       "description": "Eight fragrances personally envisioned by founder Raymond Cloosterman and his family in collaboration with fragrance house dsm-firmenich.",
@@ -783,25 +799,57 @@
       "category": "Fragrance News",
       "author": "Yi Shang (怡 商)",
       "published": 1791897723
-    },
-    {
-      "title": "Creed Iris Debonair: Steel Rebar Wrapped in Silk",
-      "link": "https://www.fragrantica.com/news/Creed-Iris-Debonair-Steel-Rebar-Wrapped-in-Silk-26340.html",
-      "description": "Once upon a time, Creed and Montale were on opposite poles of the perfume market. Today, it seems, they are swapping places.",
-      "category": "Fragrance Reviews",
-      "author": "Igor Masyukov",
-      "published": 1791893043
-    },
-    {
-      "title": "CINOJAD - Five Fragrances, Five Cultures and a Journey Along the Silk Road",
-      "link": "https://www.fragrantica.com/news/CINOJAD-Five-Fragrances-Five-Cultures-and-a-Journey-Along-the-Silk-Road-26339.html",
-      "description": "Fragrances of the peoples of China living along the Silk Road.",
-      "category": "Fragrance Reviews",
-      "author": "Julia Lukyanenko",
-      "published": 1791885303
     }
   ],
   "perfumes": [
+    {
+      "title": "Yours Truly Perfumes — Thompson Staycation",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Thompson-Staycation-146022.html",
+      "description": "New perfume listing: Thompson Staycation by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
+    {
+      "title": "Yours Truly Perfumes — Plot Twist",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Plot-Twist-146021.html",
+      "description": "New perfume listing: Plot Twist by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
+    {
+      "title": "Yours Truly Perfumes — Chauffeured To 4444",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Chauffeured-To-4444-146020.html",
+      "description": "New perfume listing: Chauffeured To 4444 by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
+    {
+      "title": "Yours Truly Perfumes — That Heat",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/That-Heat-146019.html",
+      "description": "New perfume listing: That Heat by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
+    {
+      "title": "Yours Truly Perfumes — Very Demure",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/Very-Demure-146018.html",
+      "description": "New perfume listing: Very Demure by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
+    {
+      "title": "Yours Truly Perfumes — If You Musc",
+      "link": "https://www.fragrantica.com/perfume/Yours-Truly-Perfumes/If-You-Musc-146017.html",
+      "description": "New perfume listing: If You Musc by Yours Truly Perfumes.",
+      "category": "New Perfumes",
+      "author": "Yours Truly Perfumes",
+      "published": 1792990143
+    },
     {
       "title": "Rituals — Velvet Heart",
       "link": "https://www.fragrantica.com/perfume/Rituals/Velvet-Heart-146016.html",
@@ -1552,54 +1600,6 @@
       "description": "New perfume listing: Cristal Poire by Le Monde Gourmand.",
       "category": "New Perfumes",
       "author": "Le Monde Gourmand",
-      "published": 1792857492
-    },
-    {
-      "title": "Dossier — Golden Amber Oud",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Golden-Amber-Oud-145905.html",
-      "description": "New perfume listing: Golden Amber Oud by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1792857492
-    },
-    {
-      "title": "Dossier — Oud de Rose",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Oud-de-Rose-145904.html",
-      "description": "New perfume listing: Oud de Rose by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1792857492
-    },
-    {
-      "title": "Dossier — Tropical Oud",
-      "link": "https://www.fragrantica.com/perfume/Dossier/Tropical-Oud-145903.html",
-      "description": "New perfume listing: Tropical Oud by Dossier.",
-      "category": "New Perfumes",
-      "author": "Dossier",
-      "published": 1792857492
-    },
-    {
-      "title": "Lattafa Perfumes — Ghinwa",
-      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ghinwa-145932.html",
-      "description": "New perfume listing: Ghinwa by Lattafa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Lattafa Perfumes",
-      "published": 1792857492
-    },
-    {
-      "title": "Nu Parfums — Black Is Black",
-      "link": "https://www.fragrantica.com/perfume/Nu-Parfums/Black-Is-Black-145931.html",
-      "description": "New perfume listing: Black Is Black by Nu Parfums.",
-      "category": "New Perfumes",
-      "author": "Nu Parfums",
-      "published": 1792857492
-    },
-    {
-      "title": "Nu Parfums — Black Is Black Superior",
-      "link": "https://www.fragrantica.com/perfume/Nu-Parfums/Black-Is-Black-Superior-145930.html",
-      "description": "New perfume listing: Black Is Black Superior by Nu Parfums.",
-      "category": "New Perfumes",
-      "author": "Nu Parfums",
       "published": 1792857492
     }
   ]
