@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Estée Lauder’s Glimmer Only Simmers",
+      "link": "https://www.fragrantica.com/news/Estee-Lauder-s-Glimmer-Only-Simmers-26450.html",
+      "description": "And it’s about more than just the fragrance itself...",
+      "category": "Fragrance Reviews",
+      "author": "Patric Rhys",
+      "published": 1793131203
+    },
+    {
       "title": "Ricardo Ramos Introduces Zhèng Hé Sillage at NOTES Shanghai AW2026",
       "link": "https://www.fragrantica.com/news/Ricardo-Ramos-Introduces-Zheng-He-Sillage-at-NOTES-Shanghai-AW2026-26449.html",
       "description": "Ricardo Ramos unveils Zheng He Sillage (七航遗香), a natural oil perfume inspired by Chinese Admiral Zheng and his legendary maritime voyages. The scent was created for perfume retailer Scent Atoll (馥屿).",
@@ -791,17 +799,121 @@
       "category": "New Fragrances",
       "author": "Patric Rhys",
       "published": 1791988863
-    },
-    {
-      "title": "A Few of New York City's Can’t-Miss Fragrance Spots",
-      "link": "https://www.fragrantica.com/news/A-Few-of-New-York-City-s-Can-t-Miss-Fragrance-Spots-26350.html",
-      "description": "...Plus a Google Maps guide to most of the city's fragrance shops! Save this if you're heading to ScentXplore.",
-      "category": "Columns",
-      "author": "Adam Forziati",
-      "published": 1791977523
     }
   ],
   "perfumes": [
+    {
+      "title": "Infinity Scent — Epifania",
+      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Epifania-146259.html",
+      "description": "New perfume listing: Epifania by Infinity Scent.",
+      "category": "New Perfumes",
+      "author": "Infinity Scent",
+      "published": 1793139296
+    },
+    {
+      "title": "Infinity Scent — Orion",
+      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Orion-146258.html",
+      "description": "New perfume listing: Orion by Infinity Scent.",
+      "category": "New Perfumes",
+      "author": "Infinity Scent",
+      "published": 1793139296
+    },
+    {
+      "title": "Infinity Scent — Lunea",
+      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Lunea-146257.html",
+      "description": "New perfume listing: Lunea by Infinity Scent.",
+      "category": "New Perfumes",
+      "author": "Infinity Scent",
+      "published": 1793139296
+    },
+    {
+      "title": "Cade Black — Pistol V",
+      "link": "https://www.fragrantica.com/perfume/Cade-Black/Pistol-V-146256.html",
+      "description": "New perfume listing: Pistol V by Cade Black.",
+      "category": "New Perfumes",
+      "author": "Cade Black",
+      "published": 1793139296
+    },
+    {
+      "title": "DeskLab Parfums — Fer",
+      "link": "https://www.fragrantica.com/perfume/DeskLab-Parfums/Fer-146255.html",
+      "description": "New perfume listing: Fer by DeskLab Parfums.",
+      "category": "New Perfumes",
+      "author": "DeskLab Parfums",
+      "published": 1793139296
+    },
+    {
+      "title": "DeskLab Parfums — Cantares",
+      "link": "https://www.fragrantica.com/perfume/DeskLab-Parfums/Cantares-146254.html",
+      "description": "New perfume listing: Cantares by DeskLab Parfums.",
+      "category": "New Perfumes",
+      "author": "DeskLab Parfums",
+      "published": 1793139296
+    },
+    {
+      "title": "Cade Black — Lotus White",
+      "link": "https://www.fragrantica.com/perfume/Cade-Black/Lotus-White-146253.html",
+      "description": "New perfume listing: Lotus White by Cade Black.",
+      "category": "New Perfumes",
+      "author": "Cade Black",
+      "published": 1793139296
+    },
+    {
+      "title": "Cade Black — Frank and Penny",
+      "link": "https://www.fragrantica.com/perfume/Cade-Black/Frank-and-Penny-146252.html",
+      "description": "New perfume listing: Frank and Penny by Cade Black.",
+      "category": "New Perfumes",
+      "author": "Cade Black",
+      "published": 1793139296
+    },
+    {
+      "title": "Blackoud — Okinawa",
+      "link": "https://www.fragrantica.com/perfume/Blackoud/Okinawa-146251.html",
+      "description": "New perfume listing: Okinawa by Blackoud.",
+      "category": "New Perfumes",
+      "author": "Blackoud",
+      "published": 1793139296
+    },
+    {
+      "title": "Blackoud — Matcha Latte",
+      "link": "https://www.fragrantica.com/perfume/Blackoud/Matcha-Latte-146250.html",
+      "description": "New perfume listing: Matcha Latte by Blackoud.",
+      "category": "New Perfumes",
+      "author": "Blackoud",
+      "published": 1793139296
+    },
+    {
+      "title": "OFUMUM — Poivre Porcelaine",
+      "link": "https://www.fragrantica.com/perfume/OFUMUM/Poivre-Porcelaine-146246.html",
+      "description": "New perfume listing: Poivre Porcelaine by OFUMUM.",
+      "category": "New Perfumes",
+      "author": "OFUMUM",
+      "published": 1793139296
+    },
+    {
+      "title": "Yves Rocher — Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel)",
+      "link": "https://www.fragrantica.com/perfume/Yves-Rocher/Algue-Sauvage-Criste-Marine-Wild-Algae-Sea-Fennel-146249.html",
+      "description": "New perfume listing: Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel) by Yves Rocher.",
+      "category": "New Perfumes",
+      "author": "Yves Rocher",
+      "published": 1793139296
+    },
+    {
+      "title": "OFUMUM — Narcist Iris",
+      "link": "https://www.fragrantica.com/perfume/OFUMUM/Narcist-Iris-146248.html",
+      "description": "New perfume listing: Narcist Iris by OFUMUM.",
+      "category": "New Perfumes",
+      "author": "OFUMUM",
+      "published": 1793139296
+    },
+    {
+      "title": "OFUMUM — Eau de Rêves",
+      "link": "https://www.fragrantica.com/perfume/OFUMUM/Eau-de-Reves-146247.html",
+      "description": "New perfume listing: Eau de Rêves by OFUMUM.",
+      "category": "New Perfumes",
+      "author": "OFUMUM",
+      "published": 1793139296
+    },
     {
       "title": "O'FÚMUM — Poivre Porcelaine",
       "link": "https://www.fragrantica.com/perfume/O-FUMUM/Poivre-Porcelaine-146246.html",
@@ -1489,118 +1601,6 @@
       "category": "New Perfumes",
       "author": "Jean Patou",
       "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — 3Kings",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/3Kings-145977.html",
-      "description": "New perfume listing: 3Kings by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Ovrdryv",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Ovrdryv-145976.html",
-      "description": "New perfume listing: Ovrdryv by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Cosmic Voyager",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Cosmic-Voyager-145975.html",
-      "description": "New perfume listing: Cosmic Voyager by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Why",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Why-145974.html",
-      "description": "New perfume listing: Why by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Aurelia Exclusive",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Aurelia-Exclusive-145973.html",
-      "description": "New perfume listing: Aurelia Exclusive by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Boscage",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Boscage-145972.html",
-      "description": "New perfume listing: Boscage by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — Floral Spells + M",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/Floral-Spells-M-145971.html",
-      "description": "New perfume listing: Floral Spells + M by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Dekode Parfums — F*ck*ng Famous",
-      "link": "https://www.fragrantica.com/perfume/Dekode-Parfums/F-ck-ng-Famous-145970.html",
-      "description": "New perfume listing: F*ck*ng Famous by Dekode Parfums.",
-      "category": "New Perfumes",
-      "author": "Dekode Parfums",
-      "published": 1793077626
-    },
-    {
-      "title": "Victoria's Secret — Iconic Glam Shimmer",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Iconic-Glam-Shimmer-146133.html",
-      "description": "New perfume listing: Iconic Glam Shimmer by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1793054440
-    },
-    {
-      "title": "Victoria's Secret — Ruby Plum Nights",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Ruby-Plum-Nights-146131.html",
-      "description": "New perfume listing: Ruby Plum Nights by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1793054440
-    },
-    {
-      "title": "Victoria's Secret — Rich Vanilla Mystère",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Rich-Vanilla-Mystere-146130.html",
-      "description": "New perfume listing: Rich Vanilla Mystère by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1793054440
-    },
-    {
-      "title": "We Pink — Infinity Xis",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Infinity-Xis-146129.html",
-      "description": "New perfume listing: Infinity Xis by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793054440
-    },
-    {
-      "title": "We Pink — Crave Lovely",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Crave-Lovely-146128.html",
-      "description": "New perfume listing: Crave Lovely by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793054440
-    },
-    {
-      "title": "Ibrahim Fuhaid — Nerolis",
-      "link": "https://www.fragrantica.com/perfume/Ibrahim-Fuhaid/Nerolis-146127.html",
-      "description": "New perfume listing: Nerolis by Ibrahim Fuhaid.",
-      "category": "New Perfumes",
-      "author": "Ibrahim Fuhaid",
-      "published": 1793054440
     }
   ]
 }
