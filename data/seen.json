@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "PARFUMS DE MARLY Countdown Calendar",
+      "link": "https://www.fragrantica.com/news/PARFUMS-DE-MARLY-Countdown-Calendar-26454.html",
+      "description": "Parfums de Marly presents its 2026 holiday countdown calendar as a celebration among the stars!",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793191922
+    },
+    {
+      "title": "Pigmentarium Paradiso EXTRAIT",
+      "link": "https://www.fragrantica.com/news/Pigmentarium-Paradiso-EXTRAIT-26453.html",
+      "description": "A familiar fragrance in a new, more intense form.",
+      "category": "New Fragrances",
+      "author": "Markéta Rybínová",
+      "published": 1793183283
+    },
+    {
+      "title": "Madonna and Boy Smells Unveil Scented Candle Collection",
+      "link": "https://www.fragrantica.com/news/Madonna-and-Boy-Smells-Unveil-Scented-Candle-Collection-26452.html",
+      "description": "The Like a Prayer and Confessions candles were created by Robertet perfumer Jérôme Epinette.",
+      "category": "Fragrance News",
+      "author": "Igor Masyukov",
+      "published": 1793170756
+    },
+    {
       "title": "Andara: The First Perfume Collection by Niccolò Pasqualetti",
       "link": "https://www.fragrantica.com/news/Andara-The-First-Perfume-Collection-by-Niccolo-Pasqualetti-26451.html",
       "description": "Three dreamlike and experimental extraits de parfum, presented at Pitti Fragranze",
@@ -775,33 +799,33 @@
       "category": "Columns",
       "author": "Eddie Bulliqi",
       "published": 1792031524
-    },
-    {
-      "title": "A Review of Darling Point by Memo Paris",
-      "link": "https://www.fragrantica.com/news/A-Review-of-Darling-Point-by-Memo-Paris-26354.html",
-      "description": "And why it’s wonderful to bask in the glow of people and perfumes that feel like sunshine",
-      "category": "Fragrance Reviews",
-      "author": "Nicola Thomis",
-      "published": 1792020602
-    },
-    {
-      "title": "\"The Manoeuvres of the Baroness\" Penhaligon's: The Baroness Maneuvered, Maneuvered, and Failed to Outmaneuver",
-      "link": "https://www.fragrantica.com/news/The-Manoeuvres-of-the-Baroness-Penhaligon-s-The-Baroness-Maneuvered-Maneuvered-and-Failed-to-Outmaneuver-26353.html",
-      "description": "Orange blossom, amberwoods, and musk—you know, that could actually be quite lovely!",
-      "category": "Fragrance Reviews",
-      "author": "Alex (Sane-Witch) Osipov",
-      "published": 1792006149
-    },
-    {
-      "title": "Gervais Chardin: The Renaissance of an 18th-Century Sleeping Beauty",
-      "link": "https://www.fragrantica.com/news/Gervais-Chardin-The-Renaissance-of-an-18th-Century-Sleeping-Beauty-26352.html",
-      "description": "Spotlight on the renaissance of a historic 18th-century house, Gervais Chardin, which I had the chance to discover during TFWA 2026.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1791999003
     }
   ],
   "perfumes": [
+    {
+      "title": "Memoirs Of A Perfume Collector — Vanilla Skies",
+      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Vanilla-Skies-146265.html",
+      "description": "New perfume listing: Vanilla Skies by Memoirs Of A Perfume Collector.",
+      "category": "New Perfumes",
+      "author": "Memoirs Of A Perfume Collector",
+      "published": 1793192188
+    },
+    {
+      "title": "Habibi NY — Solstice Dunes",
+      "link": "https://www.fragrantica.com/perfume/Habibi-NY/Solstice-Dunes-146264.html",
+      "description": "New perfume listing: Solstice Dunes by Habibi NY.",
+      "category": "New Perfumes",
+      "author": "Habibi NY",
+      "published": 1793192188
+    },
+    {
+      "title": "Pigmentarium — Paradiso Extrait",
+      "link": "https://www.fragrantica.com/perfume/Pigmentarium/Paradiso-Extrait-146263.html",
+      "description": "New perfume listing: Paradiso Extrait by Pigmentarium.",
+      "category": "New Perfumes",
+      "author": "Pigmentarium",
+      "published": 1793192188
+    },
     {
       "title": "Zimaya — Black Symphony",
       "link": "https://www.fragrantica.com/perfume/Zimaya/Black-Symphony-146260.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Zhèng Hé Sillage/Adventurous Attar 七航遗香 by Ricardo Ramos Perfumes de Autor.",
       "category": "New Perfumes",
       "author": "Ricardo Ramos Perfumes de Autor",
-      "published": 1793077626
-    },
-    {
-      "title": "Atyaab — Lara Purple",
-      "link": "https://www.fragrantica.com/perfume/Atyaab/Lara-Purple-145996.html",
-      "description": "New perfume listing: Lara Purple by Atyaab.",
-      "category": "New Perfumes",
-      "author": "Atyaab",
-      "published": 1793077626
-    },
-    {
-      "title": "Atyaab — Lara Green",
-      "link": "https://www.fragrantica.com/perfume/Atyaab/Lara-Green-145995.html",
-      "description": "New perfume listing: Lara Green by Atyaab.",
-      "category": "New Perfumes",
-      "author": "Atyaab",
-      "published": 1793077626
-    },
-    {
-      "title": "Floris — &",
-      "link": "https://www.fragrantica.com/perfume/Floris/-145985.html",
-      "description": "New perfume listing: & by Floris.",
-      "category": "New Perfumes",
-      "author": "Floris",
       "published": 1793077626
     }
   ]
