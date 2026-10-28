@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Andara: The First Perfume Collection by Niccolò Pasqualetti",
+      "link": "https://www.fragrantica.com/news/Andara-The-First-Perfume-Collection-by-Niccolo-Pasqualetti-26451.html",
+      "description": "Three dreamlike and experimental extraits de parfum, presented at Pitti Fragranze",
+      "category": "Fragrance News",
+      "author": "Giulietta Ptoyan",
+      "published": 1793142002
+    },
+    {
       "title": "Estée Lauder’s Glimmer Only Simmers",
       "link": "https://www.fragrantica.com/news/Estee-Lauder-s-Glimmer-Only-Simmers-26450.html",
       "description": "And it’s about more than just the fragrance itself...",
@@ -791,17 +799,33 @@
       "category": "Fragrance Reviews",
       "author": "Sophie Normand",
       "published": 1791999003
-    },
-    {
-      "title": "Commodity Spice: A Family Table Filled With Sweet Warmth",
-      "link": "https://www.fragrantica.com/news/Commodity-Spice-A-Family-Table-Filled-With-Sweet-Warmth-26351.html",
-      "description": "The newest addition to the line sees re-founder Vicken Arslanian bottling the spices and desserts he grew up with in Kuwait",
-      "category": "New Fragrances",
-      "author": "Patric Rhys",
-      "published": 1791988863
     }
   ],
   "perfumes": [
+    {
+      "title": "Zimaya — Black Symphony",
+      "link": "https://www.fragrantica.com/perfume/Zimaya/Black-Symphony-146260.html",
+      "description": "New perfume listing: Black Symphony by Zimaya.",
+      "category": "New Perfumes",
+      "author": "Zimaya",
+      "published": 1793166230
+    },
+    {
+      "title": "Lviv Perfume Factory - Львівська парфумерна фабрика — Бархатцы (Чорнобривцы)",
+      "link": "https://www.fragrantica.com/perfume/Lviv-Perfume-Factory-L-vivs-ka-parfumerna-fabrika/Barhatcy-Cornobrivcy-146262.html",
+      "description": "New perfume listing: Бархатцы (Чорнобривцы) by Lviv Perfume Factory - Львівська парфумерна фабрика.",
+      "category": "New Perfumes",
+      "author": "Lviv Perfume Factory - Львівська парфумерна фабрика",
+      "published": 1793166230
+    },
+    {
+      "title": "Boots — Eau de Cologne",
+      "link": "https://www.fragrantica.com/perfume/Boots/Eau-de-Cologne-146261.html",
+      "description": "New perfume listing: Eau de Cologne by Boots.",
+      "category": "New Perfumes",
+      "author": "Boots",
+      "published": 1793166230
+    },
     {
       "title": "Infinity Scent — Epifania",
       "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Epifania-146259.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: & by Floris.",
       "category": "New Perfumes",
       "author": "Floris",
-      "published": 1793077626
-    },
-    {
-      "title": "Jean Patou — Eau de Cologne Lavandée",
-      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Eau-de-Cologne-Lavandee-145982.html",
-      "description": "New perfume listing: Eau de Cologne Lavandée by Jean Patou.",
-      "category": "New Perfumes",
-      "author": "Jean Patou",
-      "published": 1793077626
-    },
-    {
-      "title": "Jean Patou — Délices",
-      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Delices-145981.html",
-      "description": "New perfume listing: Délices by Jean Patou.",
-      "category": "New Perfumes",
-      "author": "Jean Patou",
-      "published": 1793077626
-    },
-    {
-      "title": "Jean Patou — Coming Up Roses",
-      "link": "https://www.fragrantica.com/perfume/Jean-Patou/Coming-Up-Roses-145980.html",
-      "description": "New perfume listing: Coming Up Roses by Jean Patou.",
-      "category": "New Perfumes",
-      "author": "Jean Patou",
       "published": 1793077626
     }
   ]
