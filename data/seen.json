@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Maison Mataha Brownie Pop: The Platonic Ideal of a Brownie",
+      "link": "https://www.fragrantica.com/news/Maison-Mataha-Brownie-Pop-The-Platonic-Ideal-of-a-Brownie-26462.html",
+      "description": "Plato considered art an imitation of an imitation. What would he have said about a fragrance that imitates the smell of food? He probably would have asked for a sample first.",
+      "category": "Fragrance Reviews",
+      "author": "Matvey Yudov",
+      "published": 1793247064
+    },
+    {
+      "title": "Cachemire Blanc by Bey Parfum: Honey and Milk",
+      "link": "https://www.fragrantica.com/news/Cachemire-Blanc-by-Bey-Parfum-Honey-and-Milk-26461.html",
+      "description": "A fragrance from the Renaissance collection, reminiscent of a Greek temple at sunset, famous biblical verses and the famous Sweater Girls.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1793239203
+    },
+    {
+      "title": "RABANNE Disco Ball Advent Calendar",
+      "link": "https://www.fragrantica.com/news/RABANNE-Disco-Ball-Advent-Calendar-26460.html",
+      "description": "Disco ball, sparkles and fun!",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793232003
+    },
+    {
       "title": "Le Labo CAFÉ 32 Vienna",
       "link": "https://www.fragrantica.com/news/Le-Labo-CAFE-32-Vienna-26459.html",
       "description": "Le Labo introduces CAFÉ 32, a new City Exclusive inspired by Vienna.",
@@ -775,33 +799,49 @@
       "category": "Fragrance Reviews",
       "author": "Nicola Thomis",
       "published": 1792105334
-    },
-    {
-      "title": "Authentic Diorling, by Christian Dior",
-      "link": "https://www.fragrantica.com/news/Authentic-Diorling-by-Christian-Dior-26362.html",
-      "description": "British elegance through the eyes of Christian Dior and Paul Vacher.",
-      "category": "Vintages",
-      "author": "Sergey Borisov",
-      "published": 1792098765
-    },
-    {
-      "title": "The Second Series by Landcaster, Oud-based",
-      "link": "https://www.fragrantica.com/news/The-Second-Series-by-Landcaster-Oud-based-26361.html",
-      "description": "Techno Oud, Metallic Oud and Oud Carbon",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1792090863
-    },
-    {
-      "title": "Year XOXO and Sarah Baker's Vanilla Trilogy: It's the End of the World",
-      "link": "https://www.fragrantica.com/news/Year-XOXO-and-Sarah-Baker-s-Vanilla-Trilogy-It-s-the-End-of-the-World-26360.html",
-      "description": "Three interpretations of Madagascar vanilla by Margaux Le Paih-Guérin",
-      "category": "Fragrance Reviews",
-      "author": "Giulietta Ptoyan",
-      "published": 1792077304
     }
   ],
   "perfumes": [
+    {
+      "title": "Mixologist — Gincenso 2026 Remix",
+      "link": "https://www.fragrantica.com/perfume/Mixologist/Gincenso-2026-Remix-146335.html",
+      "description": "New perfume listing: Gincenso 2026 Remix by Mixologist.",
+      "category": "New Perfumes",
+      "author": "Mixologist",
+      "published": 1793252976
+    },
+    {
+      "title": "Duale — Lumière",
+      "link": "https://www.fragrantica.com/perfume/Duale/Lumiere-146334.html",
+      "description": "New perfume listing: Lumière by Duale.",
+      "category": "New Perfumes",
+      "author": "Duale",
+      "published": 1793252976
+    },
+    {
+      "title": "Marbert — Vanilla Pleasure Elixir",
+      "link": "https://www.fragrantica.com/perfume/Marbert/Vanilla-Pleasure-Elixir-146242.html",
+      "description": "New perfume listing: Vanilla Pleasure Elixir by Marbert.",
+      "category": "New Perfumes",
+      "author": "Marbert",
+      "published": 1793252976
+    },
+    {
+      "title": "Marbert — Woodfire Elixir",
+      "link": "https://www.fragrantica.com/perfume/Marbert/Woodfire-Elixir-146241.html",
+      "description": "New perfume listing: Woodfire Elixir by Marbert.",
+      "category": "New Perfumes",
+      "author": "Marbert",
+      "published": 1793252976
+    },
+    {
+      "title": "French Avenue — Sultana - The Joyful",
+      "link": "https://www.fragrantica.com/perfume/French-Avenue/Sultana-The-Joyful-146240.html",
+      "description": "New perfume listing: Sultana - The Joyful by French Avenue.",
+      "category": "New Perfumes",
+      "author": "French Avenue",
+      "published": 1793252976
+    },
     {
       "title": "Pisello Parfum — Cell Jr 5",
       "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Cell-Jr-5-146333.html",
@@ -1560,46 +1600,6 @@
       "description": "New perfume listing: Cucumber Reverie 装睡的黄瓜 by NarriScent 选叙.",
       "category": "New Perfumes",
       "author": "NarriScent 选叙",
-      "published": 1793124132
-    },
-    {
-      "title": "Granado — Buona Fortuna",
-      "link": "https://www.fragrantica.com/perfume/Granado/Buona-Fortuna-146183.html",
-      "description": "New perfume listing: Buona Fortuna by Granado.",
-      "category": "New Perfumes",
-      "author": "Granado",
-      "published": 1793124132
-    },
-    {
-      "title": "We Pink — Latina",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Latina-146172.html",
-      "description": "New perfume listing: Latina by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793124132
-    },
-    {
-      "title": "We Pink — Scarlette",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Scarlette-146165.html",
-      "description": "New perfume listing: Scarlette by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793124132
-    },
-    {
-      "title": "We Pink — Martin",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Martin-146162.html",
-      "description": "New perfume listing: Martin by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793124132
-    },
-    {
-      "title": "We Pink — One Touch Silk",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/One-Touch-Silk-146160.html",
-      "description": "New perfume listing: One Touch Silk by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
       "published": 1793124132
     }
   ]
