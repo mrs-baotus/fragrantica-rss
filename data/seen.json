@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "American Perfume Orgs Collaborate on Fragrance Safety Presentation",
+      "link": "https://www.fragrantica.com/news/American-Perfume-Orgs-Collaborate-on-Fragrance-Safety-Presentation-26469.html",
+      "description": "Anyone who makes perfume is welcome to attend on November 18, 2026 in New Jersey.",
+      "category": "Fragrance News",
+      "author": "Adam Forziati",
+      "published": 1793307303
+    },
+    {
+      "title": "CAROLINA HERRERA Advent Calendar: 24 Days of Beauty",
+      "link": "https://www.fragrantica.com/news/CAROLINA-HERRERA-Advent-Calendar-24-Days-of-Beauty-26468.html",
+      "description": "Celebration in Herrera's colours of red and gold is inspired by magical journeys beyond the clouds.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793299323
+    },
+    {
+      "title": "Jo Malone Vanilla Scotch Cologne, Is it Enough of Either?",
+      "link": "https://www.fragrantica.com/news/Jo-Malone-Vanilla-Scotch-Cologne-Is-it-Enough-of-Either-26467.html",
+      "description": "One of a new set of four perfumes from Jo Malone, this one blends two primary smells: vanilla and booze. But how much is it vanilla, and how much is it booze, and is it enough of either?",
+      "category": "Fragrance Reviews",
+      "author": "John Biebel",
+      "published": 1793288223
+    },
+    {
+      "title": "To Define 寓义 Love Actually Series — 爱的黄金时代系列: Vegetable Patches, Currant Bushes, and Jadeite Cabbage",
+      "link": "https://www.fragrantica.com/news/To-Define-yu-yi-Love-Actually-Series-ai-de-huang-jin-shi-dai-xi-lie-Vegetable-Patches-Currant-Bushes-and-Jadeite-Cabbage-26466.html",
+      "description": "Becoming — 将熟 and Flipped — 某某 by To Define 寓义. A stroll through the garden — and the vegetable patch.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1793279943
+    },
+    {
+      "title": "Nerolis Extrait De Parfum: The New Fragrance From Ibrahim Fuhaid",
+      "link": "https://www.fragrantica.com/news/Nerolis-Extrait-De-Parfum-The-New-Fragrance-From-Ibrahim-Fuhaid-26465.html",
+      "description": "Moroccan Neroli and Tunisian Orange Blossom in high concentrations.",
+      "category": "Niche Perfumery",
+      "author": "Rouu Abd El-Latif",
+      "published": 1793279583
+    },
+    {
       "title": "Malodor Counteraction: A Big Interview with Mane Professionals",
       "link": "https://www.fragrantica.com/news/Malodor-Counteraction-A-Big-Interview-with-Mane-Professionals-26464.html",
       "description": "Chemical and physical approaches to fight foul smells.",
@@ -759,49 +799,121 @@
       "category": "Fragrance Reviews",
       "author": "Sophie Normand",
       "published": 1792173451
-    },
-    {
-      "title": "La-Di-Da Collection: Sweet Snob Couple by Arabiyat Prestige",
-      "link": "https://www.fragrantica.com/news/La-Di-Da-Collection-Sweet-Snob-Couple-by-Arabiyat-Prestige-26369.html",
-      "description": "Let's recall old conversational English!",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1792169103
-    },
-    {
-      "title": "Le Labo Papyrus 20 New Classic Candle",
-      "link": "https://www.fragrantica.com/news/Le-Labo-Papyrus-20-New-Classic-Candle-26368.html",
-      "description": "Some memories we decide to keep. Others find us without warning.",
-      "category": "Scented Home & Garden",
-      "author": "Elena Vosnaki",
-      "published": 1792156443
-    },
-    {
-      "title": "Olymra, Mount Olympus Made Scent",
-      "link": "https://www.fragrantica.com/news/Olymra-Mount-Olympus-Made-Scent-26367.html",
-      "description": "One of Giulietta's unexpected discoveries at Pitti Fragranze.",
-      "category": "Niche Fragrances",
-      "author": "Giulietta Ptoyan",
-      "published": 1792148403
-    },
-    {
-      "title": "Jules DIOR (2026) Review - A Timeless Beauty to Collect and Cherish Before it Disappears",
-      "link": "https://www.fragrantica.com/news/Jules-DIOR-2026-Review-A-Timeless-Beauty-to-Collect-and-Cherish-Before-it-Disappears-26366.html",
-      "description": "Not all reformulations are a disaster...",
-      "category": "Fragrance Reviews",
-      "author": "Miguel Matos",
-      "published": 1792137723
-    },
-    {
-      "title": "Korean Brand HB;RN Launches Healing Collection",
-      "link": "https://www.fragrantica.com/news/Korean-Brand-HB-RN-Launches-Healing-Collection-26365.html",
-      "description": "Created with perfumer Cécile Matton.",
-      "category": "New Fragrances",
-      "author": "Eddie Bulliqi",
-      "published": 1792126923
     }
   ],
   "perfumes": [
+    {
+      "title": "Samam — Hug & Sand Black Tea",
+      "link": "https://www.fragrantica.com/perfume/Samam/Hug-Sand-Black-Tea-146367.html",
+      "description": "New perfume listing: Hug & Sand Black Tea by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Bal Du Désert",
+      "link": "https://www.fragrantica.com/perfume/Samam/Bal-Du-Desert-146366.html",
+      "description": "New perfume listing: Bal Du Désert by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — The Night XC",
+      "link": "https://www.fragrantica.com/perfume/Samam/The-Night-XC-146365.html",
+      "description": "New perfume listing: The Night XC by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Sultants Bloom LX",
+      "link": "https://www.fragrantica.com/perfume/Samam/Sultants-Bloom-LX-146364.html",
+      "description": "New perfume listing: Sultants Bloom LX by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — AgarWood IV",
+      "link": "https://www.fragrantica.com/perfume/Samam/AgarWood-IV-146363.html",
+      "description": "New perfume listing: AgarWood IV by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Pour Homme LV",
+      "link": "https://www.fragrantica.com/perfume/Samam/Pour-Homme-LV-146362.html",
+      "description": "New perfume listing: Pour Homme LV by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Mambo XII",
+      "link": "https://www.fragrantica.com/perfume/Samam/Mambo-XII-146361.html",
+      "description": "New perfume listing: Mambo XII by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Flora V",
+      "link": "https://www.fragrantica.com/perfume/Samam/Flora-V-146360.html",
+      "description": "New perfume listing: Flora V by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Samam — Essence D’iris XV",
+      "link": "https://www.fragrantica.com/perfume/Samam/Essence-D-iris-XV-146359.html",
+      "description": "New perfume listing: Essence D’iris XV by Samam.",
+      "category": "New Perfumes",
+      "author": "Samam",
+      "published": 1793313937
+    },
+    {
+      "title": "Urthy — Mais",
+      "link": "https://www.fragrantica.com/perfume/Urthy/Mais-146358.html",
+      "description": "New perfume listing: Mais by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793313937
+    },
+    {
+      "title": "Roja Dove — The Exclusive Parfum",
+      "link": "https://www.fragrantica.com/perfume/Roja-Dove/The-Exclusive-Parfum-146356.html",
+      "description": "New perfume listing: The Exclusive Parfum by Roja Dove.",
+      "category": "New Perfumes",
+      "author": "Roja Dove",
+      "published": 1793313937
+    },
+    {
+      "title": "Ex Nihilo — The Irreverents Extrait",
+      "link": "https://www.fragrantica.com/perfume/Ex-Nihilo/The-Irreverents-Extrait-146355.html",
+      "description": "New perfume listing: The Irreverents Extrait by Ex Nihilo.",
+      "category": "New Perfumes",
+      "author": "Ex Nihilo",
+      "published": 1793313937
+    },
+    {
+      "title": "Henry Jacques — Rose Azur",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Azur-146357.html",
+      "description": "New perfume listing: Rose Azur by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1793313937
+    },
+    {
+      "title": "OFUMUM — Eau de Rêves",
+      "link": "https://www.fragrantica.com/perfume/OFUMUM/Eau-de-Reves-146247.html",
+      "description": "New perfume listing: Eau de Rêves by OFUMUM.",
+      "category": "New Perfumes",
+      "author": "OFUMUM",
+      "published": 1793313937
+    },
     {
       "title": "Urthy — Charleston",
       "link": "https://www.fragrantica.com/perfume/Urthy/Charleston-146354.html",
@@ -1489,118 +1601,6 @@
       "category": "New Perfumes",
       "author": "Lviv Perfume Factory - Львівська парфумерна фабрика",
       "published": 1793166230
-    },
-    {
-      "title": "Boots — Eau de Cologne",
-      "link": "https://www.fragrantica.com/perfume/Boots/Eau-de-Cologne-146261.html",
-      "description": "New perfume listing: Eau de Cologne by Boots.",
-      "category": "New Perfumes",
-      "author": "Boots",
-      "published": 1793166230
-    },
-    {
-      "title": "Infinity Scent — Epifania",
-      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Epifania-146259.html",
-      "description": "New perfume listing: Epifania by Infinity Scent.",
-      "category": "New Perfumes",
-      "author": "Infinity Scent",
-      "published": 1793139296
-    },
-    {
-      "title": "Infinity Scent — Orion",
-      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Orion-146258.html",
-      "description": "New perfume listing: Orion by Infinity Scent.",
-      "category": "New Perfumes",
-      "author": "Infinity Scent",
-      "published": 1793139296
-    },
-    {
-      "title": "Infinity Scent — Lunea",
-      "link": "https://www.fragrantica.com/perfume/Infinity-Scent/Lunea-146257.html",
-      "description": "New perfume listing: Lunea by Infinity Scent.",
-      "category": "New Perfumes",
-      "author": "Infinity Scent",
-      "published": 1793139296
-    },
-    {
-      "title": "Cade Black — Pistol V",
-      "link": "https://www.fragrantica.com/perfume/Cade-Black/Pistol-V-146256.html",
-      "description": "New perfume listing: Pistol V by Cade Black.",
-      "category": "New Perfumes",
-      "author": "Cade Black",
-      "published": 1793139296
-    },
-    {
-      "title": "DeskLab Parfums — Fer",
-      "link": "https://www.fragrantica.com/perfume/DeskLab-Parfums/Fer-146255.html",
-      "description": "New perfume listing: Fer by DeskLab Parfums.",
-      "category": "New Perfumes",
-      "author": "DeskLab Parfums",
-      "published": 1793139296
-    },
-    {
-      "title": "DeskLab Parfums — Cantares",
-      "link": "https://www.fragrantica.com/perfume/DeskLab-Parfums/Cantares-146254.html",
-      "description": "New perfume listing: Cantares by DeskLab Parfums.",
-      "category": "New Perfumes",
-      "author": "DeskLab Parfums",
-      "published": 1793139296
-    },
-    {
-      "title": "Cade Black — Lotus White",
-      "link": "https://www.fragrantica.com/perfume/Cade-Black/Lotus-White-146253.html",
-      "description": "New perfume listing: Lotus White by Cade Black.",
-      "category": "New Perfumes",
-      "author": "Cade Black",
-      "published": 1793139296
-    },
-    {
-      "title": "Cade Black — Frank and Penny",
-      "link": "https://www.fragrantica.com/perfume/Cade-Black/Frank-and-Penny-146252.html",
-      "description": "New perfume listing: Frank and Penny by Cade Black.",
-      "category": "New Perfumes",
-      "author": "Cade Black",
-      "published": 1793139296
-    },
-    {
-      "title": "Blackoud — Okinawa",
-      "link": "https://www.fragrantica.com/perfume/Blackoud/Okinawa-146251.html",
-      "description": "New perfume listing: Okinawa by Blackoud.",
-      "category": "New Perfumes",
-      "author": "Blackoud",
-      "published": 1793139296
-    },
-    {
-      "title": "Blackoud — Matcha Latte",
-      "link": "https://www.fragrantica.com/perfume/Blackoud/Matcha-Latte-146250.html",
-      "description": "New perfume listing: Matcha Latte by Blackoud.",
-      "category": "New Perfumes",
-      "author": "Blackoud",
-      "published": 1793139296
-    },
-    {
-      "title": "OFUMUM — Poivre Porcelaine",
-      "link": "https://www.fragrantica.com/perfume/OFUMUM/Poivre-Porcelaine-146246.html",
-      "description": "New perfume listing: Poivre Porcelaine by OFUMUM.",
-      "category": "New Perfumes",
-      "author": "OFUMUM",
-      "published": 1793139296
-    },
-    {
-      "title": "Yves Rocher — Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel)",
-      "link": "https://www.fragrantica.com/perfume/Yves-Rocher/Algue-Sauvage-Criste-Marine-Wild-Algae-Sea-Fennel-146249.html",
-      "description": "New perfume listing: Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel) by Yves Rocher.",
-      "category": "New Perfumes",
-      "author": "Yves Rocher",
-      "published": 1793139296
-    },
-    {
-      "title": "OFUMUM — Narcist Iris",
-      "link": "https://www.fragrantica.com/perfume/OFUMUM/Narcist-Iris-146248.html",
-      "description": "New perfume listing: Narcist Iris by OFUMUM.",
-      "category": "New Perfumes",
-      "author": "OFUMUM",
-      "published": 1793139296
     }
   ]
 }
