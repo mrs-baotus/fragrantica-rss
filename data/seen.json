@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "AMBRAGIO Puredistance: A Warm, Unrushed Embrace",
+      "link": "https://www.fragrantica.com/news/AMBRAGIO-Puredistance-A-Warm-Unrushed-Embrace-26475.html",
+      "description": "Perfumer Stéphanie Bakouche created an amber fantasy in this premium fragrance, boosted by fascinating boozy, floral, and incense-like notes to extend and make the central amber accord embrace you in a warm hug.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Vosnaki",
+      "published": 1793360343
+    },
+    {
+      "title": "California Bound with Ojai and Alento by L'Objet",
+      "link": "https://www.fragrantica.com/news/California-Bound-with-Ojai-and-Alento-by-L-Objet-26474.html",
+      "description": "This fall, L'Objet unveiled a new chapter inspired by California with Ojai and Alento.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1793349784
+    },
+    {
+      "title": "Amank'ay Altaia: The Lily of the Incas",
+      "link": "https://www.fragrantica.com/news/Amank-ay-Altaia-The-Lily-of-the-Incas-26473.html",
+      "description": "A heart carried away by a condor.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1793342283
+    },
+    {
       "title": "AROMA STUDIUM Caramel Noir",
       "link": "https://www.fragrantica.com/news/AROMA-STUDIUM-Caramel-Noir-26472.html",
       "description": "Aroma Studium expands The Chef Collection with Caramel Noir, which explores caramel beyond its familiar sugary character.",
@@ -775,33 +799,353 @@
       "category": "New Fragrances",
       "author": "Sandra Raičević Petrović",
       "published": 1792240562
-    },
-    {
-      "title": "The Latest Favorites From My Decant Basket",
-      "link": "https://www.fragrantica.com/news/The-Latest-Favorites-From-My-Decant-Basket-26375.html",
-      "description": "Four of my favorite perfumes from recent trials that I want to buy in full bottles.",
-      "category": "Fragrance Reviews",
-      "author": "Sena Toprak",
-      "published": 1792225742
-    },
-    {
-      "title": "A Tender and Sophisticated Almond to Discover From Obvious",
-      "link": "https://www.fragrantica.com/news/A-Tender-and-Sophisticated-Almond-to-Discover-From-Obvious-26374.html",
-      "description": "A closer look at one of October's lovely launches: Une Amande.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1792215063
-    },
-    {
-      "title": "Timothy Han Edition Perfumes Rebrands As \"Imprint\" With Scented Book Club",
-      "link": "https://www.fragrantica.com/news/Timothy-Han-Edition-Perfumes-Rebrands-As-Imprint-With-Scented-Book-Club-26373.html",
-      "description": "And one new creation.",
-      "category": "Fragrance News",
-      "author": "Eddie Bulliqi",
-      "published": 1792202643
     }
   ],
   "perfumes": [
+    {
+      "title": "Jean Paul Gaultier — Scandal Extase",
+      "link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Extase-146416.html",
+      "description": "New perfume listing: Scandal Extase by Jean Paul Gaultier.",
+      "category": "New Perfumes",
+      "author": "Jean Paul Gaultier",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Open Skies",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Open-Skies-146415.html",
+      "description": "New perfume listing: Open Skies by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — London",
+      "link": "https://www.fragrantica.com/perfume/Burberry/London-146414.html",
+      "description": "New perfume listing: London by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Knight",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Knight-146413.html",
+      "description": "New perfume listing: Knight by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Kensington Trench",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Kensington-Trench-146412.html",
+      "description": "New perfume listing: Kensington Trench by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Garden Rain",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Garden-Rain-146411.html",
+      "description": "New perfume listing: Garden Rain by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Gabardine",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Gabardine-146410.html",
+      "description": "New perfume listing: Gabardine by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Cashmere Embrace",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Cashmere-Embrace-146409.html",
+      "description": "New perfume listing: Cashmere Embrace by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Burberry — Est. 1856",
+      "link": "https://www.fragrantica.com/perfume/Burberry/Est-1856-146408.html",
+      "description": "New perfume listing: Est. 1856 by Burberry.",
+      "category": "New Perfumes",
+      "author": "Burberry",
+      "published": 1793365052
+    },
+    {
+      "title": "Fugazzi — Angel Dust Red Gold",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Angel-Dust-Red-Gold-146407.html",
+      "description": "New perfume listing: Angel Dust Red Gold by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793365052
+    },
+    {
+      "title": "Urthy — Sedona",
+      "link": "https://www.fragrantica.com/perfume/Urthy/Sedona-146406.html",
+      "description": "New perfume listing: Sedona by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793365052
+    },
+    {
+      "title": "Urthy — Palm Springs",
+      "link": "https://www.fragrantica.com/perfume/Urthy/Palm-Springs-146405.html",
+      "description": "New perfume listing: Palm Springs by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793365052
+    },
+    {
+      "title": "Urthy — New York",
+      "link": "https://www.fragrantica.com/perfume/Urthy/New-York-146404.html",
+      "description": "New perfume listing: New York by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793365052
+    },
+    {
+      "title": "Urthy — Napa",
+      "link": "https://www.fragrantica.com/perfume/Urthy/Napa-146403.html",
+      "description": "New perfume listing: Napa by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793365052
+    },
+    {
+      "title": "Urthy — Nantucket",
+      "link": "https://www.fragrantica.com/perfume/Urthy/Nantucket-146402.html",
+      "description": "New perfume listing: Nantucket by Urthy.",
+      "category": "New Perfumes",
+      "author": "Urthy",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Kasturi Musk",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Kasturi-Musk-146399.html",
+      "description": "New perfume listing: Kasturi Musk by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Jannatul Firdaus",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Jannatul-Firdaus-146398.html",
+      "description": "New perfume listing: Jannatul Firdaus by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Kesar Chandan (Saffron Sandal)",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Kesar-Chandan-Saffron-Sandal-146397.html",
+      "description": "New perfume listing: Kesar Chandan (Saffron Sandal) by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Rose (Gulab)",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Rose-Gulab-146396.html",
+      "description": "New perfume listing: Rose (Gulab) by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Sandal (Chandan)",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Sandal-Chandan-146395.html",
+      "description": "New perfume listing: Sandal (Chandan) by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Oud",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Oud-146394.html",
+      "description": "New perfume listing: Oud by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Adil Qadri — Hanayir",
+      "link": "https://www.fragrantica.com/perfume/Adil-Qadri/Hanayir-146393.html",
+      "description": "New perfume listing: Hanayir by Adil Qadri.",
+      "category": "New Perfumes",
+      "author": "Adil Qadri",
+      "published": 1793365052
+    },
+    {
+      "title": "Noùmeno — Pink Obsession",
+      "link": "https://www.fragrantica.com/perfume/Noumeno/Pink-Obsession-146392.html",
+      "description": "New perfume listing: Pink Obsession by Noùmeno.",
+      "category": "New Perfumes",
+      "author": "Noùmeno",
+      "published": 1793365052
+    },
+    {
+      "title": "Noùmeno — Caviar",
+      "link": "https://www.fragrantica.com/perfume/Noumeno/Caviar-146391.html",
+      "description": "New perfume listing: Caviar by Noùmeno.",
+      "category": "New Perfumes",
+      "author": "Noùmeno",
+      "published": 1793365052
+    },
+    {
+      "title": "Noùmeno — Hansel & Gretel",
+      "link": "https://www.fragrantica.com/perfume/Noumeno/Hansel-Gretel-146390.html",
+      "description": "New perfume listing: Hansel & Gretel by Noùmeno.",
+      "category": "New Perfumes",
+      "author": "Noùmeno",
+      "published": 1793365052
+    },
+    {
+      "title": "Jo Milano Paris — Game of Spades Trick",
+      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Trick-146389.html",
+      "description": "New perfume listing: Game of Spades Trick by Jo Milano Paris.",
+      "category": "New Perfumes",
+      "author": "Jo Milano Paris",
+      "published": 1793365052
+    },
+    {
+      "title": "Jo Milano Paris — Game of Spades Full House Refresh",
+      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Full-House-Refresh-146388.html",
+      "description": "New perfume listing: Game of Spades Full House Refresh by Jo Milano Paris.",
+      "category": "New Perfumes",
+      "author": "Jo Milano Paris",
+      "published": 1793365052
+    },
+    {
+      "title": "Xerjoff — P.70 Blank Page Edition",
+      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-70-Blank-Page-Edition-146386.html",
+      "description": "New perfume listing: P.70 Blank Page Edition by Xerjoff.",
+      "category": "New Perfumes",
+      "author": "Xerjoff",
+      "published": 1793365052
+    },
+    {
+      "title": "Xerjoff — P.18 Blank Page Edition",
+      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-18-Blank-Page-Edition-146385.html",
+      "description": "New perfume listing: P.18 Blank Page Edition by Xerjoff.",
+      "category": "New Perfumes",
+      "author": "Xerjoff",
+      "published": 1793365052
+    },
+    {
+      "title": "Xerjoff — P.13 Blank Page Edition",
+      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-13-Blank-Page-Edition-146384.html",
+      "description": "New perfume listing: P.13 Blank Page Edition by Xerjoff.",
+      "category": "New Perfumes",
+      "author": "Xerjoff",
+      "published": 1793365052
+    },
+    {
+      "title": "Houdini Perfumes — In My Element",
+      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/In-My-Element-146383.html",
+      "description": "New perfume listing: In My Element by Houdini Perfumes.",
+      "category": "New Perfumes",
+      "author": "Houdini Perfumes",
+      "published": 1793365052
+    },
+    {
+      "title": "Houdini Perfumes — First Glance",
+      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/First-Glance-146382.html",
+      "description": "New perfume listing: First Glance by Houdini Perfumes.",
+      "category": "New Perfumes",
+      "author": "Houdini Perfumes",
+      "published": 1793365052
+    },
+    {
+      "title": "Houdini Perfumes — Pretty Wild",
+      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Pretty-Wild-146381.html",
+      "description": "New perfume listing: Pretty Wild by Houdini Perfumes.",
+      "category": "New Perfumes",
+      "author": "Houdini Perfumes",
+      "published": 1793365052
+    },
+    {
+      "title": "Houdini Perfumes — Mademoiselle",
+      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Mademoiselle-146380.html",
+      "description": "New perfume listing: Mademoiselle by Houdini Perfumes.",
+      "category": "New Perfumes",
+      "author": "Houdini Perfumes",
+      "published": 1793365052
+    },
+    {
+      "title": "Houdini Perfumes — Très Belle",
+      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Tres-Belle-146379.html",
+      "description": "New perfume listing: Très Belle by Houdini Perfumes.",
+      "category": "New Perfumes",
+      "author": "Houdini Perfumes",
+      "published": 1793365052
+    },
+    {
+      "title": "Royal Platinum — Brown Mountain",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Brown-Mountain-146401.html",
+      "description": "New perfume listing: Brown Mountain by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1793365052
+    },
+    {
+      "title": "Royal Platinum — Bosphorus",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Bosphorus-146400.html",
+      "description": "New perfume listing: Bosphorus by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1793365052
+    },
+    {
+      "title": "Jo Milano Paris — Game of Spades Rouge Extrait",
+      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Rouge-Extrait-146387.html",
+      "description": "New perfume listing: Game of Spades Rouge Extrait by Jo Milano Paris.",
+      "category": "New Perfumes",
+      "author": "Jo Milano Paris",
+      "published": 1793365052
+    },
+    {
+      "title": "By Islamov — Kinam Premier",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Premier-146269.html",
+      "description": "New perfume listing: Kinam Premier by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793365052
+    },
+    {
+      "title": "By Islamov — Q Atique",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Q-Atique-146268.html",
+      "description": "New perfume listing: Q Atique by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793365052
+    },
+    {
+      "title": "By Islamov — Kinam Morning",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-146267.html",
+      "description": "New perfume listing: Kinam Morning by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793365052
+    },
+    {
+      "title": "By Islamov — Liwan Al Sultan",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Liwan-Al-Sultan-146266.html",
+      "description": "New perfume listing: Liwan Al Sultan by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793365052
+    },
+    {
+      "title": "Lviv Perfume Factory - Львівська парфумерна фабрика — Бархатцы (Чорнобривцы)",
+      "link": "https://www.fragrantica.com/perfume/Lviv-Perfume-Factory-L-vivs-ka-parfumerna-fabrika/Barhatcy-Cornobrivcy-146262.html",
+      "description": "New perfume listing: Бархатцы (Чорнобривцы) by Lviv Perfume Factory - Львівська парфумерна фабрика.",
+      "category": "New Perfumes",
+      "author": "Lviv Perfume Factory - Львівська парфумерна фабрика",
+      "published": 1793365052
+    },
     {
       "title": "Fugazzi — Rose Absolute Oudh",
       "link": "https://www.fragrantica.com/perfume/Fugazzi/Rose-Absolute-Oudh-146373.html",
@@ -1256,350 +1600,6 @@
       "description": "New perfume listing: Liberty Ki by Pisello Parfum.",
       "category": "New Perfumes",
       "author": "Pisello Parfum",
-      "published": 1793226965
-    },
-    {
-      "title": "Pisello Parfum — Maple Ki",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Maple-Ki-146322.html",
-      "description": "New perfume listing: Maple Ki by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793226965
-    },
-    {
-      "title": "Pañpuri — Silent Flame",
-      "link": "https://www.fragrantica.com/perfume/Panpuri/Silent-Flame-146321.html",
-      "description": "New perfume listing: Silent Flame by Pañpuri.",
-      "category": "New Perfumes",
-      "author": "Pañpuri",
-      "published": 1793226965
-    },
-    {
-      "title": "Pisello Parfum — Azteka Ki",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Azteka-Ki-146320.html",
-      "description": "New perfume listing: Azteka Ki by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793226965
-    },
-    {
-      "title": "Ahmed Al Maghribi — Flower Gris",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Flower-Gris-146319.html",
-      "description": "New perfume listing: Flower Gris by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1793226965
-    },
-    {
-      "title": "Ahmed Al Maghribi — D’or the Oud",
-      "link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/D-or-the-Oud-146318.html",
-      "description": "New perfume listing: D’or the Oud by Ahmed Al Maghribi.",
-      "category": "New Perfumes",
-      "author": "Ahmed Al Maghribi",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Nuit du Destin",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Nuit-du-Destin-146317.html",
-      "description": "New perfume listing: Nuit du Destin by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Cuirasse de Feu",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Cuirasse-de-Feu-146316.html",
-      "description": "New perfume listing: Cuirasse de Feu by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Rirana Parfume — Pineapple Tea",
-      "link": "https://www.fragrantica.com/perfume/Rirana-Parfume/Pineapple-Tea-146315.html",
-      "description": "New perfume listing: Pineapple Tea by Rirana Parfume.",
-      "category": "New Perfumes",
-      "author": "Rirana Parfume",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Noir Désir",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Noir-Desir-146314.html",
-      "description": "New perfume listing: Noir Désir by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — AK",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/AK-146313.html",
-      "description": "New perfume listing: AK by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Baie Sauvage",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Baie-Sauvage-146312.html",
-      "description": "New perfume listing: Baie Sauvage by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Fruit du Dragon",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Fruit-du-Dragon-146311.html",
-      "description": "New perfume listing: Fruit du Dragon by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Agathe Kattegat — Flamme Vanille",
-      "link": "https://www.fragrantica.com/perfume/Agathe-Kattegat/Flamme-Vanille-146310.html",
-      "description": "New perfume listing: Flamme Vanille by Agathe Kattegat.",
-      "category": "New Perfumes",
-      "author": "Agathe Kattegat",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Panettone",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Panettone-146309.html",
-      "description": "New perfume listing: Panettone by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Strudel di Mele",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Strudel-di-Mele-146308.html",
-      "description": "New perfume listing: Strudel di Mele by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Gingerbread – Pan di Zenzero",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Gingerbread-Pan-di-Zenzero-146307.html",
-      "description": "New perfume listing: Gingerbread – Pan di Zenzero by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Mont Blanc",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Mont-Blanc-146306.html",
-      "description": "New perfume listing: Mont Blanc by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Biscotto",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Biscotto-146305.html",
-      "description": "New perfume listing: Biscotto by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Bio Boutique La Rosa Canina — Mou - Caramello Salato",
-      "link": "https://www.fragrantica.com/perfume/Bio-Boutique-La-Rosa-Canina/Mou-Caramello-Salato-146304.html",
-      "description": "New perfume listing: Mou - Caramello Salato by Bio Boutique La Rosa Canina.",
-      "category": "New Perfumes",
-      "author": "Bio Boutique La Rosa Canina",
-      "published": 1793226965
-    },
-    {
-      "title": "Astrophil & Stella — Paris Chéri Montmartre",
-      "link": "https://www.fragrantica.com/perfume/Astrophil-Stella/Paris-Cheri-Montmartre-146303.html",
-      "description": "New perfume listing: Paris Chéri Montmartre by Astrophil & Stella.",
-      "category": "New Perfumes",
-      "author": "Astrophil & Stella",
-      "published": 1793226965
-    },
-    {
-      "title": "ADAR — Incantu",
-      "link": "https://www.fragrantica.com/perfume/ADAR/Incantu-146302.html",
-      "description": "New perfume listing: Incantu by ADAR.",
-      "category": "New Perfumes",
-      "author": "ADAR",
-      "published": 1793226965
-    },
-    {
-      "title": "One Day — Enji",
-      "link": "https://www.fragrantica.com/perfume/One-Day/Enji-146301.html",
-      "description": "New perfume listing: Enji by One Day.",
-      "category": "New Perfumes",
-      "author": "One Day",
-      "published": 1793226965
-    },
-    {
-      "title": "One Day — Uguisu",
-      "link": "https://www.fragrantica.com/perfume/One-Day/Uguisu-146300.html",
-      "description": "New perfume listing: Uguisu by One Day.",
-      "category": "New Perfumes",
-      "author": "One Day",
-      "published": 1793226965
-    },
-    {
-      "title": "Vivamor Parfums — Affinity Privée",
-      "link": "https://www.fragrantica.com/perfume/Vivamor-Parfums/Affinity-Privee-146299.html",
-      "description": "New perfume listing: Affinity Privée by Vivamor Parfums.",
-      "category": "New Perfumes",
-      "author": "Vivamor Parfums",
-      "published": 1793226965
-    },
-    {
-      "title": "House of BŌ — Black ĞÅĻÃ",
-      "link": "https://www.fragrantica.com/perfume/House-of-BO/Black-GAALA-146297.html",
-      "description": "New perfume listing: Black ĞÅĻÃ by House of BŌ.",
-      "category": "New Perfumes",
-      "author": "House of BŌ",
-      "published": 1793226965
-    },
-    {
-      "title": "Bharara — Chocolate",
-      "link": "https://www.fragrantica.com/perfume/Bharara/Chocolate-146325.html",
-      "description": "New perfume listing: Chocolate by Bharara.",
-      "category": "New Perfumes",
-      "author": "Bharara",
-      "published": 1793226965
-    },
-    {
-      "title": "House of BŌ — White ĞÅĻÃ",
-      "link": "https://www.fragrantica.com/perfume/House-of-BO/White-GAALA-146298.html",
-      "description": "New perfume listing: White ĞÅĻÃ by House of BŌ.",
-      "category": "New Perfumes",
-      "author": "House of BŌ",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Celeste Dore Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Celeste-Dore-Solid-Perfume-146285.html",
-      "description": "New perfume listing: Celeste Dore Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Crimean Breeze Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Crimean-Breeze-Solid-Perfume-146284.html",
-      "description": "New perfume listing: Crimean Breeze Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Eclat Rouge Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Eclat-Rouge-Solid-Perfume-146283.html",
-      "description": "New perfume listing: Eclat Rouge Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Liwan Al Sultan Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Liwan-Al-Sultan-Solid-Perfume-146282.html",
-      "description": "New perfume listing: Liwan Al Sultan Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Sera Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Sera-Solid-Perfume-146281.html",
-      "description": "New perfume listing: Sera Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Morning Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-Solid-Perfume-146280.html",
-      "description": "New perfume listing: Kinam Morning Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Nights Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Nights-Solid-Perfume-146279.html",
-      "description": "New perfume listing: Kinam Nights Solid Perfume by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Nights II Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Nights-II-Concentrated-Perfume-Oil-146278.html",
-      "description": "New perfume listing: Kinam Nights II Concentrated Perfume Oil by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Nights II",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Nights-II-146277.html",
-      "description": "New perfume listing: Kinam Nights II by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Rose After Rain",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Rose-After-Rain-146276.html",
-      "description": "New perfume listing: Rose After Rain by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Lotus Royal",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Lotus-Royal-146275.html",
-      "description": "New perfume listing: Lotus Royal by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Tuberose Royal",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Tuberose-Royal-146274.html",
-      "description": "New perfume listing: Tuberose Royal by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Patchouli Royal",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Patchouli-Royal-146273.html",
-      "description": "New perfume listing: Patchouli Royal by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Jasmin Royal",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Jasmin-Royal-146272.html",
-      "description": "New perfume listing: Jasmin Royal by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Jasmin Royal Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Jasmin-Royal-Concentrated-Perfume-Oil-146271.html",
-      "description": "New perfume listing: Jasmin Royal Concentrated Perfume Oil by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Morning Concentrated Perfume Oil",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-Concentrated-Perfume-Oil-146270.html",
-      "description": "New perfume listing: Kinam Morning Concentrated Perfume Oil by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
       "published": 1793226965
     }
   ]
