@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "AROMA STUDIUM Caramel Noir",
+      "link": "https://www.fragrantica.com/news/AROMA-STUDIUM-Caramel-Noir-26472.html",
+      "description": "Aroma Studium expands The Chef Collection with Caramel Noir, which explores caramel beyond its familiar sugary character.",
+      "category": "Fragrance Reviews",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793335083
+    },
+    {
+      "title": "Dior Addict 2026",
+      "link": "https://www.fragrantica.com/news/Dior-Addict-2026-26471.html",
+      "description": "Dior Addict Eau de Parfum will leave 2026 with a redesigned bottle to match the Dior Addict Glow collection, bringing a new presentation to one of the house's modern classics. It gets a new look for 2026, but has the fragrance changed?",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1793322303
+    },
+    {
+      "title": "CHANEL Les Exclusives de Chanel – Discovery Set",
+      "link": "https://www.fragrantica.com/news/CHANEL-Les-Exclusives-de-Chanel-Discovery-Set-26470.html",
+      "description": "LES EXCLUSIFS DE CHANEL convey the soul of the House in fragrances, through subtle tributes to the places, people and symbols that have shaped its history.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793315103
+    },
+    {
       "title": "American Perfume Orgs Collaborate on Fragrance Safety Presentation",
       "link": "https://www.fragrantica.com/news/American-Perfume-Orgs-Collaborate-on-Fragrance-Safety-Presentation-26469.html",
       "description": "Anyone who makes perfume is welcome to attend on November 18, 2026 in New Jersey.",
@@ -775,33 +799,81 @@
       "category": "Fragrance News",
       "author": "Eddie Bulliqi",
       "published": 1792202643
-    },
-    {
-      "title": "Three Glasses of Red Wine to Add Color to a Gray Autumn",
-      "link": "https://www.fragrantica.com/news/Three-Glasses-of-Red-Wine-to-Add-Color-to-a-Gray-Autumn-26372.html",
-      "description": "Three fragrances reminiscent of tart red wine that will help make a gloomy autumn a little warmer and more colorful.",
-      "category": "Columns",
-      "author": "Daria Bogdanova",
-      "published": 1792188776
-    },
-    {
-      "title": "Jules DIOR (2026) Review",
-      "link": "https://www.fragrantica.com/news/Jules-DIOR-2026-Review-26371.html",
-      "description": "If the ideal man were embodied in a fragrance.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1792178896
-    },
-    {
-      "title": "L'Entropiste Unveiled Festin, a New Release with a Decadent Spirit",
-      "link": "https://www.fragrantica.com/news/L-Entropiste-Unveiled-Festin-a-New-Release-with-a-Decadent-Spirit-26370.html",
-      "description": "A few days ago, in Paris, L'Entropiste unveiled Festin, its ninth chapter. Sophie shares her take on it.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1792173451
     }
   ],
   "perfumes": [
+    {
+      "title": "Fugazzi — Rose Absolute Oudh",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Rose-Absolute-Oudh-146373.html",
+      "description": "New perfume listing: Rose Absolute Oudh by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Fugazzi — Orange Blossom Absolute Musk",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Orange-Blossom-Absolute-Musk-146372.html",
+      "description": "New perfume listing: Orange Blossom Absolute Musk by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Fugazzi — Vanillin Marshmallow Safranal",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Vanillin-Marshmallow-Safranal-146371.html",
+      "description": "New perfume listing: Vanillin Marshmallow Safranal by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Fugazzi — Sencha Matcha Ambroxan",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Sencha-Matcha-Ambroxan-146370.html",
+      "description": "New perfume listing: Sencha Matcha Ambroxan by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Fugazzi — Stroopwafel Cashmeran",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Stroopwafel-Cashmeran-146369.html",
+      "description": "New perfume listing: Stroopwafel Cashmeran by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Fugazzi — Raspberry Ketone Santal",
+      "link": "https://www.fragrantica.com/perfume/Fugazzi/Raspberry-Ketone-Santal-146368.html",
+      "description": "New perfume listing: Raspberry Ketone Santal by Fugazzi.",
+      "category": "New Perfumes",
+      "author": "Fugazzi",
+      "published": 1793339448
+    },
+    {
+      "title": "Boots — Eau de Cologne",
+      "link": "https://www.fragrantica.com/perfume/Boots/Eau-de-Cologne-146261.html",
+      "description": "New perfume listing: Eau de Cologne by Boots.",
+      "category": "New Perfumes",
+      "author": "Boots",
+      "published": 1793339448
+    },
+    {
+      "title": "Yves Rocher — Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel)",
+      "link": "https://www.fragrantica.com/perfume/Yves-Rocher/Algue-Sauvage-Criste-Marine-Wild-Algae-Sea-Fennel-146249.html",
+      "description": "New perfume listing: Algue Sauvage & Criste Marine (Wild Algae & Sea Fennel) by Yves Rocher.",
+      "category": "New Perfumes",
+      "author": "Yves Rocher",
+      "published": 1793339448
+    },
+    {
+      "title": "OFUMUM — Narcist Iris",
+      "link": "https://www.fragrantica.com/perfume/OFUMUM/Narcist-Iris-146248.html",
+      "description": "New perfume listing: Narcist Iris by OFUMUM.",
+      "category": "New Perfumes",
+      "author": "OFUMUM",
+      "published": 1793339448
+    },
     {
       "title": "Samam — Hug & Sand Black Tea",
       "link": "https://www.fragrantica.com/perfume/Samam/Hug-Sand-Black-Tea-146367.html",
@@ -1529,78 +1601,6 @@
       "category": "New Perfumes",
       "author": "By Islamov",
       "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Premier",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Premier-146269.html",
-      "description": "New perfume listing: Kinam Premier by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Q Atique",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Q-Atique-146268.html",
-      "description": "New perfume listing: Q Atique by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Kinam Morning",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-146267.html",
-      "description": "New perfume listing: Kinam Morning by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "By Islamov — Liwan Al Sultan",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Liwan-Al-Sultan-146266.html",
-      "description": "New perfume listing: Liwan Al Sultan by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793226965
-    },
-    {
-      "title": "Memoirs Of A Perfume Collector — Vanilla Skies",
-      "link": "https://www.fragrantica.com/perfume/Memoirs-Of-A-Perfume-Collector/Vanilla-Skies-146265.html",
-      "description": "New perfume listing: Vanilla Skies by Memoirs Of A Perfume Collector.",
-      "category": "New Perfumes",
-      "author": "Memoirs Of A Perfume Collector",
-      "published": 1793192188
-    },
-    {
-      "title": "Habibi NY — Solstice Dunes",
-      "link": "https://www.fragrantica.com/perfume/Habibi-NY/Solstice-Dunes-146264.html",
-      "description": "New perfume listing: Solstice Dunes by Habibi NY.",
-      "category": "New Perfumes",
-      "author": "Habibi NY",
-      "published": 1793192188
-    },
-    {
-      "title": "Pigmentarium — Paradiso Extrait",
-      "link": "https://www.fragrantica.com/perfume/Pigmentarium/Paradiso-Extrait-146263.html",
-      "description": "New perfume listing: Paradiso Extrait by Pigmentarium.",
-      "category": "New Perfumes",
-      "author": "Pigmentarium",
-      "published": 1793192188
-    },
-    {
-      "title": "Zimaya — Black Symphony",
-      "link": "https://www.fragrantica.com/perfume/Zimaya/Black-Symphony-146260.html",
-      "description": "New perfume listing: Black Symphony by Zimaya.",
-      "category": "New Perfumes",
-      "author": "Zimaya",
-      "published": 1793166230
-    },
-    {
-      "title": "Lviv Perfume Factory - Львівська парфумерна фабрика — Бархатцы (Чорнобривцы)",
-      "link": "https://www.fragrantica.com/perfume/Lviv-Perfume-Factory-L-vivs-ka-parfumerna-fabrika/Barhatcy-Cornobrivcy-146262.html",
-      "description": "New perfume listing: Бархатцы (Чорнобривцы) by Lviv Perfume Factory - Львівська парфумерна фабрика.",
-      "category": "New Perfumes",
-      "author": "Lviv Perfume Factory - Львівська парфумерна фабрика",
-      "published": 1793166230
     }
   ]
 }
