@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "With These Perfumes, Vintage Lamenters Have No Excuse",
+      "link": "https://www.fragrantica.com/news/With-These-Perfumes-Vintage-Lamenters-Have-No-Excuse-26485.html",
+      "description": "Lovers of the Old School, rejoice!",
+      "category": "Columns",
+      "author": "Adam Forziati",
+      "published": 1793441823
+    },
+    {
+      "title": "With Decision 42, Amouage Revisits the Original in a More Contrasted Version",
+      "link": "https://www.fragrantica.com/news/With-Decision-42-Amouage-Revisits-the-Original-in-a-More-Contrasted-Version-26484.html",
+      "description": "Sophie's take on Amouage's Extrait version of Decision for the fall season of 2026.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1793430424
+    },
+    {
       "title": "German Society Of Perfumes Opens Submissions For Young Scientist In Olfactory Research Award",
       "link": "https://www.fragrantica.com/news/German-Society-Of-Perfumes-Opens-Submissions-For-Young-Scientist-In-Olfactory-Research-Award-26483.html",
       "description": "Open to under 35s of any nationality.",
@@ -783,25 +799,81 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1792367823
-    },
-    {
-      "title": "An Interview with Natalia Outeda: Experience, Argentinian Roots and “Slow Philosophy”: Part I",
-      "link": "https://www.fragrantica.com/news/An-Interview-with-Natalia-Outeda-Experience-Argentinian-roots-and-Slow-philosophy-Part-I-26385.html",
-      "description": "A detailed talk with Frassaï founder and former Givaudan Natalia Outeda.",
-      "category": "Interviews",
-      "author": "Dariia Fessalonika",
-      "published": 1792354383
-    },
-    {
-      "title": "Perfumed Horoscope: October 19 - October 25",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-October-19-October-25-26384.html",
-      "description": "Some weeks shake us up; others, like this one, stabilize us to realize what we are left with.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1792341603
     }
   ],
   "perfumes": [
+    {
+      "title": "The Body Shop — Pumpkin",
+      "link": "https://www.fragrantica.com/perfume/The-Body-Shop/Pumpkin-146472.html",
+      "description": "New perfume listing: Pumpkin by The Body Shop.",
+      "category": "New Perfumes",
+      "author": "The Body Shop",
+      "published": 1793449970
+    },
+    {
+      "title": "Lattafa Perfumes — Falsafat",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Falsafat-146471.html",
+      "description": "New perfume listing: Falsafat by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1793449970
+    },
+    {
+      "title": "Royal Platinum — Brown Mountain",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Brown-Mountain-146401.html",
+      "description": "New perfume listing: Brown Mountain by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1793449970
+    },
+    {
+      "title": "Royal Platinum — Bosphorus",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Bosphorus-146400.html",
+      "description": "New perfume listing: Bosphorus by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1793449970
+    },
+    {
+      "title": "Jo Milano Paris — Game of Spades Rouge Extrait",
+      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Rouge-Extrait-146387.html",
+      "description": "New perfume listing: Game of Spades Rouge Extrait by Jo Milano Paris.",
+      "category": "New Perfumes",
+      "author": "Jo Milano Paris",
+      "published": 1793449970
+    },
+    {
+      "title": "By Islamov — Kinam Premier",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Premier-146269.html",
+      "description": "New perfume listing: Kinam Premier by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793449970
+    },
+    {
+      "title": "By Islamov — Q Atique",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Q-Atique-146268.html",
+      "description": "New perfume listing: Q Atique by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793449970
+    },
+    {
+      "title": "By Islamov — Kinam Morning",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-146267.html",
+      "description": "New perfume listing: Kinam Morning by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793449970
+    },
+    {
+      "title": "By Islamov — Liwan Al Sultan",
+      "link": "https://www.fragrantica.com/perfume/By-Islamov/Liwan-Al-Sultan-146266.html",
+      "description": "New perfume listing: Liwan Al Sultan by By Islamov.",
+      "category": "New Perfumes",
+      "author": "By Islamov",
+      "published": 1793449970
+    },
     {
       "title": "Le Falconé Perfumes — Tuhfa Nude",
       "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Tuhfa-Nude-146470.html",
@@ -1528,78 +1600,6 @@
       "description": "New perfume listing: Caviar by Noùmeno.",
       "category": "New Perfumes",
       "author": "Noùmeno",
-      "published": 1793365052
-    },
-    {
-      "title": "Noùmeno — Hansel & Gretel",
-      "link": "https://www.fragrantica.com/perfume/Noumeno/Hansel-Gretel-146390.html",
-      "description": "New perfume listing: Hansel & Gretel by Noùmeno.",
-      "category": "New Perfumes",
-      "author": "Noùmeno",
-      "published": 1793365052
-    },
-    {
-      "title": "Jo Milano Paris — Game of Spades Trick",
-      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Trick-146389.html",
-      "description": "New perfume listing: Game of Spades Trick by Jo Milano Paris.",
-      "category": "New Perfumes",
-      "author": "Jo Milano Paris",
-      "published": 1793365052
-    },
-    {
-      "title": "Jo Milano Paris — Game of Spades Full House Refresh",
-      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Full-House-Refresh-146388.html",
-      "description": "New perfume listing: Game of Spades Full House Refresh by Jo Milano Paris.",
-      "category": "New Perfumes",
-      "author": "Jo Milano Paris",
-      "published": 1793365052
-    },
-    {
-      "title": "Xerjoff — P.70 Blank Page Edition",
-      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-70-Blank-Page-Edition-146386.html",
-      "description": "New perfume listing: P.70 Blank Page Edition by Xerjoff.",
-      "category": "New Perfumes",
-      "author": "Xerjoff",
-      "published": 1793365052
-    },
-    {
-      "title": "Xerjoff — P.18 Blank Page Edition",
-      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-18-Blank-Page-Edition-146385.html",
-      "description": "New perfume listing: P.18 Blank Page Edition by Xerjoff.",
-      "category": "New Perfumes",
-      "author": "Xerjoff",
-      "published": 1793365052
-    },
-    {
-      "title": "Xerjoff — P.13 Blank Page Edition",
-      "link": "https://www.fragrantica.com/perfume/Xerjoff/P-13-Blank-Page-Edition-146384.html",
-      "description": "New perfume listing: P.13 Blank Page Edition by Xerjoff.",
-      "category": "New Perfumes",
-      "author": "Xerjoff",
-      "published": 1793365052
-    },
-    {
-      "title": "Houdini Perfumes — In My Element",
-      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/In-My-Element-146383.html",
-      "description": "New perfume listing: In My Element by Houdini Perfumes.",
-      "category": "New Perfumes",
-      "author": "Houdini Perfumes",
-      "published": 1793365052
-    },
-    {
-      "title": "Houdini Perfumes — First Glance",
-      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/First-Glance-146382.html",
-      "description": "New perfume listing: First Glance by Houdini Perfumes.",
-      "category": "New Perfumes",
-      "author": "Houdini Perfumes",
-      "published": 1793365052
-    },
-    {
-      "title": "Houdini Perfumes — Pretty Wild",
-      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Pretty-Wild-146381.html",
-      "description": "New perfume listing: Pretty Wild by Houdini Perfumes.",
-      "category": "New Perfumes",
-      "author": "Houdini Perfumes",
       "published": 1793365052
     }
   ]
