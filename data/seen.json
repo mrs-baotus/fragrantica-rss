@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "German Society Of Perfumes Opens Submissions For Young Scientist In Olfactory Research Award",
+      "link": "https://www.fragrantica.com/news/German-Society-Of-Perfumes-Opens-Submissions-For-Young-Scientist-In-Olfactory-Research-Award-26483.html",
+      "description": "Open to under 35s of any nationality.",
+      "category": "Art Books Events",
+      "author": "Eddie Bulliqi",
+      "published": 1793420163
+    },
+    {
+      "title": "Fugazzi To Launch Archive Edit 2026 Collection",
+      "link": "https://www.fragrantica.com/news/Fugazzi-To-Launch-Archive-Edit-2026-Collection-26482.html",
+      "description": "Last year, the Archive Edit Collection sold out in 20 hours!",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1793411103
+    },
+    {
+      "title": "Granado Launches Buona Fortuna: A Celebratory Fragrance",
+      "link": "https://www.fragrantica.com/news/Granado-Launches-Buona-Fortuna-A-Celebratory-Fragrance-26481.html",
+      "description": "Where Brazilian-Carioca audacity meets the soul of Italy.",
+      "category": "Fragrance News",
+      "author": "Jernê Knowles",
+      "published": 1793403123
+    },
+    {
       "title": "VOLUSPA Presents the 12 Day Alpine Advent Calendar",
       "link": "https://www.fragrantica.com/news/VOLUSPA-Presents-the-12-Day-Alpine-Advent-Calendar-26480.html",
       "description": "Advent Calendar with 12 scented candles by Voluspa.",
@@ -775,33 +799,105 @@
       "category": "Fragrant Horoscope",
       "author": "Zoran Cerar",
       "published": 1792341603
-    },
-    {
-      "title": "INTIMATE CONVERSATION WITH IN PETTO: THE FIRST COLLECTION",
-      "link": "https://www.fragrantica.com/news/INTIMATE-CONVERSATION-WITH-IN-PETTO-THE-FIRST-COLLECTION-26383.html",
-      "description": "Restraint, proportion, and harmony — such qualities are a rarity these days.",
-      "category": "Events",
-      "author": "Alex (Sane-Witch) Osipov",
-      "published": 1792318083
-    },
-    {
-      "title": "L'Heure Bleue 2026 and The Shifting Sands",
-      "link": "https://www.fragrantica.com/news/L-Heure-Bleue-2026-and-The-Shifting-Sands-26382.html",
-      "description": "The new L'Heure Bleue and the classic L'Heure Bleue are not the same perfume, and perhaps that's the point.",
-      "category": "Fragrance Reviews",
-      "author": "John Biebel",
-      "published": 1792302243
-    },
-    {
-      "title": "Pitti Fragranze 2026: New Asian Brands Announcements",
-      "link": "https://www.fragrantica.com/news/Pitti-Fragranze-2026-New-Asian-Brands-Announcements-26381.html",
-      "description": "The Fragrantica team continues to report from the Pitti Fragranze 2026 event. Let's not forget the emerging brands announced in Florence.",
-      "category": "Art Books Events",
-      "author": "Svetlana Lozovaya",
-      "published": 1792291204
     }
   ],
   "perfumes": [
+    {
+      "title": "Le Falconé Perfumes — Tuhfa Nude",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Tuhfa-Nude-146470.html",
+      "description": "New perfume listing: Tuhfa Nude by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Tuhfa Noir",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Tuhfa-Noir-146469.html",
+      "description": "New perfume listing: Tuhfa Noir by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Symphony Rhythm",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Symphony-Rhythm-146468.html",
+      "description": "New perfume listing: Symphony Rhythm by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Qannas Absolu",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Qannas-Absolu-146467.html",
+      "description": "New perfume listing: Qannas Absolu by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Cleopatra Legacy",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Cleopatra-Legacy-146466.html",
+      "description": "New perfume listing: Cleopatra Legacy by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Cleopatra Immortal",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Cleopatra-Immortal-146465.html",
+      "description": "New perfume listing: Cleopatra Immortal by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "Le Falconé Perfumes — Bonita Coco Mango",
+      "link": "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Bonita-Coco-Mango-146464.html",
+      "description": "New perfume listing: Bonita Coco Mango by Le Falconé Perfumes.",
+      "category": "New Perfumes",
+      "author": "Le Falconé Perfumes",
+      "published": 1793425401
+    },
+    {
+      "title": "AURAVĒNE — Aria",
+      "link": "https://www.fragrantica.com/perfume/AURAVENE/Aria-146463.html",
+      "description": "New perfume listing: Aria by AURAVĒNE.",
+      "category": "New Perfumes",
+      "author": "AURAVĒNE",
+      "published": 1793425401
+    },
+    {
+      "title": "Santa Maria Novella — Angeli di Firenze Edizione Limitata 2026",
+      "link": "https://www.fragrantica.com/perfume/Santa-Maria-Novella/Angeli-di-Firenze-Edizione-Limitata-2026-146462.html",
+      "description": "New perfume listing: Angeli di Firenze Edizione Limitata 2026 by Santa Maria Novella.",
+      "category": "New Perfumes",
+      "author": "Santa Maria Novella",
+      "published": 1793425401
+    },
+    {
+      "title": "Henry Jacques — Rose Azur",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Azur-146357.html",
+      "description": "New perfume listing: Rose Azur by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1793425401
+    },
+    {
+      "title": "Black Paw — Ginseng",
+      "link": "https://www.fragrantica.com/perfume/Black-Paw/Ginseng-146341.html",
+      "description": "New perfume listing: Ginseng by Black Paw.",
+      "category": "New Perfumes",
+      "author": "Black Paw",
+      "published": 1793425401
+    },
+    {
+      "title": "Naseem — Asmira Rouge",
+      "link": "https://www.fragrantica.com/perfume/Naseem/Asmira-Rouge-146336.html",
+      "description": "New perfume listing: Asmira Rouge by Naseem.",
+      "category": "New Perfumes",
+      "author": "Naseem",
+      "published": 1793425401
+    },
     {
       "title": "Jo Loves — Nutmeg & Incense",
       "link": "https://www.fragrantica.com/perfume/Jo-Loves/Nutmeg-Incense-146461.html",
@@ -1505,102 +1601,6 @@
       "category": "New Perfumes",
       "author": "Houdini Perfumes",
       "published": 1793365052
-    },
-    {
-      "title": "Houdini Perfumes — Mademoiselle",
-      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Mademoiselle-146380.html",
-      "description": "New perfume listing: Mademoiselle by Houdini Perfumes.",
-      "category": "New Perfumes",
-      "author": "Houdini Perfumes",
-      "published": 1793365052
-    },
-    {
-      "title": "Houdini Perfumes — Très Belle",
-      "link": "https://www.fragrantica.com/perfume/Houdini-Perfumes/Tres-Belle-146379.html",
-      "description": "New perfume listing: Très Belle by Houdini Perfumes.",
-      "category": "New Perfumes",
-      "author": "Houdini Perfumes",
-      "published": 1793365052
-    },
-    {
-      "title": "Royal Platinum — Brown Mountain",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Brown-Mountain-146401.html",
-      "description": "New perfume listing: Brown Mountain by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1793365052
-    },
-    {
-      "title": "Royal Platinum — Bosphorus",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Bosphorus-146400.html",
-      "description": "New perfume listing: Bosphorus by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1793365052
-    },
-    {
-      "title": "Jo Milano Paris — Game of Spades Rouge Extrait",
-      "link": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Rouge-Extrait-146387.html",
-      "description": "New perfume listing: Game of Spades Rouge Extrait by Jo Milano Paris.",
-      "category": "New Perfumes",
-      "author": "Jo Milano Paris",
-      "published": 1793365052
-    },
-    {
-      "title": "By Islamov — Kinam Premier",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Premier-146269.html",
-      "description": "New perfume listing: Kinam Premier by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793365052
-    },
-    {
-      "title": "By Islamov — Q Atique",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Q-Atique-146268.html",
-      "description": "New perfume listing: Q Atique by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793365052
-    },
-    {
-      "title": "By Islamov — Kinam Morning",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Kinam-Morning-146267.html",
-      "description": "New perfume listing: Kinam Morning by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793365052
-    },
-    {
-      "title": "By Islamov — Liwan Al Sultan",
-      "link": "https://www.fragrantica.com/perfume/By-Islamov/Liwan-Al-Sultan-146266.html",
-      "description": "New perfume listing: Liwan Al Sultan by By Islamov.",
-      "category": "New Perfumes",
-      "author": "By Islamov",
-      "published": 1793365052
-    },
-    {
-      "title": "Lviv Perfume Factory - Львівська парфумерна фабрика — Бархатцы (Чорнобривцы)",
-      "link": "https://www.fragrantica.com/perfume/Lviv-Perfume-Factory-L-vivs-ka-parfumerna-fabrika/Barhatcy-Cornobrivcy-146262.html",
-      "description": "New perfume listing: Бархатцы (Чорнобривцы) by Lviv Perfume Factory - Львівська парфумерна фабрика.",
-      "category": "New Perfumes",
-      "author": "Lviv Perfume Factory - Львівська парфумерна фабрика",
-      "published": 1793365052
-    },
-    {
-      "title": "Fugazzi — Rose Absolute Oudh",
-      "link": "https://www.fragrantica.com/perfume/Fugazzi/Rose-Absolute-Oudh-146373.html",
-      "description": "New perfume listing: Rose Absolute Oudh by Fugazzi.",
-      "category": "New Perfumes",
-      "author": "Fugazzi",
-      "published": 1793339448
-    },
-    {
-      "title": "Fugazzi — Orange Blossom Absolute Musk",
-      "link": "https://www.fragrantica.com/perfume/Fugazzi/Orange-Blossom-Absolute-Musk-146372.html",
-      "description": "New perfume listing: Orange Blossom Absolute Musk by Fugazzi.",
-      "category": "New Perfumes",
-      "author": "Fugazzi",
-      "published": 1793339448
     }
   ]
 }
