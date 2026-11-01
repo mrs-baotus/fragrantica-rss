@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "With Cedrus de Nuit, Chloé Revisits Its Atelier des Fleurs Best-Seller",
+      "link": "https://www.fragrantica.com/news/With-Cedrus-de-Nuit-Chloe-Revisits-Its-Atelier-des-Fleurs-Best-Seller-26495.html",
+      "description": "A closer look at one of the fall season's notable launches: Cedrus de Nuit from the Atelier des Fleurs collection.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1793509023
+    },
+    {
+      "title": "AESOP Presents A Time To Embrace Holiday Collection",
+      "link": "https://www.fragrantica.com/news/AESOP-Presents-A-Time-To-Embrace-Holiday-Collection-26494.html",
+      "description": "Aesop A Time To Embrace and The Aesop Valise Advent Calendar in this year's holiday offer.",
+      "category": "Video",
+      "author": "Fragrance News",
+      "published": 1793503383
+    },
+    {
+      "title": "Waxing On Halloween...",
+      "link": "https://www.fragrantica.com/news/Waxing-On-Halloween-26493.html",
+      "description": "A rodent visitation and a tangerine turns purple..",
+      "category": "Columns",
+      "author": "Edie Smith",
+      "published": 1793495763
+    },
+    {
+      "title": "5 Citrus Fragrances Worth Bringing Back from China",
+      "link": "https://www.fragrantica.com/news/5-Citrus-Fragrances-Worth-Bringing-Back-from-China-26492.html",
+      "description": "From impeccably crafted Italian-style colognes to imaginary citrus fragrances inspired by ancient Chinese legends – five fragrances worth saving a little extra room for in your suitcase.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1793486644
+    },
+    {
       "title": "LATTAFA Falsafat",
       "link": "https://www.fragrantica.com/news/LATTAFA-Falsafat-26491.html",
       "description": "\"Creamy, warm and irresistibly indulgent, it creates a distinctive signature made to be craved and remembered,\" - Lattafa.",
@@ -767,41 +799,105 @@
       "category": "New Fragrances",
       "author": "Sergey Borisov",
       "published": 1792503143
-    },
-    {
-      "title": "Amouage Unveils Its Reimagined Luxury Body Line with 6 Beloved Creations",
-      "link": "https://www.fragrantica.com/news/Amouage-Unveils-Its-Reimagined-Luxury-Body-Line-with-6-Beloved-Creations-26395.html",
-      "description": "AMOUAGE introduces its new Luxury Body Line, reimagining six of the House’s most beloved creations.",
-      "category": "Bath & Body",
-      "author": "Elena Vosnaki",
-      "published": 1792492202
-    },
-    {
-      "title": "10 Years of Santal Complet by Fragrance du Bois",
-      "link": "https://www.fragrantica.com/news/10-Years-of-Santal-Complet-by-Fragrance-du-Bois-26394.html",
-      "description": "The first milestone anniversary of a quiet fragrance.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1792468262
-    },
-    {
-      "title": "Meet New Brand CIRQADIAN",
-      "link": "https://www.fragrantica.com/news/Meet-New-Brand-CIRQADIAN-26393.html",
-      "description": "Water-based unisex fragrances with actives for healthier skin",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1792449003
-    },
-    {
-      "title": "Golden Hour: A New Chapter in the History of the Atelier Rebul Istanbul Collection",
-      "link": "https://www.fragrantica.com/news/Golden-Hour-A-New-Chapter-in-the-History-of-the-Atelier-Rebul-Istanbul-Collection-26392.html",
-      "description": "Atelier Rebul Istanbul Golden Hour was unveiled in Moscow—a new flanker to the brand's signature scent.",
-      "category": "Events",
-      "author": "Matvey Yudov",
-      "published": 1792439397
     }
   ],
   "perfumes": [
+    {
+      "title": "Ard Al Zaafaran — Daloate Ana",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Daloate-Ana-146527.html",
+      "description": "New perfume listing: Daloate Ana by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793513254
+    },
+    {
+      "title": "Ard Al Zaafaran — Daareen",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Daareen-146526.html",
+      "description": "New perfume listing: Daareen by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793513254
+    },
+    {
+      "title": "Ard Al Zaafaran — Crystal White",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Crystal-White-146525.html",
+      "description": "New perfume listing: Crystal White by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Make Your Move",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Make-Your-Move-146524.html",
+      "description": "New perfume listing: Make Your Move by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Cream Lemonade",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cream-Lemonade-146523.html",
+      "description": "New perfume listing: Cream Lemonade by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Cherry Eclipse Lullaby",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Cherry-Eclipse-Lullaby-146522.html",
+      "description": "New perfume listing: Cherry Eclipse Lullaby by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — The Scent Of Silence",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/The-Scent-Of-Silence-146521.html",
+      "description": "New perfume listing: The Scent Of Silence by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Omen Of Night",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Omen-Of-Night-146520.html",
+      "description": "New perfume listing: Omen Of Night by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Midnight Carnival",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Midnight-Carnival-146519.html",
+      "description": "New perfume listing: Midnight Carnival by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Lavender Steel",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lavender-Steel-146517.html",
+      "description": "New perfume listing: Lavender Steel by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Incense Reverie",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Incense-Reverie-146516.html",
+      "description": "New perfume listing: Incense Reverie by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
+    {
+      "title": "The Dua Brand — Lingering Memory",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lingering-Memory-146518.html",
+      "description": "New perfume listing: Lingering Memory by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1793513254
+    },
     {
       "title": "Inhale — Diriyahs Nektar",
       "link": "https://www.fragrantica.com/perfume/Inhale/Diriyahs-Nektar-146504.html",
@@ -1504,102 +1600,6 @@
       "description": "New perfume listing: SEOUL Midnight by SW19.",
       "category": "New Perfumes",
       "author": "SW19",
-      "published": 1793398889
-    },
-    {
-      "title": "So French Perfumes — Cupcake Bliss",
-      "link": "https://www.fragrantica.com/perfume/So-French-Perfumes/Cupcake-Bliss-146435.html",
-      "description": "New perfume listing: Cupcake Bliss by So French Perfumes.",
-      "category": "New Perfumes",
-      "author": "So French Perfumes",
-      "published": 1793398889
-    },
-    {
-      "title": "Le Ré Noir — Cadence",
-      "link": "https://www.fragrantica.com/perfume/Le-Re-Noir/Cadence-146434.html",
-      "description": "New perfume listing: Cadence by Le Ré Noir.",
-      "category": "New Perfumes",
-      "author": "Le Ré Noir",
-      "published": 1793398889
-    },
-    {
-      "title": "Le Ré Noir — #509 Chevalier Rouge",
-      "link": "https://www.fragrantica.com/perfume/Le-Re-Noir/509-Chevalier-Rouge-146433.html",
-      "description": "New perfume listing: #509 Chevalier Rouge by Le Ré Noir.",
-      "category": "New Perfumes",
-      "author": "Le Ré Noir",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — Dirty Lil Beaches",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/Dirty-Lil-Beaches-146432.html",
-      "description": "New perfume listing: Dirty Lil Beaches by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — Delikado",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/Delikado-146431.html",
-      "description": "New perfume listing: Delikado by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — Cathedral Air",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/Cathedral-Air-146430.html",
-      "description": "New perfume listing: Cathedral Air by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — Bridges & Tunnels c. 02",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/Bridges-Tunnels-c-02-146429.html",
-      "description": "New perfume listing: Bridges & Tunnels c. 02 by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — BLOUD",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/BLOUD-146428.html",
-      "description": "New perfume listing: BLOUD by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "House of 1123 — Blonde Buy",
-      "link": "https://www.fragrantica.com/perfume/House-of-1123/Blonde-Buy-146427.html",
-      "description": "New perfume listing: Blonde Buy by House of 1123.",
-      "category": "New Perfumes",
-      "author": "House of 1123",
-      "published": 1793398889
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — The Best Of The Best",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/The-Best-Of-The-Best-146419.html",
-      "description": "New perfume listing: The Best Of The Best by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1793398889
-    },
-    {
-      "title": "Serge Dumonten — Strawberries In Champagne",
-      "link": "https://www.fragrantica.com/perfume/Serge-Dumonten/Strawberries-In-Champagne-146417.html",
-      "description": "New perfume listing: Strawberries In Champagne by Serge Dumonten.",
-      "category": "New Perfumes",
-      "author": "Serge Dumonten",
-      "published": 1793398889
-    },
-    {
-      "title": "Bharara — Chocolate",
-      "link": "https://www.fragrantica.com/perfume/Bharara/Chocolate-146325.html",
-      "description": "New perfume listing: Chocolate by Bharara.",
-      "category": "New Perfumes",
-      "author": "Bharara",
       "published": 1793398889
     }
   ]
