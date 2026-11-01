@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Meet Éther",
+      "link": "https://www.fragrantica.com/news/Meet-Ether-26497.html",
+      "description": "Victoria Vlasova explores the brand's fragrance collection.",
+      "category": "Fragrance Reviews",
+      "author": "Viktoria Vlasova",
+      "published": 1793536372
+    },
+    {
+      "title": "L'Epoque Launches Eyes On Me",
+      "link": "https://www.fragrantica.com/news/L-Epoque-Launches-Eyes-On-Me-26496.html",
+      "description": "A Luckyscent and L'Epoque exclusive from November 5th until November 16th. \"Have your presence linger like something sweet in the air, just out of reach...\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1793516343
+    },
+    {
       "title": "With Cedrus de Nuit, Chloé Revisits Its Atelier des Fleurs Best-Seller",
       "link": "https://www.fragrantica.com/news/With-Cedrus-de-Nuit-Chloe-Revisits-Its-Atelier-des-Fleurs-Best-Seller-26495.html",
       "description": "A closer look at one of the fall season's notable launches: Cedrus de Nuit from the Atelier des Fleurs collection.",
@@ -783,25 +799,33 @@
       "category": "Fragrance News",
       "author": "Elena Vosnaki",
       "published": 1792517403
-    },
-    {
-      "title": "CHANEL N°5 The Winter Case",
-      "link": "https://www.fragrantica.com/news/CHANEL-N05-The-Winter-Case-26397.html",
-      "description": "Winter is coming! Chanel is ready.",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1792510203
-    },
-    {
-      "title": "Arrogate Pink Diva by Assaf: A Soft Pink Cloud",
-      "link": "https://www.fragrantica.com/news/Arrogate-Pink-Diva-by-Assaf-A-Soft-Pink-Cloud-26396.html",
-      "description": "Dominique Ropion created a perfume for Saudi brand Assaf.",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1792503143
     }
   ],
   "perfumes": [
+    {
+      "title": "Lattafa Perfumes — Asad Polar",
+      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Polar-146528.html",
+      "description": "New perfume listing: Asad Polar by Lattafa Perfumes.",
+      "category": "New Perfumes",
+      "author": "Lattafa Perfumes",
+      "published": 1793539583
+    },
+    {
+      "title": "Imprime — Muse Intense",
+      "link": "https://www.fragrantica.com/perfume/Imprime/Muse-Intense-146530.html",
+      "description": "New perfume listing: Muse Intense by Imprime.",
+      "category": "New Perfumes",
+      "author": "Imprime",
+      "published": 1793539583
+    },
+    {
+      "title": "Imprime — Chérie Bloom",
+      "link": "https://www.fragrantica.com/perfume/Imprime/Cherie-Bloom-146529.html",
+      "description": "New perfume listing: Chérie Bloom by Imprime.",
+      "category": "New Perfumes",
+      "author": "Imprime",
+      "published": 1793539583
+    },
     {
       "title": "Ard Al Zaafaran — Daloate Ana",
       "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Daloate-Ana-146527.html",
@@ -1576,30 +1600,6 @@
       "description": "New perfume listing: Oud-u Zeina by Parfumane.",
       "category": "New Perfumes",
       "author": "Parfumane",
-      "published": 1793398889
-    },
-    {
-      "title": "BaoBath — Citrus & Violet",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Citrus-Violet-146438.html",
-      "description": "New perfume listing: Citrus & Violet by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1793398889
-    },
-    {
-      "title": "BaoBath — Passionfruit & Oak",
-      "link": "https://www.fragrantica.com/perfume/BaoBath/Passionfruit-Oak-146437.html",
-      "description": "New perfume listing: Passionfruit & Oak by BaoBath.",
-      "category": "New Perfumes",
-      "author": "BaoBath",
-      "published": 1793398889
-    },
-    {
-      "title": "SW19 — SEOUL Midnight",
-      "link": "https://www.fragrantica.com/perfume/SW19/SEOUL-Midnight-146436.html",
-      "description": "New perfume listing: SEOUL Midnight by SW19.",
-      "category": "New Perfumes",
-      "author": "SW19",
       "published": 1793398889
     }
   ]
