@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "DIPTYQUE Enchanted Forest Holiday Collection 2026 and Diptyque Advent Calendar",
+      "link": "https://www.fragrantica.com/news/DIPTYQUE-Enchanted-Forest-Holiday-Collection-2026-and-Diptyque-Advent-Calendar-26500.html",
+      "description": "Limited-edition scents, new arrivals, generous formats, body care rituals. Each day reveals a new wonder as the festivities draw near.",
+      "category": "Fragrance News",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793563623
+    },
+    {
+      "title": "Perfumed Horoscope: November 2 - November 8",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-November-2-November-8-26499.html",
+      "description": "If for a second there you forgot what really matters, this week will remind you and make you promptly take action.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1793554143
+    },
+    {
+      "title": "LATTAFA Asad Polar",
+      "link": "https://www.fragrantica.com/news/LATTAFA-Asad-Polar-26498.html",
+      "description": "A Fougère Fruity fragrance, blending cold freshness to leave a feeling of uplifted energy and invigorating confidence.",
+      "category": "New Fragrances",
+      "author": "Sandra Raičević Petrović",
+      "published": 1793542383
+    },
+    {
       "title": "Meet Éther",
       "link": "https://www.fragrantica.com/news/Meet-Ether-26497.html",
       "description": "Victoria Vlasova explores the brand's fragrance collection.",
@@ -775,33 +799,97 @@
       "category": "Fragrance Reviews",
       "author": "Giulietta Ptoyan",
       "published": 1792546203
-    },
-    {
-      "title": "Maksim Perfume Bestia Sacra: The Scent Of Cheesy Bath Towel Crust",
-      "link": "https://www.fragrantica.com/news/Maksim-Perfume-Bestia-Sacra-The-Scent-Of-Cheesy-Bath-Towel-Crust-26400.html",
-      "description": "Sweet, animalic, fruity.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1792535403
-    },
-    {
-      "title": "An Interview with Natalia Outeda: Discovering Frassaï, Mate and Jasmine. Part II.",
-      "link": "https://www.fragrantica.com/news/An-Interview-with-Natalia-Outeda-Discovering-Frassai-Mate-and-Jasmine-Part-II-26399.html",
-      "description": "A detailed talk with the founder of Frassaï and former Givaudan Natalia Outeda.",
-      "category": "Interviews",
-      "author": "Dariia Fessalonika",
-      "published": 1792524602
-    },
-    {
-      "title": "Molinard LE CONCRÉTA Solid Perfume to Go",
-      "link": "https://www.fragrantica.com/news/Molinard-LE-CONCRETA-Solid-Perfume-to-Go-26398.html",
-      "description": "Molinard reintroduces an old form of perfume they used to excel in. LE CONCRÉTA available in 4 fragrances of the collection.",
-      "category": "Fragrance News",
-      "author": "Elena Vosnaki",
-      "published": 1792517403
     }
   ],
   "perfumes": [
+    {
+      "title": "Better World Fragrance House — Dosaydo",
+      "link": "https://www.fragrantica.com/perfume/Better-World-Fragrance-House/Dosaydo-146541.html",
+      "description": "New perfume listing: Dosaydo by Better World Fragrance House.",
+      "category": "New Perfumes",
+      "author": "Better World Fragrance House",
+      "published": 1793570569
+    },
+    {
+      "title": "Söppö — Foxy Nixie",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Foxy-Nixie-146538.html",
+      "description": "New perfume listing: Foxy Nixie by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1793570569
+    },
+    {
+      "title": "Bath & Body Works — Santal Ridge",
+      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Santal-Ridge-146537.html",
+      "description": "New perfume listing: Santal Ridge by Bath & Body Works.",
+      "category": "New Perfumes",
+      "author": "Bath & Body Works",
+      "published": 1793570569
+    },
+    {
+      "title": "Söppö — Bittsy Pixie",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Bittsy-Pixie-146536.html",
+      "description": "New perfume listing: Bittsy Pixie by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1793570569
+    },
+    {
+      "title": "Söppö — Divines Croûton",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Divines-Crouton-146535.html",
+      "description": "New perfume listing: Divines Croûton by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1793570569
+    },
+    {
+      "title": "Söppö — Pain Couture",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Pain-Couture-146534.html",
+      "description": "New perfume listing: Pain Couture by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1793570569
+    },
+    {
+      "title": "Söppö — Bark O' Clock",
+      "link": "https://www.fragrantica.com/perfume/Soeppoe/Bark-O-Clock-146533.html",
+      "description": "New perfume listing: Bark O' Clock by Söppö.",
+      "category": "New Perfumes",
+      "author": "Söppö",
+      "published": 1793570569
+    },
+    {
+      "title": "Fine Scents — Moi Non Plus",
+      "link": "https://www.fragrantica.com/perfume/Fine-Scents/Moi-Non-Plus-146531.html",
+      "description": "New perfume listing: Moi Non Plus by Fine Scents.",
+      "category": "New Perfumes",
+      "author": "Fine Scents",
+      "published": 1793570569
+    },
+    {
+      "title": "Cyrulicy — Rogue Perfume",
+      "link": "https://www.fragrantica.com/perfume/Cyrulicy/Rogue-Perfume-146540.html",
+      "description": "New perfume listing: Rogue Perfume by Cyrulicy.",
+      "category": "New Perfumes",
+      "author": "Cyrulicy",
+      "published": 1793570569
+    },
+    {
+      "title": "Fragrance World — Intense Noir",
+      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Intense-Noir-146539.html",
+      "description": "New perfume listing: Intense Noir by Fragrance World.",
+      "category": "New Perfumes",
+      "author": "Fragrance World",
+      "published": 1793570569
+    },
+    {
+      "title": "Summer House — New Wave",
+      "link": "https://www.fragrantica.com/perfume/Summer-House/New-Wave-146532.html",
+      "description": "New perfume listing: New Wave by Summer House.",
+      "category": "New Perfumes",
+      "author": "Summer House",
+      "published": 1793570569
+    },
     {
       "title": "Lattafa Perfumes — Asad Polar",
       "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Polar-146528.html",
@@ -1512,94 +1600,6 @@
       "description": "New perfume listing: Silently, Hwyl by Aesop.",
       "category": "New Perfumes",
       "author": "Aesop",
-      "published": 1793398889
-    },
-    {
-      "title": "L'Epoque Parfums — Eyes On Me",
-      "link": "https://www.fragrantica.com/perfume/L-Epoque-Parfums/Eyes-On-Me-146449.html",
-      "description": "New perfume listing: Eyes On Me by L'Epoque Parfums.",
-      "category": "New Perfumes",
-      "author": "L'Epoque Parfums",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Trickster Rocks (Трикстер скал)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Trickster-Rocks-Trikster-skal-146448.html",
-      "description": "New perfume listing: Trickster Rocks (Трикстер скал) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Van Goghs Blik (Взор Ван Гога)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Van-Goghs-Blik-Vzor-Van-Goga-146447.html",
-      "description": "New perfume listing: Van Goghs Blik (Взор Ван Гога) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Rêves de Madère",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Reves-de-Madere-146446.html",
-      "description": "New perfume listing: Rêves de Madère by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Libelle im Chalet (Стрекоза в шале)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Libelle-im-Chalet-Strekoza-v-sale-146445.html",
-      "description": "New perfume listing: Libelle im Chalet (Стрекоза в шале) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Plum Sunset (Сливовый сансет)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Plum-Sunset-Slivovyj-sanset-146444.html",
-      "description": "New perfume listing: Plum Sunset (Сливовый сансет) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Aivazovsky (Айвазовский)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Aivazovsky-Ajvazovskij-146443.html",
-      "description": "New perfume listing: Aivazovsky (Айвазовский) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Kamila Robinson — Misty Tuileries (Туманный Тюильри)",
-      "link": "https://www.fragrantica.com/perfume/Kamila-Robinson/Misty-Tuileries-Tumannyj-Tuil-ri-146442.html",
-      "description": "New perfume listing: Misty Tuileries (Туманный Тюильри) by Kamila Robinson.",
-      "category": "New Perfumes",
-      "author": "Kamila Robinson",
-      "published": 1793398889
-    },
-    {
-      "title": "Bath & Body Works — Amber Era",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Amber-Era-146441.html",
-      "description": "New perfume listing: Amber Era by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1793398889
-    },
-    {
-      "title": "SW19 — SEOUL 6am",
-      "link": "https://www.fragrantica.com/perfume/SW19/SEOUL-6am-146440.html",
-      "description": "New perfume listing: SEOUL 6am by SW19.",
-      "category": "New Perfumes",
-      "author": "SW19",
-      "published": 1793398889
-    },
-    {
-      "title": "Parfumane — Oud-u Zeina",
-      "link": "https://www.fragrantica.com/perfume/Parfumane/Oud-u-Zeina-146439.html",
-      "description": "New perfume listing: Oud-u Zeina by Parfumane.",
-      "category": "New Perfumes",
-      "author": "Parfumane",
       "published": 1793398889
     }
   ]
