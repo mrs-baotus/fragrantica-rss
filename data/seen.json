@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Snouf Exclusive: New Brands and Fragrances",
+      "link": "https://www.fragrantica.com/news/Snouf-Exclusive-New-Brands-and-Fragrances-26510.html",
+      "description": "Giulietta's report from the autumn edition of the event by Andrea Meloni and Mario Valanzese",
+      "category": "Art Books Events",
+      "author": "Giulietta Ptoyan",
+      "published": 1793665803
+    },
+    {
+      "title": "DOWNTOWN PARFUM: New From Day Three",
+      "link": "https://www.fragrantica.com/news/DOWNTOWN-PARFUM-New-From-Day-Three-26509.html",
+      "description": "\"A smooth, rich gourmand for anyone who loves a sweet scent. This is Downtown Parfum.\"",
+      "category": "New Fragrances",
+      "author": "Beth Butterfield",
+      "published": 1793655003
+    },
+    {
+      "title": "Oud by Ecstopia: Multiple Agarwood Variants all Wrapped in Wool!",
+      "link": "https://www.fragrantica.com/news/Oud-by-Ecstopia-Multiple-Agarwood-Variants-all-Wrapped-in-Wool-26508.html",
+      "description": "A New Limited Edition Extrait de Parfum.",
+      "category": "Niche Perfumery",
+      "author": "Rouu Abd El-Latif",
+      "published": 1793645103
+    },
+    {
       "title": "Dioriginals' Dune: The Icon is Not Dead",
       "link": "https://www.fragrantica.com/news/Dioriginals-Dune-The-Icon-is-Not-Dead-26507.html",
       "description": "(Yet)",
@@ -775,33 +799,385 @@
       "category": "Fragrance News",
       "author": "Sandra Raičević Petrović",
       "published": 1792654442
-    },
-    {
-      "title": "A Beautiful Crop: The Lavenders of 2026",
-      "link": "https://www.fragrantica.com/news/A-Beautiful-Crop-The-Lavenders-of-2026-26410.html",
-      "description": "This is a great year for lavender fragrance lovers.",
-      "category": "Niche Perfumery",
-      "author": "Adam Forziati",
-      "published": 1792642442
-    },
-    {
-      "title": "Room 1015 Wasabi Klub: Green Tea Leaves, Mint Leaves, Rose Leaves",
-      "link": "https://www.fragrantica.com/news/Room-1015-Wasabi-Klub-Green-Tea-Leaves-Mint-Leaves-Rose-Leaves-26409.html",
-      "description": "Verdant, floral, zingy",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1792630802
-    },
-    {
-      "title": "Miu Miu Miutine: Beautiful Mixed Messages",
-      "link": "https://www.fragrantica.com/news/Miu-Miu-Miutine-Beautiful-Mixed-Messages-26408.html",
-      "description": "A cake that you don't want to eat — my idea of a good gourmand.",
-      "category": "Fragrance Reviews",
-      "author": "Miguel Matos",
-      "published": 1792620003
     }
   ],
   "perfumes": [
+    {
+      "title": "AIM — Kuthban",
+      "link": "https://www.fragrantica.com/perfume/AIM/Kuthban-146723.html",
+      "description": "New perfume listing: Kuthban by AIM.",
+      "category": "New Perfumes",
+      "author": "AIM",
+      "published": 1793667546
+    },
+    {
+      "title": "BUQ Care — Celebration",
+      "link": "https://www.fragrantica.com/perfume/BUQ-Care/Celebration-146722.html",
+      "description": "New perfume listing: Celebration by BUQ Care.",
+      "category": "New Perfumes",
+      "author": "BUQ Care",
+      "published": 1793667546
+    },
+    {
+      "title": "Natura — Aura Alba Hair",
+      "link": "https://www.fragrantica.com/perfume/Natura/Aura-Alba-Hair-146721.html",
+      "description": "New perfume listing: Aura Alba Hair by Natura.",
+      "category": "New Perfumes",
+      "author": "Natura",
+      "published": 1793667546
+    },
+    {
+      "title": "Eudora — Diva Suprema",
+      "link": "https://www.fragrantica.com/perfume/Eudora/Diva-Suprema-146720.html",
+      "description": "New perfume listing: Diva Suprema by Eudora.",
+      "category": "New Perfumes",
+      "author": "Eudora",
+      "published": 1793667546
+    },
+    {
+      "title": "We Pink — Auretx",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Auretx-146719.html",
+      "description": "New perfume listing: Auretx by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1793667546
+    },
+    {
+      "title": "Henry Jacques — N.A.H.",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/N-A-H-146710.html",
+      "description": "New perfume listing: N.A.H. by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1793667546
+    },
+    {
+      "title": "Giovanna Baby — Glow Any",
+      "link": "https://www.fragrantica.com/perfume/Giovanna-Baby/Glow-Any-146706.html",
+      "description": "New perfume listing: Glow Any by Giovanna Baby.",
+      "category": "New Perfumes",
+      "author": "Giovanna Baby",
+      "published": 1793667546
+    },
+    {
+      "title": "Giovanna Baby — Glow Noa",
+      "link": "https://www.fragrantica.com/perfume/Giovanna-Baby/Glow-Noa-146705.html",
+      "description": "New perfume listing: Glow Noa by Giovanna Baby.",
+      "category": "New Perfumes",
+      "author": "Giovanna Baby",
+      "published": 1793667546
+    },
+    {
+      "title": "Giovanna Baby — Glow Zoe",
+      "link": "https://www.fragrantica.com/perfume/Giovanna-Baby/Glow-Zoe-146704.html",
+      "description": "New perfume listing: Glow Zoe by Giovanna Baby.",
+      "category": "New Perfumes",
+      "author": "Giovanna Baby",
+      "published": 1793667546
+    },
+    {
+      "title": "Assaf — Stand By",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Stand-By-146703.html",
+      "description": "New perfume listing: Stand By by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1793667546
+    },
+    {
+      "title": "Dossier — Marshmallow Mood",
+      "link": "https://www.fragrantica.com/perfume/Dossier/Marshmallow-Mood-146702.html",
+      "description": "New perfume listing: Marshmallow Mood by Dossier.",
+      "category": "New Perfumes",
+      "author": "Dossier",
+      "published": 1793667546
+    },
+    {
+      "title": "Aura & Moniker — Louis",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Louis-146701.html",
+      "description": "New perfume listing: Louis by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793667546
+    },
+    {
+      "title": "Aura & Moniker — Evangeline",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Evangeline-146700.html",
+      "description": "New perfume listing: Evangeline by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793667546
+    },
+    {
+      "title": "Aura & Moniker — Taylor",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Taylor-146699.html",
+      "description": "New perfume listing: Taylor by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793667546
+    },
+    {
+      "title": "Aura & Moniker — Gabriel",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Gabriel-146698.html",
+      "description": "New perfume listing: Gabriel by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793667546
+    },
+    {
+      "title": "Armaf — Club de Nuit Timeless",
+      "link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Timeless-146694.html",
+      "description": "New perfume listing: Club de Nuit Timeless by Armaf.",
+      "category": "New Perfumes",
+      "author": "Armaf",
+      "published": 1793667546
+    },
+    {
+      "title": "AIM — Desert Cold",
+      "link": "https://www.fragrantica.com/perfume/AIM/Desert-Cold-146678.html",
+      "description": "New perfume listing: Desert Cold by AIM.",
+      "category": "New Perfumes",
+      "author": "AIM",
+      "published": 1793667546
+    },
+    {
+      "title": "Forever Liss — Magia de Unicórnio",
+      "link": "https://www.fragrantica.com/perfume/Forever-Liss/Magia-de-Unicornio-146718.html",
+      "description": "New perfume listing: Magia de Unicórnio by Forever Liss.",
+      "category": "New Perfumes",
+      "author": "Forever Liss",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Amber Loud",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Amber-Loud-146717.html",
+      "description": "New perfume listing: Amber Loud by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Close Your Eyes",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Close-Your-Eyes-146716.html",
+      "description": "New perfume listing: Close Your Eyes by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Tulum",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Tulum-146715.html",
+      "description": "New perfume listing: Tulum by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Citrus Province",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Citrus-Province-146714.html",
+      "description": "New perfume listing: Citrus Province by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Reverse Homme",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Reverse-Homme-146713.html",
+      "description": "New perfume listing: Reverse Homme by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Le Botanic — Hundred Black",
+      "link": "https://www.fragrantica.com/perfume/Le-Botanic/Hundred-Black-146712.html",
+      "description": "New perfume listing: Hundred Black by Le Botanic.",
+      "category": "New Perfumes",
+      "author": "Le Botanic",
+      "published": 1793667546
+    },
+    {
+      "title": "Henry Jacques — Rose Alba",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Alba-146711.html",
+      "description": "New perfume listing: Rose Alba by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1793667546
+    },
+    {
+      "title": "Zara — Sandalwood Driftwood",
+      "link": "https://www.fragrantica.com/perfume/Zara/Sandalwood-Driftwood-146709.html",
+      "description": "New perfume listing: Sandalwood Driftwood by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793667546
+    },
+    {
+      "title": "Zara — Iced Freesia",
+      "link": "https://www.fragrantica.com/perfume/Zara/Iced-Freesia-146708.html",
+      "description": "New perfume listing: Iced Freesia by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793667546
+    },
+    {
+      "title": "Zara — Frosted Cotton",
+      "link": "https://www.fragrantica.com/perfume/Zara/Frosted-Cotton-146707.html",
+      "description": "New perfume listing: Frosted Cotton by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Yara Eau de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Yara-Eau-de-Parfum-146697.html",
+      "description": "New perfume listing: Yara Eau de Parfum by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Yara Roll On Perfume Oil",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Yara-Roll-On-Perfume-Oil-146696.html",
+      "description": "New perfume listing: Yara Roll On Perfume Oil by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Yaa Qamar",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Yaa-Qamar-146695.html",
+      "description": "New perfume listing: Yaa Qamar by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Thahira",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Thahira-146693.html",
+      "description": "New perfume listing: Thahira by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Taj Al Malik",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Taj-Al-Malik-146692.html",
+      "description": "New perfume listing: Taj Al Malik by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Sultan Al Shabab",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Sultan-Al-Shabab-146691.html",
+      "description": "New perfume listing: Sultan Al Shabab by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Sultan Al Quloob Intense Gold",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Sultan-Al-Quloob-Intense-Gold-146690.html",
+      "description": "New perfume listing: Sultan Al Quloob Intense Gold by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Silk Mood",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Silk-Mood-146689.html",
+      "description": "New perfume listing: Silk Mood by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Sheik Al Shabab",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Sheik-Al-Shabab-146688.html",
+      "description": "New perfume listing: Sheik Al Shabab by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Sheik Al Oud",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Sheik-Al-Oud-146687.html",
+      "description": "New perfume listing: Sheik Al Oud by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Shahrazad",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Shahrazad-146686.html",
+      "description": "New perfume listing: Shahrazad by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Saher Al Layali",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Saher-Al-Layali-146685.html",
+      "description": "New perfume listing: Saher Al Layali by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Safeer Al Oud",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Safeer-Al-Oud-146684.html",
+      "description": "New perfume listing: Safeer Al Oud by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Safeer Al Hub Everlasting",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Safeer-Al-Hub-Everlasting-146683.html",
+      "description": "New perfume listing: Safeer Al Hub Everlasting by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Safeer Al Hub Brown",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Safeer-Al-Hub-Brown-146682.html",
+      "description": "New perfume listing: Safeer Al Hub Brown by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Rose Paris Night",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Rose-Paris-Night-146681.html",
+      "description": "New perfume listing: Rose Paris Night by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Rose Paris In Bloom",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Rose-Paris-In-Bloom-146680.html",
+      "description": "New perfume listing: Rose Paris In Bloom by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Rose Paris",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Rose-Paris-146679.html",
+      "description": "New perfume listing: Rose Paris by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
+    {
+      "title": "Ard Al Zaafaran — Romancea",
+      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Romancea-146677.html",
+      "description": "New perfume listing: Romancea by Ard Al Zaafaran.",
+      "category": "New Perfumes",
+      "author": "Ard Al Zaafaran",
+      "published": 1793667546
+    },
     {
       "title": "Maison Scandinave — Le Noir",
       "link": "https://www.fragrantica.com/perfume/Maison-Scandinave/Le-Noir-146662.html",
@@ -1225,382 +1601,6 @@
       "category": "New Perfumes",
       "author": "Ard Al Zaafaran",
       "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Malikah",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Malikah-146649.html",
-      "description": "New perfume listing: Malikah by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Malik",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Malik-146648.html",
-      "description": "New perfume listing: Malik by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Malik Al Lail",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Malik-Al-Lail-146647.html",
-      "description": "New perfume listing: Malik Al Lail by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Majd Al Shabab Sport",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Majd-Al-Shabab-Sport-146646.html",
-      "description": "New perfume listing: Majd Al Shabab Sport by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Majd Al Shabab",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Majd-Al-Shabab-146645.html",
-      "description": "New perfume listing: Majd Al Shabab by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Lil Shabab Faqat",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Lil-Shabab-Faqat-146644.html",
-      "description": "New perfume listing: Lil Shabab Faqat by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Layalina",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Layalina-146643.html",
-      "description": "New perfume listing: Layalina by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Laila",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Laila-146642.html",
-      "description": "New perfume listing: Laila by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Kalimat La Tansa Silver",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Kalimat-La-Tansa-Silver-146641.html",
-      "description": "New perfume listing: Kalimat La Tansa Silver by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Jalsaat",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Jalsaat-146640.html",
-      "description": "New perfume listing: Jalsaat by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Intesaar",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Intesaar-146639.html",
-      "description": "New perfume listing: Intesaar by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Ard Al Zaafaran — Huroof",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Huroof-146638.html",
-      "description": "New perfume listing: Huroof by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793634959
-    },
-    {
-      "title": "Viatge Manila — Xinghuā Alley",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Xinghua-Alley-146559.html",
-      "description": "New perfume listing: Xinghuā Alley by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Voile de Vanille",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Voile-de-Vanille-146558.html",
-      "description": "New perfume listing: Voile de Vanille by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Summer Fling",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Summer-Fling-146557.html",
-      "description": "New perfume listing: Summer Fling by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Spring Bouquet",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Spring-Bouquet-146556.html",
-      "description": "New perfume listing: Spring Bouquet by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Speakeasy",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Speakeasy-146555.html",
-      "description": "New perfume listing: Speakeasy by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Matcha Cafe",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Matcha-Cafe-146554.html",
-      "description": "New perfume listing: Matcha Cafe by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Magic Man",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Magic-Man-146553.html",
-      "description": "New perfume listing: Magic Man by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Ikebana",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Ikebana-146552.html",
-      "description": "New perfume listing: Ikebana by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Ilmur & Sjór — Skógarbotn no.16 - The Forest Floor",
-      "link": "https://www.fragrantica.com/perfume/Ilmur-Sjor/Skogarbotn-no-16-The-Forest-Floor-146548.html",
-      "description": "New perfume listing: Skógarbotn no.16 - The Forest Floor by Ilmur & Sjór.",
-      "category": "New Perfumes",
-      "author": "Ilmur & Sjór",
-      "published": 1793599573
-    },
-    {
-      "title": "Ecstopia — Oud",
-      "link": "https://www.fragrantica.com/perfume/Ecstopia/Oud-146542.html",
-      "description": "New perfume listing: Oud by Ecstopia.",
-      "category": "New Perfumes",
-      "author": "Ecstopia",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Cote d'Azur",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Cote-d-Azur-146551.html",
-      "description": "New perfume listing: Cote d'Azur by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Çava Blanco",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Cava-Blanco-146550.html",
-      "description": "New perfume listing: Çava Blanco by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Viatge Manila — Bramasole",
-      "link": "https://www.fragrantica.com/perfume/Viatge-Manila/Bramasole-146549.html",
-      "description": "New perfume listing: Bramasole by Viatge Manila.",
-      "category": "New Perfumes",
-      "author": "Viatge Manila",
-      "published": 1793599573
-    },
-    {
-      "title": "Ilmur & Sjór — Mosinn no.33 - The Moss",
-      "link": "https://www.fragrantica.com/perfume/Ilmur-Sjor/Mosinn-no-33-The-Moss-146547.html",
-      "description": "New perfume listing: Mosinn no.33 - The Moss by Ilmur & Sjór.",
-      "category": "New Perfumes",
-      "author": "Ilmur & Sjór",
-      "published": 1793599573
-    },
-    {
-      "title": "Ilmur & Sjór — Reykjaskógurinn no.17 - The Smoky Forest",
-      "link": "https://www.fragrantica.com/perfume/Ilmur-Sjor/Reykjaskogurinn-no-17-The-Smoky-Forest-146546.html",
-      "description": "New perfume listing: Reykjaskógurinn no.17 - The Smoky Forest by Ilmur & Sjór.",
-      "category": "New Perfumes",
-      "author": "Ilmur & Sjór",
-      "published": 1793599573
-    },
-    {
-      "title": "Ilmur & Sjór — Grasið no.9 - The Grass",
-      "link": "https://www.fragrantica.com/perfume/Ilmur-Sjor/Grasidj-no-9-The-Grass-146545.html",
-      "description": "New perfume listing: Grasið no.9 - The Grass by Ilmur & Sjór.",
-      "category": "New Perfumes",
-      "author": "Ilmur & Sjór",
-      "published": 1793599573
-    },
-    {
-      "title": "Mexx — Inspired Glow for Him",
-      "link": "https://www.fragrantica.com/perfume/Mexx/Inspired-Glow-for-Him-146544.html",
-      "description": "New perfume listing: Inspired Glow for Him by Mexx.",
-      "category": "New Perfumes",
-      "author": "Mexx",
-      "published": 1793599573
-    },
-    {
-      "title": "Mexx — Inspired Glow For Her",
-      "link": "https://www.fragrantica.com/perfume/Mexx/Inspired-Glow-For-Her-146543.html",
-      "description": "New perfume listing: Inspired Glow For Her by Mexx.",
-      "category": "New Perfumes",
-      "author": "Mexx",
-      "published": 1793599573
-    },
-    {
-      "title": "Better World Fragrance House — Dosaydo",
-      "link": "https://www.fragrantica.com/perfume/Better-World-Fragrance-House/Dosaydo-146541.html",
-      "description": "New perfume listing: Dosaydo by Better World Fragrance House.",
-      "category": "New Perfumes",
-      "author": "Better World Fragrance House",
-      "published": 1793570569
-    },
-    {
-      "title": "Söppö — Foxy Nixie",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Foxy-Nixie-146538.html",
-      "description": "New perfume listing: Foxy Nixie by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1793570569
-    },
-    {
-      "title": "Bath & Body Works — Santal Ridge",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Santal-Ridge-146537.html",
-      "description": "New perfume listing: Santal Ridge by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1793570569
-    },
-    {
-      "title": "Söppö — Bittsy Pixie",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Bittsy-Pixie-146536.html",
-      "description": "New perfume listing: Bittsy Pixie by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1793570569
-    },
-    {
-      "title": "Söppö — Divines Croûton",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Divines-Crouton-146535.html",
-      "description": "New perfume listing: Divines Croûton by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1793570569
-    },
-    {
-      "title": "Söppö — Pain Couture",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Pain-Couture-146534.html",
-      "description": "New perfume listing: Pain Couture by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1793570569
-    },
-    {
-      "title": "Söppö — Bark O' Clock",
-      "link": "https://www.fragrantica.com/perfume/Soeppoe/Bark-O-Clock-146533.html",
-      "description": "New perfume listing: Bark O' Clock by Söppö.",
-      "category": "New Perfumes",
-      "author": "Söppö",
-      "published": 1793570569
-    },
-    {
-      "title": "Fine Scents — Moi Non Plus",
-      "link": "https://www.fragrantica.com/perfume/Fine-Scents/Moi-Non-Plus-146531.html",
-      "description": "New perfume listing: Moi Non Plus by Fine Scents.",
-      "category": "New Perfumes",
-      "author": "Fine Scents",
-      "published": 1793570569
-    },
-    {
-      "title": "Cyrulicy — Rogue Perfume",
-      "link": "https://www.fragrantica.com/perfume/Cyrulicy/Rogue-Perfume-146540.html",
-      "description": "New perfume listing: Rogue Perfume by Cyrulicy.",
-      "category": "New Perfumes",
-      "author": "Cyrulicy",
-      "published": 1793570569
-    },
-    {
-      "title": "Fragrance World — Intense Noir",
-      "link": "https://www.fragrantica.com/perfume/Fragrance-World/Intense-Noir-146539.html",
-      "description": "New perfume listing: Intense Noir by Fragrance World.",
-      "category": "New Perfumes",
-      "author": "Fragrance World",
-      "published": 1793570569
-    },
-    {
-      "title": "Summer House — New Wave",
-      "link": "https://www.fragrantica.com/perfume/Summer-House/New-Wave-146532.html",
-      "description": "New perfume listing: New Wave by Summer House.",
-      "category": "New Perfumes",
-      "author": "Summer House",
-      "published": 1793570569
-    },
-    {
-      "title": "Lattafa Perfumes — Asad Polar",
-      "link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Polar-146528.html",
-      "description": "New perfume listing: Asad Polar by Lattafa Perfumes.",
-      "category": "New Perfumes",
-      "author": "Lattafa Perfumes",
-      "published": 1793539583
-    },
-    {
-      "title": "Imprime — Muse Intense",
-      "link": "https://www.fragrantica.com/perfume/Imprime/Muse-Intense-146530.html",
-      "description": "New perfume listing: Muse Intense by Imprime.",
-      "category": "New Perfumes",
-      "author": "Imprime",
-      "published": 1793539583
-    },
-    {
-      "title": "Imprime — Chérie Bloom",
-      "link": "https://www.fragrantica.com/perfume/Imprime/Cherie-Bloom-146529.html",
-      "description": "New perfume listing: Chérie Bloom by Imprime.",
-      "category": "New Perfumes",
-      "author": "Imprime",
-      "published": 1793539583
-    },
-    {
-      "title": "Ard Al Zaafaran — Daloate Ana",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Daloate-Ana-146527.html",
-      "description": "New perfume listing: Daloate Ana by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793513254
-    },
-    {
-      "title": "Ard Al Zaafaran — Daareen",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Daareen-146526.html",
-      "description": "New perfume listing: Daareen by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793513254
-    },
-    {
-      "title": "Ard Al Zaafaran — Crystal White",
-      "link": "https://www.fragrantica.com/perfume/Ard-Al-Zaafaran/Crystal-White-146525.html",
-      "description": "New perfume listing: Crystal White by Ard Al Zaafaran.",
-      "category": "New Perfumes",
-      "author": "Ard Al Zaafaran",
-      "published": 1793513254
     }
   ]
 }
