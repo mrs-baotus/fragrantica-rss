@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Mocha Absolu by Parfums Dusita",
+      "link": "https://www.fragrantica.com/news/Mocha-Absolu-by-Parfums-Dusita-26519.html",
+      "description": "A true delight!",
+      "category": "Niche Fragrances",
+      "author": "Alena Lavault",
+      "published": 1793763363
+    },
+    {
+      "title": "Creed Iris Debonair: Butter-Churned Iris For Mossy Cottage Core",
+      "link": "https://www.fragrantica.com/news/Creed-Iris-Debonair-Butter-Churned-Iris-For-Mossy-Cottage-Core-26518.html",
+      "description": "Billed as “fougère floral”",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1793755803
+    },
+    {
       "title": "Fine Scents Moi Non Plus: A New Vanilla Fragrance by Dominique Ropion",
       "link": "https://www.fragrantica.com/news/Fine-Scents-Moi-Non-Plus-A-New-Vanilla-Fragrance-by-Dominique-Ropion-26517.html",
       "description": "The British brand's fifth fragrance explores the fine line between desire and restraint.",
@@ -783,25 +799,73 @@
       "category": "Interviews",
       "author": "Giulietta Ptoyan",
       "published": 1792734723
-    },
-    {
-      "title": "Bon Voyage by Maison Violet: Delicious!",
-      "link": "https://www.fragrantica.com/news/Bon-Voyage-by-Maison-Violet-Delicious-26419.html",
-      "description": "An autumnal scent of delicious indulgences and a long awaited vacation.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1792721583
-    },
-    {
-      "title": "Update on Bibbi Parfum: Three New 2026 Editions",
-      "link": "https://www.fragrantica.com/news/Update-on-Bibbi-Parfum-Three-New-2026-Editions-26418.html",
-      "description": "The Last Mango, Deep Lotus and House of Arthur.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1792714264
     }
   ],
   "perfumes": [
+    {
+      "title": "LONGTIEN — Thành Phố - City",
+      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Thanh-Pho-City-146772.html",
+      "description": "New perfume listing: Thành Phố - City by LONGTIEN.",
+      "category": "New Perfumes",
+      "author": "LONGTIEN",
+      "published": 1793773460
+    },
+    {
+      "title": "LONGTIEN — Chợ Gạo - Rice Market",
+      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Cho-Gao-Rice-Market-146771.html",
+      "description": "New perfume listing: Chợ Gạo - Rice Market by LONGTIEN.",
+      "category": "New Perfumes",
+      "author": "LONGTIEN",
+      "published": 1793773460
+    },
+    {
+      "title": "LONGTIEN — Quê Nhà - Hometown",
+      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Que-Nha-Hometown-146770.html",
+      "description": "New perfume listing: Quê Nhà - Hometown by LONGTIEN.",
+      "category": "New Perfumes",
+      "author": "LONGTIEN",
+      "published": 1793773460
+    },
+    {
+      "title": "Fleurit Parfums — Antibes",
+      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Antibes-146768.html",
+      "description": "New perfume listing: Antibes by Fleurit Parfums.",
+      "category": "New Perfumes",
+      "author": "Fleurit Parfums",
+      "published": 1793773460
+    },
+    {
+      "title": "Fleurit Parfums — Plage Sud",
+      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Plage-Sud-146767.html",
+      "description": "New perfume listing: Plage Sud by Fleurit Parfums.",
+      "category": "New Perfumes",
+      "author": "Fleurit Parfums",
+      "published": 1793773460
+    },
+    {
+      "title": "Old Spice — Swagger",
+      "link": "https://www.fragrantica.com/perfume/Old-Spice/Swagger-146769.html",
+      "description": "New perfume listing: Swagger by Old Spice.",
+      "category": "New Perfumes",
+      "author": "Old Spice",
+      "published": 1793773460
+    },
+    {
+      "title": "ÉCLATAUR — Flare",
+      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Flare-146766.html",
+      "description": "New perfume listing: Flare by ÉCLATAUR.",
+      "category": "New Perfumes",
+      "author": "ÉCLATAUR",
+      "published": 1793773460
+    },
+    {
+      "title": "ÉCLATAUR — Clarte",
+      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Clarte-146765.html",
+      "description": "New perfume listing: Clarte by ÉCLATAUR.",
+      "category": "New Perfumes",
+      "author": "ÉCLATAUR",
+      "published": 1793773460
+    },
     {
       "title": "AIM — Fizz",
       "link": "https://www.fragrantica.com/perfume/AIM/Fizz-146760.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Mood for Peace Man by Annayake.",
       "category": "New Perfumes",
       "author": "Annayake",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Simunye",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Simunye-146628.html",
-      "description": "New perfume listing: Simunye by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Upendo",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Upendo-146627.html",
-      "description": "New perfume listing: Upendo by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Soyayya",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Soyayya-146626.html",
-      "description": "New perfume listing: Soyayya by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Mayele",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Mayele-146625.html",
-      "description": "New perfume listing: Mayele by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Ifamora",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Ifamora-146624.html",
-      "description": "New perfume listing: Ifamora by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Scent Of Africa — Anidaso",
-      "link": "https://www.fragrantica.com/perfume/Scent-Of-Africa/Anidaso-146623.html",
-      "description": "New perfume listing: Anidaso by Scent Of Africa.",
-      "category": "New Perfumes",
-      "author": "Scent Of Africa",
-      "published": 1793634959
-    },
-    {
-      "title": "Esselle — Ancora Uno Fondente",
-      "link": "https://www.fragrantica.com/perfume/Esselle/Ancora-Uno-Fondente-146622.html",
-      "description": "New perfume listing: Ancora Uno Fondente by Esselle.",
-      "category": "New Perfumes",
-      "author": "Esselle",
-      "published": 1793634959
-    },
-    {
-      "title": "Esselle — Ancora Uno Bianco",
-      "link": "https://www.fragrantica.com/perfume/Esselle/Ancora-Uno-Bianco-146621.html",
-      "description": "New perfume listing: Ancora Uno Bianco by Esselle.",
-      "category": "New Perfumes",
-      "author": "Esselle",
       "published": 1793634959
     }
   ]
