@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "WILL Comporta Perfumes: The scent of the future?",
+      "link": "https://www.fragrantica.com/news/WILL-Comporta-Perfumes-The-scent-of-the-future-26533.html",
+      "description": "\"A vertical fragrance that captures the imagination from the first nanosecond inhale.\"",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1793897283
+    },
+    {
+      "title": "Hooga: Hygge, Asian Style",
+      "link": "https://www.fragrantica.com/news/Hooga-Hygge-Asian-Style-26532.html",
+      "description": "Comfort and simple pleasures from Singapore.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1793887802
+    },
+    {
+      "title": "Bonfire Night Scents",
+      "link": "https://www.fragrantica.com/news/Bonfire-Night-Scents-26531.html",
+      "description": "Remember, remember...to wear perfume on the 5th of November",
+      "category": "Fragrances and Cultures",
+      "author": "Nicola Thomis",
+      "published": 1793883003
+    },
+    {
+      "title": "Introducing Fleurit Parfums and the New City Collection",
+      "link": "https://www.fragrantica.com/news/Introducing-Fleurit-Parfums-and-the-New-City-Collection-26530.html",
+      "description": "\"Some cities stay with you. New York in the 90s was one you could never forget...\"",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1793873403
+    },
+    {
+      "title": "Givaudan introduces HarmoniScentz™",
+      "link": "https://www.fragrantica.com/news/Givaudan-introduces-HarmoniScentz-26529.html",
+      "description": "Its fragrance design technology developed to help consumers better manage acute stress",
+      "category": "Fragrance News",
+      "author": "Dariia Fessalonika",
+      "published": 1793862423
+    },
+    {
       "title": "Molton Brown Unveils Its Christmas Edit",
       "link": "https://www.fragrantica.com/news/Molton-Brown-Unveils-Its-Christmas-Edit-26528.html",
       "description": "The holiday spirit draws near, this time with special editions from the British brand.",
@@ -759,49 +799,401 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1792905124
-    },
-    {
-      "title": "Le Parfum Sample Boxes",
-      "link": "https://www.fragrantica.com/news/Le-Parfum-Sample-Boxes-26433.html",
-      "description": "Two boxes, lots of perfume samples, and so many new scents to try. Le Parfum has come out with a new offering that will delight all perfume lovers.",
-      "category": "Fragrance News",
-      "author": "Markéta Rybínová",
-      "published": 1792891862
-    },
-    {
-      "title": "What’s After the Mango Oud Trend? Now It’s Pineapple Oud",
-      "link": "https://www.fragrantica.com/news/What-s-After-the-Mango-Oud-Trend-Now-It-s-Pineapple-Oud-26432.html",
-      "description": "Lots of recent examples.",
-      "category": "Columns",
-      "author": "Eddie Bulliqi",
-      "published": 1792881783
-    },
-    {
-      "title": "Rabanne Fame Gummies: Three Gourmand Fragrances Made to Mix",
-      "link": "https://www.fragrantica.com/news/Rabanne-Fame-Gummies-Three-Gourmand-Fragrances-Made-to-Mix-26431.html",
-      "description": "Mini set inspired by gummy candies and fun!",
-      "category": "New Fragrances",
-      "author": "Sandra Raičević Petrović",
-      "published": 1792871943
-    },
-    {
-      "title": "Out OFF Cage: A New Brand Dedicated to Animal Welfare",
-      "link": "https://www.fragrantica.com/news/Out-OFF-Cage-A-New-Brand-Dedicated-to-Animal-Welfare-26430.html",
-      "description": "A closer look at a brand I discovered on the sidelines of TFWA in Cannes at the end of September.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1792864863
-    },
-    {
-      "title": "Wu Zhao by Elixir Attar: Museum Piece",
-      "link": "https://www.fragrantica.com/news/Wu-Zhao-by-Elixir-Attar-Museum-Piece-26429.html",
-      "description": "A tribute to the only woman who became a Chinese emperor.",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1792852023
     }
   ],
   "perfumes": [
+    {
+      "title": "Eternal Love — Euphoria Bloom Rouge",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Euphoria-Bloom-Rouge-147000.html",
+      "description": "New perfume listing: Euphoria Bloom Rouge by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1793908670
+    },
+    {
+      "title": "Eternal Love — Euphoria Morning Grove",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Euphoria-Morning-Grove-146999.html",
+      "description": "New perfume listing: Euphoria Morning Grove by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Goku Black Rose",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Goku-Black-Rose-146998.html",
+      "description": "New perfume listing: Goku Black Rose by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Goku Dios Blue",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Goku-Dios-Blue-146997.html",
+      "description": "New perfume listing: Goku Dios Blue by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Cell",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Cell-146996.html",
+      "description": "New perfume listing: Cell by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Krilin",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Krilin-146995.html",
+      "description": "New perfume listing: Krilin by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Bills",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Bills-146994.html",
+      "description": "New perfume listing: Bills by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Alexander Classic",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Alexander-Classic-146993.html",
+      "description": "New perfume listing: Alexander Classic by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Gabriella",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Gabriella-146992.html",
+      "description": "New perfume listing: Gabriella by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Androide 18",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Androide-18-146991.html",
+      "description": "New perfume listing: Androide 18 by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Tatiana",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Tatiana-146990.html",
+      "description": "New perfume listing: Tatiana by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Bianca",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Bianca-146989.html",
+      "description": "New perfume listing: Bianca by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Goku GT4",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Goku-GT4-146988.html",
+      "description": "New perfume listing: Goku GT4 by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Sienna",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Sienna-146987.html",
+      "description": "New perfume listing: Sienna by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Ultra Instinto Dominado",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Ultra-Instinto-Dominado-146986.html",
+      "description": "New perfume listing: Ultra Instinto Dominado by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Goku Dios Red",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Goku-Dios-Red-146985.html",
+      "description": "New perfume listing: Goku Dios Red by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Camilla",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Camilla-146984.html",
+      "description": "New perfume listing: Camilla by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Morgan",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Morgan-146983.html",
+      "description": "New perfume listing: Morgan by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Bardok",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Bardok-146982.html",
+      "description": "New perfume listing: Bardok by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Aura & Moniker — Charlie",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Charlie-146981.html",
+      "description": "New perfume listing: Charlie by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1793908670
+    },
+    {
+      "title": "Atelier Perfum — Leather",
+      "link": "https://www.fragrantica.com/perfume/Atelier-Perfum/Leather-146980.html",
+      "description": "New perfume listing: Leather by Atelier Perfum.",
+      "category": "New Perfumes",
+      "author": "Atelier Perfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Horchata Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Horchata-Cream-146979.html",
+      "description": "New perfume listing: Majin Horchata Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Horchata Fresa Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Horchata-Fresa-Cream-146978.html",
+      "description": "New perfume listing: Majin Horchata Fresa Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Pumpkin Pie Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Pumpkin-Pie-Cream-146977.html",
+      "description": "New perfume listing: Majin Pumpkin Pie Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Malteada de Pistachio Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Malteada-de-Pistachio-Cream-146976.html",
+      "description": "New perfume listing: Majin Malteada de Pistachio Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Bubblegum Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Bubblegum-Cream-146975.html",
+      "description": "New perfume listing: Majin Bubblegum Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Mango Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Mango-Cream-146974.html",
+      "description": "New perfume listing: Majin Mango Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Blueberry Milkshake Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Blueberry-Milkshake-Cream-146973.html",
+      "description": "New perfume listing: Majin Blueberry Milkshake Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Majin Chocolate Abuelita Cream",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Chocolate-Abuelita-Cream-146972.html",
+      "description": "New perfume listing: Majin Chocolate Abuelita Cream by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Candier&Gabi — Vol 1. Pink Air",
+      "link": "https://www.fragrantica.com/perfume/Candier-Gabi/Vol-1-Pink-Air-146971.html",
+      "description": "New perfume listing: Vol 1. Pink Air by Candier&Gabi.",
+      "category": "New Perfumes",
+      "author": "Candier&Gabi",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Turtle House",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Turtle-House-146970.html",
+      "description": "New perfume listing: Turtle House by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Orange Piccolo",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Orange-Piccolo-146969.html",
+      "description": "New perfume listing: Orange Piccolo by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Kale Berserker",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Kale-Berserker-146968.html",
+      "description": "New perfume listing: Kale Berserker by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — Shenlong",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Shenlong-146967.html",
+      "description": "New perfume listing: Shenlong by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Pisello Parfum — KA ME HA ME HA",
+      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/KA-ME-HA-ME-HA-146966.html",
+      "description": "New perfume listing: KA ME HA ME HA by Pisello Parfum.",
+      "category": "New Perfumes",
+      "author": "Pisello Parfum",
+      "published": 1793908670
+    },
+    {
+      "title": "Eternal Love — Eternal Love For Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Eternal-Love-For-Men-147001.html",
+      "description": "New perfume listing: Eternal Love For Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1793908670
+    },
+    {
+      "title": "Daniel's Truth — Daniel’s Aquarius",
+      "link": "https://www.fragrantica.com/perfume/Daniel-s-Truth/Daniel-s-Aquarius-146957.html",
+      "description": "New perfume listing: Daniel’s Aquarius by Daniel's Truth.",
+      "category": "New Perfumes",
+      "author": "Daniel's Truth",
+      "published": 1793908670
+    },
+    {
+      "title": "Daniel's Truth — Daniel’s Libra",
+      "link": "https://www.fragrantica.com/perfume/Daniel-s-Truth/Daniel-s-Libra-146956.html",
+      "description": "New perfume listing: Daniel’s Libra by Daniel's Truth.",
+      "category": "New Perfumes",
+      "author": "Daniel's Truth",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Twilight By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Twilight-By-Nature-146955.html",
+      "description": "New perfume listing: Twilight By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Dawn By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Dawn-By-Nature-146954.html",
+      "description": "New perfume listing: Dawn By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Nostalgia 1979 EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-1979-EDP-146953.html",
+      "description": "New perfume listing: Nostalgia 1979 EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Patchouli Imperial EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Patchouli-Imperial-EDP-146951.html",
+      "description": "New perfume listing: Patchouli Imperial EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Phantom Gentleman EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Phantom-Gentleman-EDP-146950.html",
+      "description": "New perfume listing: Phantom Gentleman EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Phantom Tuxedo EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Phantom-Tuxedo-EDP-146949.html",
+      "description": "New perfume listing: Phantom Tuxedo EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Linea De Bella — Miracle Luxury Edition EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Miracle-Luxury-Edition-EDP-146948.html",
+      "description": "New perfume listing: Miracle Luxury Edition EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793908670
+    },
+    {
+      "title": "Givenchy — L'Interdit Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Solid-Perfume-146943.html",
+      "description": "New perfume listing: L'Interdit Solid Perfume by Givenchy.",
+      "category": "New Perfumes",
+      "author": "Givenchy",
+      "published": 1793908670
+    },
+    {
+      "title": "ÉCLATAUR — Seraph",
+      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Seraph-146941.html",
+      "description": "New perfume listing: Seraph by ÉCLATAUR.",
+      "category": "New Perfumes",
+      "author": "ÉCLATAUR",
+      "published": 1793908670
+    },
+    {
+      "title": "ÉCLATAUR — Legende",
+      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Legende-146940.html",
+      "description": "New perfume listing: Legende by ÉCLATAUR.",
+      "category": "New Perfumes",
+      "author": "ÉCLATAUR",
+      "published": 1793908670
+    },
+    {
+      "title": "Givenchy — L'Interdit Eau de Parfum Solid Perfume",
+      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Eau-de-Parfum-Solid-Perfume-146939.html",
+      "description": "New perfume listing: L'Interdit Eau de Parfum Solid Perfume by Givenchy.",
+      "category": "New Perfumes",
+      "author": "Givenchy",
+      "published": 1793908670
+    },
     {
       "title": "Amaran — Sugar Rush Sweetness Overload",
       "link": "https://www.fragrantica.com/perfume/Amaran/Sugar-Rush-Sweetness-Overload-146938.html",
@@ -1209,398 +1601,6 @@
       "category": "New Perfumes",
       "author": "Hooga",
       "published": 1793821556
-    },
-    {
-      "title": "Hooga — Aged Amber",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Aged-Amber-146883.html",
-      "description": "New perfume listing: Aged Amber by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Smoked Cedar",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Smoked-Cedar-146882.html",
-      "description": "New perfume listing: Smoked Cedar by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Tropical Punch",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Tropical-Punch-146881.html",
-      "description": "New perfume listing: Tropical Punch by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Rosewater Oud",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Rosewater-Oud-146880.html",
-      "description": "New perfume listing: Rosewater Oud by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Midnight Rose",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Midnight-Rose-146879.html",
-      "description": "New perfume listing: Midnight Rose by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Oud Rouge",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Oud-Rouge-146878.html",
-      "description": "New perfume listing: Oud Rouge by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Saffron Power",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Saffron-Power-146877.html",
-      "description": "New perfume listing: Saffron Power by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Juniper Gin",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Juniper-Gin-146876.html",
-      "description": "New perfume listing: Juniper Gin by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Golden Bergamot",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Golden-Bergamot-146875.html",
-      "description": "New perfume listing: Golden Bergamot by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Oud Mood",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Oud-Mood-146874.html",
-      "description": "New perfume listing: Oud Mood by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Gentle Orris",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Gentle-Orris-146873.html",
-      "description": "New perfume listing: Gentle Orris by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Apricot & Nectar",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Apricot-Nectar-146872.html",
-      "description": "New perfume listing: Apricot & Nectar by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Hooga — Mango Brûlée",
-      "link": "https://www.fragrantica.com/perfume/Hooga/Mango-Brulee-146871.html",
-      "description": "New perfume listing: Mango Brûlée by Hooga.",
-      "category": "New Perfumes",
-      "author": "Hooga",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Pumpkin Crema",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Pumpkin-Crema-146887.html",
-      "description": "New perfume listing: Pumpkin Crema by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Cabin Embers",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Cabin-Embers-146886.html",
-      "description": "New perfume listing: Cabin Embers by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Evergreens",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Evergreens-146885.html",
-      "description": "New perfume listing: Evergreens by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — BOIS D’ORIENT",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/BOIS-D-ORIENT-146864.html",
-      "description": "New perfume listing: BOIS D’ORIENT by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — VIOLETTE",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/VIOLETTE-146863.html",
-      "description": "New perfume listing: VIOLETTE by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — FLEUR D’ORANGER",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/FLEUR-D-ORANGER-146862.html",
-      "description": "New perfume listing: FLEUR D’ORANGER by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — ORANGE & OAKMOSS",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/ORANGE-OAKMOSS-146861.html",
-      "description": "New perfume listing: ORANGE & OAKMOSS by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — COCO & CEDRE",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/COCO-CEDRE-146860.html",
-      "description": "New perfume listing: COCO & CEDRE by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — SAGE & MUSK",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/SAGE-MUSK-146859.html",
-      "description": "New perfume listing: SAGE & MUSK by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Poèmes de Provence — CARDAMOME & AMBRE",
-      "link": "https://www.fragrantica.com/perfume/Poemes-de-Provence/CARDAMOME-AMBRE-146858.html",
-      "description": "New perfume listing: CARDAMOME & AMBRE by Poèmes de Provence.",
-      "category": "New Perfumes",
-      "author": "Poèmes de Provence",
-      "published": 1793821556
-    },
-    {
-      "title": "Iren Adler — Ландыш (Lily of the Valley)",
-      "link": "https://www.fragrantica.com/perfume/Iren-Adler/Landys-Lily-of-the-Valley-146845.html",
-      "description": "New perfume listing: Ландыш (Lily of the Valley) by Iren Adler.",
-      "category": "New Perfumes",
-      "author": "Iren Adler",
-      "published": 1793821556
-    },
-    {
-      "title": "Iren Adler — Сирень (Lilac)",
-      "link": "https://www.fragrantica.com/perfume/Iren-Adler/Siren-Lilac-146843.html",
-      "description": "New perfume listing: Сирень (Lilac) by Iren Adler.",
-      "category": "New Perfumes",
-      "author": "Iren Adler",
-      "published": 1793821556
-    },
-    {
-      "title": "Iren Adler — Сакура (Sakura)",
-      "link": "https://www.fragrantica.com/perfume/Iren-Adler/Sakura-Sakura-146842.html",
-      "description": "New perfume listing: Сакура (Sakura) by Iren Adler.",
-      "category": "New Perfumes",
-      "author": "Iren Adler",
-      "published": 1793821556
-    },
-    {
-      "title": "Iren Adler — Клематис (Clematis)",
-      "link": "https://www.fragrantica.com/perfume/Iren-Adler/Klematis-Clematis-146839.html",
-      "description": "New perfume listing: Клематис (Clematis) by Iren Adler.",
-      "category": "New Perfumes",
-      "author": "Iren Adler",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Woodlander",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Woodlander-146837.html",
-      "description": "New perfume listing: Woodlander by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Dirty Birch",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Dirty-Birch-146836.html",
-      "description": "New perfume listing: Dirty Birch by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Urthy — Black Flannel",
-      "link": "https://www.fragrantica.com/perfume/Urthy/Black-Flannel-146805.html",
-      "description": "New perfume listing: Black Flannel by Urthy.",
-      "category": "New Perfumes",
-      "author": "Urthy",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Profumo Verbena",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Profumo-Verbena-146803.html",
-      "description": "New perfume listing: Profumo Verbena by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Rosa Toscana",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Rosa-Toscana-146802.html",
-      "description": "New perfume listing: Rosa Toscana by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Lime e Vetiver",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Lime-e-Vetiver-146801.html",
-      "description": "New perfume listing: Lime e Vetiver by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Lì Ruscelletti",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Li-Ruscelletti-146800.html",
-      "description": "New perfume listing: Lì Ruscelletti by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Lavanda del Monastero",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Lavanda-del-Monastero-146799.html",
-      "description": "New perfume listing: Lavanda del Monastero by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Fior di Ginestra",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Fior-di-Ginestra-146798.html",
-      "description": "New perfume listing: Fior di Ginestra by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Calendimaggio",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Calendimaggio-146797.html",
-      "description": "New perfume listing: Calendimaggio by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Acqua del Casentino",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Acqua-del-Casentino-146796.html",
-      "description": "New perfume listing: Acqua del Casentino by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Giaggiolo",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Giaggiolo-146795.html",
-      "description": "New perfume listing: Giaggiolo by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Antica Spezieria Monastero Domenicano Santa Maria della Neve — Violetta",
-      "link": "https://www.fragrantica.com/perfume/Antica-Spezieria-Monastero-Domenicano-Santa-Maria-della-Neve/Violetta-146794.html",
-      "description": "New perfume listing: Violetta by Antica Spezieria Monastero Domenicano Santa Maria della Neve.",
-      "category": "New Perfumes",
-      "author": "Antica Spezieria Monastero Domenicano Santa Maria della Neve",
-      "published": 1793821556
-    },
-    {
-      "title": "Yodeyma — Silk Elixir",
-      "link": "https://www.fragrantica.com/perfume/Yodeyma/Silk-Elixir-146793.html",
-      "description": "New perfume listing: Silk Elixir by Yodeyma.",
-      "category": "New Perfumes",
-      "author": "Yodeyma",
-      "published": 1793821556
-    },
-    {
-      "title": "Pierre Cardin — Insatiable",
-      "link": "https://www.fragrantica.com/perfume/Pierre-Cardin/Insatiable-146785.html",
-      "description": "New perfume listing: Insatiable by Pierre Cardin.",
-      "category": "New Perfumes",
-      "author": "Pierre Cardin",
-      "published": 1793821556
-    },
-    {
-      "title": "LONGTIEN — Thành Phố - City",
-      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Thanh-Pho-City-146772.html",
-      "description": "New perfume listing: Thành Phố - City by LONGTIEN.",
-      "category": "New Perfumes",
-      "author": "LONGTIEN",
-      "published": 1793773460
-    },
-    {
-      "title": "LONGTIEN — Chợ Gạo - Rice Market",
-      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Cho-Gao-Rice-Market-146771.html",
-      "description": "New perfume listing: Chợ Gạo - Rice Market by LONGTIEN.",
-      "category": "New Perfumes",
-      "author": "LONGTIEN",
-      "published": 1793773460
-    },
-    {
-      "title": "LONGTIEN — Quê Nhà - Hometown",
-      "link": "https://www.fragrantica.com/perfume/LONGTIEN/Que-Nha-Hometown-146770.html",
-      "description": "New perfume listing: Quê Nhà - Hometown by LONGTIEN.",
-      "category": "New Perfumes",
-      "author": "LONGTIEN",
-      "published": 1793773460
-    },
-    {
-      "title": "Fleurit Parfums — Antibes",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Antibes-146768.html",
-      "description": "New perfume listing: Antibes by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1793773460
-    },
-    {
-      "title": "Fleurit Parfums — Plage Sud",
-      "link": "https://www.fragrantica.com/perfume/Fleurit-Parfums/Plage-Sud-146767.html",
-      "description": "New perfume listing: Plage Sud by Fleurit Parfums.",
-      "category": "New Perfumes",
-      "author": "Fleurit Parfums",
-      "published": 1793773460
-    },
-    {
-      "title": "Old Spice — Swagger",
-      "link": "https://www.fragrantica.com/perfume/Old-Spice/Swagger-146769.html",
-      "description": "New perfume listing: Swagger by Old Spice.",
-      "category": "New Perfumes",
-      "author": "Old Spice",
-      "published": 1793773460
-    },
-    {
-      "title": "ÉCLATAUR — Flare",
-      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Flare-146766.html",
-      "description": "New perfume listing: Flare by ÉCLATAUR.",
-      "category": "New Perfumes",
-      "author": "ÉCLATAUR",
-      "published": 1793773460
     }
   ]
 }
