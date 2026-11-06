@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Coty Inc. & Estee Lauder Companies Announce Strategic Partnerships to Increase AI Visibility",
+      "link": "https://www.fragrantica.com/news/Coty-Inc-Estee-Lauder-Companies-Announce-Strategic-Partnerships-to-Increase-AI-Visibility-26541.html",
+      "description": "These two gigantic companies are partnering with technological giants to harness the AI potential for extracting targeted information for consumers.",
+      "category": "Fragrance News",
+      "author": "Elena Vosnaki",
+      "published": 1793984583
+    },
+    {
+      "title": "Clive Christian Uncovered",
+      "link": "https://www.fragrantica.com/news/Clive-Christian-Uncovered-26540.html",
+      "description": "British luxury perfume house Clive Christian introduces Uncovered, a new limited-edition fragrance created by perfumer Elise Pierre.",
+      "category": "New Fragrances",
+      "author": "Sanja Pekić",
+      "published": 1793973003
+    },
+    {
+      "title": "Normal Estate Reflection in a Blue Glass",
+      "link": "https://www.fragrantica.com/news/Normal-Estate-Reflection-in-a-Blue-Glass-26539.html",
+      "description": "A beach fragrance that actually smells and feels like a candid day at the beach, playing, lounging and simply enjoying the sunshine.",
+      "category": "Fragrance Reviews",
+      "author": "Yi Shang (怡 商)",
+      "published": 1793958723
+    },
+    {
       "title": "ScentExplore New York Highlights",
       "link": "https://www.fragrantica.com/news/ScentExplore-New-York-Highlights-26538.html",
       "description": "The first day of ScentExplore in New York",
@@ -775,33 +799,337 @@
       "category": "Fragrance News",
       "author": "Alena Lavault",
       "published": 1793024423
-    },
-    {
-      "title": "The Unexpected Complexity of Tom Ford's Tobacco Chocolat",
-      "link": "https://www.fragrantica.com/news/The-Unexpected-Complexity-of-Tom-Ford-s-Tobacco-Chocolat-26441.html",
-      "description": "Thinking this could possibly be a stand-in for Tobacco Vanille would be a mistake.",
-      "category": "Fragrance Reviews",
-      "author": "John Biebel",
-      "published": 1792991103
-    },
-    {
-      "title": "Mireille en Provence: Authentic Stories",
-      "link": "https://www.fragrantica.com/news/Mireille-en-Provence-Authentic-Stories-26440.html",
-      "description": "How one Provençal family spent 70 years on a journey to create their own fragrances.",
-      "category": "Niche Perfumes",
-      "author": "Alena Lavault",
-      "published": 1792979703
-    },
-    {
-      "title": "Perfumed Horoscope: October 26 - November 2",
-      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-October-26-November-2-26439.html",
-      "description": "We are in the merciless Scorpio zone this week.",
-      "category": "Fragrant Horoscope",
-      "author": "Zoran Cerar",
-      "published": 1792969022
     }
   ],
   "perfumes": [
+    {
+      "title": "NuWilds — Osmanthus & Oolong",
+      "link": "https://www.fragrantica.com/perfume/NuWilds/Osmanthus-Oolong-147068.html",
+      "description": "New perfume listing: Osmanthus & Oolong by NuWilds.",
+      "category": "New Perfumes",
+      "author": "NuWilds",
+      "published": 1793993114
+    },
+    {
+      "title": "NuWilds — Veiled Ambergris",
+      "link": "https://www.fragrantica.com/perfume/NuWilds/Veiled-Ambergris-147067.html",
+      "description": "New perfume listing: Veiled Ambergris by NuWilds.",
+      "category": "New Perfumes",
+      "author": "NuWilds",
+      "published": 1793993114
+    },
+    {
+      "title": "NuWilds — Perilla Peach & Ginger",
+      "link": "https://www.fragrantica.com/perfume/NuWilds/Perilla-Peach-Ginger-147066.html",
+      "description": "New perfume listing: Perilla Peach & Ginger by NuWilds.",
+      "category": "New Perfumes",
+      "author": "NuWilds",
+      "published": 1793993114
+    },
+    {
+      "title": "Bharara — Rey de Reyes Yellow",
+      "link": "https://www.fragrantica.com/perfume/Bharara/Rey-de-Reyes-Yellow-147064.html",
+      "description": "New perfume listing: Rey de Reyes Yellow by Bharara.",
+      "category": "New Perfumes",
+      "author": "Bharara",
+      "published": 1793993114
+    },
+    {
+      "title": "Mix:Bar — Caramel Bourbon",
+      "link": "https://www.fragrantica.com/perfume/Mix-Bar/Caramel-Bourbon-147063.html",
+      "description": "New perfume listing: Caramel Bourbon by Mix:Bar.",
+      "category": "New Perfumes",
+      "author": "Mix:Bar",
+      "published": 1793993114
+    },
+    {
+      "title": "Being Frenshe — Amber Amour",
+      "link": "https://www.fragrantica.com/perfume/Being-Frenshe/Amber-Amour-147062.html",
+      "description": "New perfume listing: Amber Amour by Being Frenshe.",
+      "category": "New Perfumes",
+      "author": "Being Frenshe",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Shamanilla Sense",
+      "link": "https://www.fragrantica.com/perfume/Zara/Shamanilla-Sense-147061.html",
+      "description": "New perfume listing: Shamanilla Sense by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Being Frenshe — Velvet Crème",
+      "link": "https://www.fragrantica.com/perfume/Being-Frenshe/Velvet-Creme-147060.html",
+      "description": "New perfume listing: Velvet Crème by Being Frenshe.",
+      "category": "New Perfumes",
+      "author": "Being Frenshe",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Santal Wood EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Santal-Wood-EDP-147059.html",
+      "description": "New perfume listing: Santal Wood EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Oakcha — Fragaria Script",
+      "link": "https://www.fragrantica.com/perfume/Oakcha/Fragaria-Script-147058.html",
+      "description": "New perfume listing: Fragaria Script by Oakcha.",
+      "category": "New Perfumes",
+      "author": "Oakcha",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red Immortal Vanilla",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Immortal-Vanilla-147057.html",
+      "description": "New perfume listing: Into Red Immortal Vanilla by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Anthem Noir EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Anthem-Noir-EDP-147056.html",
+      "description": "New perfume listing: Anthem Noir EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Oakcha — Crisp Orchard",
+      "link": "https://www.fragrantica.com/perfume/Oakcha/Crisp-Orchard-147055.html",
+      "description": "New perfume listing: Crisp Orchard by Oakcha.",
+      "category": "New Perfumes",
+      "author": "Oakcha",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red Cocoa Sunset",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Cocoa-Sunset-147054.html",
+      "description": "New perfume listing: Into Red Cocoa Sunset by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Unforgettable EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Unforgettable-EDP-147053.html",
+      "description": "New perfume listing: Unforgettable EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red Golden Decade Parfum",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Golden-Decade-Parfum-147052.html",
+      "description": "New perfume listing: Into Red Golden Decade Parfum by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Nairobi Muse EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nairobi-Muse-EDP-147051.html",
+      "description": "New perfume listing: Nairobi Muse EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red ZaraIllusion Parfum",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-ZaraIllusion-Parfum-147050.html",
+      "description": "New perfume listing: Into Red ZaraIllusion Parfum by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Botanique Bloom EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Botanique-Bloom-EDP-147049.html",
+      "description": "New perfume listing: Botanique Bloom EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red Wonder Rose",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Wonder-Rose-147048.html",
+      "description": "New perfume listing: Into Red Wonder Rose by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Zara — Into Red Fashionably London Parfum",
+      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Fashionably-London-Parfum-147047.html",
+      "description": "New perfume listing: Into Red Fashionably London Parfum by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Roman Era EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Roman-Era-EDP-147046.html",
+      "description": "New perfume listing: Roman Era EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Arabian Era EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Arabian-Era-EDP-147045.html",
+      "description": "New perfume listing: Arabian Era EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Persian Era EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Persian-Era-EDP-147044.html",
+      "description": "New perfume listing: Persian Era EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "French Avenue — Ethos Aoud Oud",
+      "link": "https://www.fragrantica.com/perfume/French-Avenue/Ethos-Aoud-Oud-147043.html",
+      "description": "New perfume listing: Ethos Aoud Oud by French Avenue.",
+      "category": "New Perfumes",
+      "author": "French Avenue",
+      "published": 1793993114
+    },
+    {
+      "title": "French Avenue — Les Extraits Absolus Unknown",
+      "link": "https://www.fragrantica.com/perfume/French-Avenue/Les-Extraits-Absolus-Unknown-147042.html",
+      "description": "New perfume listing: Les Extraits Absolus Unknown by French Avenue.",
+      "category": "New Perfumes",
+      "author": "French Avenue",
+      "published": 1793993114
+    },
+    {
+      "title": "French Avenue — Les Extraits Absolus Shadow",
+      "link": "https://www.fragrantica.com/perfume/French-Avenue/Les-Extraits-Absolus-Shadow-147041.html",
+      "description": "New perfume listing: Les Extraits Absolus Shadow by French Avenue.",
+      "category": "New Perfumes",
+      "author": "French Avenue",
+      "published": 1793993114
+    },
+    {
+      "title": "Sol de Janeiro — Aurelia Nobels",
+      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Aurelia-Nobels-147040.html",
+      "description": "New perfume listing: Aurelia Nobels by Sol de Janeiro.",
+      "category": "New Perfumes",
+      "author": "Sol de Janeiro",
+      "published": 1793993114
+    },
+    {
+      "title": "Giorgio Armani — Armani Privé Jade",
+      "link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Prive-Jade-147039.html",
+      "description": "New perfume listing: Armani Privé Jade by Giorgio Armani.",
+      "category": "New Perfumes",
+      "author": "Giorgio Armani",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Nostalgia Memoria EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Memoria-EDP-147038.html",
+      "description": "New perfume listing: Nostalgia Memoria EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Nostalgia Lunara EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Lunara-EDP-147037.html",
+      "description": "New perfume listing: Nostalgia Lunara EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Nostalgia Valente EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Valente-EDP-147036.html",
+      "description": "New perfume listing: Nostalgia Valente EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Glorious Sun EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Glorious-Sun-EDP-147035.html",
+      "description": "New perfume listing: Glorious Sun EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Royal Leather EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Royal-Leather-EDP-147034.html",
+      "description": "New perfume listing: Royal Leather EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Dream Dusk EDP",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Dream-Dusk-EDP-147033.html",
+      "description": "New perfume listing: Dream Dusk EDP by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "GRANHAND — Violette",
+      "link": "https://www.fragrantica.com/perfume/GRANHAND/Violette-147065.html",
+      "description": "New perfume listing: Violette by GRANHAND.",
+      "category": "New Perfumes",
+      "author": "GRANHAND",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Highland Her Elixir",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Highland-Her-Elixir-147028.html",
+      "description": "New perfume listing: Highland Her Elixir by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Moonlight By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Moonlight-By-Nature-147027.html",
+      "description": "New perfume listing: Moonlight By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Linea De Bella — Horizon By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Horizon-By-Nature-147026.html",
+      "description": "New perfume listing: Horizon By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1793993114
+    },
+    {
+      "title": "Henry Jacques — Rose Très Rose 2025",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Tres-Rose-2025-146926.html",
+      "description": "New perfume listing: Rose Très Rose 2025 by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1793993114
+    },
+    {
+      "title": "We Pink — Infinity Plim",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Infinity-Plim-146915.html",
+      "description": "New perfume listing: Infinity Plim by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1793993114
+    },
     {
       "title": "WIDIAN — Aryam",
       "link": "https://www.fragrantica.com/perfume/WIDIAN/Aryam-147025.html",
@@ -1273,334 +1601,6 @@
       "category": "New Perfumes",
       "author": "Pisello Parfum",
       "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Majin Blueberry Milkshake Cream",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Blueberry-Milkshake-Cream-146973.html",
-      "description": "New perfume listing: Majin Blueberry Milkshake Cream by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Majin Chocolate Abuelita Cream",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Majin-Chocolate-Abuelita-Cream-146972.html",
-      "description": "New perfume listing: Majin Chocolate Abuelita Cream by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Candier&Gabi — Vol 1. Pink Air",
-      "link": "https://www.fragrantica.com/perfume/Candier-Gabi/Vol-1-Pink-Air-146971.html",
-      "description": "New perfume listing: Vol 1. Pink Air by Candier&Gabi.",
-      "category": "New Perfumes",
-      "author": "Candier&Gabi",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Turtle House",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Turtle-House-146970.html",
-      "description": "New perfume listing: Turtle House by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Orange Piccolo",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Orange-Piccolo-146969.html",
-      "description": "New perfume listing: Orange Piccolo by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Kale Berserker",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Kale-Berserker-146968.html",
-      "description": "New perfume listing: Kale Berserker by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — Shenlong",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/Shenlong-146967.html",
-      "description": "New perfume listing: Shenlong by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Pisello Parfum — KA ME HA ME HA",
-      "link": "https://www.fragrantica.com/perfume/Pisello-Parfum/KA-ME-HA-ME-HA-146966.html",
-      "description": "New perfume listing: KA ME HA ME HA by Pisello Parfum.",
-      "category": "New Perfumes",
-      "author": "Pisello Parfum",
-      "published": 1793908670
-    },
-    {
-      "title": "Eternal Love — Eternal Love For Men",
-      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Eternal-Love-For-Men-147001.html",
-      "description": "New perfume listing: Eternal Love For Men by Eternal Love.",
-      "category": "New Perfumes",
-      "author": "Eternal Love",
-      "published": 1793908670
-    },
-    {
-      "title": "Daniel's Truth — Daniel’s Aquarius",
-      "link": "https://www.fragrantica.com/perfume/Daniel-s-Truth/Daniel-s-Aquarius-146957.html",
-      "description": "New perfume listing: Daniel’s Aquarius by Daniel's Truth.",
-      "category": "New Perfumes",
-      "author": "Daniel's Truth",
-      "published": 1793908670
-    },
-    {
-      "title": "Daniel's Truth — Daniel’s Libra",
-      "link": "https://www.fragrantica.com/perfume/Daniel-s-Truth/Daniel-s-Libra-146956.html",
-      "description": "New perfume listing: Daniel’s Libra by Daniel's Truth.",
-      "category": "New Perfumes",
-      "author": "Daniel's Truth",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Twilight By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Twilight-By-Nature-146955.html",
-      "description": "New perfume listing: Twilight By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Dawn By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Dawn-By-Nature-146954.html",
-      "description": "New perfume listing: Dawn By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Nostalgia 1979 EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-1979-EDP-146953.html",
-      "description": "New perfume listing: Nostalgia 1979 EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Patchouli Imperial EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Patchouli-Imperial-EDP-146951.html",
-      "description": "New perfume listing: Patchouli Imperial EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Phantom Gentleman EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Phantom-Gentleman-EDP-146950.html",
-      "description": "New perfume listing: Phantom Gentleman EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Phantom Tuxedo EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Phantom-Tuxedo-EDP-146949.html",
-      "description": "New perfume listing: Phantom Tuxedo EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Linea De Bella — Miracle Luxury Edition EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Miracle-Luxury-Edition-EDP-146948.html",
-      "description": "New perfume listing: Miracle Luxury Edition EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793908670
-    },
-    {
-      "title": "Givenchy — L'Interdit Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Solid-Perfume-146943.html",
-      "description": "New perfume listing: L'Interdit Solid Perfume by Givenchy.",
-      "category": "New Perfumes",
-      "author": "Givenchy",
-      "published": 1793908670
-    },
-    {
-      "title": "ÉCLATAUR — Seraph",
-      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Seraph-146941.html",
-      "description": "New perfume listing: Seraph by ÉCLATAUR.",
-      "category": "New Perfumes",
-      "author": "ÉCLATAUR",
-      "published": 1793908670
-    },
-    {
-      "title": "ÉCLATAUR — Legende",
-      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Legende-146940.html",
-      "description": "New perfume listing: Legende by ÉCLATAUR.",
-      "category": "New Perfumes",
-      "author": "ÉCLATAUR",
-      "published": 1793908670
-    },
-    {
-      "title": "Givenchy — L'Interdit Eau de Parfum Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Eau-de-Parfum-Solid-Perfume-146939.html",
-      "description": "New perfume listing: L'Interdit Eau de Parfum Solid Perfume by Givenchy.",
-      "category": "New Perfumes",
-      "author": "Givenchy",
-      "published": 1793908670
-    },
-    {
-      "title": "Amaran — Sugar Rush Sweetness Overload",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sugar-Rush-Sweetness-Overload-146938.html",
-      "description": "New perfume listing: Sugar Rush Sweetness Overload by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Sugar Rush Sugary Fusion",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sugar-Rush-Sugary-Fusion-146937.html",
-      "description": "New perfume listing: Sugar Rush Sugary Fusion by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Sugar Rush Sprinkle Joy",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sugar-Rush-Sprinkle-Joy-146936.html",
-      "description": "New perfume listing: Sugar Rush Sprinkle Joy by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Sugar Rush It's Bliss",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sugar-Rush-It-s-Bliss-146935.html",
-      "description": "New perfume listing: Sugar Rush It's Bliss by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Solo Tropical Skin",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Solo-Tropical-Skin-146934.html",
-      "description": "New perfume listing: Solo Tropical Skin by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Solo Intoxicated",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Solo-Intoxicated-146933.html",
-      "description": "New perfume listing: Solo Intoxicated by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Solo Exotic Vibe",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Solo-Exotic-Vibe-146932.html",
-      "description": "New perfume listing: Solo Exotic Vibe by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Sahriya Red Wardrobe",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sahriya-Red-Wardrobe-146931.html",
-      "description": "New perfume listing: Sahriya Red Wardrobe by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "Amaran — Sahriya Black Wardrobe",
-      "link": "https://www.fragrantica.com/perfume/Amaran/Sahriya-Black-Wardrobe-146930.html",
-      "description": "New perfume listing: Sahriya Black Wardrobe by Amaran.",
-      "category": "New Perfumes",
-      "author": "Amaran",
-      "published": 1793861291
-    },
-    {
-      "title": "We Pink — Heaven V",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Heaven-V-146929.html",
-      "description": "New perfume listing: Heaven V by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793861291
-    },
-    {
-      "title": "Bath & Body Works — Warm Butter Cookie",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Warm-Butter-Cookie-146928.html",
-      "description": "New perfume listing: Warm Butter Cookie by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1793861291
-    },
-    {
-      "title": "Al Wataniah — Nawal Tanzanite",
-      "link": "https://www.fragrantica.com/perfume/Al-Wataniah/Nawal-Tanzanite-146927.html",
-      "description": "New perfume listing: Nawal Tanzanite by Al Wataniah.",
-      "category": "New Perfumes",
-      "author": "Al Wataniah",
-      "published": 1793861291
-    },
-    {
-      "title": "Gamine — Altered States",
-      "link": "https://www.fragrantica.com/perfume/Gamine/Altered-States-146925.html",
-      "description": "New perfume listing: Altered States by Gamine.",
-      "category": "New Perfumes",
-      "author": "Gamine",
-      "published": 1793861291
-    },
-    {
-      "title": "Gamine — 1000g",
-      "link": "https://www.fragrantica.com/perfume/Gamine/1000g-146924.html",
-      "description": "New perfume listing: 1000g by Gamine.",
-      "category": "New Perfumes",
-      "author": "Gamine",
-      "published": 1793861291
-    },
-    {
-      "title": "Gamine — Heroic Dose",
-      "link": "https://www.fragrantica.com/perfume/Gamine/Heroic-Dose-146923.html",
-      "description": "New perfume listing: Heroic Dose by Gamine.",
-      "category": "New Perfumes",
-      "author": "Gamine",
-      "published": 1793861291
-    },
-    {
-      "title": "We Pink — Infinity Purple",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Infinity-Purple-146922.html",
-      "description": "New perfume listing: Infinity Purple by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793861291
-    },
-    {
-      "title": "Vizzela — Limoncello",
-      "link": "https://www.fragrantica.com/perfume/Vizzela/Limoncello-146921.html",
-      "description": "New perfume listing: Limoncello by Vizzela.",
-      "category": "New Perfumes",
-      "author": "Vizzela",
-      "published": 1793861291
-    },
-    {
-      "title": "Ciclo Cosméticos — Made in Brazil Floripa",
-      "link": "https://www.fragrantica.com/perfume/Ciclo-Cosmeticos/Made-in-Brazil-Floripa-146920.html",
-      "description": "New perfume listing: Made in Brazil Floripa by Ciclo Cosméticos.",
-      "category": "New Perfumes",
-      "author": "Ciclo Cosméticos",
-      "published": 1793861291
-    },
-    {
-      "title": "Ciclo Cosméticos — Made in Brazil Noronha",
-      "link": "https://www.fragrantica.com/perfume/Ciclo-Cosmeticos/Made-in-Brazil-Noronha-146919.html",
-      "description": "New perfume listing: Made in Brazil Noronha by Ciclo Cosméticos.",
-      "category": "New Perfumes",
-      "author": "Ciclo Cosméticos",
-      "published": 1793861291
     }
   ]
 }
