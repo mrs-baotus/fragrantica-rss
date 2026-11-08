@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Fragrance Innovation Summit Returns to Paris This November",
+      "link": "https://www.fragrantica.com/news/Fragrance-Innovation-Summit-Returns-to-Paris-This-November-26556.html",
+      "description": "November 25th at Verso.",
+      "category": "Art Books Events",
+      "author": "Eddie Bulliqi",
+      "published": 1794166683
+    },
+    {
+      "title": "Perfumed Horoscope: November 9 - November 15",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-November-9-November-15-26555.html",
+      "description": "Creativity appears to be the ultimate salvation, and it doesn't need to come from a pure heart.",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1794156542
+    },
+    {
       "title": "Winged Heart M.INT: A Vampiress with a Glass of Absinthe",
       "link": "https://www.fragrantica.com/news/Winged-Heart-M-INT-A-Vampiress-with-a-Glass-of-Absinthe-26554.html",
       "description": "Tuberose that isn't there.",
@@ -783,25 +799,81 @@
       "category": "New Fragrances",
       "author": "Beth Butterfield",
       "published": 1793210403
-    },
-    {
-      "title": "TFWA 2026: SOSPIRO Bianco Canto and Vibrato Nero",
-      "link": "https://www.fragrantica.com/news/TFWA-2026-SOSPIRO-Bianco-Canto-and-Vibrato-Nero-26456.html",
-      "description": "Vibrato Nero moves from light toward darkness, while Bianco Canto is deliberately built around whiteness, both in Sospiro style.",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1793204388
-    },
-    {
-      "title": "JULIETTE HAS A GUN 20 Years Of Audacity",
-      "link": "https://www.fragrantica.com/news/JULIETTE-HAS-A-GUN-20-Years-Of-Audacity-26455.html",
-      "description": "Happy 20th anniversary to Juliette Has a Gun!",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1793198002
     }
   ],
   "perfumes": [
+    {
+      "title": "Pyre & Mane — Day Break",
+      "link": "https://www.fragrantica.com/perfume/Pyre-Mane/Day-Break-147127.html",
+      "description": "New perfume listing: Day Break by Pyre & Mane.",
+      "category": "New Perfumes",
+      "author": "Pyre & Mane",
+      "published": 1794175616
+    },
+    {
+      "title": "Imaginary Fragrances — \"JUST FRIENDS\"",
+      "link": "https://www.fragrantica.com/perfume/Imaginary-Fragrances/JUST-FRIENDS-147126.html",
+      "description": "New perfume listing: \"JUST FRIENDS\" by Imaginary Fragrances.",
+      "category": "New Perfumes",
+      "author": "Imaginary Fragrances",
+      "published": 1794175616
+    },
+    {
+      "title": "Snack House — Honeyed Plum",
+      "link": "https://www.fragrantica.com/perfume/Snack-House/Honeyed-Plum-147124.html",
+      "description": "New perfume listing: Honeyed Plum by Snack House.",
+      "category": "New Perfumes",
+      "author": "Snack House",
+      "published": 1794175616
+    },
+    {
+      "title": "SONGZIO — Fraisier",
+      "link": "https://www.fragrantica.com/perfume/SONGZIO/Fraisier-147123.html",
+      "description": "New perfume listing: Fraisier by SONGZIO.",
+      "category": "New Perfumes",
+      "author": "SONGZIO",
+      "published": 1794175616
+    },
+    {
+      "title": "SONGZIO — Armure",
+      "link": "https://www.fragrantica.com/perfume/SONGZIO/Armure-147122.html",
+      "description": "New perfume listing: Armure by SONGZIO.",
+      "category": "New Perfumes",
+      "author": "SONGZIO",
+      "published": 1794175616
+    },
+    {
+      "title": "SONGZIO — Angelique",
+      "link": "https://www.fragrantica.com/perfume/SONGZIO/Angelique-147121.html",
+      "description": "New perfume listing: Angelique by SONGZIO.",
+      "category": "New Perfumes",
+      "author": "SONGZIO",
+      "published": 1794175616
+    },
+    {
+      "title": "SONGZIO — Igcinis",
+      "link": "https://www.fragrantica.com/perfume/SONGZIO/Igcinis-147120.html",
+      "description": "New perfume listing: Igcinis by SONGZIO.",
+      "category": "New Perfumes",
+      "author": "SONGZIO",
+      "published": 1794175616
+    },
+    {
+      "title": "Cult of Kaori — Apricot Kiseru",
+      "link": "https://www.fragrantica.com/perfume/Cult-of-Kaori/Apricot-Kiseru-147119.html",
+      "description": "New perfume listing: Apricot Kiseru by Cult of Kaori.",
+      "category": "New Perfumes",
+      "author": "Cult of Kaori",
+      "published": 1794175616
+    },
+    {
+      "title": "Mysa Fragrance Haus — Eat The Cake",
+      "link": "https://www.fragrantica.com/perfume/Mysa-Fragrance-Haus/Eat-The-Cake-147125.html",
+      "description": "New perfume listing: Eat The Cake by Mysa Fragrance Haus.",
+      "category": "New Perfumes",
+      "author": "Mysa Fragrance Haus",
+      "published": 1794175616
+    },
     {
       "title": "GRANHAND — Violette",
       "link": "https://www.fragrantica.com/perfume/GRANHAND/Violette-147065.html",
@@ -1528,78 +1600,6 @@
       "description": "New perfume listing: Botanique Bloom EDP by Linea De Bella.",
       "category": "New Perfumes",
       "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red Wonder Rose",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Wonder-Rose-147048.html",
-      "description": "New perfume listing: Into Red Wonder Rose by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red Fashionably London Parfum",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Fashionably-London-Parfum-147047.html",
-      "description": "New perfume listing: Into Red Fashionably London Parfum by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Roman Era EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Roman-Era-EDP-147046.html",
-      "description": "New perfume listing: Roman Era EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Arabian Era EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Arabian-Era-EDP-147045.html",
-      "description": "New perfume listing: Arabian Era EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Persian Era EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Persian-Era-EDP-147044.html",
-      "description": "New perfume listing: Persian Era EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "French Avenue — Ethos Aoud Oud",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Ethos-Aoud-Oud-147043.html",
-      "description": "New perfume listing: Ethos Aoud Oud by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1793993114
-    },
-    {
-      "title": "French Avenue — Les Extraits Absolus Unknown",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Les-Extraits-Absolus-Unknown-147042.html",
-      "description": "New perfume listing: Les Extraits Absolus Unknown by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1793993114
-    },
-    {
-      "title": "French Avenue — Les Extraits Absolus Shadow",
-      "link": "https://www.fragrantica.com/perfume/French-Avenue/Les-Extraits-Absolus-Shadow-147041.html",
-      "description": "New perfume listing: Les Extraits Absolus Shadow by French Avenue.",
-      "category": "New Perfumes",
-      "author": "French Avenue",
-      "published": 1793993114
-    },
-    {
-      "title": "Sol de Janeiro — Aurelia Nobels",
-      "link": "https://www.fragrantica.com/perfume/Sol-de-Janeiro/Aurelia-Nobels-147040.html",
-      "description": "New perfume listing: Aurelia Nobels by Sol de Janeiro.",
-      "category": "New Perfumes",
-      "author": "Sol de Janeiro",
       "published": 1793993114
     }
   ]
