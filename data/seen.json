@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "ScentXplore Award Winners 2026",
+      "link": "https://www.fragrantica.com/news/ScentXplore-Award-Winners-2026-26552.html",
+      "description": "The ScentXplore Award honors the brands, perfumers, and voices that define excellence in niche perfumery.",
+      "category": "Art Books Events",
+      "author": "Beth Butterfield,Elena Knezevic",
+      "published": 1794115803
+    },
+    {
+      "title": "Hugging: The New Bestseller from Chinese Brand Soulvent",
+      "link": "https://www.fragrantica.com/news/Hugging-The-New-Bestseller-from-Chinese-Brand-Soulvent-26551.html",
+      "description": "How did the scent of hugging, expression of intimacy and tenderness, trust, closeness, and affection, become a neutral, clean scent?",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1794107103
+    },
+    {
+      "title": "British Society of Perfumers to Give Trend Futures Presentation",
+      "link": "https://www.fragrantica.com/news/British-Society-of-Perfumers-to-Give-Trend-Futures-Presentation-26550.html",
+      "description": "In both London and Manchester on 19th November.",
+      "category": "Art Books Events",
+      "author": "Eddie Bulliqi",
+      "published": 1794100023
+    },
+    {
+      "title": "A Getaway to St. Moritz with Chanel",
+      "link": "https://www.fragrantica.com/news/A-Getaway-to-St-Moritz-with-Chanel-26549.html",
+      "description": "A closer look at the new chapter in Les Eaux de Chanel: Paris-St-Moritz.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1794088743
+    },
+    {
       "title": "Vanilla Aube as a Multisensory Experience",
       "link": "https://www.fragrantica.com/news/Vanilla-Aube-as-a-Multisensory-Experience-26548.html",
       "description": "An amazing non sweet vanilla by Ormonde Jane.",
@@ -767,41 +799,161 @@
       "category": "New Fragrances",
       "author": "Markéta Rybínová",
       "published": 1793183283
-    },
-    {
-      "title": "Madonna and Boy Smells Unveil Scented Candle Collection",
-      "link": "https://www.fragrantica.com/news/Madonna-and-Boy-Smells-Unveil-Scented-Candle-Collection-26452.html",
-      "description": "The Like a Prayer and Confessions candles were created by Robertet perfumer Jérôme Epinette.",
-      "category": "Fragrance News",
-      "author": "Igor Masyukov",
-      "published": 1793170756
-    },
-    {
-      "title": "Andara: The First Perfume Collection by Niccolò Pasqualetti",
-      "link": "https://www.fragrantica.com/news/Andara-The-First-Perfume-Collection-by-Niccolo-Pasqualetti-26451.html",
-      "description": "Three dreamlike and experimental extraits de parfum, presented at Pitti Fragranze",
-      "category": "Fragrance News",
-      "author": "Giulietta Ptoyan",
-      "published": 1793142002
-    },
-    {
-      "title": "Estée Lauder’s Glimmer Only Simmers",
-      "link": "https://www.fragrantica.com/news/Estee-Lauder-s-Glimmer-Only-Simmers-26450.html",
-      "description": "And it’s about more than just the fragrance itself...",
-      "category": "Fragrance Reviews",
-      "author": "Patric Rhys",
-      "published": 1793131203
-    },
-    {
-      "title": "Ricardo Ramos Introduces Zhèng Hé Sillage at NOTES Shanghai AW2026",
-      "link": "https://www.fragrantica.com/news/Ricardo-Ramos-Introduces-Zheng-He-Sillage-at-NOTES-Shanghai-AW2026-26449.html",
-      "description": "Ricardo Ramos unveils Zheng He Sillage (七航遗香), a natural oil perfume inspired by Chinese Admiral Zheng and his legendary maritime voyages. The scent was created for perfume retailer Scent Atoll (馥屿).",
-      "category": "Fragrance News",
-      "author": "Yi Shang (怡 商)",
-      "published": 1793121003
     }
   ],
   "perfumes": [
+    {
+      "title": "We Pink — L.you",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/L-you-147117.html",
+      "description": "New perfume listing: L.you by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "O Boticário — Quasar Blue",
+      "link": "https://www.fragrantica.com/perfume/O-Boticario/Quasar-Blue-147116.html",
+      "description": "New perfume listing: Quasar Blue by O Boticário.",
+      "category": "New Perfumes",
+      "author": "O Boticário",
+      "published": 1794117792
+    },
+    {
+      "title": "Maison Alhambra — So Glam Rouge Intense",
+      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/So-Glam-Rouge-Intense-147115.html",
+      "description": "New perfume listing: So Glam Rouge Intense by Maison Alhambra.",
+      "category": "New Perfumes",
+      "author": "Maison Alhambra",
+      "published": 1794117792
+    },
+    {
+      "title": "Tha Beauty — Seoul Bloom",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Seoul-Bloom-147114.html",
+      "description": "New perfume listing: Seoul Bloom by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1794117792
+    },
+    {
+      "title": "Tha Beauty — Lover",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Lover-147113.html",
+      "description": "New perfume listing: Lover by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1794117792
+    },
+    {
+      "title": "Tha Beauty — Sarang",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Sarang-147112.html",
+      "description": "New perfume listing: Sarang by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1794117792
+    },
+    {
+      "title": "Tha Beauty — Soda Pop",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Soda-Pop-147111.html",
+      "description": "New perfume listing: Soda Pop by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1794117792
+    },
+    {
+      "title": "Tha Beauty — K-Sweet",
+      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/K-Sweet-147110.html",
+      "description": "New perfume listing: K-Sweet by Tha Beauty.",
+      "category": "New Perfumes",
+      "author": "Tha Beauty",
+      "published": 1794117792
+    },
+    {
+      "title": "Hinode — Grace Royale",
+      "link": "https://www.fragrantica.com/perfume/Hinode/Grace-Royale-147109.html",
+      "description": "New perfume listing: Grace Royale by Hinode.",
+      "category": "New Perfumes",
+      "author": "Hinode",
+      "published": 1794117792
+    },
+    {
+      "title": "We Pink — Obsessed Exclusive Pink",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Exclusive-Pink-147108.html",
+      "description": "New perfume listing: Obsessed Exclusive Pink by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "We Pink — Obsessed Lovely",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Lovely-147107.html",
+      "description": "New perfume listing: Obsessed Lovely by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "We Pink — Obsessed Intense",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Intense-147104.html",
+      "description": "New perfume listing: Obsessed Intense by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "Stella Dustin — Self Gold Edition",
+      "link": "https://www.fragrantica.com/perfume/Stella-Dustin/Self-Gold-Edition-147118.html",
+      "description": "New perfume listing: Self Gold Edition by Stella Dustin.",
+      "category": "New Perfumes",
+      "author": "Stella Dustin",
+      "published": 1794117792
+    },
+    {
+      "title": "We Pink — Obsessed Deluxe",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Deluxe-147106.html",
+      "description": "New perfume listing: Obsessed Deluxe by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "We Pink — Obsessed Gold",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Gold-147105.html",
+      "description": "New perfume listing: Obsessed Gold by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794117792
+    },
+    {
+      "title": "Lucce Parfums — Amalfi Blue",
+      "link": "https://www.fragrantica.com/perfume/Lucce-Parfums/Amalfi-Blue-147012.html",
+      "description": "New perfume listing: Amalfi Blue by Lucce Parfums.",
+      "category": "New Perfumes",
+      "author": "Lucce Parfums",
+      "published": 1794117792
+    },
+    {
+      "title": "Eternal Love — Elegance For Women",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Elegance-For-Women-147006.html",
+      "description": "New perfume listing: Elegance For Women by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1794117792
+    },
+    {
+      "title": "Eternal Love — Elegance For Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Elegance-For-Men-147005.html",
+      "description": "New perfume listing: Elegance For Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1794117792
+    },
+    {
+      "title": "Eternal Love — X-Louis For Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/X-Louis-For-Men-147004.html",
+      "description": "New perfume listing: X-Louis For Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1794117792
+    },
     {
       "title": "D’ORSAY — Tilleul D’Ailleurs C.G.",
       "link": "https://www.fragrantica.com/perfume/D-ORSAY/Tilleul-D-Ailleurs-C-G-147103.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "Linea De Bella",
       "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Glorious Sun EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Glorious-Sun-EDP-147035.html",
-      "description": "New perfume listing: Glorious Sun EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Royal Leather EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Royal-Leather-EDP-147034.html",
-      "description": "New perfume listing: Royal Leather EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Dream Dusk EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Dream-Dusk-EDP-147033.html",
-      "description": "New perfume listing: Dream Dusk EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "GRANHAND — Violette",
-      "link": "https://www.fragrantica.com/perfume/GRANHAND/Violette-147065.html",
-      "description": "New perfume listing: Violette by GRANHAND.",
-      "category": "New Perfumes",
-      "author": "GRANHAND",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Highland Her Elixir",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Highland-Her-Elixir-147028.html",
-      "description": "New perfume listing: Highland Her Elixir by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Moonlight By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Moonlight-By-Nature-147027.html",
-      "description": "New perfume listing: Moonlight By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Horizon By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Horizon-By-Nature-147026.html",
-      "description": "New perfume listing: Horizon By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Henry Jacques — Rose Très Rose 2025",
-      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Rose-Tres-Rose-2025-146926.html",
-      "description": "New perfume listing: Rose Très Rose 2025 by Henry Jacques.",
-      "category": "New Perfumes",
-      "author": "Henry Jacques",
-      "published": 1793993114
-    },
-    {
-      "title": "We Pink — Infinity Plim",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Infinity-Plim-146915.html",
-      "description": "New perfume listing: Infinity Plim by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1793993114
-    },
-    {
-      "title": "WIDIAN — Aryam",
-      "link": "https://www.fragrantica.com/perfume/WIDIAN/Aryam-147025.html",
-      "description": "New perfume listing: Aryam by WIDIAN.",
-      "category": "New Perfumes",
-      "author": "WIDIAN",
-      "published": 1793947715
-    },
-    {
-      "title": "Maison JOARD — Envie d'Ailleurs",
-      "link": "https://www.fragrantica.com/perfume/Maison-JOARD/Envie-d-Ailleurs-147024.html",
-      "description": "New perfume listing: Envie d'Ailleurs by Maison JOARD.",
-      "category": "New Perfumes",
-      "author": "Maison JOARD",
-      "published": 1793947715
-    },
-    {
-      "title": "Maison JOARD — Baiser Solaire",
-      "link": "https://www.fragrantica.com/perfume/Maison-JOARD/Baiser-Solaire-147023.html",
-      "description": "New perfume listing: Baiser Solaire by Maison JOARD.",
-      "category": "New Perfumes",
-      "author": "Maison JOARD",
-      "published": 1793947715
-    },
-    {
-      "title": "Maison JOARD — Rencontre à Paris",
-      "link": "https://www.fragrantica.com/perfume/Maison-JOARD/Rencontre-a-Paris-147022.html",
-      "description": "New perfume listing: Rencontre à Paris by Maison JOARD.",
-      "category": "New Perfumes",
-      "author": "Maison JOARD",
-      "published": 1793947715
-    },
-    {
-      "title": "BOCU — 302",
-      "link": "https://www.fragrantica.com/perfume/BOCU/302-147021.html",
-      "description": "New perfume listing: 302 by BOCU.",
-      "category": "New Perfumes",
-      "author": "BOCU",
-      "published": 1793947715
-    },
-    {
-      "title": "BOCU — 301",
-      "link": "https://www.fragrantica.com/perfume/BOCU/301-147020.html",
-      "description": "New perfume listing: 301 by BOCU.",
-      "category": "New Perfumes",
-      "author": "BOCU",
-      "published": 1793947715
-    },
-    {
-      "title": "BOCU — 202",
-      "link": "https://www.fragrantica.com/perfume/BOCU/202-147019.html",
-      "description": "New perfume listing: 202 by BOCU.",
-      "category": "New Perfumes",
-      "author": "BOCU",
-      "published": 1793947715
-    },
-    {
-      "title": "BOCU — 201",
-      "link": "https://www.fragrantica.com/perfume/BOCU/201-147018.html",
-      "description": "New perfume listing: 201 by BOCU.",
-      "category": "New Perfumes",
-      "author": "BOCU",
-      "published": 1793947715
-    },
-    {
-      "title": "BOCU — 102",
-      "link": "https://www.fragrantica.com/perfume/BOCU/102-147017.html",
-      "description": "New perfume listing: 102 by BOCU.",
-      "category": "New Perfumes",
-      "author": "BOCU",
-      "published": 1793947715
-    },
-    {
-      "title": "Maison JOARD — Joie Des Vignes",
-      "link": "https://www.fragrantica.com/perfume/Maison-JOARD/Joie-Des-Vignes-147016.html",
-      "description": "New perfume listing: Joie Des Vignes by Maison JOARD.",
-      "category": "New Perfumes",
-      "author": "Maison JOARD",
-      "published": 1793947715
     }
   ]
 }
