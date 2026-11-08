@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Winged Heart M.INT: A Vampiress with a Glass of Absinthe",
+      "link": "https://www.fragrantica.com/news/Winged-Heart-M-INT-A-Vampiress-with-a-Glass-of-Absinthe-26554.html",
+      "description": "Tuberose that isn't there.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1794136683
+    },
+    {
+      "title": "Savoring Summer in the Fall: My Introduction to Tilleul D’Ailleurs C.G.",
+      "link": "https://www.fragrantica.com/news/Savoring-Summer-in-the-Fall-My-Introduction-to-Tilleul-D-Ailleurs-C-G-26553.html",
+      "description": "The rebirth of the legendary Tilleul D’Orsay: from Vouloir être ailleurs C.G. to Tilleul D’Ailleurs C.G.",
+      "category": "Fragrance Reviews",
+      "author": "Dariia Fessalonika",
+      "published": 1794132724
+    },
+    {
       "title": "ScentXplore Award Winners 2026",
       "link": "https://www.fragrantica.com/news/ScentXplore-Award-Winners-2026-26552.html",
       "description": "The ScentXplore Award honors the brands, perfumers, and voices that define excellence in niche perfumery.",
@@ -783,25 +799,41 @@
       "category": "Fragrance News",
       "author": "Sandra Raičević Petrović",
       "published": 1793198002
-    },
-    {
-      "title": "PARFUMS DE MARLY Countdown Calendar",
-      "link": "https://www.fragrantica.com/news/PARFUMS-DE-MARLY-Countdown-Calendar-26454.html",
-      "description": "Parfums de Marly presents its 2026 holiday countdown calendar as a celebration among the stars!",
-      "category": "Fragrance News",
-      "author": "Sandra Raičević Petrović",
-      "published": 1793191922
-    },
-    {
-      "title": "Pigmentarium Paradiso EXTRAIT",
-      "link": "https://www.fragrantica.com/news/Pigmentarium-Paradiso-EXTRAIT-26453.html",
-      "description": "A familiar fragrance in a new, more intense form.",
-      "category": "New Fragrances",
-      "author": "Markéta Rybínová",
-      "published": 1793183283
     }
   ],
   "perfumes": [
+    {
+      "title": "GRANHAND — Violette",
+      "link": "https://www.fragrantica.com/perfume/GRANHAND/Violette-147065.html",
+      "description": "New perfume listing: Violette by GRANHAND.",
+      "category": "New Perfumes",
+      "author": "GRANHAND",
+      "published": 1794144386
+    },
+    {
+      "title": "Linea De Bella — Highland Her Elixir",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Highland-Her-Elixir-147028.html",
+      "description": "New perfume listing: Highland Her Elixir by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1794144386
+    },
+    {
+      "title": "Linea De Bella — Moonlight By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Moonlight-By-Nature-147027.html",
+      "description": "New perfume listing: Moonlight By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1794144386
+    },
+    {
+      "title": "Linea De Bella — Horizon By Nature",
+      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Horizon-By-Nature-147026.html",
+      "description": "New perfume listing: Horizon By Nature by Linea De Bella.",
+      "category": "New Perfumes",
+      "author": "Linea De Bella",
+      "published": 1794144386
+    },
     {
       "title": "We Pink — L.you",
       "link": "https://www.fragrantica.com/perfume/We-Pink/L-you-147117.html",
@@ -1568,38 +1600,6 @@
       "description": "New perfume listing: Aurelia Nobels by Sol de Janeiro.",
       "category": "New Perfumes",
       "author": "Sol de Janeiro",
-      "published": 1793993114
-    },
-    {
-      "title": "Giorgio Armani — Armani Privé Jade",
-      "link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Armani-Prive-Jade-147039.html",
-      "description": "New perfume listing: Armani Privé Jade by Giorgio Armani.",
-      "category": "New Perfumes",
-      "author": "Giorgio Armani",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Nostalgia Memoria EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Memoria-EDP-147038.html",
-      "description": "New perfume listing: Nostalgia Memoria EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Nostalgia Lunara EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Lunara-EDP-147037.html",
-      "description": "New perfume listing: Nostalgia Lunara EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Nostalgia Valente EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nostalgia-Valente-EDP-147036.html",
-      "description": "New perfume listing: Nostalgia Valente EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
       "published": 1793993114
     }
   ]
