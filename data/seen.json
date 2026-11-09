@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Costa Brazil Announces Two New Fragrances to Launch November 10",
+      "link": "https://www.fragrantica.com/news/Costa-Brazil-Announces-Two-New-Fragrances-to-Launch-November-10-26558.html",
+      "description": "Breu and Capim Dourado.",
+      "category": "New Fragrances",
+      "author": "Bella van der Weerd",
+      "published": 1794192663
+    },
+    {
+      "title": "My Recent Sampling Sessions",
+      "link": "https://www.fragrantica.com/news/My-Recent-Sampling-Sessions-26557.html",
+      "description": "It’s only recently that I discovered an online store that ships samples to where I live, and I was ecstatic.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1794176583
+    },
+    {
       "title": "Fragrance Innovation Summit Returns to Paris This November",
       "link": "https://www.fragrantica.com/news/Fragrance-Innovation-Summit-Returns-to-Paris-This-November-26556.html",
       "description": "November 25th at Verso.",
@@ -783,25 +799,193 @@
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1793224803
-    },
-    {
-      "title": "‘Crushingly Beautiful’ Autumnal Fragrances",
-      "link": "https://www.fragrantica.com/news/Crushingly-Beautiful-Autumnal-Fragrances-26458.html",
-      "description": "There is a sense of longing in these perfumes which communicates the tension of the season.",
-      "category": "Columns",
-      "author": "Adam Forziati",
-      "published": 1793217603
-    },
-    {
-      "title": "CADE BLACK Re-Launches with New Pierre Dinand Bottles",
-      "link": "https://www.fragrantica.com/news/CADE-BLACK-Re-Launches-with-New-Pierre-Dinand-Bottles-26457.html",
-      "description": "Check out the swoon-worthy new bottle of this all-natural botanical brand in Missouri.",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1793210403
     }
   ],
   "perfumes": [
+    {
+      "title": "ABOUJAMIL Perfumery — Chandni",
+      "link": "https://www.fragrantica.com/perfume/ABOUJAMIL-Perfumery/Chandni-147151.html",
+      "description": "New perfume listing: Chandni by ABOUJAMIL Perfumery.",
+      "category": "New Perfumes",
+      "author": "ABOUJAMIL Perfumery",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Tendre Étreinte Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Tendre-Etreinte-Extrait-de-Parfum-147150.html",
+      "description": "New perfume listing: Tendre Étreinte Extrait de Parfum by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Oud Velours Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Oud-Velours-Extrait-de-Parfum-147149.html",
+      "description": "New perfume listing: Oud Velours Extrait de Parfum by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Filtre d’Amour Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Filtre-d-Amour-Extrait-de-Parfum-147148.html",
+      "description": "New perfume listing: Filtre d’Amour Extrait de Parfum by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Beach Rose Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Beach-Rose-Extrait-de-Parfum-147147.html",
+      "description": "New perfume listing: Beach Rose Extrait de Parfum by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Amber Spark Extrait de Parfum",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Amber-Spark-Extrait-de-Parfum-147146.html",
+      "description": "New perfume listing: Amber Spark Extrait de Parfum by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Tendre Étreinte",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Tendre-Etreinte-147145.html",
+      "description": "New perfume listing: Tendre Étreinte by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Fleur de Miel",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Fleur-de-Miel-147144.html",
+      "description": "New perfume listing: Fleur de Miel by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Oud Velours",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Oud-Velours-147143.html",
+      "description": "New perfume listing: Oud Velours by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Filtre d’Amour",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Filtre-d-Amour-147142.html",
+      "description": "New perfume listing: Filtre d’Amour by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Eau Verte",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Eau-Verte-147141.html",
+      "description": "New perfume listing: Eau Verte by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Dates",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Dates-147140.html",
+      "description": "New perfume listing: Dates by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Blanc Foncé",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Blanc-Fonce-147138.html",
+      "description": "New perfume listing: Blanc Foncé by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Texture Veloutée",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Texture-Veloutee-147137.html",
+      "description": "New perfume listing: Texture Veloutée by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Beach Rose",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Beach-Rose-147136.html",
+      "description": "New perfume listing: Beach Rose by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "Maison Mirwad — Amber Spark",
+      "link": "https://www.fragrantica.com/perfume/Maison-Mirwad/Amber-Spark-147135.html",
+      "description": "New perfume listing: Amber Spark by Maison Mirwad.",
+      "category": "New Perfumes",
+      "author": "Maison Mirwad",
+      "published": 1794205965
+    },
+    {
+      "title": "TRESemmé — Velvety Peach & Amber Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/TRESemme/Velvety-Peach-Amber-Hair-Mist-147134.html",
+      "description": "New perfume listing: Velvety Peach & Amber Hair Mist by TRESemmé.",
+      "category": "New Perfumes",
+      "author": "TRESemmé",
+      "published": 1794205965
+    },
+    {
+      "title": "TRESemmé — Golden Vanilla and Sandalwood Signature Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/TRESemme/Golden-Vanilla-and-Sandalwood-Signature-Hair-Mist-147133.html",
+      "description": "New perfume listing: Golden Vanilla and Sandalwood Signature Hair Mist by TRESemmé.",
+      "category": "New Perfumes",
+      "author": "TRESemmé",
+      "published": 1794205965
+    },
+    {
+      "title": "TRESemmé — Blooming Jasmine & Orange Blossom Hair Mist",
+      "link": "https://www.fragrantica.com/perfume/TRESemme/Blooming-Jasmine-Orange-Blossom-Hair-Mist-147132.html",
+      "description": "New perfume listing: Blooming Jasmine & Orange Blossom Hair Mist by TRESemmé.",
+      "category": "New Perfumes",
+      "author": "TRESemmé",
+      "published": 1794205965
+    },
+    {
+      "title": "Costa Brazil — Capim Dourado",
+      "link": "https://www.fragrantica.com/perfume/Costa-Brazil/Capim-Dourado-147129.html",
+      "description": "New perfume listing: Capim Dourado by Costa Brazil.",
+      "category": "New Perfumes",
+      "author": "Costa Brazil",
+      "published": 1794205965
+    },
+    {
+      "title": "Costa Brazil — Breu",
+      "link": "https://www.fragrantica.com/perfume/Costa-Brazil/Breu-147128.html",
+      "description": "New perfume listing: Breu by Costa Brazil.",
+      "category": "New Perfumes",
+      "author": "Costa Brazil",
+      "published": 1794205965
+    },
+    {
+      "title": "Saravel Inc. — Jezebel (Jesebel)",
+      "link": "https://www.fragrantica.com/perfume/Saravel-Inc/Jezebel-Jesebel-147131.html",
+      "description": "New perfume listing: Jezebel (Jesebel) by Saravel Inc..",
+      "category": "New Perfumes",
+      "author": "Saravel Inc.",
+      "published": 1794205965
+    },
+    {
+      "title": "Брокаръ и Ко (Brocard & Cie) — Тиллия (Tilia)",
+      "link": "https://www.fragrantica.com/perfume/Brokar-i-Ko-Brocard-Cie/Tillia-Tilia-147130.html",
+      "description": "New perfume listing: Тиллия (Tilia) by Брокаръ и Ко (Brocard & Cie).",
+      "category": "New Perfumes",
+      "author": "Брокаръ и Ко (Brocard & Cie)",
+      "published": 1794205965
+    },
     {
       "title": "Pyre & Mane — Day Break",
       "link": "https://www.fragrantica.com/perfume/Pyre-Mane/Day-Break-147127.html",
@@ -1417,190 +1601,6 @@
       "category": "New Perfumes",
       "author": "Linea De Bella",
       "published": 1794031166
-    },
-    {
-      "title": "Givenchy — L'Interdit Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Solid-Perfume-146943.html",
-      "description": "New perfume listing: L'Interdit Solid Perfume by Givenchy.",
-      "category": "New Perfumes",
-      "author": "Givenchy",
-      "published": 1794031166
-    },
-    {
-      "title": "ÉCLATAUR — Seraph",
-      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Seraph-146941.html",
-      "description": "New perfume listing: Seraph by ÉCLATAUR.",
-      "category": "New Perfumes",
-      "author": "ÉCLATAUR",
-      "published": 1794031166
-    },
-    {
-      "title": "ÉCLATAUR — Legende",
-      "link": "https://www.fragrantica.com/perfume/ECLATAUR/Legende-146940.html",
-      "description": "New perfume listing: Legende by ÉCLATAUR.",
-      "category": "New Perfumes",
-      "author": "ÉCLATAUR",
-      "published": 1794031166
-    },
-    {
-      "title": "Givenchy — L'Interdit Eau de Parfum Solid Perfume",
-      "link": "https://www.fragrantica.com/perfume/Givenchy/L-Interdit-Eau-de-Parfum-Solid-Perfume-146939.html",
-      "description": "New perfume listing: L'Interdit Eau de Parfum Solid Perfume by Givenchy.",
-      "category": "New Perfumes",
-      "author": "Givenchy",
-      "published": 1794031166
-    },
-    {
-      "title": "NuWilds — Osmanthus & Oolong",
-      "link": "https://www.fragrantica.com/perfume/NuWilds/Osmanthus-Oolong-147068.html",
-      "description": "New perfume listing: Osmanthus & Oolong by NuWilds.",
-      "category": "New Perfumes",
-      "author": "NuWilds",
-      "published": 1793993114
-    },
-    {
-      "title": "NuWilds — Veiled Ambergris",
-      "link": "https://www.fragrantica.com/perfume/NuWilds/Veiled-Ambergris-147067.html",
-      "description": "New perfume listing: Veiled Ambergris by NuWilds.",
-      "category": "New Perfumes",
-      "author": "NuWilds",
-      "published": 1793993114
-    },
-    {
-      "title": "NuWilds — Perilla Peach & Ginger",
-      "link": "https://www.fragrantica.com/perfume/NuWilds/Perilla-Peach-Ginger-147066.html",
-      "description": "New perfume listing: Perilla Peach & Ginger by NuWilds.",
-      "category": "New Perfumes",
-      "author": "NuWilds",
-      "published": 1793993114
-    },
-    {
-      "title": "Bharara — Rey de Reyes Yellow",
-      "link": "https://www.fragrantica.com/perfume/Bharara/Rey-de-Reyes-Yellow-147064.html",
-      "description": "New perfume listing: Rey de Reyes Yellow by Bharara.",
-      "category": "New Perfumes",
-      "author": "Bharara",
-      "published": 1793993114
-    },
-    {
-      "title": "Mix:Bar — Caramel Bourbon",
-      "link": "https://www.fragrantica.com/perfume/Mix-Bar/Caramel-Bourbon-147063.html",
-      "description": "New perfume listing: Caramel Bourbon by Mix:Bar.",
-      "category": "New Perfumes",
-      "author": "Mix:Bar",
-      "published": 1793993114
-    },
-    {
-      "title": "Being Frenshe — Amber Amour",
-      "link": "https://www.fragrantica.com/perfume/Being-Frenshe/Amber-Amour-147062.html",
-      "description": "New perfume listing: Amber Amour by Being Frenshe.",
-      "category": "New Perfumes",
-      "author": "Being Frenshe",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Shamanilla Sense",
-      "link": "https://www.fragrantica.com/perfume/Zara/Shamanilla-Sense-147061.html",
-      "description": "New perfume listing: Shamanilla Sense by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Being Frenshe — Velvet Crème",
-      "link": "https://www.fragrantica.com/perfume/Being-Frenshe/Velvet-Creme-147060.html",
-      "description": "New perfume listing: Velvet Crème by Being Frenshe.",
-      "category": "New Perfumes",
-      "author": "Being Frenshe",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Santal Wood EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Santal-Wood-EDP-147059.html",
-      "description": "New perfume listing: Santal Wood EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Oakcha — Fragaria Script",
-      "link": "https://www.fragrantica.com/perfume/Oakcha/Fragaria-Script-147058.html",
-      "description": "New perfume listing: Fragaria Script by Oakcha.",
-      "category": "New Perfumes",
-      "author": "Oakcha",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red Immortal Vanilla",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Immortal-Vanilla-147057.html",
-      "description": "New perfume listing: Into Red Immortal Vanilla by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Anthem Noir EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Anthem-Noir-EDP-147056.html",
-      "description": "New perfume listing: Anthem Noir EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Oakcha — Crisp Orchard",
-      "link": "https://www.fragrantica.com/perfume/Oakcha/Crisp-Orchard-147055.html",
-      "description": "New perfume listing: Crisp Orchard by Oakcha.",
-      "category": "New Perfumes",
-      "author": "Oakcha",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red Cocoa Sunset",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Cocoa-Sunset-147054.html",
-      "description": "New perfume listing: Into Red Cocoa Sunset by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Unforgettable EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Unforgettable-EDP-147053.html",
-      "description": "New perfume listing: Unforgettable EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red Golden Decade Parfum",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-Golden-Decade-Parfum-147052.html",
-      "description": "New perfume listing: Into Red Golden Decade Parfum by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Nairobi Muse EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Nairobi-Muse-EDP-147051.html",
-      "description": "New perfume listing: Nairobi Muse EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
-    },
-    {
-      "title": "Zara — Into Red ZaraIllusion Parfum",
-      "link": "https://www.fragrantica.com/perfume/Zara/Into-Red-ZaraIllusion-Parfum-147050.html",
-      "description": "New perfume listing: Into Red ZaraIllusion Parfum by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1793993114
-    },
-    {
-      "title": "Linea De Bella — Botanique Bloom EDP",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Botanique-Bloom-EDP-147049.html",
-      "description": "New perfume listing: Botanique Bloom EDP by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1793993114
     }
   ]
 }
