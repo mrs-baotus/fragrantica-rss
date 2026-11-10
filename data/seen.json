@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "ScentXplore 2026: Don't Judge a Gourmand by its Category",
+      "link": "https://www.fragrantica.com/news/ScentXplore-2026-Don-t-Judge-a-Gourmand-by-its-Category-26565.html",
+      "description": "Adam, an unlikely gourmand-goer, feels a change coming after ScentXplore.",
+      "category": "Art Books Events",
+      "author": "Adam Forziati",
+      "published": 1794277802
+    },
+    {
+      "title": "Coconut As Darkening Agent: Fusion D’Issey As Bookmark Of A Surprising Industry Convention",
+      "link": "https://www.fragrantica.com/news/Coconut-As-Darkening-Agent-Fusion-D-Issey-As-Bookmark-Of-A-Surprising-Industry-Convention-26564.html",
+      "description": "When did the fruit start to turn black?",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1794267003
+    },
+    {
       "title": "ScentXplore 2026: The People Who Restore My Faith In Humanity",
       "link": "https://www.fragrantica.com/news/ScentXplore-2026-The-People-Who-Restore-My-Faith-In-Humanity-26563.html",
       "description": "...and there are apparently still many of them, thankfully",
@@ -783,25 +799,81 @@
       "category": "Fragrance Reviews",
       "author": "Elena Prokofeva",
       "published": 1793279943
-    },
-    {
-      "title": "Nerolis Extrait De Parfum: The New Fragrance From Ibrahim Fuhaid",
-      "link": "https://www.fragrantica.com/news/Nerolis-Extrait-De-Parfum-The-New-Fragrance-From-Ibrahim-Fuhaid-26465.html",
-      "description": "Moroccan Neroli and Tunisian Orange Blossom in high concentrations.",
-      "category": "Niche Perfumery",
-      "author": "Rouu Abd El-Latif",
-      "published": 1793279583
-    },
-    {
-      "title": "Malodor Counteraction: A Big Interview with Mane Professionals",
-      "link": "https://www.fragrantica.com/news/Malodor-Counteraction-A-Big-Interview-with-Mane-Professionals-26464.html",
-      "description": "Chemical and physical approaches to fight foul smells.",
-      "category": "Interviews",
-      "author": "Sergey Borisov",
-      "published": 1793268183
     }
   ],
   "perfumes": [
+    {
+      "title": "Être — Matcha Muse",
+      "link": "https://www.fragrantica.com/perfume/Etre/Matcha-Muse-147234.html",
+      "description": "New perfume listing: Matcha Muse by Être.",
+      "category": "New Perfumes",
+      "author": "Être",
+      "published": 1794295216
+    },
+    {
+      "title": "Être — Pain Perdu",
+      "link": "https://www.fragrantica.com/perfume/Etre/Pain-Perdu-147233.html",
+      "description": "New perfume listing: Pain Perdu by Être.",
+      "category": "New Perfumes",
+      "author": "Être",
+      "published": 1794295216
+    },
+    {
+      "title": "Être — Café Curieux",
+      "link": "https://www.fragrantica.com/perfume/Etre/Cafe-Curieux-147232.html",
+      "description": "New perfume listing: Café Curieux by Être.",
+      "category": "New Perfumes",
+      "author": "Être",
+      "published": 1794295216
+    },
+    {
+      "title": "Être — Fika Flamme",
+      "link": "https://www.fragrantica.com/perfume/Etre/Fika-Flamme-147231.html",
+      "description": "New perfume listing: Fika Flamme by Être.",
+      "category": "New Perfumes",
+      "author": "Être",
+      "published": 1794295216
+    },
+    {
+      "title": "Helvé Noé — L’Isolée",
+      "link": "https://www.fragrantica.com/perfume/Helve-Noe/L-Isolee-147230.html",
+      "description": "New perfume listing: L’Isolée by Helvé Noé.",
+      "category": "New Perfumes",
+      "author": "Helvé Noé",
+      "published": 1794295216
+    },
+    {
+      "title": "Helvé Noé — L’Isolé",
+      "link": "https://www.fragrantica.com/perfume/Helve-Noe/L-Isole-147229.html",
+      "description": "New perfume listing: L’Isolé by Helvé Noé.",
+      "category": "New Perfumes",
+      "author": "Helvé Noé",
+      "published": 1794295216
+    },
+    {
+      "title": "Stella Dustin — Self Gold Edition",
+      "link": "https://www.fragrantica.com/perfume/Stella-Dustin/Self-Gold-Edition-147118.html",
+      "description": "New perfume listing: Self Gold Edition by Stella Dustin.",
+      "category": "New Perfumes",
+      "author": "Stella Dustin",
+      "published": 1794295216
+    },
+    {
+      "title": "We Pink — Obsessed Deluxe",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Deluxe-147106.html",
+      "description": "New perfume listing: Obsessed Deluxe by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794295216
+    },
+    {
+      "title": "We Pink — Obsessed Gold",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Obsessed-Gold-147105.html",
+      "description": "New perfume listing: Obsessed Gold by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794295216
+    },
     {
       "title": "Thauy — Orian",
       "link": "https://www.fragrantica.com/perfume/Thauy/Orian-147227.html",
@@ -1529,78 +1601,6 @@
       "category": "New Perfumes",
       "author": "Mysa Fragrance Haus",
       "published": 1794175616
-    },
-    {
-      "title": "GRANHAND — Violette",
-      "link": "https://www.fragrantica.com/perfume/GRANHAND/Violette-147065.html",
-      "description": "New perfume listing: Violette by GRANHAND.",
-      "category": "New Perfumes",
-      "author": "GRANHAND",
-      "published": 1794144386
-    },
-    {
-      "title": "Linea De Bella — Highland Her Elixir",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Highland-Her-Elixir-147028.html",
-      "description": "New perfume listing: Highland Her Elixir by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1794144386
-    },
-    {
-      "title": "Linea De Bella — Moonlight By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Moonlight-By-Nature-147027.html",
-      "description": "New perfume listing: Moonlight By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1794144386
-    },
-    {
-      "title": "Linea De Bella — Horizon By Nature",
-      "link": "https://www.fragrantica.com/perfume/Linea-De-Bella/Horizon-By-Nature-147026.html",
-      "description": "New perfume listing: Horizon By Nature by Linea De Bella.",
-      "category": "New Perfumes",
-      "author": "Linea De Bella",
-      "published": 1794144386
-    },
-    {
-      "title": "We Pink — L.you",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/L-you-147117.html",
-      "description": "New perfume listing: L.you by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1794117792
-    },
-    {
-      "title": "O Boticário — Quasar Blue",
-      "link": "https://www.fragrantica.com/perfume/O-Boticario/Quasar-Blue-147116.html",
-      "description": "New perfume listing: Quasar Blue by O Boticário.",
-      "category": "New Perfumes",
-      "author": "O Boticário",
-      "published": 1794117792
-    },
-    {
-      "title": "Maison Alhambra — So Glam Rouge Intense",
-      "link": "https://www.fragrantica.com/perfume/Maison-Alhambra/So-Glam-Rouge-Intense-147115.html",
-      "description": "New perfume listing: So Glam Rouge Intense by Maison Alhambra.",
-      "category": "New Perfumes",
-      "author": "Maison Alhambra",
-      "published": 1794117792
-    },
-    {
-      "title": "Tha Beauty — Seoul Bloom",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Seoul-Bloom-147114.html",
-      "description": "New perfume listing: Seoul Bloom by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1794117792
-    },
-    {
-      "title": "Tha Beauty — Lover",
-      "link": "https://www.fragrantica.com/perfume/Tha-Beauty/Lover-147113.html",
-      "description": "New perfume listing: Lover by Tha Beauty.",
-      "category": "New Perfumes",
-      "author": "Tha Beauty",
-      "published": 1794117792
     }
   ]
 }
