@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "DOLCE&GABBANA Velver Amber Sage Review",
+      "link": "https://www.fragrantica.com/news/DOLCE-GABBANA-Velver-Amber-Sage-Review-26609.html",
+      "description": "Alongside the warmth of amber, spices take centre stage, revealing their diverse, fantastic facets.",
+      "category": "Video",
+      "author": "Fragrance Reviews",
+      "published": 1794677963
+    },
+    {
+      "title": "The Land of Frankincense",
+      "link": "https://www.fragrantica.com/news/The-Land-of-Frankincense-26608.html",
+      "description": "What resin could cost nearly three years’ wages? How do you fend off multicoloured winged serpents? And which three fragrances should you bring home from Oman?",
+      "category": "Columns",
+      "author": "Andrei Lensky",
+      "published": 1794668643
+    },
+    {
+      "title": "Shomal Botanicae: Tea Among the Mists of Masuleh",
+      "link": "https://www.fragrantica.com/news/Shomal-Botanicae-Tea-Among-the-Mists-of-Masuleh-26607.html",
+      "description": "A journey through northern Iran, strong tea, and a pale hyacinth.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1794654183
+    },
+    {
+      "title": "Two Amazing Formulas From Thai Brand Perfumers’ Journey",
+      "link": "https://www.fragrantica.com/news/Two-Amazing-Formulas-From-Thai-Brand-Perfumers-Journey-26606.html",
+      "description": "A La Mod and Lamphun Gold.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1794646982
+    },
+    {
+      "title": "GCDS Introduces Its First Fragrance: Morso",
+      "link": "https://www.fragrantica.com/news/GCDS-Introduces-Its-First-Fragrance-Morso-26605.html",
+      "description": "The Milanese brand's debut in the world of perfumery.",
+      "category": "Fragrance News",
+      "author": "Giulietta Ptoyan",
+      "published": 1794643263
+    },
+    {
       "title": "Verité HARRY LEHMANN: Vintage Amber Fragrance",
       "link": "https://www.fragrantica.com/news/Verite-HARRY-LEHMANN-Vintage-Amber-Fragrance-26604.html",
       "description": "One of 74 fragrances from the Berlin brand, which celebrates its 100th anniversary in 2026.",
@@ -759,49 +799,337 @@
       "category": "Art Books Events",
       "author": "Giulietta Ptoyan",
       "published": 1793665803
-    },
-    {
-      "title": "DOWNTOWN PARFUM: New From Day Three",
-      "link": "https://www.fragrantica.com/news/DOWNTOWN-PARFUM-New-From-Day-Three-26509.html",
-      "description": "\"A smooth, rich gourmand for anyone who loves a sweet scent. This is Downtown Parfum.\"",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1793655003
-    },
-    {
-      "title": "Oud by Ecstopia: Multiple Agarwood Variants all Wrapped in Wool!",
-      "link": "https://www.fragrantica.com/news/Oud-by-Ecstopia-Multiple-Agarwood-Variants-all-Wrapped-in-Wool-26508.html",
-      "description": "A New Limited Edition Extrait de Parfum.",
-      "category": "Niche Perfumery",
-      "author": "Rouu Abd El-Latif",
-      "published": 1793645103
-    },
-    {
-      "title": "Dioriginals' Dune: The Icon is Not Dead",
-      "link": "https://www.fragrantica.com/news/Dioriginals-Dune-The-Icon-is-Not-Dead-26507.html",
-      "description": "(Yet)",
-      "category": "Fragrance Reviews",
-      "author": "Miguel Matos",
-      "published": 1793634488
-    },
-    {
-      "title": "To Define 寓义 I Know Me Series — 我明白我系列: Aromatic Herbs, Flowers, and Crunchy Vegetables",
-      "link": "https://www.fragrantica.com/news/To-Define-yu-yi-I-Know-Me-Series-wo-ming-bai-wo-xi-lie-Aromatic-Herbs-Flowers-and-Crunchy-Vegetables-26506.html",
-      "description": "Floreat Dew — 植得·苔生 and Floreat Bloom — 植得·栀晓 by To Define 寓义.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1793624446
-    },
-    {
-      "title": "ScentXplore 2026: Schedule of Events & Exhibitors",
-      "link": "https://www.fragrantica.com/news/ScentXplore-2026-Schedule-of-Events-Exhibitors-26505.html",
-      "description": "November 5-7 in NYC",
-      "category": "Art Books Events",
-      "author": "Beth Butterfield",
-      "published": 1793611267
     }
   ],
   "perfumes": [
+    {
+      "title": "G Parfums — Vampire",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Vampire-147826.html",
+      "description": "New perfume listing: Vampire by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Liminal Space",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Liminal-Space-147825.html",
+      "description": "New perfume listing: Liminal Space by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Pontific Chill",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Pontific-Chill-147824.html",
+      "description": "New perfume listing: Pontific Chill by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Fig Eater",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Fig-Eater-147823.html",
+      "description": "New perfume listing: Fig Eater by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Me Tender",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Me-Tender-147822.html",
+      "description": "New perfume listing: Me Tender by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Anubis",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Anubis-147821.html",
+      "description": "New perfume listing: Anubis by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "G Parfums — Succubus",
+      "link": "https://www.fragrantica.com/perfume/G-Parfums/Succubus-147820.html",
+      "description": "New perfume listing: Succubus by G Parfums.",
+      "category": "New Perfumes",
+      "author": "G Parfums",
+      "published": 1794679400
+    },
+    {
+      "title": "Eze Perfumes — Sands of Makkah",
+      "link": "https://www.fragrantica.com/perfume/Eze-Perfumes/Sands-of-Makkah-147819.html",
+      "description": "New perfume listing: Sands of Makkah by Eze Perfumes.",
+      "category": "New Perfumes",
+      "author": "Eze Perfumes",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ruby Rhodolite",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ruby-Rhodolite-147812.html",
+      "description": "New perfume listing: Ruby Rhodolite by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ruby Ametist",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ruby-Ametist-147810.html",
+      "description": "New perfume listing: Ruby Ametist by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Tyrie Royale",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Tyrie-Royale-147809.html",
+      "description": "New perfume listing: Tyrie Royale by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ember Divinus",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ember-Divinus-147808.html",
+      "description": "New perfume listing: Ember Divinus by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Feive Celestial",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Feive-Celestial-147807.html",
+      "description": "New perfume listing: Feive Celestial by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Crimson Seraph",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Crimson-Seraph-147806.html",
+      "description": "New perfume listing: Crimson Seraph by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Elowen",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Elowen-147805.html",
+      "description": "New perfume listing: Elowen by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Venice Breeze",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Venice-Breeze-147804.html",
+      "description": "New perfume listing: Venice Breeze by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Lauv Green",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Lauv-Green-147803.html",
+      "description": "New perfume listing: Lauv Green by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "Bergamoss — My Cozy Wool Scarf",
+      "link": "https://www.fragrantica.com/perfume/Bergamoss/My-Cozy-Wool-Scarf-147802.html",
+      "description": "New perfume listing: My Cozy Wool Scarf by Bergamoss.",
+      "category": "New Perfumes",
+      "author": "Bergamoss",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ghadan Light",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ghadan-Light-147801.html",
+      "description": "New perfume listing: Ghadan Light by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ghadan",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ghadan-147800.html",
+      "description": "New perfume listing: Ghadan by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — VF Tropical",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Tropical-147799.html",
+      "description": "New perfume listing: VF Tropical by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — VF Choices Delight",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Choices-Delight-147797.html",
+      "description": "New perfume listing: VF Choices Delight by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — VF 2.7",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-2-7-147795.html",
+      "description": "New perfume listing: VF 2.7 by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Wonbloom Charm",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Wonbloom-Charm-147794.html",
+      "description": "New perfume listing: Wonbloom Charm by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Wonbloom",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Wonbloom-147793.html",
+      "description": "New perfume listing: Wonbloom by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Wonbloom Fever",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Wonbloom-Fever-147792.html",
+      "description": "New perfume listing: Wonbloom Fever by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Tobacco Temptation",
+      "link": "https://www.fragrantica.com/perfume/Zara/Tobacco-Temptation-147791.html",
+      "description": "New perfume listing: Tobacco Temptation by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Oud Temptation",
+      "link": "https://www.fragrantica.com/perfume/Zara/Oud-Temptation-147790.html",
+      "description": "New perfume listing: Oud Temptation by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Dusk Temptation",
+      "link": "https://www.fragrantica.com/perfume/Zara/Dusk-Temptation-147789.html",
+      "description": "New perfume listing: Dusk Temptation by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Caramel Collection 03 Cosmic, Fresh, Crystaline",
+      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-03-Cosmic-Fresh-Crystaline-147788.html",
+      "description": "New perfume listing: Caramel Collection 03 Cosmic, Fresh, Crystaline by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Caramel Collection 02: Bold, Flamed, Addictive",
+      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-02-Bold-Flamed-Addictive-147787.html",
+      "description": "New perfume listing: Caramel Collection 02: Bold, Flamed, Addictive by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Zara — Caramel Collection 01 Dark Rich Sensual",
+      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-01-Dark-Rich-Sensual-147786.html",
+      "description": "New perfume listing: Caramel Collection 01 Dark Rich Sensual by Zara.",
+      "category": "New Perfumes",
+      "author": "Zara",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Red Solar",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Red-Solar-147818.html",
+      "description": "New perfume listing: Red Solar by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Oud 45",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Oud-45-147817.html",
+      "description": "New perfume listing: Oud 45 by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Mustang",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Mustang-147816.html",
+      "description": "New perfume listing: Mustang by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Invento",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Invento-147815.html",
+      "description": "New perfume listing: Invento by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Impérial",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Imperial-147814.html",
+      "description": "New perfume listing: Impérial by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "Parisis — Adventure",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Adventure-147813.html",
+      "description": "New perfume listing: Adventure by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — Ruby",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/Ruby-147811.html",
+      "description": "New perfume listing: Ruby by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — VF Choices",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Choices-147798.html",
+      "description": "New perfume listing: VF Choices by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
+    {
+      "title": "We Pink — VF Aqua",
+      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Aqua-147796.html",
+      "description": "New perfume listing: VF Aqua by We Pink.",
+      "category": "New Perfumes",
+      "author": "We Pink",
+      "published": 1794679400
+    },
     {
       "title": "Marc Gebauer — Aloha",
       "link": "https://www.fragrantica.com/perfume/Marc-Gebauer/Aloha-147785.html",
@@ -1273,334 +1601,6 @@
       "category": "New Perfumes",
       "author": "Новая Заря (Novaya Zarya – The New Dawn)",
       "published": 1794552461
-    },
-    {
-      "title": "Perito Moreno — Tobacco Reserve",
-      "link": "https://www.fragrantica.com/perfume/Perito-Moreno/Tobacco-Reserve-147726.html",
-      "description": "New perfume listing: Tobacco Reserve by Perito Moreno.",
-      "category": "New Perfumes",
-      "author": "Perito Moreno",
-      "published": 1794552461
-    },
-    {
-      "title": "Perito Moreno — Punugu",
-      "link": "https://www.fragrantica.com/perfume/Perito-Moreno/Punugu-147725.html",
-      "description": "New perfume listing: Punugu by Perito Moreno.",
-      "category": "New Perfumes",
-      "author": "Perito Moreno",
-      "published": 1794552461
-    },
-    {
-      "title": "Perito Moreno — Tripura Sundari",
-      "link": "https://www.fragrantica.com/perfume/Perito-Moreno/Tripura-Sundari-147724.html",
-      "description": "New perfume listing: Tripura Sundari by Perito Moreno.",
-      "category": "New Perfumes",
-      "author": "Perito Moreno",
-      "published": 1794552461
-    },
-    {
-      "title": "BornPatriot — Art of Detachment",
-      "link": "https://www.fragrantica.com/perfume/BornPatriot/Art-of-Detachment-147723.html",
-      "description": "New perfume listing: Art of Detachment by BornPatriot.",
-      "category": "New Perfumes",
-      "author": "BornPatriot",
-      "published": 1794552461
-    },
-    {
-      "title": "THISISNOTADUPE — Velvet Passion",
-      "link": "https://www.fragrantica.com/perfume/THISISNOTADUPE/Velvet-Passion-147479.html",
-      "description": "New perfume listing: Velvet Passion by THISISNOTADUPE.",
-      "category": "New Perfumes",
-      "author": "THISISNOTADUPE",
-      "published": 1794552461
-    },
-    {
-      "title": "THISISNOTADUPE — The Rose of Shaykh",
-      "link": "https://www.fragrantica.com/perfume/THISISNOTADUPE/The-Rose-of-Shaykh-147478.html",
-      "description": "New perfume listing: The Rose of Shaykh by THISISNOTADUPE.",
-      "category": "New Perfumes",
-      "author": "THISISNOTADUPE",
-      "published": 1794552461
-    },
-    {
-      "title": "Royal Platinum — Le Rouge",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Le-Rouge-147722.html",
-      "description": "New perfume listing: Le Rouge by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1794552461
-    },
-    {
-      "title": "Royal Platinum — Monsoon",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Monsoon-147721.html",
-      "description": "New perfume listing: Monsoon by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1794552461
-    },
-    {
-      "title": "Royal Platinum — Frigya",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Frigya-147720.html",
-      "description": "New perfume listing: Frigya by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1794552461
-    },
-    {
-      "title": "Royal Platinum — Cappadocia",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Cappadocia-147719.html",
-      "description": "New perfume listing: Cappadocia by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1794552461
-    },
-    {
-      "title": "Royal Platinum — Bergama",
-      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Bergama-147718.html",
-      "description": "New perfume listing: Bergama by Royal Platinum.",
-      "category": "New Perfumes",
-      "author": "Royal Platinum",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Z101",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Z101-147717.html",
-      "description": "New perfume listing: Z101 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y106",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y106-147716.html",
-      "description": "New perfume listing: Y106 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y105",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y105-147715.html",
-      "description": "New perfume listing: Y105 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y104",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y104-147714.html",
-      "description": "New perfume listing: Y104 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y102",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y102-147713.html",
-      "description": "New perfume listing: Y102 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y102",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y102-147712.html",
-      "description": "New perfume listing: Y102 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — Y101",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y101-147711.html",
-      "description": "New perfume listing: Y101 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W230",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W230-147710.html",
-      "description": "New perfume listing: W230 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W223",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W223-147709.html",
-      "description": "New perfume listing: W223 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W222",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W222-147708.html",
-      "description": "New perfume listing: W222 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W217",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W217-147707.html",
-      "description": "New perfume listing: W217 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W214",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W214-147706.html",
-      "description": "New perfume listing: W214 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W213",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W213-147705.html",
-      "description": "New perfume listing: W213 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W212",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W212-147704.html",
-      "description": "New perfume listing: W212 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W209",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W209-147703.html",
-      "description": "New perfume listing: W209 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W208",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W208-147702.html",
-      "description": "New perfume listing: W208 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W204",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W204-147701.html",
-      "description": "New perfume listing: W204 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W203",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W203-147700.html",
-      "description": "New perfume listing: W203 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W201",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W201-147699.html",
-      "description": "New perfume listing: W201 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W197",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W197-147698.html",
-      "description": "New perfume listing: W197 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W192",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W192-147697.html",
-      "description": "New perfume listing: W192 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W191",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W191-147696.html",
-      "description": "New perfume listing: W191 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W190",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W190-147695.html",
-      "description": "New perfume listing: W190 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W189",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W189-147694.html",
-      "description": "New perfume listing: W189 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "Mad Parfumeur — W185",
-      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W185-147693.html",
-      "description": "New perfume listing: W185 by Mad Parfumeur.",
-      "category": "New Perfumes",
-      "author": "Mad Parfumeur",
-      "published": 1794552461
-    },
-    {
-      "title": "THISISNOTADUPE — Midnight Addiction",
-      "link": "https://www.fragrantica.com/perfume/THISISNOTADUPE/Midnight-Addiction-147477.html",
-      "description": "New perfume listing: Midnight Addiction by THISISNOTADUPE.",
-      "category": "New Perfumes",
-      "author": "THISISNOTADUPE",
-      "published": 1794513314
-    },
-    {
-      "title": "THISISNOTADUPE — Charnel Confiture",
-      "link": "https://www.fragrantica.com/perfume/THISISNOTADUPE/Charnel-Confiture-147476.html",
-      "description": "New perfume listing: Charnel Confiture by THISISNOTADUPE.",
-      "category": "New Perfumes",
-      "author": "THISISNOTADUPE",
-      "published": 1794513314
-    },
-    {
-      "title": "GCDS — Morso",
-      "link": "https://www.fragrantica.com/perfume/GCDS/Morso-147475.html",
-      "description": "New perfume listing: Morso by GCDS.",
-      "category": "New Perfumes",
-      "author": "GCDS",
-      "published": 1794513314
-    },
-    {
-      "title": "LEIƏR — Alba",
-      "link": "https://www.fragrantica.com/perfume/LEIER/Alba-147474.html",
-      "description": "New perfume listing: Alba by LEIƏR.",
-      "category": "New Perfumes",
-      "author": "LEIƏR",
-      "published": 1794513314
-    },
-    {
-      "title": "Studio Rose — Satin Slip",
-      "link": "https://www.fragrantica.com/perfume/Studio-Rose/Satin-Slip-147473.html",
-      "description": "New perfume listing: Satin Slip by Studio Rose.",
-      "category": "New Perfumes",
-      "author": "Studio Rose",
-      "published": 1794513314
     }
   ]
 }
