@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Verité HARRY LEHMANN: Vintage Amber Fragrance",
+      "link": "https://www.fragrantica.com/news/Verite-HARRY-LEHMANN-Vintage-Amber-Fragrance-26604.html",
+      "description": "One of 74 fragrances from the Berlin brand, which celebrates its 100th anniversary in 2026.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1794632283
+    },
+    {
+      "title": "The Cultures Of Perfume – The Book by Saskia Wilson-Brown",
+      "link": "https://www.fragrantica.com/news/The-Cultures-Of-Perfume-The-Book-by-Saskia-Wilson-Brown-26603.html",
+      "description": "\"With a smart and politically savvy style...\"",
+      "category": "Art Books Events",
+      "author": "Elena Knezevic",
+      "published": 1794622124
+    },
+    {
+      "title": "Geranium Absolue by Tauer",
+      "link": "https://www.fragrantica.com/news/Geranium-Absolue-by-Tauer-26602.html",
+      "description": "Nicola and Adam get together to compare their perspectives as a geranium lover and hater",
+      "category": "Niche Perfumery",
+      "author": "Adam Forziati,Nicola Thomis",
+      "published": 1794602462
+    },
+    {
       "title": "Brasco Beyond the Concept: My Impressions of the First Collection",
       "link": "https://www.fragrantica.com/news/Brasco-Beyond-the-Concept-My-Impressions-of-the-First-Collection-26601.html",
       "description": "A representation of the concept of Brazilianness translated into fragrances.",
@@ -775,33 +799,97 @@
       "category": "Art Books Events",
       "author": "Beth Butterfield",
       "published": 1793611267
-    },
-    {
-      "title": "ON THE WAVE OF MY MEMORY: NOA BY CACHAREL",
-      "link": "https://www.fragrantica.com/news/ON-THE-WAVE-OF-MY-MEMORY-NOA-BY-CACHAREL-26504.html",
-      "description": "It's tempting to call it a dinosaur of a bygone niche era—yet it is neither a reptile nor niche.",
-      "category": "Video",
-      "author": "Fragrance Reviews",
-      "published": 1793602564
-    },
-    {
-      "title": "Drake's BWFH Launched Dosaydo",
-      "link": "https://www.fragrantica.com/news/Drake-s-BWFH-Launched-Dosaydo-26503.html",
-      "description": "A distinctive citrus aromatic fragrance.",
-      "category": "New Fragrances",
-      "author": "Bella van der Weerd",
-      "published": 1793595423
-    },
-    {
-      "title": "Auguste Michel – A Legend of Soviet Perfumery, Part 12. From The Empress's Favorite Bouquet to Red Moscow",
-      "link": "https://www.fragrantica.com/news/Auguste-Michel-A-Legend-of-Soviet-Perfumery-Part-12-From-The-Empress-s-Favorite-Bouquet-to-Red-Moscow-26502.html",
-      "description": "Was Auguste Michel the creator of Lе Bouquet Favori de L’Impératrice (The Empress's Favorite Bouquet)? And in what year did Krasnaya Moskva (Red Moscow) actually appear?",
-      "category": "Vintage Fragrances",
-      "author": "Viktoria Vlasova",
-      "published": 1793578536
     }
   ],
   "perfumes": [
+    {
+      "title": "Marc Gebauer — Aloha",
+      "link": "https://www.fragrantica.com/perfume/Marc-Gebauer/Aloha-147785.html",
+      "description": "New perfume listing: Aloha by Marc Gebauer.",
+      "category": "New Perfumes",
+      "author": "Marc Gebauer",
+      "published": 1794637496
+    },
+    {
+      "title": "FELISA — Opus Brasilis Amazônia",
+      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Amazonia-147784.html",
+      "description": "New perfume listing: Opus Brasilis Amazônia by FELISA.",
+      "category": "New Perfumes",
+      "author": "FELISA",
+      "published": 1794637496
+    },
+    {
+      "title": "FELISA — Opus Brasilis Sertão",
+      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Sertao-147783.html",
+      "description": "New perfume listing: Opus Brasilis Sertão by FELISA.",
+      "category": "New Perfumes",
+      "author": "FELISA",
+      "published": 1794637496
+    },
+    {
+      "title": "FELISA — Opus Brasilis Rio",
+      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Rio-147782.html",
+      "description": "New perfume listing: Opus Brasilis Rio by FELISA.",
+      "category": "New Perfumes",
+      "author": "FELISA",
+      "published": 1794637496
+    },
+    {
+      "title": "Rasasi — Daarej Aurelia",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Daarej-Aurelia-147781.html",
+      "description": "New perfume listing: Daarej Aurelia by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1794637496
+    },
+    {
+      "title": "Rasasi — Daarej Verve",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Daarej-Verve-147780.html",
+      "description": "New perfume listing: Daarej Verve by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1794637496
+    },
+    {
+      "title": "RĀLŸSS — Chama",
+      "link": "https://www.fragrantica.com/perfume/RALYSS/Chama-147775.html",
+      "description": "New perfume listing: Chama by RĀLŸSS.",
+      "category": "New Perfumes",
+      "author": "RĀLŸSS",
+      "published": 1794637496
+    },
+    {
+      "title": "Parisis — Voyage",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Voyage-147779.html",
+      "description": "New perfume listing: Voyage by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794637496
+    },
+    {
+      "title": "Parisis — In The Air",
+      "link": "https://www.fragrantica.com/perfume/Parisis/In-The-Air-147778.html",
+      "description": "New perfume listing: In The Air by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794637496
+    },
+    {
+      "title": "Parisis — Freedom",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Freedom-147777.html",
+      "description": "New perfume listing: Freedom by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794637496
+    },
+    {
+      "title": "Parisis — Dreams",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Dreams-147776.html",
+      "description": "New perfume listing: Dreams by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794637496
+    },
     {
       "title": "Sunnamusk — Escape",
       "link": "https://www.fragrantica.com/perfume/Sunnamusk/Escape-147774.html",
@@ -1512,94 +1600,6 @@
       "description": "New perfume listing: Satin Slip by Studio Rose.",
       "category": "New Perfumes",
       "author": "Studio Rose",
-      "published": 1794513314
-    },
-    {
-      "title": "Studio Rose — Walk Me Home",
-      "link": "https://www.fragrantica.com/perfume/Studio-Rose/Walk-Me-Home-147472.html",
-      "description": "New perfume listing: Walk Me Home by Studio Rose.",
-      "category": "New Perfumes",
-      "author": "Studio Rose",
-      "published": 1794513314
-    },
-    {
-      "title": "Studio Rose — Pilates Princess",
-      "link": "https://www.fragrantica.com/perfume/Studio-Rose/Pilates-Princess-147471.html",
-      "description": "New perfume listing: Pilates Princess by Studio Rose.",
-      "category": "New Perfumes",
-      "author": "Studio Rose",
-      "published": 1794513314
-    },
-    {
-      "title": "Studio Rose — Sincerely Rose",
-      "link": "https://www.fragrantica.com/perfume/Studio-Rose/Sincerely-Rose-147470.html",
-      "description": "New perfume listing: Sincerely Rose by Studio Rose.",
-      "category": "New Perfumes",
-      "author": "Studio Rose",
-      "published": 1794513314
-    },
-    {
-      "title": "Famille Grasse Parfums — Le Tueur",
-      "link": "https://www.fragrantica.com/perfume/Famille-Grasse-Parfums/Le-Tueur-147458.html",
-      "description": "New perfume listing: Le Tueur by Famille Grasse Parfums.",
-      "category": "New Perfumes",
-      "author": "Famille Grasse Parfums",
-      "published": 1794513314
-    },
-    {
-      "title": "Famille Grasse Parfums — FERUS",
-      "link": "https://www.fragrantica.com/perfume/Famille-Grasse-Parfums/FERUS-147444.html",
-      "description": "New perfume listing: FERUS by Famille Grasse Parfums.",
-      "category": "New Perfumes",
-      "author": "Famille Grasse Parfums",
-      "published": 1794513314
-    },
-    {
-      "title": "Aura & Moniker — Daphne",
-      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Daphne-147443.html",
-      "description": "New perfume listing: Daphne by Aura & Moniker.",
-      "category": "New Perfumes",
-      "author": "Aura & Moniker",
-      "published": 1794513314
-    },
-    {
-      "title": "Aura & Moniker — Sebastian",
-      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Sebastian-147442.html",
-      "description": "New perfume listing: Sebastian by Aura & Moniker.",
-      "category": "New Perfumes",
-      "author": "Aura & Moniker",
-      "published": 1794513314
-    },
-    {
-      "title": "Aura & Moniker — Nicholas",
-      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Nicholas-147441.html",
-      "description": "New perfume listing: Nicholas by Aura & Moniker.",
-      "category": "New Perfumes",
-      "author": "Aura & Moniker",
-      "published": 1794513314
-    },
-    {
-      "title": "Genny — L’Orchidée",
-      "link": "https://www.fragrantica.com/perfume/Genny/L-Orchidee-147440.html",
-      "description": "New perfume listing: L’Orchidée by Genny.",
-      "category": "New Perfumes",
-      "author": "Genny",
-      "published": 1794513314
-    },
-    {
-      "title": "Aura & Moniker — Gavin",
-      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Gavin-147439.html",
-      "description": "New perfume listing: Gavin by Aura & Moniker.",
-      "category": "New Perfumes",
-      "author": "Aura & Moniker",
-      "published": 1794513314
-    },
-    {
-      "title": "Vivamor Parfums — Unyielding",
-      "link": "https://www.fragrantica.com/perfume/Vivamor-Parfums/Unyielding-147438.html",
-      "description": "New perfume listing: Unyielding by Vivamor Parfums.",
-      "category": "New Perfumes",
-      "author": "Vivamor Parfums",
       "published": 1794513314
     }
   ]
