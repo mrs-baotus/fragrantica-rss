@@ -1,7 +1,23 @@
 {
   "news": [
     {
-      "title": "DOLCE&GABBANA Velver Amber Sage Review",
+      "title": "Aryam WIDIAN – A Stroll Through the Night Desert",
+      "link": "https://www.fragrantica.com/news/Aryam-WIDIAN-A-Stroll-Through-the-Night-Desert-26611.html",
+      "description": "An oud fragrance in an airy, fruity setting.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Knezevic",
+      "published": 1794692117
+    },
+    {
+      "title": "Virtus and Virtessa: Riifs Perfumes Couple",
+      "link": "https://www.fragrantica.com/news/Virtus-and-Virtessa-Riifs-Perfumes-Couple-26610.html",
+      "description": "Male and female virtues, what are they?",
+      "category": "New Fragrances",
+      "author": "Sergey Borisov",
+      "published": 1794690542
+    },
+    {
+      "title": "DOLCE&GABBANA Velvet Amber Sage Review",
       "link": "https://www.fragrantica.com/news/DOLCE-GABBANA-Velver-Amber-Sage-Review-26609.html",
       "description": "Alongside the warmth of amber, spices take centre stage, revealing their diverse, fantastic facets.",
       "category": "Video",
@@ -783,25 +799,177 @@
       "category": "New Fragrances",
       "author": "Sergey Borisov",
       "published": 1793702702
-    },
-    {
-      "title": "ScentXplore 2026 Preview: What's on the Fragrantica Team's Radar?",
-      "link": "https://www.fragrantica.com/news/ScentXplore-2026-Preview-What-s-on-the-Fragrantica-Team-s-Radar-26511.html",
-      "description": "Brands and other fun things the NYC-bound team is excited to discover.",
-      "category": "Art Books Events",
-      "author": "Adam Forziati,Beth Butterfield,John Biebel",
-      "published": 1793691063
-    },
-    {
-      "title": "Snouf Exclusive: New Brands and Fragrances",
-      "link": "https://www.fragrantica.com/news/Snouf-Exclusive-New-Brands-and-Fragrances-26510.html",
-      "description": "Giulietta's report from the autumn edition of the event by Andrea Meloni and Mario Valanzese",
-      "category": "Art Books Events",
-      "author": "Giulietta Ptoyan",
-      "published": 1793665803
     }
   ],
   "perfumes": [
+    {
+      "title": "Fernandez Parfum — Valparaízo",
+      "link": "https://www.fragrantica.com/perfume/Fernandez-Parfum/Valparaizo-147830.html",
+      "description": "New perfume listing: Valparaízo by Fernandez Parfum.",
+      "category": "New Perfumes",
+      "author": "Fernandez Parfum",
+      "published": 1794695118
+    },
+    {
+      "title": "Fernandez Parfum — Rose Diver",
+      "link": "https://www.fragrantica.com/perfume/Fernandez-Parfum/Rose-Diver-147829.html",
+      "description": "New perfume listing: Rose Diver by Fernandez Parfum.",
+      "category": "New Perfumes",
+      "author": "Fernandez Parfum",
+      "published": 1794695118
+    },
+    {
+      "title": "Fernandez Parfum — Ilexis",
+      "link": "https://www.fragrantica.com/perfume/Fernandez-Parfum/Ilexis-147828.html",
+      "description": "New perfume listing: Ilexis by Fernandez Parfum.",
+      "category": "New Perfumes",
+      "author": "Fernandez Parfum",
+      "published": 1794695118
+    },
+    {
+      "title": "Aura & Moniker — Cyrus",
+      "link": "https://www.fragrantica.com/perfume/Aura-Moniker/Cyrus-147827.html",
+      "description": "New perfume listing: Cyrus by Aura & Moniker.",
+      "category": "New Perfumes",
+      "author": "Aura & Moniker",
+      "published": 1794695118
+    },
+    {
+      "title": "Royal Platinum — Le Rouge",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Le-Rouge-147722.html",
+      "description": "New perfume listing: Le Rouge by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794695118
+    },
+    {
+      "title": "Royal Platinum — Monsoon",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Monsoon-147721.html",
+      "description": "New perfume listing: Monsoon by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794695118
+    },
+    {
+      "title": "Royal Platinum — Frigya",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Frigya-147720.html",
+      "description": "New perfume listing: Frigya by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794695118
+    },
+    {
+      "title": "Royal Platinum — Cappadocia",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Cappadocia-147719.html",
+      "description": "New perfume listing: Cappadocia by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794695118
+    },
+    {
+      "title": "Royal Platinum — Bergama",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Bergama-147718.html",
+      "description": "New perfume listing: Bergama by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Z101",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Z101-147717.html",
+      "description": "New perfume listing: Z101 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y106",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y106-147716.html",
+      "description": "New perfume listing: Y106 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y105",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y105-147715.html",
+      "description": "New perfume listing: Y105 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y104",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y104-147714.html",
+      "description": "New perfume listing: Y104 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y102",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y102-147713.html",
+      "description": "New perfume listing: Y102 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y102",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y102-147712.html",
+      "description": "New perfume listing: Y102 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — Y101",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/Y101-147711.html",
+      "description": "New perfume listing: Y101 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — W230",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W230-147710.html",
+      "description": "New perfume listing: W230 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — W223",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W223-147709.html",
+      "description": "New perfume listing: W223 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — W222",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W222-147708.html",
+      "description": "New perfume listing: W222 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — W217",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W217-147707.html",
+      "description": "New perfume listing: W217 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
+    {
+      "title": "Mad Parfumeur — W214",
+      "link": "https://www.fragrantica.com/perfume/Mad-Parfumeur/W214-147706.html",
+      "description": "New perfume listing: W214 by Mad Parfumeur.",
+      "category": "New Perfumes",
+      "author": "Mad Parfumeur",
+      "published": 1794695118
+    },
     {
       "title": "G Parfums — Vampire",
       "link": "https://www.fragrantica.com/perfume/G-Parfums/Vampire-147826.html",
@@ -1433,174 +1601,6 @@
       "category": "New Perfumes",
       "author": "Brocard",
       "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Emploi",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Emploi-147747.html",
-      "description": "New perfume listing: Episode Emploi by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Polychrome",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Polychrome-147746.html",
-      "description": "New perfume listing: Episode Polychrome by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Moon Day",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Moon-Day-147745.html",
-      "description": "New perfume listing: Episode Moon Day by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Nothing More & More Nothing",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Nothing-More-More-Nothing-147744.html",
-      "description": "New perfume listing: Episode Nothing More & More Nothing by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Pink Substance",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Pink-Substance-147743.html",
-      "description": "New perfume listing: Episode Pink Substance by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Up and Down",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Up-and-Down-147742.html",
-      "description": "New perfume listing: Episode Up and Down by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Imposant",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Imposant-147741.html",
-      "description": "New perfume listing: Episode Imposant by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode Black Code",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Black-Code-147740.html",
-      "description": "New perfume listing: Episode Black Code by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Libido",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Libido-147739.html",
-      "description": "New perfume listing: Episode Libido by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Lounge",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Lounge-147738.html",
-      "description": "New perfume listing: Episode Lounge by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Monochrom",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Monochrom-147737.html",
-      "description": "New perfume listing: Episode Monochrom by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Ex-Promt",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Ex-Promt-147736.html",
-      "description": "New perfume listing: Episode Ex-Promt by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Medium",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Medium-147735.html",
-      "description": "New perfume listing: Episode Medium by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Love Parade",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Love-Parade-147734.html",
-      "description": "New perfume listing: Episode Love Parade by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Leskal",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Leskal-147733.html",
-      "description": "New perfume listing: Episode Leskal by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Brocard — Episode Why Not",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-Why-Not-147732.html",
-      "description": "New perfume listing: Episode Why Not by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794552461
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Idylle",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Idylle-147731.html",
-      "description": "New perfume listing: Idylle by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1794552461
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — La Séduction",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/La-Seduction-147730.html",
-      "description": "New perfume listing: La Séduction by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1794552461
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Privilège Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Privilege-Pour-Homme-147729.html",
-      "description": "New perfume listing: Privilège Pour Homme by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1794552461
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — L'Interdit Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/L-Interdit-Pour-Homme-147728.html",
-      "description": "New perfume listing: L'Interdit Pour Homme by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1794552461
-    },
-    {
-      "title": "Новая Заря (Novaya Zarya – The New Dawn) — Atlante Pour Homme",
-      "link": "https://www.fragrantica.com/perfume/Novaa-Zara-Novaya-Zarya-The-New-Dawn/Atlante-Pour-Homme-147727.html",
-      "description": "New perfume listing: Atlante Pour Homme by Новая Заря (Novaya Zarya – The New Dawn).",
-      "category": "New Perfumes",
-      "author": "Новая Заря (Novaya Zarya – The New Dawn)",
-      "published": 1794552461
     }
   ]
 }
