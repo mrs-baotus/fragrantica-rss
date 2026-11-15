@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "My November Perfume tray",
+      "link": "https://www.fragrantica.com/news/My-November-Perfume-tray-26614.html",
+      "description": "Having a perfume tray is a great way to shop one’s own collection.",
+      "category": "Columns",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1794721925
+    },
+    {
+      "title": "KAJAL V Kajal: A Review",
+      "link": "https://www.fragrantica.com/news/KAJAL-V-Kajal-A-Review-26613.html",
+      "description": "KAJAL V Kajal: autumnal light, autumnal leaves, autumnal fragrance.",
+      "category": "Fragrance Reviews",
+      "author": "Iulia Halatz",
+      "published": 1794710943
+    },
+    {
+      "title": "NEW NOTES Vanilla Biscotto: A Limited Edition for Breuninger",
+      "link": "https://www.fragrantica.com/news/NEW-NOTES-Vanilla-Biscotto-A-Limited-Edition-for-Breuninger-26612.html",
+      "description": "The gentle spice of cinnamon, the richness of butter, and the slightly toasted character of biscuits are the New Notes' vision for buttery cookies.",
+      "category": "Niche Perfumery",
+      "author": "Sandra Raičević Petrović",
+      "published": 1794697661
+    },
+    {
       "title": "Aryam WIDIAN – A Stroll Through the Night Desert",
       "link": "https://www.fragrantica.com/news/Aryam-WIDIAN-A-Stroll-Through-the-Night-Desert-26611.html",
       "description": "An oud fragrance in an airy, fruity setting.",
@@ -775,33 +799,73 @@
       "category": "New Fragrances",
       "author": "Beth Butterfield",
       "published": 1793724654
-    },
-    {
-      "title": "CARNER BARCELONA Choco Late New Limited Edition",
-      "link": "https://www.fragrantica.com/news/CARNER-BARCELONA-Choco-Late-New-Limited-Edition-26514.html",
-      "description": "The new limited edition is a gourmand lactonic fragrance meant to evoke the pleasures of the palate.",
-      "category": "Niche Perfumery",
-      "author": "Elena Vosnaki",
-      "published": 1793718650
-    },
-    {
-      "title": "Fresh Lily Po ONE: A Dazzlingly White Lily",
-      "link": "https://www.fragrantica.com/news/Fresh-Lily-Po-ONE-A-Dazzlingly-White-Lily-26513.html",
-      "description": "Lilium longiflorum in all its glory.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1793707563
-    },
-    {
-      "title": "One More Kiss Elixir Attar: A New Take on a Vintage Theme",
-      "link": "https://www.fragrantica.com/news/One-More-Kiss-Elixir-Attar-A-New-Take-on-a-Vintage-Theme-26512.html",
-      "description": "Elixir Attar reinvents Tabu by Dana with raspberry and oud oil",
-      "category": "New Fragrances",
-      "author": "Sergey Borisov",
-      "published": 1793702702
     }
   ],
   "perfumes": [
+    {
+      "title": "Hunayn — Rosa Ataraxis I.II: White Rosa",
+      "link": "https://www.fragrantica.com/perfume/Hunayn/Rosa-Ataraxis-I-II-White-Rosa-147837.html",
+      "description": "New perfume listing: Rosa Ataraxis I.II: White Rosa by Hunayn.",
+      "category": "New Perfumes",
+      "author": "Hunayn",
+      "published": 1794724475
+    },
+    {
+      "title": "Phronema Perfumes — Vulgar",
+      "link": "https://www.fragrantica.com/perfume/Phronema-Perfumes/Vulgar-147836.html",
+      "description": "New perfume listing: Vulgar by Phronema Perfumes.",
+      "category": "New Perfumes",
+      "author": "Phronema Perfumes",
+      "published": 1794724475
+    },
+    {
+      "title": "Phronema Perfumes — St. Nikiphoros the Leper",
+      "link": "https://www.fragrantica.com/perfume/Phronema-Perfumes/St-Nikiphoros-the-Leper-147835.html",
+      "description": "New perfume listing: St. Nikiphoros the Leper by Phronema Perfumes.",
+      "category": "New Perfumes",
+      "author": "Phronema Perfumes",
+      "published": 1794724475
+    },
+    {
+      "title": "NOMR — Sunlit Garden",
+      "link": "https://www.fragrantica.com/perfume/NOMR/Sunlit-Garden-147833.html",
+      "description": "New perfume listing: Sunlit Garden by NOMR.",
+      "category": "New Perfumes",
+      "author": "NOMR",
+      "published": 1794724475
+    },
+    {
+      "title": "NOMR — Pale Blue Dot",
+      "link": "https://www.fragrantica.com/perfume/NOMR/Pale-Blue-Dot-147832.html",
+      "description": "New perfume listing: Pale Blue Dot by NOMR.",
+      "category": "New Perfumes",
+      "author": "NOMR",
+      "published": 1794724475
+    },
+    {
+      "title": "NOMR — Luem Pua",
+      "link": "https://www.fragrantica.com/perfume/NOMR/Luem-Pua-147831.html",
+      "description": "New perfume listing: Luem Pua by NOMR.",
+      "category": "New Perfumes",
+      "author": "NOMR",
+      "published": 1794724475
+    },
+    {
+      "title": "Hunayn — Rosa Ataraxis",
+      "link": "https://www.fragrantica.com/perfume/Hunayn/Rosa-Ataraxis-147838.html",
+      "description": "New perfume listing: Rosa Ataraxis by Hunayn.",
+      "category": "New Perfumes",
+      "author": "Hunayn",
+      "published": 1794724475
+    },
+    {
+      "title": "Roger & Gallet — Verlande",
+      "link": "https://www.fragrantica.com/perfume/Roger-Gallet/Verlande-147834.html",
+      "description": "New perfume listing: Verlande by Roger & Gallet.",
+      "category": "New Perfumes",
+      "author": "Roger & Gallet",
+      "published": 1794724475
+    },
     {
       "title": "Fernandez Parfum — Valparaízo",
       "link": "https://www.fragrantica.com/perfume/Fernandez-Parfum/Valparaizo-147830.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Black Cherry by Duduar Milano.",
       "category": "New Perfumes",
       "author": "Duduar Milano",
-      "published": 1794599011
-    },
-    {
-      "title": "Duduar Milano — Addiction",
-      "link": "https://www.fragrantica.com/perfume/Duduar-Milano/Addiction-147755.html",
-      "description": "New perfume listing: Addiction by Duduar Milano.",
-      "category": "New Perfumes",
-      "author": "Duduar Milano",
-      "published": 1794599011
-    },
-    {
-      "title": "Avon — Black Suede Deep",
-      "link": "https://www.fragrantica.com/perfume/Avon/Black-Suede-Deep-147754.html",
-      "description": "New perfume listing: Black Suede Deep by Avon.",
-      "category": "New Perfumes",
-      "author": "Avon",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Don't Worry",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Don-t-Worry-147753.html",
-      "description": "New perfume listing: Don't Worry by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Red Element",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Red-Element-147752.html",
-      "description": "New perfume listing: Red Element by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Terra Incognita",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Terra-Incognita-147751.html",
-      "description": "New perfume listing: Terra Incognita by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Paphos",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Paphos-147750.html",
-      "description": "New perfume listing: Paphos by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Foxtrot",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Foxtrot-147749.html",
-      "description": "New perfume listing: Foxtrot by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
-      "published": 1794599011
-    },
-    {
-      "title": "Brocard — Episode",
-      "link": "https://www.fragrantica.com/perfume/Brocard/Episode-147748.html",
-      "description": "New perfume listing: Episode by Brocard.",
-      "category": "New Perfumes",
-      "author": "Brocard",
       "published": 1794599011
     }
   ]
