@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Perfumed Horoscope: November 16 - November 22",
+      "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-November-16-November-22-26618.html",
+      "description": "“Hey, where am I going, and why?”",
+      "category": "Fragrant Horoscope",
+      "author": "Zoran Cerar",
+      "published": 1794767883
+    },
+    {
+      "title": "Perfumer Yann Vasnier To Join Christine Nagel at Hermès",
+      "link": "https://www.fragrantica.com/news/Perfumer-Yann-Vasnier-To-Join-Christine-Nagel-at-Hermes-26617.html",
+      "description": "Big news from the illustrious French brand.",
+      "category": "Fragrance News",
+      "author": "Eddie Bulliqi",
+      "published": 1794757918
+    },
+    {
+      "title": "DUDUAR MILANO Introduces Addiction and Black Cherry",
+      "link": "https://www.fragrantica.com/news/DUDUAR-MILANO-Introduces-Addiction-and-Black-Cherry-26616.html",
+      "description": "Two new Extrait de Parfum creations bring salted caramel, cappuccino and dark cherries into the world of Duduar Milano.",
+      "category": "Niche Perfumery",
+      "author": "Sandra Raičević Petrović",
+      "published": 1794753603
+    },
+    {
+      "title": "Rosa Carnivora Dries van Noten: A Carnivorous Rose?",
+      "link": "https://www.fragrantica.com/news/Rosa-Carnivora-Dries-van-Noten-A-Carnivorous-Rose-26615.html",
+      "description": "Compared to the Raving Rose, this predatory rose is tired of chasing its prey.",
+      "category": "Fragrance Reviews",
+      "author": "Sergey Borisov",
+      "published": 1794738063
+    },
+    {
       "title": "My November Perfume tray",
       "link": "https://www.fragrantica.com/news/My-November-Perfume-tray-26614.html",
       "description": "Having a perfume tray is a great way to shop one’s own collection.",
@@ -767,41 +799,217 @@
       "category": "Niche Fragrances",
       "author": "Alena Lavault",
       "published": 1793763363
-    },
-    {
-      "title": "Creed Iris Debonair: Butter-Churned Iris For Mossy Cottage Core",
-      "link": "https://www.fragrantica.com/news/Creed-Iris-Debonair-Butter-Churned-Iris-For-Mossy-Cottage-Core-26518.html",
-      "description": "Billed as “fougère floral”",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1793755803
-    },
-    {
-      "title": "Fine Scents Moi Non Plus: A New Vanilla Fragrance by Dominique Ropion",
-      "link": "https://www.fragrantica.com/news/Fine-Scents-Moi-Non-Plus-A-New-Vanilla-Fragrance-by-Dominique-Ropion-26517.html",
-      "description": "The British brand's fifth fragrance explores the fine line between desire and restraint.",
-      "category": "Fragrance News",
-      "author": "Igor Masyukov",
-      "published": 1793745003
-    },
-    {
-      "title": "A Night of AURA: Highlights from The Italian Niche Convention",
-      "link": "https://www.fragrantica.com/news/A-Night-of-AURA-Highlights-from-The-Italian-Niche-Convention-26516.html",
-      "description": "In partnership with Esxence, the Italian Trade Association hosts a convention in the skies to show off the country’s modern contributions to smart, sleek niche",
-      "category": "Art Books Events",
-      "author": "Patric Rhys",
-      "published": 1793734205
-    },
-    {
-      "title": "PISTACHIO MATCHA LATTE: New From Elysian",
-      "link": "https://www.fragrantica.com/news/PISTACHIO-MATCHA-LATTE-New-From-Elysian-26515.html",
-      "description": "\"A warm cup enjoyed in perfect silence, while the morning light slowly fills the room. Grounding, peaceful, and comforting.\"",
-      "category": "New Fragrances",
-      "author": "Beth Butterfield",
-      "published": 1793724654
     }
   ],
   "perfumes": [
+    {
+      "title": "Found — Bitter Garden",
+      "link": "https://www.fragrantica.com/perfume/Found/Bitter-Garden-147853.html",
+      "description": "New perfume listing: Bitter Garden by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Green Reserve",
+      "link": "https://www.fragrantica.com/perfume/Found/Green-Reserve-147852.html",
+      "description": "New perfume listing: Green Reserve by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Iris Suede",
+      "link": "https://www.fragrantica.com/perfume/Found/Iris-Suede-147851.html",
+      "description": "New perfume listing: Iris Suede by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — White Ember",
+      "link": "https://www.fragrantica.com/perfume/Found/White-Ember-147850.html",
+      "description": "New perfume listing: White Ember by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Silky Petals",
+      "link": "https://www.fragrantica.com/perfume/Found/Silky-Petals-147849.html",
+      "description": "New perfume listing: Silky Petals by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Velvet Moss",
+      "link": "https://www.fragrantica.com/perfume/Found/Velvet-Moss-147848.html",
+      "description": "New perfume listing: Velvet Moss by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Sacred Bloom",
+      "link": "https://www.fragrantica.com/perfume/Found/Sacred-Bloom-147847.html",
+      "description": "New perfume listing: Sacred Bloom by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Oud Exotic",
+      "link": "https://www.fragrantica.com/perfume/Found/Oud-Exotic-147846.html",
+      "description": "New perfume listing: Oud Exotic by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Patchouli Noir",
+      "link": "https://www.fragrantica.com/perfume/Found/Patchouli-Noir-147845.html",
+      "description": "New perfume listing: Patchouli Noir by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Found — Cologne Prive",
+      "link": "https://www.fragrantica.com/perfume/Found/Cologne-Prive-147844.html",
+      "description": "New perfume listing: Cologne Prive by Found.",
+      "category": "New Perfumes",
+      "author": "Found",
+      "published": 1794768719
+    },
+    {
+      "title": "Millionaire — Casablanca Cedar",
+      "link": "https://www.fragrantica.com/perfume/Millionaire/Casablanca-Cedar-147843.html",
+      "description": "New perfume listing: Casablanca Cedar by Millionaire.",
+      "category": "New Perfumes",
+      "author": "Millionaire",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Mr Royal",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Mr-Royal-147864.html",
+      "description": "New perfume listing: Mr Royal by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Blue Stone",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Blue-Stone-147863.html",
+      "description": "New perfume listing: Blue Stone by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Patchouli Noir",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Patchouli-Noir-147862.html",
+      "description": "New perfume listing: Patchouli Noir by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Black Tonka",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Black-Tonka-147861.html",
+      "description": "New perfume listing: Black Tonka by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Venezia",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Venezia-147860.html",
+      "description": "New perfume listing: Venezia by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Ms Royal",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Ms-Royal-147859.html",
+      "description": "New perfume listing: Ms Royal by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — York",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/York-147858.html",
+      "description": "New perfume listing: York by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Saint Pierre",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Saint-Pierre-147857.html",
+      "description": "New perfume listing: Saint Pierre by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Royal Oud",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Royal-Oud-147856.html",
+      "description": "New perfume listing: Royal Oud by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Montenegro",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Montenegro-147855.html",
+      "description": "New perfume listing: Montenegro by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Signature",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Signature-147854.html",
+      "description": "New perfume listing: Signature by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — L'Amour",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/L-Amour-147842.html",
+      "description": "New perfume listing: L'Amour by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Alegria",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Alegria-147841.html",
+      "description": "New perfume listing: Alegria by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Anatolian",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Anatolian-147840.html",
+      "description": "New perfume listing: Anatolian by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
+    {
+      "title": "Royal Platinum — Troy",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Troy-147839.html",
+      "description": "New perfume listing: Troy by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794768719
+    },
     {
       "title": "Hunayn — Rosa Ataraxis I.II: White Rosa",
       "link": "https://www.fragrantica.com/perfume/Hunayn/Rosa-Ataraxis-I-II-White-Rosa-147837.html",
@@ -1393,214 +1601,6 @@
       "category": "New Perfumes",
       "author": "FELISA",
       "published": 1794637496
-    },
-    {
-      "title": "Rasasi — Daarej Aurelia",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Daarej-Aurelia-147781.html",
-      "description": "New perfume listing: Daarej Aurelia by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1794637496
-    },
-    {
-      "title": "Rasasi — Daarej Verve",
-      "link": "https://www.fragrantica.com/perfume/Rasasi/Daarej-Verve-147780.html",
-      "description": "New perfume listing: Daarej Verve by Rasasi.",
-      "category": "New Perfumes",
-      "author": "Rasasi",
-      "published": 1794637496
-    },
-    {
-      "title": "RĀLŸSS — Chama",
-      "link": "https://www.fragrantica.com/perfume/RALYSS/Chama-147775.html",
-      "description": "New perfume listing: Chama by RĀLŸSS.",
-      "category": "New Perfumes",
-      "author": "RĀLŸSS",
-      "published": 1794637496
-    },
-    {
-      "title": "Parisis — Voyage",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Voyage-147779.html",
-      "description": "New perfume listing: Voyage by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794637496
-    },
-    {
-      "title": "Parisis — In The Air",
-      "link": "https://www.fragrantica.com/perfume/Parisis/In-The-Air-147778.html",
-      "description": "New perfume listing: In The Air by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794637496
-    },
-    {
-      "title": "Parisis — Freedom",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Freedom-147777.html",
-      "description": "New perfume listing: Freedom by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794637496
-    },
-    {
-      "title": "Parisis — Dreams",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Dreams-147776.html",
-      "description": "New perfume listing: Dreams by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794637496
-    },
-    {
-      "title": "Sunnamusk — Escape",
-      "link": "https://www.fragrantica.com/perfume/Sunnamusk/Escape-147774.html",
-      "description": "New perfume listing: Escape by Sunnamusk.",
-      "category": "New Perfumes",
-      "author": "Sunnamusk",
-      "published": 1794599011
-    },
-    {
-      "title": "Sunnamusk — Indulge",
-      "link": "https://www.fragrantica.com/perfume/Sunnamusk/Indulge-147773.html",
-      "description": "New perfume listing: Indulge by Sunnamusk.",
-      "category": "New Perfumes",
-      "author": "Sunnamusk",
-      "published": 1794599011
-    },
-    {
-      "title": "Filippo Sorcinelli — MOVT!",
-      "link": "https://www.fragrantica.com/perfume/Filippo-Sorcinelli/MOVT-147772.html",
-      "description": "New perfume listing: MOVT! by Filippo Sorcinelli.",
-      "category": "New Perfumes",
-      "author": "Filippo Sorcinelli",
-      "published": 1794599011
-    },
-    {
-      "title": "House of Cosmo — Astraea",
-      "link": "https://www.fragrantica.com/perfume/House-of-Cosmo/Astraea-147771.html",
-      "description": "New perfume listing: Astraea by House of Cosmo.",
-      "category": "New Perfumes",
-      "author": "House of Cosmo",
-      "published": 1794599011
-    },
-    {
-      "title": "House of Cosmo — Veil Nebula",
-      "link": "https://www.fragrantica.com/perfume/House-of-Cosmo/Veil-Nebula-147770.html",
-      "description": "New perfume listing: Veil Nebula by House of Cosmo.",
-      "category": "New Perfumes",
-      "author": "House of Cosmo",
-      "published": 1794599011
-    },
-    {
-      "title": "House of Cosmo — Neøn Røse",
-      "link": "https://www.fragrantica.com/perfume/House-of-Cosmo/Neoen-Roese-147769.html",
-      "description": "New perfume listing: Neøn Røse by House of Cosmo.",
-      "category": "New Perfumes",
-      "author": "House of Cosmo",
-      "published": 1794599011
-    },
-    {
-      "title": "House of Cosmo — Where We Meet Again",
-      "link": "https://www.fragrantica.com/perfume/House-of-Cosmo/Where-We-Meet-Again-147768.html",
-      "description": "New perfume listing: Where We Meet Again by House of Cosmo.",
-      "category": "New Perfumes",
-      "author": "House of Cosmo",
-      "published": 1794599011
-    },
-    {
-      "title": "Lush — Vanillary Oud",
-      "link": "https://www.fragrantica.com/perfume/Lush/Vanillary-Oud-147767.html",
-      "description": "New perfume listing: Vanillary Oud by Lush.",
-      "category": "New Perfumes",
-      "author": "Lush",
-      "published": 1794599011
-    },
-    {
-      "title": "Unlabeled — Musk Madness",
-      "link": "https://www.fragrantica.com/perfume/Unlabeled/Musk-Madness-147766.html",
-      "description": "New perfume listing: Musk Madness by Unlabeled.",
-      "category": "New Perfumes",
-      "author": "Unlabeled",
-      "published": 1794599011
-    },
-    {
-      "title": "Unlabeled — Santal Scandal",
-      "link": "https://www.fragrantica.com/perfume/Unlabeled/Santal-Scandal-147765.html",
-      "description": "New perfume listing: Santal Scandal by Unlabeled.",
-      "category": "New Perfumes",
-      "author": "Unlabeled",
-      "published": 1794599011
-    },
-    {
-      "title": "Unlabeled — Honey Overdose",
-      "link": "https://www.fragrantica.com/perfume/Unlabeled/Honey-Overdose-147764.html",
-      "description": "New perfume listing: Honey Overdose by Unlabeled.",
-      "category": "New Perfumes",
-      "author": "Unlabeled",
-      "published": 1794599011
-    },
-    {
-      "title": "Bibbi Paris — Deep Lotus Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Bibbi-Paris/Deep-Lotus-Extrait-de-Parfum-147763.html",
-      "description": "New perfume listing: Deep Lotus Extrait de Parfum by Bibbi Paris.",
-      "category": "New Perfumes",
-      "author": "Bibbi Paris",
-      "published": 1794599011
-    },
-    {
-      "title": "Bibbi Paris — Ghost of Tom Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Bibbi-Paris/Ghost-of-Tom-Extrait-de-Parfum-147762.html",
-      "description": "New perfume listing: Ghost of Tom Extrait de Parfum by Bibbi Paris.",
-      "category": "New Perfumes",
-      "author": "Bibbi Paris",
-      "published": 1794599011
-    },
-    {
-      "title": "Bibbi Paris — Radio Child Extrait de Parfum",
-      "link": "https://www.fragrantica.com/perfume/Bibbi-Paris/Radio-Child-Extrait-de-Parfum-147761.html",
-      "description": "New perfume listing: Radio Child Extrait de Parfum by Bibbi Paris.",
-      "category": "New Perfumes",
-      "author": "Bibbi Paris",
-      "published": 1794599011
-    },
-    {
-      "title": "Yves Saint Laurent — Opium Eau de Toilette (2026)",
-      "link": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Opium-Eau-de-Toilette-2026-147760.html",
-      "description": "New perfume listing: Opium Eau de Toilette (2026) by Yves Saint Laurent.",
-      "category": "New Perfumes",
-      "author": "Yves Saint Laurent",
-      "published": 1794599011
-    },
-    {
-      "title": "OUAI — Morocco",
-      "link": "https://www.fragrantica.com/perfume/OUAI/Morocco-147759.html",
-      "description": "New perfume listing: Morocco by OUAI.",
-      "category": "New Perfumes",
-      "author": "OUAI",
-      "published": 1794599011
-    },
-    {
-      "title": "Memo Paris — Odéon Sunset",
-      "link": "https://www.fragrantica.com/perfume/Memo-Paris/Odeon-Sunset-147758.html",
-      "description": "New perfume listing: Odéon Sunset by Memo Paris.",
-      "category": "New Perfumes",
-      "author": "Memo Paris",
-      "published": 1794599011
-    },
-    {
-      "title": "Gritti — Blue Torino 2026",
-      "link": "https://www.fragrantica.com/perfume/Gritti/Blue-Torino-2026-147757.html",
-      "description": "New perfume listing: Blue Torino 2026 by Gritti.",
-      "category": "New Perfumes",
-      "author": "Gritti",
-      "published": 1794599011
-    },
-    {
-      "title": "Duduar Milano — Black Cherry",
-      "link": "https://www.fragrantica.com/perfume/Duduar-Milano/Black-Cherry-147756.html",
-      "description": "New perfume listing: Black Cherry by Duduar Milano.",
-      "category": "New Perfumes",
-      "author": "Duduar Milano",
-      "published": 1794599011
     }
   ]
 }
