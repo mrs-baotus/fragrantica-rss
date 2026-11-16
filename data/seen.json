@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "Amouage Suede Ibri: A Scent That Keeps Its Distance",
+      "link": "https://www.fragrantica.com/news/Amouage-Suede-Ibri-A-Scent-That-Keeps-Its-Distance-26621.html",
+      "description": "An attar heir to Bandit?",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1794801964
+    },
+    {
+      "title": "The Raspberry Heart of Omahata Love by Montale",
+      "link": "https://www.fragrantica.com/news/The-Raspberry-Heart-of-Omahata-Love-by-Montale-26620.html",
+      "description": "Montale is making some fine fragrances these days.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1794792483
+    },
+    {
+      "title": "Yūgen by AVII Perfumes: A Giveaway for Our Readers",
+      "link": "https://www.fragrantica.com/news/Yugen-by-AVII-Perfumes-A-Giveaway-for-Our-Readers-26619.html",
+      "description": "A giveaway to win the sparkling Yūgen fragrance by AVII.",
+      "category": "Niche Perfumes",
+      "author": "Alena Lavault",
+      "published": 1794781343
+    },
+    {
       "title": "Perfumed Horoscope: November 16 - November 22",
       "link": "https://www.fragrantica.com/news/Perfumed-Horoscope-November-16-November-22-26618.html",
       "description": "“Hey, where am I going, and why?”",
@@ -775,33 +799,137 @@
       "category": "New Fragrances",
       "author": "Sergey Borisov",
       "published": 1793800802
-    },
-    {
-      "title": "Need To Know New Line: S.S.K. Labs - A Family, A Kit, And A Key",
-      "link": "https://www.fragrantica.com/news/Need-To-Know-New-Line-S-S-K-Labs-A-Family-A-Kit-And-A-Key-26521.html",
-      "description": "New York based S.S.K. (Labs) is only one year old, but doing things completely differently and winning awards already...",
-      "category": "New Fragrances",
-      "author": "Patric Rhys",
-      "published": 1793784123
-    },
-    {
-      "title": "Mon Souvenir Précieux L'Atelier Mobius 莫比乌斯: Greenery, Citrus, and “Dragon Brain Incense”",
-      "link": "https://www.fragrantica.com/news/Mon-Souvenir-Precieux-L-Atelier-Mobius-mo-bi-wu-si-Greenery-Citrus-and-Dragon-Brain-Incense-26520.html",
-      "description": "Elegant, life-affirming freshness.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1793774703
-    },
-    {
-      "title": "Mocha Absolu by Parfums Dusita",
-      "link": "https://www.fragrantica.com/news/Mocha-Absolu-by-Parfums-Dusita-26519.html",
-      "description": "A true delight!",
-      "category": "Niche Fragrances",
-      "author": "Alena Lavault",
-      "published": 1793763363
     }
   ],
   "perfumes": [
+    {
+      "title": "Novellista — Spiced Blossom Elixir",
+      "link": "https://www.fragrantica.com/perfume/Novellista/Spiced-Blossom-Elixir-147877.html",
+      "description": "New perfume listing: Spiced Blossom Elixir by Novellista.",
+      "category": "New Perfumes",
+      "author": "Novellista",
+      "published": 1794810698
+    },
+    {
+      "title": "Novellista — Leather Privilege Elixir",
+      "link": "https://www.fragrantica.com/perfume/Novellista/Leather-Privilege-Elixir-147876.html",
+      "description": "New perfume listing: Leather Privilege Elixir by Novellista.",
+      "category": "New Perfumes",
+      "author": "Novellista",
+      "published": 1794810698
+    },
+    {
+      "title": "Novellista — Vanilla Club Elixir",
+      "link": "https://www.fragrantica.com/perfume/Novellista/Vanilla-Club-Elixir-147875.html",
+      "description": "New perfume listing: Vanilla Club Elixir by Novellista.",
+      "category": "New Perfumes",
+      "author": "Novellista",
+      "published": 1794810698
+    },
+    {
+      "title": "Novellista — Rouge Privé Elixir",
+      "link": "https://www.fragrantica.com/perfume/Novellista/Rouge-Prive-Elixir-147874.html",
+      "description": "New perfume listing: Rouge Privé Elixir by Novellista.",
+      "category": "New Perfumes",
+      "author": "Novellista",
+      "published": 1794810698
+    },
+    {
+      "title": "Novellista — Unique Wood Elixir",
+      "link": "https://www.fragrantica.com/perfume/Novellista/Unique-Wood-Elixir-147873.html",
+      "description": "New perfume listing: Unique Wood Elixir by Novellista.",
+      "category": "New Perfumes",
+      "author": "Novellista",
+      "published": 1794810698
+    },
+    {
+      "title": "Eze Perfumes — Coorg Noir",
+      "link": "https://www.fragrantica.com/perfume/Eze-Perfumes/Coorg-Noir-147871.html",
+      "description": "New perfume listing: Coorg Noir by Eze Perfumes.",
+      "category": "New Perfumes",
+      "author": "Eze Perfumes",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 81",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-81-147870.html",
+      "description": "New perfume listing: UDV Prestige 81 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 26",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-26-147869.html",
+      "description": "New perfume listing: UDV Prestige 26 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 14",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-14-147868.html",
+      "description": "New perfume listing: UDV Prestige 14 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 12",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-12-147867.html",
+      "description": "New perfume listing: UDV Prestige 12 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 07",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-07-147866.html",
+      "description": "New perfume listing: UDV Prestige 07 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Ulric de Varens — UDV Prestige 03",
+      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-03-147865.html",
+      "description": "New perfume listing: UDV Prestige 03 by Ulric de Varens.",
+      "category": "New Perfumes",
+      "author": "Ulric de Varens",
+      "published": 1794810698
+    },
+    {
+      "title": "Alchemy Bath — Astrea Aether",
+      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Astrea-Aether-147878.html",
+      "description": "New perfume listing: Astrea Aether by Alchemy Bath.",
+      "category": "New Perfumes",
+      "author": "Alchemy Bath",
+      "published": 1794810698
+    },
+    {
+      "title": "Junaid Jamshed — All-Rounder",
+      "link": "https://www.fragrantica.com/perfume/Junaid-Jamshed/All-Rounder-147872.html",
+      "description": "New perfume listing: All-Rounder by Junaid Jamshed.",
+      "category": "New Perfumes",
+      "author": "Junaid Jamshed",
+      "published": 1794810698
+    },
+    {
+      "title": "Parisis — Voyage",
+      "link": "https://www.fragrantica.com/perfume/Parisis/Voyage-147779.html",
+      "description": "New perfume listing: Voyage by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794810698
+    },
+    {
+      "title": "Parisis — In The Air",
+      "link": "https://www.fragrantica.com/perfume/Parisis/In-The-Air-147778.html",
+      "description": "New perfume listing: In The Air by Parisis.",
+      "category": "New Perfumes",
+      "author": "Parisis",
+      "published": 1794810698
+    },
     {
       "title": "Found — Bitter Garden",
       "link": "https://www.fragrantica.com/perfume/Found/Bitter-Garden-147853.html",
@@ -1473,134 +1601,6 @@
       "category": "New Perfumes",
       "author": "Zara",
       "published": 1794679400
-    },
-    {
-      "title": "Zara — Caramel Collection 03 Cosmic, Fresh, Crystaline",
-      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-03-Cosmic-Fresh-Crystaline-147788.html",
-      "description": "New perfume listing: Caramel Collection 03 Cosmic, Fresh, Crystaline by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1794679400
-    },
-    {
-      "title": "Zara — Caramel Collection 02: Bold, Flamed, Addictive",
-      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-02-Bold-Flamed-Addictive-147787.html",
-      "description": "New perfume listing: Caramel Collection 02: Bold, Flamed, Addictive by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1794679400
-    },
-    {
-      "title": "Zara — Caramel Collection 01 Dark Rich Sensual",
-      "link": "https://www.fragrantica.com/perfume/Zara/Caramel-Collection-01-Dark-Rich-Sensual-147786.html",
-      "description": "New perfume listing: Caramel Collection 01 Dark Rich Sensual by Zara.",
-      "category": "New Perfumes",
-      "author": "Zara",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Red Solar",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Red-Solar-147818.html",
-      "description": "New perfume listing: Red Solar by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Oud 45",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Oud-45-147817.html",
-      "description": "New perfume listing: Oud 45 by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Mustang",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Mustang-147816.html",
-      "description": "New perfume listing: Mustang by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Invento",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Invento-147815.html",
-      "description": "New perfume listing: Invento by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Impérial",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Imperial-147814.html",
-      "description": "New perfume listing: Impérial by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "Parisis — Adventure",
-      "link": "https://www.fragrantica.com/perfume/Parisis/Adventure-147813.html",
-      "description": "New perfume listing: Adventure by Parisis.",
-      "category": "New Perfumes",
-      "author": "Parisis",
-      "published": 1794679400
-    },
-    {
-      "title": "We Pink — Ruby",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/Ruby-147811.html",
-      "description": "New perfume listing: Ruby by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1794679400
-    },
-    {
-      "title": "We Pink — VF Choices",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Choices-147798.html",
-      "description": "New perfume listing: VF Choices by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1794679400
-    },
-    {
-      "title": "We Pink — VF Aqua",
-      "link": "https://www.fragrantica.com/perfume/We-Pink/VF-Aqua-147796.html",
-      "description": "New perfume listing: VF Aqua by We Pink.",
-      "category": "New Perfumes",
-      "author": "We Pink",
-      "published": 1794679400
-    },
-    {
-      "title": "Marc Gebauer — Aloha",
-      "link": "https://www.fragrantica.com/perfume/Marc-Gebauer/Aloha-147785.html",
-      "description": "New perfume listing: Aloha by Marc Gebauer.",
-      "category": "New Perfumes",
-      "author": "Marc Gebauer",
-      "published": 1794637496
-    },
-    {
-      "title": "FELISA — Opus Brasilis Amazônia",
-      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Amazonia-147784.html",
-      "description": "New perfume listing: Opus Brasilis Amazônia by FELISA.",
-      "category": "New Perfumes",
-      "author": "FELISA",
-      "published": 1794637496
-    },
-    {
-      "title": "FELISA — Opus Brasilis Sertão",
-      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Sertao-147783.html",
-      "description": "New perfume listing: Opus Brasilis Sertão by FELISA.",
-      "category": "New Perfumes",
-      "author": "FELISA",
-      "published": 1794637496
-    },
-    {
-      "title": "FELISA — Opus Brasilis Rio",
-      "link": "https://www.fragrantica.com/perfume/FELISA/Opus-Brasilis-Rio-147782.html",
-      "description": "New perfume listing: Opus Brasilis Rio by FELISA.",
-      "category": "New Perfumes",
-      "author": "FELISA",
-      "published": 1794637496
     }
   ]
 }
