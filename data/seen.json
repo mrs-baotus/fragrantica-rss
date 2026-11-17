@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Royal Platinum: A Turkish Perfume Brand",
+      "link": "https://www.fragrantica.com/news/Royal-Platinum-A-Turkish-Perfume-Brand-26636.html",
+      "description": "Scents inspired by nature and diverse corners of the world.",
+      "category": "Fragrance News",
+      "author": "Sena Toprak",
+      "published": 1794943804
+    },
+    {
+      "title": "Mocha Absolu by Parfums Dusita: The Feeling of Coming Home",
+      "link": "https://www.fragrantica.com/news/Mocha-Absolu-by-Parfums-Dusita-The-Feeling-of-Coming-Home-26635.html",
+      "description": "A fragile miracle, a little magic made by human hands.",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1794935732
+    },
+    {
+      "title": "Granado's Vintage Extrato Line: Boemia, Époque Tropical, and Rosa Sublime",
+      "link": "https://www.fragrantica.com/news/Granado-s-Vintage-Extrato-Line-Boemia-Epoque-Tropical-and-Rosa-Sublime-26634.html",
+      "description": "A personal and subjective review of Granado's new Extraits de Parfum.",
+      "category": "Fragrance Reviews",
+      "author": "Jernê Knowles",
+      "published": 1794933004
+    },
+    {
+      "title": "Filigrane: The New Fragrance by Notes de Bas de Paje × Tant d’Avenir",
+      "link": "https://www.fragrantica.com/news/Filigrane-The-New-Fragrance-by-Notes-de-Bas-de-Paje-Tant-d-Avenir-26633.html",
+      "description": "A new Extrait de Parfum by Notes de Bas de Paje and a jewel by Quentin Pontonnier.",
+      "category": "Fragrance News",
+      "author": "Rouu Abd El-Latif",
+      "published": 1794925624
+    },
+    {
+      "title": "Cépages: From the Soil to Scent",
+      "link": "https://www.fragrantica.com/news/Cepages-From-the-Soil-to-Scent-26632.html",
+      "description": "A closer look at a young house with a singular spirit.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1794911403
+    },
+    {
       "title": "Beautiful Pirouette",
       "link": "https://www.fragrantica.com/news/Beautiful-Pirouette-26631.html",
       "description": "What do Pirouette, Crimea, Venus and Night Aroma have in common?",
@@ -57,7 +97,7 @@
       "published": 1794841953
     },
     {
-      "title": "Ethics or Bullying in Perfumery? ORIENTAL Perfumes",
+      "title": "ORIENTAL Perfumes: Ethics or Bullying in Perfumery?",
       "link": "https://www.fragrantica.com/news/Ethics-or-Bullying-in-Perfumery-ORIENTAL-Perfumes-26624.html",
       "description": "When did it all start, how is it going, and what should we do about it?",
       "category": "Columns",
@@ -759,49 +799,193 @@
       "category": "New Fragrances",
       "author": "Bella van der Weerd",
       "published": 1793943003
-    },
-    {
-      "title": "Tanger: The New Fragrance by Astier de Villatte",
-      "link": "https://www.fragrantica.com/news/Tanger-The-New-Fragrance-by-Astier-de-Villatte-26536.html",
-      "description": "The blooming tangerine groves of Morocco.",
-      "category": "Fragrance News",
-      "author": "Sergey Borisov",
-      "published": 1793931662
-    },
-    {
-      "title": "Tom Ford Tobacco Chocolat: Boozy Bonbon, Mouldy Raisins",
-      "link": "https://www.fragrantica.com/news/Tom-Ford-Tobacco-Chocolat-Boozy-Bonbon-Mouldy-Raisins-26535.html",
-      "description": "Frapin plus fur.",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1793920623
-    },
-    {
-      "title": "With Akua’ba, Scent of Africa Explores New Creative Horizons",
-      "link": "https://www.fragrantica.com/news/With-Akua-ba-Scent-of-Africa-Explores-New-Creative-Horizons-26534.html",
-      "description": "At the end of the year, Scent of Africa will unveil a new, more \"niche\"-oriented collection.",
-      "category": "Fragrance Reviews",
-      "author": "Sophie Normand",
-      "published": 1793909824
-    },
-    {
-      "title": "WILL Comporta Perfumes: The scent of the future?",
-      "link": "https://www.fragrantica.com/news/WILL-Comporta-Perfumes-The-scent-of-the-future-26533.html",
-      "description": "\"A vertical fragrance that captures the imagination from the first nanosecond inhale.\"",
-      "category": "Fragrance Reviews",
-      "author": "Sergey Borisov",
-      "published": 1793897283
-    },
-    {
-      "title": "Hooga: Hygge, Asian Style",
-      "link": "https://www.fragrantica.com/news/Hooga-Hygge-Asian-Style-26532.html",
-      "description": "Comfort and simple pleasures from Singapore.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Prokofeva",
-      "published": 1793887802
     }
   ],
   "perfumes": [
+    {
+      "title": "Maria Candida Gentile — Viola",
+      "link": "https://www.fragrantica.com/perfume/Maria-Candida-Gentile/Viola-147992.html",
+      "description": "New perfume listing: Viola by Maria Candida Gentile.",
+      "category": "New Perfumes",
+      "author": "Maria Candida Gentile",
+      "published": 1794948983
+    },
+    {
+      "title": "Avatim — Açucena Vert",
+      "link": "https://www.fragrantica.com/perfume/Avatim/Acucena-Vert-147989.html",
+      "description": "New perfume listing: Açucena Vert by Avatim.",
+      "category": "New Perfumes",
+      "author": "Avatim",
+      "published": 1794948983
+    },
+    {
+      "title": "Lion of Porches — Elegant Sea",
+      "link": "https://www.fragrantica.com/perfume/Lion-of-Porches/Elegant-Sea-147988.html",
+      "description": "New perfume listing: Elegant Sea by Lion of Porches.",
+      "category": "New Perfumes",
+      "author": "Lion of Porches",
+      "published": 1794948983
+    },
+    {
+      "title": "Lion of Porches — Citrus Splash",
+      "link": "https://www.fragrantica.com/perfume/Lion-of-Porches/Citrus-Splash-147987.html",
+      "description": "New perfume listing: Citrus Splash by Lion of Porches.",
+      "category": "New Perfumes",
+      "author": "Lion of Porches",
+      "published": 1794948983
+    },
+    {
+      "title": "Lion of Porches — Italian Oud",
+      "link": "https://www.fragrantica.com/perfume/Lion-of-Porches/Italian-Oud-147986.html",
+      "description": "New perfume listing: Italian Oud by Lion of Porches.",
+      "category": "New Perfumes",
+      "author": "Lion of Porches",
+      "published": 1794948983
+    },
+    {
+      "title": "Cépages Parfums — Eau Lithique",
+      "link": "https://www.fragrantica.com/perfume/Cepages-Parfums/Eau-Lithique-147984.html",
+      "description": "New perfume listing: Eau Lithique by Cépages Parfums.",
+      "category": "New Perfumes",
+      "author": "Cépages Parfums",
+      "published": 1794948983
+    },
+    {
+      "title": "Kinana — Baklava",
+      "link": "https://www.fragrantica.com/perfume/Kinana/Baklava-147983.html",
+      "description": "New perfume listing: Baklava by Kinana.",
+      "category": "New Perfumes",
+      "author": "Kinana",
+      "published": 1794948983
+    },
+    {
+      "title": "Bujairami — Rizz",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rizz-147982.html",
+      "description": "New perfume listing: Rizz by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1794948983
+    },
+    {
+      "title": "Assaf — Challenge Desert",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Challenge-Desert-147981.html",
+      "description": "New perfume listing: Challenge Desert by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1794948983
+    },
+    {
+      "title": "Assaf — Risk X",
+      "link": "https://www.fragrantica.com/perfume/Assaf/Risk-X-147980.html",
+      "description": "New perfume listing: Risk X by Assaf.",
+      "category": "New Perfumes",
+      "author": "Assaf",
+      "published": 1794948983
+    },
+    {
+      "title": "Atelier Cologne — Oolang Clair-Obscur",
+      "link": "https://www.fragrantica.com/perfume/Atelier-Cologne/Oolang-Clair-Obscur-147979.html",
+      "description": "New perfume listing: Oolang Clair-Obscur by Atelier Cologne.",
+      "category": "New Perfumes",
+      "author": "Atelier Cologne",
+      "published": 1794948983
+    },
+    {
+      "title": "Bujairami — Ocean Eyes",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Ocean-Eyes-147975.html",
+      "description": "New perfume listing: Ocean Eyes by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1794948983
+    },
+    {
+      "title": "Parfums d'Elmar — Aurea",
+      "link": "https://www.fragrantica.com/perfume/Parfums-d-Elmar/Aurea-147974.html",
+      "description": "New perfume listing: Aurea by Parfums d'Elmar.",
+      "category": "New Perfumes",
+      "author": "Parfums d'Elmar",
+      "published": 1794948983
+    },
+    {
+      "title": "MONOM — Riad",
+      "link": "https://www.fragrantica.com/perfume/MONOM/Riad-147993.html",
+      "description": "New perfume listing: Riad by MONOM.",
+      "category": "New Perfumes",
+      "author": "MONOM",
+      "published": 1794948983
+    },
+    {
+      "title": "Henry Jacques — Peluche",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Peluche-147991.html",
+      "description": "New perfume listing: Peluche by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1794948983
+    },
+    {
+      "title": "Henry Jacques — Salvatore",
+      "link": "https://www.fragrantica.com/perfume/Henry-Jacques/Salvatore-147990.html",
+      "description": "New perfume listing: Salvatore by Henry Jacques.",
+      "category": "New Perfumes",
+      "author": "Henry Jacques",
+      "published": 1794948983
+    },
+    {
+      "title": "Rasasi — Hawas Born in Dubai",
+      "link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Born-in-Dubai-147985.html",
+      "description": "New perfume listing: Hawas Born in Dubai by Rasasi.",
+      "category": "New Perfumes",
+      "author": "Rasasi",
+      "published": 1794948983
+    },
+    {
+      "title": "Maryaj — Grey Stone",
+      "link": "https://www.fragrantica.com/perfume/Maryaj/Grey-Stone-147978.html",
+      "description": "New perfume listing: Grey Stone by Maryaj.",
+      "category": "New Perfumes",
+      "author": "Maryaj",
+      "published": 1794948983
+    },
+    {
+      "title": "Pearfat Parfum — Desert Bone",
+      "link": "https://www.fragrantica.com/perfume/Pearfat-Parfum/Desert-Bone-147977.html",
+      "description": "New perfume listing: Desert Bone by Pearfat Parfum.",
+      "category": "New Perfumes",
+      "author": "Pearfat Parfum",
+      "published": 1794948983
+    },
+    {
+      "title": "d.grayi — Sunflower v.1",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Sunflower-v-1-147976.html",
+      "description": "New perfume listing: Sunflower v.1 by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1794948983
+    },
+    {
+      "title": "Alchemy Bath — Astrea Aether",
+      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Astrea-Aether-147878.html",
+      "description": "New perfume listing: Astrea Aether by Alchemy Bath.",
+      "category": "New Perfumes",
+      "author": "Alchemy Bath",
+      "published": 1794948983
+    },
+    {
+      "title": "Junaid Jamshed — All-Rounder",
+      "link": "https://www.fragrantica.com/perfume/Junaid-Jamshed/All-Rounder-147872.html",
+      "description": "New perfume listing: All-Rounder by Junaid Jamshed.",
+      "category": "New Perfumes",
+      "author": "Junaid Jamshed",
+      "published": 1794948983
+    },
+    {
+      "title": "Royal Platinum — Mr Royal",
+      "link": "https://www.fragrantica.com/perfume/Royal-Platinum/Mr-Royal-147864.html",
+      "description": "New perfume listing: Mr Royal by Royal Platinum.",
+      "category": "New Perfumes",
+      "author": "Royal Platinum",
+      "published": 1794948983
+    },
     {
       "title": "Xyrena — Casper",
       "link": "https://www.fragrantica.com/perfume/Xyrena/Casper-147973.html",
@@ -1417,190 +1601,6 @@
       "category": "New Perfumes",
       "author": "Once",
       "published": 1794866593
-    },
-    {
-      "title": "Renée UAE — Phenomena",
-      "link": "https://www.fragrantica.com/perfume/Renee-UAE/Phenomena-147906.html",
-      "description": "New perfume listing: Phenomena by Renée UAE.",
-      "category": "New Perfumes",
-      "author": "Renée UAE",
-      "published": 1794866593
-    },
-    {
-      "title": "Renée UAE — Divine",
-      "link": "https://www.fragrantica.com/perfume/Renee-UAE/Divine-147905.html",
-      "description": "New perfume listing: Divine by Renée UAE.",
-      "category": "New Perfumes",
-      "author": "Renée UAE",
-      "published": 1794866593
-    },
-    {
-      "title": "Renée UAE — Delicate",
-      "link": "https://www.fragrantica.com/perfume/Renee-UAE/Delicate-147904.html",
-      "description": "New perfume listing: Delicate by Renée UAE.",
-      "category": "New Perfumes",
-      "author": "Renée UAE",
-      "published": 1794866593
-    },
-    {
-      "title": "Fischersund — KOT",
-      "link": "https://www.fragrantica.com/perfume/Fischersund/KOT-147902.html",
-      "description": "New perfume listing: KOT by Fischersund.",
-      "category": "New Perfumes",
-      "author": "Fischersund",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — Lost In The Italian Sea",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/Lost-In-The-Italian-Sea-147901.html",
-      "description": "New perfume listing: Lost In The Italian Sea by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — New Kind of Jungle",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/New-Kind-of-Jungle-147898.html",
-      "description": "New perfume listing: New Kind of Jungle by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — Neo-Barbershop",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/Neo-Barbershop-147897.html",
-      "description": "New perfume listing: Neo-Barbershop by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — Hugged in Cashmere",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/Hugged-in-Cashmere-147896.html",
-      "description": "New perfume listing: Hugged in Cashmere by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Varriale Profumi — Ibiza",
-      "link": "https://www.fragrantica.com/perfume/Varriale-Profumi/Ibiza-147895.html",
-      "description": "New perfume listing: Ibiza by Varriale Profumi.",
-      "category": "New Perfumes",
-      "author": "Varriale Profumi",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — Ain't Your Typical Candy",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/Ain-t-Your-Typical-Candy-147893.html",
-      "description": "New perfume listing: Ain't Your Typical Candy by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Scents of P.L.T.O — Not That Kind of Cherry",
-      "link": "https://www.fragrantica.com/perfume/Scents-of-P-L-T-O/Not-That-Kind-of-Cherry-147891.html",
-      "description": "New perfume listing: Not That Kind of Cherry by Scents of P.L.T.O.",
-      "category": "New Perfumes",
-      "author": "Scents of P.L.T.O",
-      "published": 1794866593
-    },
-    {
-      "title": "Marc Olivetti — Sicilian Essence Cologne",
-      "link": "https://www.fragrantica.com/perfume/Marc-Olivetti/Sicilian-Essence-Cologne-147882.html",
-      "description": "New perfume listing: Sicilian Essence Cologne by Marc Olivetti.",
-      "category": "New Perfumes",
-      "author": "Marc Olivetti",
-      "published": 1794866593
-    },
-    {
-      "title": "Alchemy Bath — Althaea’s Elixir",
-      "link": "https://www.fragrantica.com/perfume/Alchemy-Bath/Althaea-s-Elixir-147879.html",
-      "description": "New perfume listing: Althaea’s Elixir by Alchemy Bath.",
-      "category": "New Perfumes",
-      "author": "Alchemy Bath",
-      "published": 1794866593
-    },
-    {
-      "title": "Novellista — Spiced Blossom Elixir",
-      "link": "https://www.fragrantica.com/perfume/Novellista/Spiced-Blossom-Elixir-147877.html",
-      "description": "New perfume listing: Spiced Blossom Elixir by Novellista.",
-      "category": "New Perfumes",
-      "author": "Novellista",
-      "published": 1794810698
-    },
-    {
-      "title": "Novellista — Leather Privilege Elixir",
-      "link": "https://www.fragrantica.com/perfume/Novellista/Leather-Privilege-Elixir-147876.html",
-      "description": "New perfume listing: Leather Privilege Elixir by Novellista.",
-      "category": "New Perfumes",
-      "author": "Novellista",
-      "published": 1794810698
-    },
-    {
-      "title": "Novellista — Vanilla Club Elixir",
-      "link": "https://www.fragrantica.com/perfume/Novellista/Vanilla-Club-Elixir-147875.html",
-      "description": "New perfume listing: Vanilla Club Elixir by Novellista.",
-      "category": "New Perfumes",
-      "author": "Novellista",
-      "published": 1794810698
-    },
-    {
-      "title": "Novellista — Rouge Privé Elixir",
-      "link": "https://www.fragrantica.com/perfume/Novellista/Rouge-Prive-Elixir-147874.html",
-      "description": "New perfume listing: Rouge Privé Elixir by Novellista.",
-      "category": "New Perfumes",
-      "author": "Novellista",
-      "published": 1794810698
-    },
-    {
-      "title": "Novellista — Unique Wood Elixir",
-      "link": "https://www.fragrantica.com/perfume/Novellista/Unique-Wood-Elixir-147873.html",
-      "description": "New perfume listing: Unique Wood Elixir by Novellista.",
-      "category": "New Perfumes",
-      "author": "Novellista",
-      "published": 1794810698
-    },
-    {
-      "title": "Eze Perfumes — Coorg Noir",
-      "link": "https://www.fragrantica.com/perfume/Eze-Perfumes/Coorg-Noir-147871.html",
-      "description": "New perfume listing: Coorg Noir by Eze Perfumes.",
-      "category": "New Perfumes",
-      "author": "Eze Perfumes",
-      "published": 1794810698
-    },
-    {
-      "title": "Ulric de Varens — UDV Prestige 81",
-      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-81-147870.html",
-      "description": "New perfume listing: UDV Prestige 81 by Ulric de Varens.",
-      "category": "New Perfumes",
-      "author": "Ulric de Varens",
-      "published": 1794810698
-    },
-    {
-      "title": "Ulric de Varens — UDV Prestige 26",
-      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-26-147869.html",
-      "description": "New perfume listing: UDV Prestige 26 by Ulric de Varens.",
-      "category": "New Perfumes",
-      "author": "Ulric de Varens",
-      "published": 1794810698
-    },
-    {
-      "title": "Ulric de Varens — UDV Prestige 14",
-      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-14-147868.html",
-      "description": "New perfume listing: UDV Prestige 14 by Ulric de Varens.",
-      "category": "New Perfumes",
-      "author": "Ulric de Varens",
-      "published": 1794810698
-    },
-    {
-      "title": "Ulric de Varens — UDV Prestige 12",
-      "link": "https://www.fragrantica.com/perfume/Ulric-de-Varens/UDV-Prestige-12-147867.html",
-      "description": "New perfume listing: UDV Prestige 12 by Ulric de Varens.",
-      "category": "New Perfumes",
-      "author": "Ulric de Varens",
-      "published": 1794810698
     }
   ]
 }
