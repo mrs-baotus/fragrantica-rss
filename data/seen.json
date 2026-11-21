@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Recent Middle Eastern Releases - My Thoughts, Part 6",
+      "link": "https://www.fragrantica.com/news/Recent-Middle-Eastern-Releases-My-Thoughts-Part-6-26667.html",
+      "description": "Some very interesting new releases that made me intrigued enough to test them.",
+      "category": "Fragrance Reviews",
+      "author": "Dr Ruqayya Abba Tofa",
+      "published": 1795237683
+    },
+    {
+      "title": "Istituto dell’Odore: The First Artifacts",
+      "link": "https://www.fragrantica.com/news/Istituto-dell-Odore-The-First-Artifacts-26666.html",
+      "description": "Giulietta steps into the new space of Meo Fusciuni and Federica Castellani, and get swept away by memories.",
+      "category": "Fragrance Reviews",
+      "author": "Giulietta Ptoyan",
+      "published": 1795225923
+    },
+    {
+      "title": "Oriflame Is launching The Last two Fragrances From The Top Scents Collection",
+      "link": "https://www.fragrantica.com/news/Oriflame-Is-launching-The-Last-two-Fragrances-From-The-Top-Scents-Collection-26665.html",
+      "description": "The Top Scents niche fragrance collection is rounded out by its two latest creations: Prima Vanilla and Moon Mood.",
+      "category": "Fragrance News",
+      "author": "Iulia Halatz",
+      "published": 1795214764
+    },
+    {
+      "title": "Azerbaijani Saffron by Azsaffron: From Spice to Perfume",
+      "link": "https://www.fragrantica.com/news/Azerbaijani-Saffron-by-Azsaffron-From-Spice-to-Perfume-26664.html",
+      "description": "Saffron has been the Huseynov family’s business for six generations. Azsaffron’s debut collection comprises six fragrances, each exploring the scent of the spice in its own way.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1795206243
+    },
+    {
       "title": "Rivendare x 7scents – Star Of The Kimberley",
       "link": "https://www.fragrantica.com/news/Rivendare-x-7scents-Star-Of-The-Kimberley-26663.html",
       "description": "Nine bottles alone containing a very rare floral extract.",
@@ -767,41 +799,73 @@
       "category": "Video",
       "author": "Fragrance News",
       "published": 1794313864
-    },
-    {
-      "title": "Être Parfums Introduces Être Café Collection",
-      "link": "https://www.fragrantica.com/news/Etre-Parfums-Introduces-Etre-Cafe-Collection-26567.html",
-      "description": "Être Parfums brings out the aromas and rituals of coffee culture through its newest Être Café Collection.",
-      "category": "New Fragrances",
-      "author": "Yi Shang (怡 商)",
-      "published": 1794311823
-    },
-    {
-      "title": "Parfums BURDIN Overview",
-      "link": "https://www.fragrantica.com/news/Parfums-BURDIN-Overview-26566.html",
-      "description": "A wonderful house with pleasant prices.",
-      "category": "Fragrance Reviews",
-      "author": "Elena Knezevic",
-      "published": 1794296403
-    },
-    {
-      "title": "ScentXplore 2026: Don't Judge a Gourmand by its Category",
-      "link": "https://www.fragrantica.com/news/ScentXplore-2026-Don-t-Judge-a-Gourmand-by-its-Category-26565.html",
-      "description": "Adam, an unlikely gourmand-goer, feels a change coming after ScentXplore.",
-      "category": "Art Books Events",
-      "author": "Adam Forziati",
-      "published": 1794277802
-    },
-    {
-      "title": "Coconut As Darkening Agent",
-      "link": "https://www.fragrantica.com/news/Coconut-As-Darkening-Agent-Fusion-D-Issey-As-Bookmark-Of-A-Surprising-Industry-Convention-26564.html",
-      "description": "Fusion D’Issey as a bookmark of a surprising industry convention",
-      "category": "Fragrance Reviews",
-      "author": "Eddie Bulliqi",
-      "published": 1794267003
     }
   ],
   "perfumes": [
+    {
+      "title": "Arabiyat Prestige — Kohl Opulence Extrait",
+      "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Kohl-Opulence-Extrait-148312.html",
+      "description": "New perfume listing: Kohl Opulence Extrait by Arabiyat Prestige.",
+      "category": "New Perfumes",
+      "author": "Arabiyat Prestige",
+      "published": 1795244984
+    },
+    {
+      "title": "Arabiyat Prestige — La-Di-Da for Us",
+      "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/La-Di-Da-for-Us-148311.html",
+      "description": "New perfume listing: La-Di-Da for Us by Arabiyat Prestige.",
+      "category": "New Perfumes",
+      "author": "Arabiyat Prestige",
+      "published": 1795244984
+    },
+    {
+      "title": "Bujairami — Rich Oud",
+      "link": "https://www.fragrantica.com/perfume/Bujairami/Rich-Oud-148310.html",
+      "description": "New perfume listing: Rich Oud by Bujairami.",
+      "category": "New Perfumes",
+      "author": "Bujairami",
+      "published": 1795244984
+    },
+    {
+      "title": "Joia Parfums — À Meia-Noite Levarei tua Alma",
+      "link": "https://www.fragrantica.com/perfume/Joia-Parfums/A-Meia-Noite-Levarei-tua-Alma-148309.html",
+      "description": "New perfume listing: À Meia-Noite Levarei tua Alma by Joia Parfums.",
+      "category": "New Perfumes",
+      "author": "Joia Parfums",
+      "published": 1795244984
+    },
+    {
+      "title": "Câline — Eternal Dusk",
+      "link": "https://www.fragrantica.com/perfume/Caline/Eternal-Dusk-148308.html",
+      "description": "New perfume listing: Eternal Dusk by Câline.",
+      "category": "New Perfumes",
+      "author": "Câline",
+      "published": 1795244984
+    },
+    {
+      "title": "Jean & Len — Pink Muse",
+      "link": "https://www.fragrantica.com/perfume/Jean-Len/Pink-Muse-148306.html",
+      "description": "New perfume listing: Pink Muse by Jean & Len.",
+      "category": "New Perfumes",
+      "author": "Jean & Len",
+      "published": 1795244984
+    },
+    {
+      "title": "Jean & Len — Sparkling Cashmere",
+      "link": "https://www.fragrantica.com/perfume/Jean-Len/Sparkling-Cashmere-148305.html",
+      "description": "New perfume listing: Sparkling Cashmere by Jean & Len.",
+      "category": "New Perfumes",
+      "author": "Jean & Len",
+      "published": 1795244984
+    },
+    {
+      "title": "Elie Tahari — French Kiss",
+      "link": "https://www.fragrantica.com/perfume/Elie-Tahari/French-Kiss-148307.html",
+      "description": "New perfume listing: French Kiss by Elie Tahari.",
+      "category": "New Perfumes",
+      "author": "Elie Tahari",
+      "published": 1795244984
+    },
     {
       "title": "Charisma Helsinki — Dark Coco",
       "link": "https://www.fragrantica.com/perfume/Charisma-Helsinki/Dark-Coco-148304.html",
@@ -1536,70 +1600,6 @@
       "description": "New perfume listing: Duty by INTRINSYA.",
       "category": "New Perfumes",
       "author": "INTRINSYA",
-      "published": 1795159053
-    },
-    {
-      "title": "Acqua di Portofino — Eclisse",
-      "link": "https://www.fragrantica.com/perfume/Acqua-di-Portofino/Eclisse-148193.html",
-      "description": "New perfume listing: Eclisse by Acqua di Portofino.",
-      "category": "New Perfumes",
-      "author": "Acqua di Portofino",
-      "published": 1795159053
-    },
-    {
-      "title": "Acqua di Portofino — Anima",
-      "link": "https://www.fragrantica.com/perfume/Acqua-di-Portofino/Anima-148192.html",
-      "description": "New perfume listing: Anima by Acqua di Portofino.",
-      "category": "New Perfumes",
-      "author": "Acqua di Portofino",
-      "published": 1795159053
-    },
-    {
-      "title": "Mahdi Perfumes — Bourbon Noire X",
-      "link": "https://www.fragrantica.com/perfume/Mahdi-Perfumes/Bourbon-Noire-X-148186.html",
-      "description": "New perfume listing: Bourbon Noire X by Mahdi Perfumes.",
-      "category": "New Perfumes",
-      "author": "Mahdi Perfumes",
-      "published": 1795159053
-    },
-    {
-      "title": "Mahdi Perfumes — Mousse Royale",
-      "link": "https://www.fragrantica.com/perfume/Mahdi-Perfumes/Mousse-Royale-148185.html",
-      "description": "New perfume listing: Mousse Royale by Mahdi Perfumes.",
-      "category": "New Perfumes",
-      "author": "Mahdi Perfumes",
-      "published": 1795159053
-    },
-    {
-      "title": "Mahdi Perfumes — Tonka Royale",
-      "link": "https://www.fragrantica.com/perfume/Mahdi-Perfumes/Tonka-Royale-148184.html",
-      "description": "New perfume listing: Tonka Royale by Mahdi Perfumes.",
-      "category": "New Perfumes",
-      "author": "Mahdi Perfumes",
-      "published": 1795159053
-    },
-    {
-      "title": "Mr & Mrs B. — Mrs B.",
-      "link": "https://www.fragrantica.com/perfume/Mr-Mrs-B/Mrs-B-148199.html",
-      "description": "New perfume listing: Mrs B. by Mr & Mrs B..",
-      "category": "New Perfumes",
-      "author": "Mr & Mrs B.",
-      "published": 1795159053
-    },
-    {
-      "title": "Yodeyma — Very Special",
-      "link": "https://www.fragrantica.com/perfume/Yodeyma/Very-Special-148198.html",
-      "description": "New perfume listing: Very Special by Yodeyma.",
-      "category": "New Perfumes",
-      "author": "Yodeyma",
-      "published": 1795159053
-    },
-    {
-      "title": "Kaiser Perfumes — Esenia",
-      "link": "https://www.fragrantica.com/perfume/Kaiser-Perfumes/Esenia-148191.html",
-      "description": "New perfume listing: Esenia by Kaiser Perfumes.",
-      "category": "New Perfumes",
-      "author": "Kaiser Perfumes",
       "published": 1795159053
     }
   ]
