@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "title": "Auguste Michel – A Legend of Soviet Perfumery. Part 14. Life and Legacy",
+      "link": "https://www.fragrantica.com/news/Auguste-Michel-A-Legend-of-Soviet-Perfumery-Part-14-Life-and-Legacy-26672.html",
+      "description": "The final installment in Viktoria Vlasova’s extensive investigation into the first Soviet perfumer, Auguste Michel, a figure of the caliber of François Coty for Soviet perfumery.",
+      "category": "Vintage Fragrances",
+      "author": "Viktoria Vlasova",
+      "published": 1795282407
+    },
+    {
+      "title": "ScentXplore 2026 Trends: Woods and Evergreens from Vertus, Habibi, and Burdin",
+      "link": "https://www.fragrantica.com/news/ScentXplore-2026-Trends-Woods-and-Evergreens-from-Vertus-Habibi-and-Burdin-26671.html",
+      "description": "A trend emerged for new perfumes at ScentXplore - a return to the verdant woods and the evergreens of years past.",
+      "category": "Art Books Events",
+      "author": "John Biebel",
+      "published": 1795279143
+    },
+    {
+      "title": "Cherry Prosecco by New Notes: Fresh Cherry with a Few Surprises",
+      "link": "https://www.fragrantica.com/news/Cherry-Prosecco-by-New-Notes-Fresh-Cherry-with-a-Few-Surprises-26670.html",
+      "description": "Tart juice, tingling bubbles…",
+      "category": "Fragrance Reviews",
+      "author": "Elena Prokofeva",
+      "published": 1795263303
+    },
+    {
+      "title": "With Pour Un Homme Renaissance, Caron Revisits Its Icon With a Contemporary Touch",
+      "link": "https://www.fragrantica.com/news/With-Pour-Un-Homme-Renaissance-Caron-Revisits-Its-Icon-With-a-Contemporary-Touch-26669.html",
+      "description": "Caron expands the Pour Un Homme line with a new reinterpretation: Renaissance.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1795261023
+    },
+    {
+      "title": "The New Hermessence Ginseng Biloba Is Nagel’s Legacy Scent",
+      "link": "https://www.fragrantica.com/news/The-New-Hermessence-Ginseng-Biloba-Is-Nagel-s-Legacy-Scent-26668.html",
+      "description": "Green, spicy, tight-knit, and joyous.",
+      "category": "Fragrance Reviews",
+      "author": "Eddie Bulliqi",
+      "published": 1795249983
+    },
+    {
       "title": "Recent Middle Eastern Releases - My Thoughts, Part 6",
       "link": "https://www.fragrantica.com/news/Recent-Middle-Eastern-Releases-My-Thoughts-Part-6-26667.html",
       "description": "Some very interesting new releases that made me intrigued enough to test them.",
@@ -759,49 +799,89 @@
       "category": "Video",
       "author": "Fragrance News",
       "published": 1794337165
-    },
-    {
-      "title": "The Flower Industry in The USSR, 1936",
-      "link": "https://www.fragrantica.com/news/The-Flower-Industry-in-The-USSR-1936-26572.html",
-      "description": "A scan of an essay on the production of perfume materials in the USSR from a 1936 issue of the \"Ogonyok\" magazine.",
-      "category": "Vintage Fragrances",
-      "author": "Viktoria Vlasova",
-      "published": 1794335313
-    },
-    {
-      "title": "Parfums de Marly Presents Crécy Extrait de Parfum",
-      "link": "https://www.fragrantica.com/news/Parfums-de-Marly-Presents-Crecy-Extrait-de-Parfum-26571.html",
-      "description": "“An olfactory signature that interprets a new idea of masculine elegance, in which confidence and sensitivity coexist in perfect harmony,” reveals the press release",
-      "category": "Fragrance News",
-      "author": "Giulietta Ptoyan",
-      "published": 1794333604
-    },
-    {
-      "title": "Jupilo Roma Milky Oud",
-      "link": "https://www.fragrantica.com/news/Jupilo-Roma-Milky-Oud-26570.html",
-      "description": "A new take on the milky trend by Jordi Fernandez",
-      "category": "Niche Perfumery",
-      "author": "Sandra Raičević Petrović",
-      "published": 1794328203
-    },
-    {
-      "title": "Future Society Snow Beginnings",
-      "link": "https://www.fragrantica.com/news/Future-Society-Snow-Beginnings-26569.html",
-      "description": "Future Society introduces Snow Beginnings, a new fragrance inspired by the hidden life of winter.",
-      "category": "New Fragrances",
-      "author": "Sanja Pekić",
-      "published": 1794323402
-    },
-    {
-      "title": "CHANEL Holiday 2026: From Alpine Inspiration to Exclusive Fragrance Editions",
-      "link": "https://www.fragrantica.com/news/CHANEL-Holiday-2026-From-Alpine-Inspiration-to-Exclusive-Fragrance-Editions-26568.html",
-      "description": "Fronted by Margaret Qualley, the collection combines snowy whites, luminous gold accents, and warm seasonal shades, with special packaging designed for the occasion.",
-      "category": "Video",
-      "author": "Fragrance News",
-      "published": 1794313864
     }
   ],
   "perfumes": [
+    {
+      "title": "The Dua Brand — Sacred Vanilla",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Sacred-Vanilla-148322.html",
+      "description": "New perfume listing: Sacred Vanilla by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Enchanted Frosted Cake",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Enchanted-Frosted-Cake-148321.html",
+      "description": "New perfume listing: Enchanted Frosted Cake by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Scarlet Rider: Private Red",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Scarlet-Rider-Private-Red-148320.html",
+      "description": "New perfume listing: Scarlet Rider: Private Red by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Lychee Petal Charm",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Lychee-Petal-Charm-148319.html",
+      "description": "New perfume listing: Lychee Petal Charm by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Treasure Femme Rouge Drama",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Treasure-Femme-Rouge-Drama-148318.html",
+      "description": "New perfume listing: Treasure Femme Rouge Drama by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Pineapple Mojito 2.0",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Pineapple-Mojito-2-0-148317.html",
+      "description": "New perfume listing: Pineapple Mojito 2.0 by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Tropical Haze",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Tropical-Haze-148316.html",
+      "description": "New perfume listing: Tropical Haze by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "The Dua Brand — Petals On Linen",
+      "link": "https://www.fragrantica.com/perfume/The-Dua-Brand/Petals-On-Linen-148315.html",
+      "description": "New perfume listing: Petals On Linen by The Dua Brand.",
+      "category": "New Perfumes",
+      "author": "The Dua Brand",
+      "published": 1795288627
+    },
+    {
+      "title": "Sete Versos — Raiar",
+      "link": "https://www.fragrantica.com/perfume/Sete-Versos/Raiar-148314.html",
+      "description": "New perfume listing: Raiar by Sete Versos.",
+      "category": "New Perfumes",
+      "author": "Sete Versos",
+      "published": 1795288627
+    },
+    {
+      "title": "Cellée — Angelita",
+      "link": "https://www.fragrantica.com/perfume/Cellee/Angelita-148313.html",
+      "description": "New perfume listing: Angelita by Cellée.",
+      "category": "New Perfumes",
+      "author": "Cellée",
+      "published": 1795288627
+    },
     {
       "title": "Arabiyat Prestige — Kohl Opulence Extrait",
       "link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Kohl-Opulence-Extrait-148312.html",
@@ -1520,86 +1600,6 @@
       "description": "New perfume listing: My Essence by KaBEAUTY.",
       "category": "New Perfumes",
       "author": "KaBEAUTY",
-      "published": 1795159053
-    },
-    {
-      "title": "Bath & Body Works — Home Sweet Gingerbread",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Home-Sweet-Gingerbread-148205.html",
-      "description": "New perfume listing: Home Sweet Gingerbread by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1795159053
-    },
-    {
-      "title": "Bath & Body Works — Pink Fairy Gumdrop",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Pink-Fairy-Gumdrop-148204.html",
-      "description": "New perfume listing: Pink Fairy Gumdrop by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1795159053
-    },
-    {
-      "title": "Bath & Body Works — Vanilla Snowcap",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Vanilla-Snowcap-148203.html",
-      "description": "New perfume listing: Vanilla Snowcap by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1795159053
-    },
-    {
-      "title": "Bath & Body Works — Vanilla Cocoa Flurries",
-      "link": "https://www.fragrantica.com/perfume/Bath-Body-Works/Vanilla-Cocoa-Flurries-148202.html",
-      "description": "New perfume listing: Vanilla Cocoa Flurries by Bath & Body Works.",
-      "category": "New Perfumes",
-      "author": "Bath & Body Works",
-      "published": 1795159053
-    },
-    {
-      "title": "Victoria's Secret — Bare Vanilla Whipped",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bare-Vanilla-Whipped-148201.html",
-      "description": "New perfume listing: Bare Vanilla Whipped by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1795159053
-    },
-    {
-      "title": "Mr & Mrs B. — Mr B.",
-      "link": "https://www.fragrantica.com/perfume/Mr-Mrs-B/Mr-B-148200.html",
-      "description": "New perfume listing: Mr B. by Mr & Mrs B..",
-      "category": "New Perfumes",
-      "author": "Mr & Mrs B.",
-      "published": 1795159053
-    },
-    {
-      "title": "Veigel Perfumes — Forgotten Coast",
-      "link": "https://www.fragrantica.com/perfume/Veigel-Perfumes/Forgotten-Coast-148197.html",
-      "description": "New perfume listing: Forgotten Coast by Veigel Perfumes.",
-      "category": "New Perfumes",
-      "author": "Veigel Perfumes",
-      "published": 1795159053
-    },
-    {
-      "title": "INTRINSYA — Harmony",
-      "link": "https://www.fragrantica.com/perfume/INTRINSYA/Harmony-148196.html",
-      "description": "New perfume listing: Harmony by INTRINSYA.",
-      "category": "New Perfumes",
-      "author": "INTRINSYA",
-      "published": 1795159053
-    },
-    {
-      "title": "INTRINSYA — Liberty",
-      "link": "https://www.fragrantica.com/perfume/INTRINSYA/Liberty-148195.html",
-      "description": "New perfume listing: Liberty by INTRINSYA.",
-      "category": "New Perfumes",
-      "author": "INTRINSYA",
-      "published": 1795159053
-    },
-    {
-      "title": "INTRINSYA — Duty",
-      "link": "https://www.fragrantica.com/perfume/INTRINSYA/Duty-148194.html",
-      "description": "New perfume listing: Duty by INTRINSYA.",
-      "category": "New Perfumes",
-      "author": "INTRINSYA",
       "published": 1795159053
     }
   ]
