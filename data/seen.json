@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "title": "London From the Prorsum Collection: An English Tea Time, Burberry Style",
+      "link": "https://www.fragrantica.com/news/London-From-the-Prorsum-Collection-An-English-Tea-Time-Burberry-Style-26699.html",
+      "description": "A closer look at one of the seven chapters in Burberry's Prorsum collection: London.",
+      "category": "Fragrance Reviews",
+      "author": "Sophie Normand",
+      "published": 1795583163
+    },
+    {
+      "title": "From Modrić to Morillas, or The Secret Behind the Popularity of Onyx and Opal by Al-Jazeera Perfumes",
+      "link": "https://www.fragrantica.com/news/From-Modric-to-Morillas-or-The-Secret-Behind-the-Popularity-of-Onyx-and-Opal-by-Al-Jazeera-Perfumes-26698.html",
+      "description": "The story of two footballers, two perfumers, and two unexpected bestsellers from a Qatari fragrance house.",
+      "category": "Fragrance Reviews",
+      "author": "Igor Masyukov",
+      "published": 1795572003
+    },
+    {
+      "title": "Frankincense Ice Cream: An Unusual Collaboration Between Amouage and Fursaad",
+      "link": "https://www.fragrantica.com/news/Frankincense-Ice-Cream-An-Unusual-Collaboration-Between-Amouage-and-Fursaad-26697.html",
+      "description": "Frankincense, rose, and pistachios — this time, not fragrance notes, but the ingredients of an unusual dessert from Amouage and Fursaad.",
+      "category": "Fragrance News",
+      "author": "Igor Masyukov",
+      "published": 1795561204
+    },
+    {
       "title": "The New Santa Maria Novella Angeli di Firenze EdP: Angelic Peach Mocktail",
       "link": "https://www.fragrantica.com/news/The-New-Santa-Maria-Novella-Angeli-di-Firenze-EdP-Angelic-Peach-Mocktail-26696.html",
       "description": "Sweet and succulent",
@@ -775,33 +799,161 @@
       "category": "New Fragrances",
       "author": "Sanja Pekić",
       "published": 1794585362
-    },
-    {
-      "title": "Ettore Vico: Stylish in the Italian Way",
-      "link": "https://www.fragrantica.com/news/Ettore-Vico-Stylish-in-the-Italian-Way-26599.html",
-      "description": "New Italian brand Ettore Vico reveals what Italian design smells like.",
-      "category": "New Fragrances",
-      "author": "Alena Lavault",
-      "published": 1794574503
-    },
-    {
-      "title": "PEPE JEANS LONDON Bright So Lucky and SoBold So Lucky",
-      "link": "https://www.fragrantica.com/news/PEPE-JEANS-LONDON-Bright-So-Lucky-and-SoBold-So-Lucky-26598.html",
-      "description": "Risk it all. Roll the dice. Change the game.",
-      "category": "Video",
-      "author": "New Fragrances",
-      "published": 1794561903
-    },
-    {
-      "title": "Street Origins Presents the Escape Collection",
-      "link": "https://www.fragrantica.com/news/Street-Origins-Presents-the-Escape-Collection-26597.html",
-      "description": "Three fragrances inspired by Tokyo, Seoul, and Rio.",
-      "category": "New Fragrances",
-      "author": "Markéta Rybínová",
-      "published": 1794551823
     }
   ],
   "perfumes": [
+    {
+      "title": "Salon Line — Xêrosa Aura Dourada",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Aura-Dourada-148716.html",
+      "description": "New perfume listing: Xêrosa Aura Dourada by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Salon Line — Xêrosa Estrela Cósmica",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Estrela-Cosmica-148715.html",
+      "description": "New perfume listing: Xêrosa Estrela Cósmica by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Salon Line — Xêrosa Vanilla Secreta",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Vanilla-Secreta-148714.html",
+      "description": "New perfume listing: Xêrosa Vanilla Secreta by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Salon Line — Xêrosa Meu Destino",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Meu-Destino-148713.html",
+      "description": "New perfume listing: Xêrosa Meu Destino by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Salon Line — Xêrosa Quartzo Rosa",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Quartzo-Rosa-148712.html",
+      "description": "New perfume listing: Xêrosa Quartzo Rosa by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Salon Line — Xêrosa Paradoxo Floral",
+      "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Paradoxo-Floral-148711.html",
+      "description": "New perfume listing: Xêrosa Paradoxo Floral by Salon Line.",
+      "category": "New Perfumes",
+      "author": "Salon Line",
+      "published": 1795595789
+    },
+    {
+      "title": "Calms — Obscure",
+      "link": "https://www.fragrantica.com/perfume/Calms/Obscure-148710.html",
+      "description": "New perfume listing: Obscure by Calms.",
+      "category": "New Perfumes",
+      "author": "Calms",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Decent for Women",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Decent-for-Women-148572.html",
+      "description": "New perfume listing: Decent for Women by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Decent for Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Decent-for-Men-148571.html",
+      "description": "New perfume listing: Decent for Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "d.grayi — Kefalis",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Kefalis-148567.html",
+      "description": "New perfume listing: Kefalis by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1795595789
+    },
+    {
+      "title": "Pearfat Parfum — Road Trip",
+      "link": "https://www.fragrantica.com/perfume/Pearfat-Parfum/Road-Trip-148564.html",
+      "description": "New perfume listing: Road Trip by Pearfat Parfum.",
+      "category": "New Perfumes",
+      "author": "Pearfat Parfum",
+      "published": 1795595789
+    },
+    {
+      "title": "d.grayi — Black",
+      "link": "https://www.fragrantica.com/perfume/d-grayi/Black-148563.html",
+      "description": "New perfume listing: Black by d.grayi.",
+      "category": "New Perfumes",
+      "author": "d.grayi",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Indecent for Women",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Indecent-for-Women-148558.html",
+      "description": "New perfume listing: Indecent for Women by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Indecent for Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Indecent-for-Men-148557.html",
+      "description": "New perfume listing: Indecent for Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Nighttime for Women",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Nighttime-for-Women-148556.html",
+      "description": "New perfume listing: Nighttime for Women by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Nighttime for Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Nighttime-for-Men-148549.html",
+      "description": "New perfume listing: Nighttime for Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Blue for Women",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Blue-for-Women-148537.html",
+      "description": "New perfume listing: Blue for Women by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Eternal Love — Blue for Men",
+      "link": "https://www.fragrantica.com/perfume/Eternal-Love/Blue-for-Men-148530.html",
+      "description": "New perfume listing: Blue for Men by Eternal Love.",
+      "category": "New Perfumes",
+      "author": "Eternal Love",
+      "published": 1795595789
+    },
+    {
+      "title": "Volaré — Manifest Ink",
+      "link": "https://www.fragrantica.com/perfume/Volare/Manifest-Ink-148516.html",
+      "description": "New perfume listing: Manifest Ink by Volaré.",
+      "category": "New Perfumes",
+      "author": "Volaré",
+      "published": 1795595789
+    },
     {
       "title": "Salon Line — Xêrosa Lady Rouge",
       "link": "https://www.fragrantica.com/perfume/Salon-Line/Xerosa-Lady-Rouge-148709.html",
@@ -1449,158 +1601,6 @@
       "category": "New Perfumes",
       "author": "Maison Chanceux",
       "published": 1795514124
-    },
-    {
-      "title": "Maison Chanceux — Cabana Summer",
-      "link": "https://www.fragrantica.com/perfume/Maison-Chanceux/Cabana-Summer-148607.html",
-      "description": "New perfume listing: Cabana Summer by Maison Chanceux.",
-      "category": "New Perfumes",
-      "author": "Maison Chanceux",
-      "published": 1795514124
-    },
-    {
-      "title": "Maison Chanceux — Fruit of Gold",
-      "link": "https://www.fragrantica.com/perfume/Maison-Chanceux/Fruit-of-Gold-148606.html",
-      "description": "New perfume listing: Fruit of Gold by Maison Chanceux.",
-      "category": "New Perfumes",
-      "author": "Maison Chanceux",
-      "published": 1795514124
-    },
-    {
-      "title": "Roelen — Aqua Ultra",
-      "link": "https://www.fragrantica.com/perfume/Roelen/Aqua-Ultra-148605.html",
-      "description": "New perfume listing: Aqua Ultra by Roelen.",
-      "category": "New Perfumes",
-      "author": "Roelen",
-      "published": 1795514124
-    },
-    {
-      "title": "Maison Chanceux — First Class",
-      "link": "https://www.fragrantica.com/perfume/Maison-Chanceux/First-Class-148604.html",
-      "description": "New perfume listing: First Class by Maison Chanceux.",
-      "category": "New Perfumes",
-      "author": "Maison Chanceux",
-      "published": 1795514124
-    },
-    {
-      "title": "Parikart — Égérie",
-      "link": "https://www.fragrantica.com/perfume/Parikart/Egerie-148639.html",
-      "description": "New perfume listing: Égérie by Parikart.",
-      "category": "New Perfumes",
-      "author": "Parikart",
-      "published": 1795514124
-    },
-    {
-      "title": "Nuancielo — Mondé Parallèle",
-      "link": "https://www.fragrantica.com/perfume/Nuancielo/Monde-Parallele-148588.html",
-      "description": "New perfume listing: Mondé Parallèle by Nuancielo.",
-      "category": "New Perfumes",
-      "author": "Nuancielo",
-      "published": 1795514124
-    },
-    {
-      "title": "Nuancielo — Alpha Blanche",
-      "link": "https://www.fragrantica.com/perfume/Nuancielo/Alpha-Blanche-148587.html",
-      "description": "New perfume listing: Alpha Blanche by Nuancielo.",
-      "category": "New Perfumes",
-      "author": "Nuancielo",
-      "published": 1795514124
-    },
-    {
-      "title": "Basmni Perfumes — Modern Honor",
-      "link": "https://www.fragrantica.com/perfume/Basmni-Perfumes/Modern-Honor-148575.html",
-      "description": "New perfume listing: Modern Honor by Basmni Perfumes.",
-      "category": "New Perfumes",
-      "author": "Basmni Perfumes",
-      "published": 1795478074
-    },
-    {
-      "title": "Basmni Perfumes — Ivory Kiss",
-      "link": "https://www.fragrantica.com/perfume/Basmni-Perfumes/Ivory-Kiss-148574.html",
-      "description": "New perfume listing: Ivory Kiss by Basmni Perfumes.",
-      "category": "New Perfumes",
-      "author": "Basmni Perfumes",
-      "published": 1795478074
-    },
-    {
-      "title": "Basmni Perfumes — Floral Pears",
-      "link": "https://www.fragrantica.com/perfume/Basmni-Perfumes/Floral-Pears-148573.html",
-      "description": "New perfume listing: Floral Pears by Basmni Perfumes.",
-      "category": "New Perfumes",
-      "author": "Basmni Perfumes",
-      "published": 1795478074
-    },
-    {
-      "title": "Shaka Hawai’i — Lei Stand No.14",
-      "link": "https://www.fragrantica.com/perfume/Shaka-Hawai-i/Lei-Stand-No-14-148570.html",
-      "description": "New perfume listing: Lei Stand No.14 by Shaka Hawai’i.",
-      "category": "New Perfumes",
-      "author": "Shaka Hawai’i",
-      "published": 1795478074
-    },
-    {
-      "title": "Shaka Hawai’i — Kaimana",
-      "link": "https://www.fragrantica.com/perfume/Shaka-Hawai-i/Kaimana-148569.html",
-      "description": "New perfume listing: Kaimana by Shaka Hawai’i.",
-      "category": "New Perfumes",
-      "author": "Shaka Hawai’i",
-      "published": 1795478074
-    },
-    {
-      "title": "Thera Cosméticos — Amórgos Exclusive",
-      "link": "https://www.fragrantica.com/perfume/Thera-Cosmeticos/Amorgos-Exclusive-148568.html",
-      "description": "New perfume listing: Amórgos Exclusive by Thera Cosméticos.",
-      "category": "New Perfumes",
-      "author": "Thera Cosméticos",
-      "published": 1795478074
-    },
-    {
-      "title": "Thera Cosméticos — Amórgos Absolu",
-      "link": "https://www.fragrantica.com/perfume/Thera-Cosmeticos/Amorgos-Absolu-148566.html",
-      "description": "New perfume listing: Amórgos Absolu by Thera Cosméticos.",
-      "category": "New Perfumes",
-      "author": "Thera Cosméticos",
-      "published": 1795478074
-    },
-    {
-      "title": "d.grayi — NYC",
-      "link": "https://www.fragrantica.com/perfume/d-grayi/NYC-148565.html",
-      "description": "New perfume listing: NYC by d.grayi.",
-      "category": "New Perfumes",
-      "author": "d.grayi",
-      "published": 1795478074
-    },
-    {
-      "title": "Thera Cosméticos — Thone",
-      "link": "https://www.fragrantica.com/perfume/Thera-Cosmeticos/Thone-148562.html",
-      "description": "New perfume listing: Thone by Thera Cosméticos.",
-      "category": "New Perfumes",
-      "author": "Thera Cosméticos",
-      "published": 1795478074
-    },
-    {
-      "title": "Nuancielo — Real King Cologne",
-      "link": "https://www.fragrantica.com/perfume/Nuancielo/Real-King-Cologne-148561.html",
-      "description": "New perfume listing: Real King Cologne by Nuancielo.",
-      "category": "New Perfumes",
-      "author": "Nuancielo",
-      "published": 1795478074
-    },
-    {
-      "title": "Nuancielo — Pharazon",
-      "link": "https://www.fragrantica.com/perfume/Nuancielo/Pharazon-148560.html",
-      "description": "New perfume listing: Pharazon by Nuancielo.",
-      "category": "New Perfumes",
-      "author": "Nuancielo",
-      "published": 1795478074
-    },
-    {
-      "title": "Victoria's Secret — That Apple",
-      "link": "https://www.fragrantica.com/perfume/Victoria-s-Secret/That-Apple-148559.html",
-      "description": "New perfume listing: That Apple by Victoria's Secret.",
-      "category": "New Perfumes",
-      "author": "Victoria's Secret",
-      "published": 1795478074
     }
   ]
 }
